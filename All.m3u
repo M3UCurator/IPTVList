@@ -171,6 +171,8 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 group-title="Kids", Cartoon Network
 https://t.freetv.fun/live/cartoon-network.m3u8
+#EXTINF:-1 group-title="Kids",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Kids", Disney Channel 
 http://89.105.221.127/Disney/index.m3u8?token=test
 #EXTINF:-1 group-title="Kids", Cartoon Network
