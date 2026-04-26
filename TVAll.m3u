@@ -36,7 +36,6 @@ https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="South Africa", 1KZN_TV_
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 
-
 #EXTINF:-1 group-title="South Africa", Motsweding FM
 https://25633.live.streamtheworld.com/MOTSWEDINGAAC_SC
 
@@ -73,9 +72,6 @@ https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Sportscast Africa
 https://sabcpluscdn.sportscastafrica.com/sca/smil:sca.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Religion",TBN Vetu
-https://sabconetatbn.cdn.mangomolo.com/tbn/smil:tbn.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Mpuma Kapa TV
 https://sabcmpumata.cdn.mangomolo.com/mpk/smil:mpk.stream.smil/chunklist.m3u8
@@ -137,198 +133,264 @@ https://senth3ta.cdn.mangomolo.com/mk/smil:mktv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Phuthuloha TV
 https://senth3ta.cdn.mangomolo.com/pht/smil:pht.stream.smil/chunklist.m3u8
 
-# News
+--- England ---
+#EXTINF:-1 group-title="England", BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",CCTV4
-https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
+#EXTINF:-1 group-title="England", Sky News
+https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",Revry News (US)
-https://linear-44.frequency.stream/dist/galxy/44/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="England", Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
-#EXTINF:-1 tvg-id="ABC NEWS.au" group-title="News",ABC NEWS (AU)
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+#EXTINF:-1 group-title="England", BBC 1
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c_output_0.m3u8
 
-#EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="News",ABC News Live
-https://livetv-fa.tubi.video/abc-news/index.m3u8
+#EXTINF:-1 group-title="England", BBC 2
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
-#EXTINF:-1 tvg-id="France.24.English.us" group-title="News",France 24
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 group-title="England", BBC 3
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+ 
+#EXTINF:-1 group-title="England", BBC 4
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="Russia Today.za" group-title="News",Russia Today
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="England", ITV 2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="News",FOX 5 New York NY (WNYW)
-https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
+#EXTINF:-1 group-title="England", ITV 2
+http://185.19.191.2:8090/ITV2/index.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",ABC (WMAR-TV) Baltimore, MD
-https://s4host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config5/playlist.m3u8?ads.cdnhost=s4host3.localnow.api.cms.amdvids.com&ads.playbackid=38D51640-B41E-4FC2-A69C-6C18C1FFEF65&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=38D51640-B41E-4FC2-A69C-6C18C1FFEF65&ads.n4=content_name&ads.v4=EPG%20%7C%20WMAR%20%28ABC%29%20News%202%20Baltimore%2C%20MD&ads.n21=device_type&ads.v21=&ads.n22=content_livestream&ads.v22=1&ads.n23=network_name&ads.v23=wmar&ads.n24=content_custom_2_param&ads.v24=AMDB012591&ads.n25=content_type&ads.v25=channel&ads.n26=h&ads.v26=1080&ads.n27=app_bundle&ads.v27=&ads.n28=channel_language&ads.v28=en&ads.n29=ua&ads.v29=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n30=channel_brand_id&ads.v30=AMDB012591&ads.n31=url&ads.v31=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n32=content_custom_1_param&ads.v32=38D51640-B41E-4FC2-A69C-6C18C1FFEF65&ads.n33=device_model&ads.v33=&ads.n34=channel_name&ads.v34=EPG%20%20WMAR%20%28ABC%29%20News%202%20Baltimore%2C%20MD&ads.n35=content_provider&ads.v35=wmar&ads.n36=device_make&ads.v36=&ads.n37=app_name&ads.v37=&ads.n38=dnt&ads.v38=&ads.n39=app_store_url&ads.v39=&ads.n40=gpp_sid&ads.v40=&ads.n41=content_custom_3_param&ads.v41=channel&ads.n42=pos&ads.v42=midroll&ads.n43=w&ads.v43=1920&ads.n44=channel_company_id&ads.v44=AMDP500135&ads.n45=app_version&ads.v45=0.0.0&ads.n46=channel_title&ads.v46=EPG%20%20WMAR%20%28ABC%29%20News%202%20Baltimore%2C%20MD&ads.n47=gpp&ads.v47=&ads.n48=did&ads.v48=&ads.n49=ifa_type&ads.v49=&ads.n50=channel_id&ads.v50=38D51640-B41E-4FC2-A69C-6C18C1FFEF65&ads.n51=content_producer_name&ads.v51=Scripps%20Media%20INC&ads.n52=us_privacy&ads.v52=1YNY&ads.n53=channel_rating&ads.v53=TV-PG&ads.n54=ip&ads.v54=195.179.200.80&ads.n55=channel_genre&ads.v55=News&ads.n56=channel_ext_id&ads.v56=621ff3b4a1918154f12bd5ef&ads.n57=channel_corp&ads.v57=Scripps%20Media%20INC&ads.n58=cust_devicename&ads.v58=desktop_web
+#EXTINF:-1 group-title="England", ITV 3
+http://81.137.213.119:4201/bysid/8294
 
-#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://i.ibb.co/kQqHMxH/bbcnews.png" group-title="News",BBC News
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="England", ITV 3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 
-#EXTINF:-1 channel-id="pluto-5a6b92f6e22a617379789618" tvg-id="5a6b92f6e22a617379789618" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" tvg-chno="2530" group-title="News" , CBS News 24/7
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36903a12-54e9-4279-a247-c026f64396a8
+#EXTINF:-1 group-title="England", ITV 4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
-#EXTINF:-1 tvg-id="RTV Noord.nl" tvg-logo="https://i.imgur.com/5vqYgYr.png" group-title="News",RTV Dordrecht
-https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+#EXTINF:-1 group-title="England", Huna London
+https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",Africanews
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
+#EXTINF:-1 group-title="Britbox Mystries", Huna London
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",Al Jazeera
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-2/Source-EUTVqvs-10000-1-sknn1p-BP-HD-7-W79w3hV3uBIo_live.m3u8
+#EXTINF:-1 group-title="England", FIFA+
+https://jmp2.uk/stvp-IN270000230
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",ABC News (CAfrica)
-https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
+#EXTINF:-1 group-title="England", FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="England", FIFA+
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GB.News.HD.uk" group-title="News",GB News 1
-https://live-gbnews.simplestreamcdn.com/s3/gbnews/index_2.m3u8
+--- North America ---
+#EXTINF:-1 group-title="North America", USA Network
+http://origin.thetvapp.to/hls/USANetworkEast/index.m3u8?wowzasessionid=@iprtlk
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",NHK World Japan
-https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="North America", CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="Citytv Edmonton HDTV.ca" group-title="News",CityNews Edmonton
-https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8
+#EXTINF:-1 group-title="North America", BEIN Extra
+https://t.freetv.fun/live/bein-sports-xtra.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="News",Global News BC
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf063257170000724590c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dbc1416e-8c70-4097-a89c-835beacc1b11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC
+http://4.59.210.197:8815/udp/127.0.0.1:6009
 
-#EXTINF:-1 tvg-id="cbn.news.us" group-title="News",CBN News
-https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/chunklist__1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="wnyt.us" group-title="News",WNYT 13 (NBC) Albany NY
-https://s8host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/v1/fast/wnytlocalnow2/8512fb22-7d10-4d7f-975a-bc59fc07fd7a.m3u8?ads.cdnhost=s8host3.localnow.api.cms.amdvids.com&ads.playbackid=EBB2E112-CD68-4C50-BBE4-F4EFAAB1B37C&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=EBB2E112-CD68-4C50-BBE4-F4EFAAB1B37C&ads.n4=content_name&ads.v4=WNYT%20%20Albany%20NY&ads.n21=gpp&ads.v21=&ads.n22=device_model&ads.v22=&ads.n23=content_type&ads.v23=channel&ads.n24=pos&ads.v24=midroll&ads.n25=device_make&ads.v25=&ads.n26=channel_id&ads.v26=EBB2E112-CD68-4C50-BBE4-F4EFAAB1B37C&ads.n27=did&ads.v27=&ads.n28=channel_rating&ads.v28=TV-PG&ads.n29=channel_corp&ads.v29=Hubbard%20Broadcasting&ads.n30=content_provider&ads.v30=wnyt&ads.n31=h&ads.v31=1080&ads.n32=channel_title&ads.v32=WNYT%20%20Albany%20NY&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=channel_company_id&ads.v34=AMDP500170&ads.n35=app_store_url&ads.v35=&ads.n36=app_name&ads.v36=&ads.n37=ifa_type&ads.v37=&ads.n38=w&ads.v38=1920&ads.n39=app_version&ads.v39=0.0.0&ads.n40=url&ads.v40=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n41=content_custom_2_param&ads.v41=AMDB013388&ads.n42=network_name&ads.v42=wnyt&ads.n43=device_type&ads.v43=&ads.n44=channel_language&ads.v44=en&ads.n45=content_producer_name&ads.v45=Hubbard%20Broadcasting&ads.n46=channel_brand_id&ads.v46=AMDB013388&ads.n47=app_bundle&ads.v47=&ads.n48=channel_name&ads.v48=WNYT%20%20Albany%20NY&ads.n49=ip&ads.v49=195.179.200.80&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=channel_genre&ads.v51=News&ads.n52=ua&ads.v52=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n53=content_livestream&ads.v53=1&ads.n54=gpp_sid&ads.v54=&ads.n55=channel_ext_id&ads.v55=&ads.n56=us_privacy&ads.v56=1YNY&ads.n57=dnt&ads.v57=&ads.n58=content_custom_1_param&ads.v58=EBB2E112-CD68-4C50-BBE4-F4EFAAB1B37C
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",ABC News New York NY (WABC-TV)
-https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 tvg-id="Reuters.us" tvg-name="Reuters" group-title="North America", Reuters
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5fff49cfb5cd4f0007c2b0dc" tvg-name="News 12 New York" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png"  group-title="News" tvg-chno="5190" ,News 12 New York
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8882c19c-ddaa-442d-98cd-1fd21cc2461d&userId=&serverSideAds=true
+#EXTINF:-1 group-title="North America", ESPN 2
+http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",Fort Lauderdale FLTV
-https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8
+#EXTINF:-1 group-title="North America", Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",KMBC-DT1
-https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+#EXTINF:-1 group-title="North America", National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",KMIZ-DT1
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+#EXTINF:-1 group-title="North America", Bloomberg Originals
+https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",KSHB-DT1
-https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+#EXTINF:-1 group-title="North America", The Archive
+https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",KSMO-DT1
-https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+#EXTINF:-1 group-title="North America", Artflix Classic Movies
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News",WLNY-DT1
-http://restream-live.realiptv.to:8080/live/19742329/27604387/89717.m3u8
+#EXTINF:-1 group-title="North America", Entrepreneur TV
+https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="AccuWeather.HD.us2" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeatherNOW.us" group-title="News",AccuWeather NOW
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-id="55b285cd2665de274553d66f" tvg-name="Sky News" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="News" tvg-chno="2630" ,Sky News
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66791555-41c1-417c-9282-c5ef39c78a15&userId=&serverSideAds=true
+--- Music ---
+#EXTINF:-1 group-title="Music", Miami Beach TV
+https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
 
-# Documentaries
+#EXTINF:-1 group-title="Music", Miami TV Music
+https://59ec5453559f0.streamlock.net/miamitvmusic/smil:22596/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-id="RTDoc.ru" group-title="Documentaries",RT Documentary
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="Music", Stingray Music:Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",CGTN Documentary
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master720p.m3u8
+#EXTINF:-1 group-title="North America", Stingray Music:Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="Revry.distro" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3" group-title="Documentaries",Revry
-https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Music", Stingray Music:The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",Channel 44
-https://d1k6kax80wecy5.cloudfront.net/WFqZJc/program_mid/stream.m3u8
+#EXTINF:-1 group-title="Music", Stingray  Holidayscapes
+https://plextv.ott-channels.stingray.com/holidayscapes/master_1920x1080_4500kbps.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/vDV6tqN/araing.png" group-title="Documentaries",Arirang Korea
-https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_sleng.m3u8
+#EXTINF:-1 group-title="Music", Stingray  Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KNXfMHS/dateline.png" group-title="Documentaries" tvg-id="Dateline247.us",Dateline 24/7
-https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:-1 group-title="Music", InterTv
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.FashionTV.plex" group-title="Fashion",FashionTV
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_480854_p_0.m3u8
+#EXTINF:-1 group-title="Music", XITE 90's Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.Documentary+.plex" group-title="Documentaries",Documentary+
-https://jmp2.uk/stvp-CABC2300019UD
+#EXTINF:-1 group-title="Music", Baraza Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",4K Travel TV
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+--- Kids ---
 
-#EXTINF:-1 tvg-id="673bf05ddaad7f0008ac7a5c" tvg-name="Dinos 24/7" tvg-logo="https://images.pluto.tv/channels/673bf05ddaad7f0008ac7a5c/colorLogoPNG.png" group-title="Documentaries" tvg-chno="3565" ,Dinos 24/7
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673bf05ddaad7f0008ac7a5c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=267a7ff4-f964-4795-b75e-763f88e11a3b&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Kids", Cartoon Network
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 
-#EXTINF:-1 tvg-id="656538f8954b020008d389db" tvg-name="UnXplained Zone" tvg-logo="https://images.pluto.tv/channels/656538f8954b020008d389db/colorLogoPNG_1767736227039.png" group-title="Documentaries" ,UnXplained Zone
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656538f8954b020008d389db/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=57a1cc2a-a469-4f57-a526-10b8f9ddfb59&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Kids", Cartoon Network
+https://t.freetv.fun/live/cartoon-network.m3u8
 
-#EXTINF:-1 tvg-id="5adf96e3e738977e2c31cb04" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="Documentaries" ,Pluto TV Paranormal
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b33a978e-c631-465f-ab3a-7270f6fd31d0&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Kids", Disney Channel 
+http://89.105.221.127/Disney/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="68bb16ba3efb41cd971f3ce6" tvg-name="Delicious Eats by Food Network" tvg-logo="https://images.pluto.tv/channels/68bb16ba3efb41cd971f3ce6/colorLogoPNG_1757719016994.png" group-title="Documentaries" tvg-chno="3520" ,Delicious Eats by Food Network
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68bb16ba3efb41cd971f3ce6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec758a7-64b8-4275-aae5-4a172b5b6464&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Kids", Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="68bb16916523408b14bac7f8" tvg-name="Home Cooking by Food Network" tvg-logo="https://images.pluto.tv/channels/68bb16916523408b14bac7f8/colorLogoPNG_1757969887631.png" group-title="Documentaries" tvg-chno="3480" ,Home Cooking by Food Network
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68bb16916523408b14bac7f8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c94bf575-5b51-489a-8768-232bb8a05fbc&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Kids", DisneyJr
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 
-#EXTINF:-1 tvg-id="64dab9df3d48f40008868091" tvg-name="The Jamie Oliver Channel" tvg-logo="https://images.pluto.tv/channels/64dab9df3d48f40008868091/colorLogoPNG.png" group-title="Documentaries" tvg-chno="3470" ,The Jamie Oliver Channel
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab9df3d48f40008868091/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cf29479a-d9d5-477c-a32f-aa6a08fda48f&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Kids", Disney Channel
+http://89.105.221.127/Disney/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/colorLogoPNG.png" group-title="Documentaries" tvg-chno="3130" ,Smithsonian Channel Selects
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bdd7f5b5-f275-4beb-87bb-35273bd01922&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Kids", Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="66e0b4866ad04d0008fff4d8" tvg-name="MythBusters" tvg-logo="https://images.pluto.tv/channels/66e0b4866ad04d0008fff4d8/colorLogoPNG.png" group-title="Documentaries" tvg-chno="3115" ,MythBusters
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66e0b4866ad04d0008fff4d8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8050fef-d3d8-4558-bb6f-aeee8ad23480&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Kids", Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-id="5bb3fea0f711fd76340eebff" tvg-name="Pluto TV Military" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="Documentaries" tvg-chno="3080" ,Pluto TV Military
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=82fd1200-9104-4828-b980-49209299b22f&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Kids", Nicketoons
+http://212.102.60.231/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-name="Pluto TV History" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Documentaries" tvg-chno="3090" ,Pluto TV History
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1868a0a2-eece-11f0-ab9f-3af985f554d3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25f31667-a6b4-40d2-a204-51f1f95b3055&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Kids", Kartoon Channel
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.True.History.plex" group-title="Documentaries",True History
-https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Kids", KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbf2927e-170a-4c27-b1f5-b629d1c681c0/GhostHunters_Logo_White_1500x1000_Chris.png" group-title="Documentaries",Ghost Hunters Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8ace332fec00081e7ea2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=733471ce-0ac1-447e-9326-012361ee2487
+--- Other ---
+#EXTINF:-1 group-title="Other", Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",Homes Under Hammer
-https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Other", Wellbeing TV/My Zen
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-id="plex.tv.GoUSA.TV.plex"" tvg-logo="https://img.platform.wurl.dev/channel/535/lg/87a941/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",GoUSA TV
-https://cc2b7c60df304389ba60c76790d1a82f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_GoUSATV/playlist.m3u8
+#EXTINF:-1 group-title="Other", Tanzania Safari Channel
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://img.platform.wurl.dev/channel/1517/lg/980216/LG-Logo-PNG-100x100_v2.png" group-title="Documentaries",Autentic Travel
-https://2d1ef59f0ad34d14888d8abce1b99264.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AutenticTravel/playlist.m3u8
+#EXTINF:-1 group-title="Other", CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us"" tvg-logo="https://img.platform.wurl.dev/channel/473/lg/1db7f7/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",Travelxp
-https://118e957020294ec4b4750823156a73f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="English" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="Other", RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-id="UK:.Inside.Outside.be"" tvg-logo="https://img.platform.wurl.dev/channel/1907/lg/e72dd3/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",Inside Outside
-https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Other", Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="UK:.Adventure.Earth.be" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1299-LG-Logo-PNG-100x100_v4.png" group-title="Documentaries",Adventure Earth
-https://afccca840d324b2b82b2100e5743f061.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-id="Wion.in" tvg-name="Wion" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="Other", Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+##https://livestream.zazerconer.workers.dev/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg.Originals.distro" tvg-logo="https://img.platform.wurl.dev/channel/1179/lg/816767/LG-Logo-PNG-100x100_v1.png" group-title="Documentaries",Bloomberg Originals
-https://c72595b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="Other", ABC News AU
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries"group-title="Documentaries",Bondi Rescue
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66166989635c7500084105a2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a45-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6764d2d1-b42f-4d3f-b861-f9d0d6aeaf33
+#EXTINF:-1 group-title="Other", AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",QVC Japan
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="Other", Midnight Pulp
+https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",Declassified
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdaf9cf1bdc500073a8bcb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df76-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=77b58119-8b6e-403d-b5dd-1096e48e0c09
+#EXTINF:-1 group-title="Other", XPTV 1
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",Scientific TV
-https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/3b82be8d-4b3b-46cd-a07c-4d0d2a10b97d/source/index.m3u8
+#EXTINF:-1 group-title="Other", XPTV 2
+https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Documentaries",GEO-WORLD
-https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/6cba2f88-79ff-4dff-ad54-7854c98c47a1/source/index.m3u8
+#EXTINF:-1 group-title="Other", XPTV 2
+https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+
+#EXTINF:-1 group-title="Other", Cartoon Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+
+#EXTINF:-1 group-title="Other", Smooth Jazz Radio - Kool & Klean - It's Time
+https://eu8.fastcast4u.com/proxy/lch?mp=/1
+
+#EXTINF:-1 group-title="Other", Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Other", Today Allday
+https://d37kx062o4ii0p.cloudfront.net/master.m3u8
+
+#EXTINF:-1 group-title="Other", Afro Land TV
+https://alt-al.otteravision.com/alt/al/al.m3u8
+
+#EXTINF:-1 group-title="Other", Afriwood Blockbuster
+https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8
+
+#EXTINF:-1 group-title="Other", Kingsview TV
+https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Other", KIX
+https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+
+#EXTINF:-1 group-title="Other", Urban Action
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8
+
+#EXTINF:-1 group-title="Other", Unchained
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8
+
+#EXTINF:-1 group-title="Other", Goal Zone
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
+
+#EXTINF:-1 group-title="Live Streams", Live Stream 1
+https://proxify.kooretna.site/stream/x57ghe 
+
+#EXTINF:-1 group-title="Live Streams", Live Stream 2
+https://proxify.kooretna.site/stream/dzdf9o
+#EXTINF:-1 group-title="Live Streams", Live Stream 3
+https://1syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8
+#EXTINF:-1 group-title="Live Streams", Live Stream 3
+https://1syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8
+#EXTINF:-1 group-title="Live Streams", J Sports 1
+J_Sports_1_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="Live Streams", J Sports 2
+J_Sports_2_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 group-title="Live Streams", J Sports 3
+J_Sports_3_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="Live Streams", J Sports 4
+J_Sports_4_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="Live Streams", Golf Channel
+Golf_Network_(544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+#EXTINF:-1 group-title="Live Streams", FTF Sports
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+#EXTINF:-1 group-title="Live Streams", DirectTv Sports
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
+
