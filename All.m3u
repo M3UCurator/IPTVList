@@ -123,8 +123,8 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="North America", CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 group-title="North America", BEIN Extra
-https://t.freetv.fun/live/bein-sports-xtra.m3u8
+#EXTINF:-1 group-title="North America", USA Network
+https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC
 http://4.59.210.197:8815/udp/127.0.0.1:6009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC Sports
@@ -270,4 +270,76 @@ https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 #EXTINF:-1 group-title="Live Streams", DirectTv Sports
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 
+#EXTINF:-1 group-title="", Cartoon_Network
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 group-title="", CT Sport
+http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="", BEIN 1
+http://77.137.40.221:8000/play/a01e
+#EXTINF:-1 group-title="", BEIN 6
+http://77.137.40.221:8000/play/a01k
+#EXTINF:-1 group-title="", BRT 1
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
+#EXTINF:-1 group-title="", BB1
+http://212.32.241.201:8000/play/a00g
+#EXTINF:-1 group-title="", A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+#EXTINF:-1 group-title="",More than Just Sports
+http://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 group-title="",Sport 2
+http://185.98.211.8:81/sport2/index.m3u8?token=test
+#EXTINF:-1 group-title="",Sport 2U
+https://stream9.xdevel.com/video0s976916-1685/stream/chunks_dvr.m3u8
+#EXTINF:-1 group-title="",SportyTV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 group-title="",Sport 1 IS
+http://185.132.134.159/sport1/index.m3u8
+#EXTINF:-1 group-title="",Sport 2 IS
+http://185.132.134.159/sport2/index.m3u8
+#EXTINF:-1 group-title="",Sport 3 IS
+http://185.132.134.159/sport3/index.m3u8
+#EXTINF:-1 group-title="",Sport 4 IS
+http://185.132.134.159/sport4/index.m3u8
+#EXTINF:-1 group-title="",SuperTV
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+#EXTINF:-1 group-title="",Super J TV
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1 group-title="",TUDN
+http://200.115.96.61:9090/play/a07u/index.m3u8
+#EXTINF:-1 group-title="",TVL Sport
+http://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/chunks.m3u8
+#EXTINF:-1 group-title="",TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist.m3u8
+#EXTINF:-1 group-title="",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20002.m3u8
+#EXTINF:-1 group-title="",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
+#EXTINF:-1 group-title="",TV Futbol
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 group-title="",TVL World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1 group-title="",Star Movies Select
+http://202.70.146.135:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="",Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/chunklist.m3u8
+#EXTINF:-1 group-title="",Rtvs Sport
+http://88.212.7.11/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 group-title="",NBC
+http://4.59.210.197:8815/udp/127.0.0.1:6009
+#EXTINF:-1 group-title="",TalkSport
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="",Kuwait Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="",Discovery Channel
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+#EXTINF:-1 group-title="",Kiddo+
+https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
+#EXTINF:-1 group-title="",Eurosport 1
+http://87.246.54.249:8080/Eurosport/index.m3u8
+#EXTINF:-1 group-title="",Eurosport 2
+http://185.102.171.218/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="",SETENTA 1
+http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS1HD.m3u8
+#EXTINF:-1 group-title="",SETENTA 2
+http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS2HD.m3u8
 
