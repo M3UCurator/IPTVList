@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url= "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/all/epg.xml.gz; https://i.mjh.nz/DStv/za.xml.gz; https://i.mjh.nz/world/epg.xml.gz"
+#EXTM3U x-tvg-url= "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-id="SABC1.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="South Africa", SABC 1 
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
@@ -110,6 +110,8 @@ http://81.137.213.119:4201/bysid/8294
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 group-title="England", ITV 4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+#EXTINF:-1 group-title="Sport", Premier Sports 1
+
 #EXTINF:-1 group-title="Infantil",BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="England", Huna London
@@ -124,8 +126,18 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="North America", CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="Sport",Willow
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296763
+#EXTINF:-1 group-title="North America", USA Network East
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
 #EXTINF:-1 group-title="North America", USA Network
 https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1 group-title="Sport",CBS Sports Network
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/267357
+#EXTINF:-1 group-title="North America",Fox Sports 1
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+#EXTINF:-1 group-title="North America",Fox Sports 1
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC
 http://4.59.210.197:8815/udp/127.0.0.1:6009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC Sports
@@ -182,6 +194,8 @@ http://89.105.221.127/Disney/index.m3u8?token=test
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Kids", DisneyJr
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 group-title="Kids", Disney
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2303
 #EXTINF:-1 group-title="Kids", Disney Channel
 http://89.105.221.127/Disney/index.m3u8?token=test
 #EXTINF:-1 group-title="Kids", Disney XD
@@ -244,8 +258,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7a
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
-#EXTINF:-1 group-title="Sport", Live Stream 1
-https://proxify.kooretna.site/stream/x57ghe 
+#EXTINF:-1 group-title="Sport", TUDN
+https://streaming.alwaysdata.net/tudn.php
 #EXTINF:-1 group-title="Sport", Live Stream 2
 https://proxify.kooretna.site/stream/dzdf9o
 #EXTINF:-1 group-title="Sport", Live Stream 3
@@ -270,6 +284,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 #EXTINF:-1 group-title="Sport", DirectTv Sports
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+#EXTINF:-1 group-title="Sport", Premier Sports 1
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1097
+#EXTINF:-1 group-title="Sport", Premier Sports 2
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4723
 #EXTINF:-1 group-title="Kids", Cartoon_Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 group-title="Sport", CT Sport
