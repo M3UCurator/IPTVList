@@ -116,11 +116,11 @@ https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 group-title="Britbox Mystries", Britbox Mystries
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
-#EXTINF:-1 group-title="England", FIFA+
+#EXTINF:-1 group-title="Sport", FIFA+
 https://jmp2.uk/stvp-IN270000230
-#EXTINF:-1 group-title="England", FIFA+
+#EXTINF:-1 group-title="Sport", FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="England", FIFA+
+#EXTINF:-1 group-title="Sport", FIFA+
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="North America", CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -220,7 +220,7 @@ https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 group-title="Other", XPTV 2
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
-#EXTINF:-1 group-title="Other", XPTV 2
+#EXTINF:-1 group-title="Other", XPTVUS 2
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 #EXTINF:-1 group-title="Other", Cartoon Classics
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
@@ -242,106 +242,105 @@ https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8
 #EXTINF:-1 group-title="Other", Unchained
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8
-#EXTINF:-1 group-title="Other", Goal Zone
+#EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
-#EXTINF:-1 group-title="Live Streams", Live Stream 1
+#EXTINF:-1 group-title="Sport", Live Stream 1
 https://proxify.kooretna.site/stream/x57ghe 
-#EXTINF:-1 group-title="Live Streams", Live Stream 2
+#EXTINF:-1 group-title="Sport", Live Stream 2
 https://proxify.kooretna.site/stream/dzdf9o
-#EXTINF:-1 group-title="Live Streams", Live Stream 3
+#EXTINF:-1 group-title="Sport", Live Stream 3
 https://1syrialive.s3.us-east-2.amazonaws.com/bein2/master.m3u8
-#EXTINF:-1 group-title="Live Streams", Live Stream 3
+#EXTINF:-1 group-title="Sport", Live Stream 3
 https://1syrialive.s3.us-east-2.amazonaws.com/ad1/master.m3u8
-#EXTINF:-1 group-title="Esportes",Unbeaten Sports Channel
+#EXTINF:-1 group-title="Sport",Unbeaten Sports Channel
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
-#EXTINF:-1 group-title="Esportes",FTF Sports
+#EXTINF:-1 group-title="Sport",FTF Sports
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
-#EXTINF:-1 group-title="Live Streams", J Sports 1
+#EXTINF:-1 group-title="Sport", J Sports 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 group-title="Live Streams", J Sports 2
+#EXTINF:-1 group-title="Sport", J Sports 2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:-1 group-title="Live Streams", J Sports 3
+#EXTINF:-1 group-title="Sport", J Sports 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 group-title="Live Streams", J Sports 4
+#EXTINF:-1 group-title="Sport", J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 group-title="Live Streams", Golf Channel
+#EXTINF:-1 group-title="Sport", Golf Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-#EXTINF:-1 group-title="Live Streams", FTF Sports
+#EXTINF:-1 group-title="Sport", FTF Sports
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
-#EXTINF:-1 group-title="Live Streams", DirectTv Sports
+#EXTINF:-1 group-title="Sport", DirectTv Sports
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="", Cartoon_Network
+#EXTINF:-1 group-title="Kids", Cartoon_Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 group-title="", CT Sport
+#EXTINF:-1 group-title="Sport", CT Sport
 http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="", BEIN 1
+#EXTINF:-1 group-title="Sport", BEIN 1
 http://77.137.40.221:8000/play/a01e
-#EXTINF:-1 group-title="", BEIN 6
+#EXTINF:-1 group-title="Sport", BEIN 6
 http://77.137.40.221:8000/play/a01k
-#EXTINF:-1 group-title="", BRT 1
+#EXTINF:-1 group-title="Other", BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
-#EXTINF:-1 group-title="", BB1
+#EXTINF:-1 group-title="England", BBC1
 http://212.32.241.201:8000/play/a00g
-#EXTINF:-1 group-title="", A Spor
+#EXTINF:-1 group-title="Sport", A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 group-title="",More than Just Sports
+#EXTINF:-1 group-title="Sport",More than Just Sports
 http://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 group-title="",Sport 2
+#EXTINF:-1 group-title="Sport",Sport 2
 http://185.98.211.8:81/sport2/index.m3u8?token=test
-#EXTINF:-1 group-title="",Sport 2U
+#EXTINF:-1 group-title="Sport",Sport 2U
 https://stream9.xdevel.com/video0s976916-1685/stream/chunks_dvr.m3u8
-#EXTINF:-1 group-title="",SportyTV
+#EXTINF:-1 group-title="Sport",SportyTV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
-#EXTINF:-1 group-title="",Sport 1 IS
+#EXTINF:-1 group-title="Sport",Sport 1 IS
 http://185.132.134.159/sport1/index.m3u8
-#EXTINF:-1 group-title="",Sport 2 IS
+#EXTINF:-1 group-title="Sport",Sport 2 IS
 http://185.132.134.159/sport2/index.m3u8
-#EXTINF:-1 group-title="",Sport 3 IS
+#EXTINF:-1 group-title="Sport",Sport 3 IS
 http://185.132.134.159/sport3/index.m3u8
-#EXTINF:-1 group-title="",Sport 4 IS
+#EXTINF:-1 group-title="Sport",Sport 4 IS
 http://185.132.134.159/sport4/index.m3u8
-#EXTINF:-1 group-title="",SuperTV
+#EXTINF:-1 group-title="Other",SuperTV
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
-#EXTINF:-1 group-title="",Super J TV
+#EXTINF:-1 group-title="Other",Super J TV
 https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
-#EXTINF:-1 group-title="",TUDN
+#EXTINF:-1 group-title="Sport",TUDN
 http://200.115.96.61:9090/play/a07u/index.m3u8
-#EXTINF:-1 group-title="",TVL Sport
+#EXTINF:-1 group-title="Sport",TVL Sport
 http://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/chunks.m3u8
-#EXTINF:-1 group-title="",TVR 1
+#EXTINF:-1 group-title="Other",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist.m3u8
-#EXTINF:-1 group-title="",TVRI Sport
+#EXTINF:-1 group-title="Sport",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20002.m3u8
-#EXTINF:-1 group-title="",TVRI World
+#EXTINF:-1 group-title="Other",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000=20002.m3u8
-#EXTINF:-1 group-title="",TV Futbol
+#EXTINF:-1 group-title="Sport",TV Futbol
 https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 group-title="",TVL World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 group-title="",Star Movies Select
 http://202.70.146.135:8000/play/a06q/index.m3u8
-#EXTINF:-1 group-title="",Rete 8 Sport
+#EXTINF:-1 group-title="Sport",Rete 8 Sport
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/chunklist.m3u8
-#EXTINF:-1 group-title="",Rtvs Sport
+#EXTINF:-1 group-title="Sport",Rtvs Sport
 http://88.212.7.11/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 group-title="",NBC
+#EXTINF:-1 group-title="North America",NBC
 http://4.59.210.197:8815/udp/127.0.0.1:6009
-#EXTINF:-1 group-title="",TalkSport
+#EXTINF:-1 group-title="Sport",TalkSport
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="",Kuwait Sport
+#EXTINF:-1 group-title="Sport",Kuwait Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="",Discovery Channel
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
-#EXTINF:-1 group-title="",Kiddo+
+#EXTINF:-1 group-title="Kids",Kiddo+
 https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
-#EXTINF:-1 group-title="",Eurosport 1
+#EXTINF:-1 group-title="Sport",Eurosport 1
 http://87.246.54.249:8080/Eurosport/index.m3u8
-#EXTINF:-1 group-title="",Eurosport 2
+#EXTINF:-1 group-title="Sport",Eurosport 2
 http://185.102.171.218/Eurosport2HD/index.m3u8
-#EXTINF:-1 group-title="",SETENTA 1
+#EXTINF:-1 group-title="Sport",SETENTA 1
 http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS1HD.m3u8
-#EXTINF:-1 group-title="",SETENTA 2
+#EXTINF:-1 group-title="Sport",SETENTA 2
 http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS2HD.m3u8
 #EXTINF:-1 group-title="Sport",ČT_Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
