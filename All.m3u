@@ -121,7 +121,6 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 group-title="England", ITV 4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
-#EXTINF:-1 group-title="Sport", Premier Sports 1
 
 #EXTINF:-1 group-title="England", Huna London
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
@@ -156,12 +155,20 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", TUDN
 https://streaming.alwaysdata.net/tudn.php
-#EXTINF:-1 group-title="Sport", Live Stream 2
-
-#EXTINF:-1 group-title="Sport", Live Stream 3
-
-#EXTINF:-1 group-title="Sport", Live Stream 3
-
+#EXTINF:-1 group-title="Sport", SportTV1
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/pt_sportv1.m3u8
+#EXTINF:-1 group-title="Sport", SportTV2
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/pt_sportv2.m3u8
+#EXTINF:-1 group-title="Sport", SportTV3
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/pt_sportv3.m3u8
+#EXTINF:-1 group-title="Sport", SportTV4
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/pt_sportv4.m3u8
+#EXTINF:-1 group-title="Sport", SportTV5
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/pt_sportv5.m3u8
+#EXTINF:-1 group-title="Sport", SportTV6
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/pt_sportv6.m3u8
+#EXTINF:-1 group-title="Sport", SportTV7
+https://xn--d204s777hp27.cloudfronte.lat/zzzstream/pt_sportv7.m3u8
 #EXTINF:-1 group-title="Sport",Unbeaten Sports Channel
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 group-title="Sport",FTF Sports
@@ -216,6 +223,8 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 group-title="Sport", BEIN 1
 http://77.137.40.221:8000/play/a01e
+#EXTINF:-1 group-title="Sport", BEIN 1_2
+http://185.94.79.41/1734/index.m3u8
 #EXTINF:-1 group-title="Sport", BEIN 6
 http://77.137.40.221:8000/play/a01k
 #EXTINF:-1 group-title="Sport",Rete 8 Sport
@@ -250,6 +259,8 @@ http://185.132.134.159/sport4/index.m3u8
 https://jmp2.uk/stvp-GB51000026A
 #EXTINF:-1 group-title="Sport",Rally TV_2
 https://Daviddemaria@dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+#EXTINF:-1 group-title="Sport",TNT 1
+http://185.94.79.41/1779/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC
 http://4.59.210.197:8815/udp/127.0.0.1:6009
