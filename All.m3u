@@ -31,10 +31,8 @@ https://amg02784-amg02784c1-freevisionplay-worldwide-9725.playouts.now.amagi.tv/
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Regional",Platinum North West TV
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Regional",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Regionalt",1KZN TV
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Regional",1KZN TV
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Religious",Faith TV
-https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bfc316.jpg" group-title="Regional",Cape Town TV
 https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" group-title="Regional",Soweto TV
@@ -74,7 +72,7 @@ https://sabcpluscdn.sportscastafrica.com/sca/smil:sca.stream.smil/chunklist.m3u8
 https://ov.ottera.tv/channels/alt_ak/master900000.m3u8;session=alt_ak
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland TV
 https://alt-al-freevision.otteravision.com/alt/al/al_1080p.m3u8
-#EXTINF:-1 group-title="Other", Afro Land TV_2
+#EXTINF:-1 group-title="Entertainment", Afro Land TV_2
 https://alt-al.otteravision.com/alt/al/al.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Black Experience
 https://ov.ottera.tv/channels/alt_black/master2300000.m3u8;session=alt_black
@@ -141,7 +139,7 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296763
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 group-title="North America", USA Network East
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="Sports", NBC Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="Sport", NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 group-title="Sport",CBS Sports Network
@@ -339,6 +337,8 @@ http://212.102.60.231/NICKTOONS/index.m3u8
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids", KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 group-title="Kids", Cartoon Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 
 #EXTINF:-1 group-title="Other", Knowledge Network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
@@ -367,8 +367,7 @@ https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 #EXTINF:-1 group-title="Other", XPTVUS 2
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
-#EXTINF:-1 group-title="Other", Cartoon Classics
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+
 #EXTINF:-1 group-title="Other", Home Plus
 https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Other", Today Allday
@@ -389,7 +388,7 @@ https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Other",TVRI World
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 group-title="",TVL World
+#EXTINF:-1 group-title="Other",TVL World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 group-title="Other",Star Movies Select
 http://202.70.146.135:8000/play/a06q/index.m3u8
