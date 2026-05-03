@@ -130,7 +130,8 @@ https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playl
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 group-title="North America", USA Network East
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
-
+#EXTINF:-1 group-title="Sport",Bein Sports US
+https://stream1.freetv.fun/3abffa79ffa8ba59f32bb06d9183af4848168b3630195e8787c1a531fb86572c.m3u8 
 #EXTINF:-1 group-title="Sport",CBS Sports
 https://stream1.freetv.fun/09309d5a6190fe5fdf32bb990f703186b68aa19ee643280c230a0f744e23d10c.ctv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="Sport", NBC Sports
@@ -227,7 +228,12 @@ https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Sport", CT Sport
 http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
-
+#EXTINF:-1 group-title="Sport",QAZport
+http://195.201.243.254/stream10/index.m3u8
+#EXTINF:-1 group-title="Sport",Max Sport 1
+http://169.150.255.53/MaxSport1HR/index.m3u8
+#EXTINF:-1 group-title="Sport",Max sport 2
+http://169.150.255.53/MaxSport2HR/index.m3u8
 #EXTINF:-1 group-title="Sport",Rete 8 Sport
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/chunklist.m3u8
 #EXTINF:-1 group-title="Sport",Rtvs Sport
