@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url= "https://www.open-epg.com/generate/daa32jSdN9.xml.gz"
+#EXTM3U x-tvg-url= " https://epg.pw/xmltv/epg_lite.xml, https://www.open-epg.com/generate/daa32jSdN9.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz"
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="South Africa", SABC News 
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="SABC1.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="South Africa", SABC 1 
@@ -119,20 +119,10 @@ http://81.137.213.119:4201/bysid/8294
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 group-title="England", ITV 4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
-
-
 #EXTINF:-1 group-title="England", Huna London
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 group-title="Britbox Mystries", Britbox Mystries
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
-#EXTINF:-1 group-title="Sport", FIFA+_1
-https://jmp2.uk/stvp-IN270000230
-#EXTINF:-1 group-title="Sport", FIFA+_2
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Sport", FIFA+)3
-https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Sport",Willow
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296763
 
 
 
@@ -140,10 +130,11 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296763
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 group-title="North America", USA Network East
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="Sport", NBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:-1 group-title="Sport",CBS Sports
 https://stream1.freetv.fun/09309d5a6190fe5fdf32bb990f703186b68aa19ee643280c230a0f744e23d10c.ctv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="Sport", NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Sport",CBS Sports Network
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/267357
 #EXTINF:-1 group-title="Sport", ESPN 2
@@ -152,8 +143,30 @@ http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
 http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 group-title="Sport",Fox Sports 1_2
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
-#EXTINF:-1 group-title="Sport", Goal Zone
-https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
+#EXTINF:-1 group-title="Sport",Willow
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296763
+#EXTINF:-1 group-title="Sport", BEIN Extra (xumo)
+https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
+#EXTINF:-1 group-title="Sport", BEIN 1 (TR)
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 group-title="Sport", BEIN 2 (TR)
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 group-title="Sport", BEIN 3 (TR)
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 group-title="Sport", BEIN 3 (TR)_2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
+#EXTINF:-1 group-title="Sport", BEIN 4 (TR)
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 group-title="Sport", BEIN 1
+http://77.137.40.221:8000/play/a01e
+#EXTINF:-1 group-title="Sport", BEIN 1_English
+http://185.94.79.41/1734/index.m3u8
+#EXTINF:-1 group-title="Sport", BEIN 6
+http://77.137.40.221:8000/play/a01k
+
+#EXTINF:-1 group-title="Sport",TNT 1
+http://185.94.79.41/1779/index.m3u8
+
 #EXTINF:-1 group-title="Sport", TUDN
 https://streaming.alwaysdata.net/tudn.php
 #EXTINF:-1 group-title="Sport", SportTV1
@@ -170,6 +183,7 @@ https://xn--d204s777hp27.cloudfronte.lat/zzzstream/pt_sportv5.m3u8
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/pt_sportv6.m3u8
 #EXTINF:-1 group-title="Sport", SportTV7
 https://xn--d204s777hp27.cloudfronte.lat/zzzstream/pt_sportv7.m3u8
+
 #EXTINF:-1 group-title="Sport",Unbeaten Sports Channel
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 group-title="Sport",FTF Sports
@@ -188,12 +202,15 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 #EXTINF:-1 group-title="Sport", Premier Sports 1
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1097
+
 #EXTINF:-1 group-title="Sport", Premier Sports 2
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/4723
+
 #EXTINF:-1 group-title="Sport",Eurosport 1
 http://87.246.54.249:8080/Eurosport/index.m3u8
 #EXTINF:-1 group-title="Sport",Eurosport 2
 http://185.102.171.218/Eurosport2HD/index.m3u8
+
 #EXTINF:-1 group-title="Sport",SETENTA 1
 http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS1HD.m3u8
 #EXTINF:-1 group-title="Sport",SETENTA 2
@@ -210,24 +227,7 @@ https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Sport", CT Sport
 http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="Sport", BEIN Extra (xumo)
-https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
-#EXTINF:-1 group-title="Sport", BEIN 1 (TR)
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="Sport", BEIN 2 (TR)
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 group-title="Sport", BEIN 3 (TR)
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 group-title="Sport", BEIN 3 (TR)_2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
-#EXTINF:-1 group-title="Sport", BEIN 4 (TR)
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 group-title="Sport", BEIN 1
-http://77.137.40.221:8000/play/a01e
-#EXTINF:-1 group-title="Sport", BEIN 1_2
-http://185.94.79.41/1734/index.m3u8
-#EXTINF:-1 group-title="Sport", BEIN 6
-http://77.137.40.221:8000/play/a01k
+
 #EXTINF:-1 group-title="Sport",Rete 8 Sport
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/chunklist.m3u8
 #EXTINF:-1 group-title="Sport",Rtvs Sport
@@ -256,14 +256,26 @@ http://185.132.134.159/sport2/index.m3u8
 http://185.132.134.159/sport3/index.m3u8
 #EXTINF:-1 group-title="Sport",Sport 4 IS
 http://185.132.134.159/sport4/index.m3u8
+
 #EXTINF:-1 group-title="Sport",PolSat Sport
 https://stream1.freetv.fun/f65cf94d5430bf5d8162074fff7eb4d70fa5536d3301bd0f5384afdd6c3555a4.m3u8
+
 #EXTINF:-1 group-title="Sport",Rally TV
 https://jmp2.uk/stvp-GB51000026A
 #EXTINF:-1 group-title="Sport",Rally TV_2
 https://Daviddemaria@dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
-#EXTINF:-1 group-title="Sport",TNT 1
-http://185.94.79.41/1779/index.m3u8
+
+#EXTINF:-1 group-title="Sport", FIFA+_1
+https://jmp2.uk/stvp-IN270000230
+#EXTINF:-1 group-title="Sport", FIFA+_2
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Sport", FIFA+)3
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport", Goal Zone
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC
 http://4.59.210.197:8815/udp/127.0.0.1:6009
