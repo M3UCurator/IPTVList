@@ -70,10 +70,12 @@ https://sabcpluscdn.sportscastafrica.com/sca/smil:sca.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Kids",AfroKiddos
 https://ov.ottera.tv/channels/alt_ak/master900000.m3u8;session=alt_ak
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland TV
-https://alt-al-freevision.otteravision.com/alt/al/al_1080p.m3u8
-#EXTINF:-1 group-title="Entertainment", Afro Land TV_2
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Nolly Africa
+https://amg02784-amg02784c1-freevisionplay-worldwide-9725.playouts.now.amagi.tv/video_896504_p_2.m3u8
+#EXTINF:-1 group-title="Entertainment", Afro Land TV
 https://alt-al.otteravision.com/alt/al/al.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland TV_2
+https://alt-al-freevision.otteravision.com/alt/al/al_1080p.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Black Experience
 https://ov.ottera.tv/channels/alt_black/master2300000.m3u8;session=alt_black
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Comedy
@@ -86,12 +88,9 @@ https://ov.ottera.tv/channels/alt_crime/master2300000.m3u8;session=alt_crime
 https://ov.ottera.tv/channels/alt_drama/master2300000.m3u8;session=alt_drama
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Nollywood
 https://ov.ottera.tv/channels/alt_nolly/master2300000.m3u8;session=alt_nolly
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Nolly Africa
-https://amg02784-amg02784c1-freevisionplay-worldwide-9725.playouts.now.amagi.tv/video_896504_p_2.m3u8
-
-#EXTINF:-1 group-title="Other", Afriwood Blockbuster
+#EXTINF:-1 group-title="Entertainment", Afriwood Blockbuster
 https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8
-#EXTINF:-1 group-title="Other", Kingsview TV
+#EXTINF:-1 group-title="Entertainment", Kingsview TV
 https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="England", BBC News
@@ -143,14 +142,14 @@ https://tvpass.org/live/USANetworkEast/hd
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="Sport", NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-
 #EXTINF:-1 group-title="Sport",CBS Sports Network
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/267357
-#EXTINF:-1 group-title="North America",Fox Sports 1
+#EXTINF:-1 group-title="Sport", ESPN 2
+http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
+#EXTINF:-1 group-title="Sport",Fox Sports 1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
-#EXTINF:-1 group-title="North America",Fox Sports 1_2
+#EXTINF:-1 group-title="Sport",Fox Sports 1_2
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/757
-
 #EXTINF:-1 group-title="Sport", Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 group-title="Sport", TUDN
@@ -270,8 +269,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Reuters.us" tvg-name="Reuters" group-title="North America", Reuters
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
-#EXTINF:-1 group-title="Sport", ESPN 2
-http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
+
 #EXTINF:-1 group-title="North America", Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
 #EXTINF:-1 group-title="North America", National Geographic
