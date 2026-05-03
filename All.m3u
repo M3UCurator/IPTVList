@@ -142,6 +142,8 @@ https://tvpass.org/live/USANetworkEast/hd
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="Sport", NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Sport",CBS Sports
+https://stream1.freetv.fun/09309d5a6190fe5fdf32bb990f703186b68aa19ee643280c230a0f744e23d10c.ctv
 #EXTINF:-1 group-title="Sport",CBS Sports Network
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/267357
 #EXTINF:-1 group-title="Sport", ESPN 2
@@ -254,6 +256,8 @@ http://185.132.134.159/sport2/index.m3u8
 http://185.132.134.159/sport3/index.m3u8
 #EXTINF:-1 group-title="Sport",Sport 4 IS
 http://185.132.134.159/sport4/index.m3u8
+#EXTINF:-1 group-title="Sport",PolSat Sport
+https://stream1.freetv.fun/f65cf94d5430bf5d8162074fff7eb4d70fa5536d3301bd0f5384afdd6c3555a4.m3u8
 #EXTINF:-1 group-title="Sport",Rally TV
 https://jmp2.uk/stvp-GB51000026A
 #EXTINF:-1 group-title="Sport",Rally TV_2
