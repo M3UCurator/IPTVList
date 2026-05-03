@@ -28,7 +28,7 @@ https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Regional",Mpuma Kapa TV
 https://sabcmpumata.cdn.mangomolo.com/mpk/smil:mpk.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Regional",Platinum North West TV
-https://amg02784-amg02784c1-freevisionplay-worldwide-9725.playouts.now.amagi.tv/video_896504_p_2.m3u8
+https://cdn.freevisiontv.co.za/sttv/smil:pnwtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Regional",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Regional",1KZN TV
@@ -86,6 +86,8 @@ https://ov.ottera.tv/channels/alt_crime/master2300000.m3u8;session=alt_crime
 https://ov.ottera.tv/channels/alt_drama/master2300000.m3u8;session=alt_drama
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Nollywood
 https://ov.ottera.tv/channels/alt_nolly/master2300000.m3u8;session=alt_nolly
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Nolly Africa
+https://amg02784-amg02784c1-freevisionplay-worldwide-9725.playouts.now.amagi.tv/video_896504_p_2.m3u8
 
 #EXTINF:-1 group-title="Other", Afriwood Blockbuster
 https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8
