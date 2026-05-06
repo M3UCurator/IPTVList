@@ -1,73 +1,55 @@
 #EXTM3U x-tvg-url= "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/all/epg.xml.gz; https://i.mjh.nz/DStv/za.xml.gz; https://i.mjh.nz/world/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="SABC1.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="South Africa", SABC 1 
+# --- Lifestyle ---
+#EXTINF:-1 tvg-id="SABC1.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="Lifestyle", SABC 1 
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="SABC2.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="South Africa", SABC 2 
+#EXTINF:-1 tvg-id="SABC2.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="Lifestyle", SABC 2 
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC3.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="South Africa", SABC 3 
+#EXTINF:-1 tvg-id="SABC3.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="Lifestyle", SABC 3 
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="South Africa", SABC News 
-https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABCSport.za" group-title="South Africa", SABC Sports 
-https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABCEducation.za" group-title="South Africa", SABC Education 
-https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
-#EXTINF:-1  group-title="South Africa", Phuthuloga
-https://senth3ta.cdn.mangomolo.com/pht/smil:pht.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1  group-title="South Africa", Lehae
-https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
-#EXTINF:-1 group-title="South Africa", Wild Earth
-https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 group-title="South Africa", Wild Earth
-https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 group-title="South Africa", Tshwane TV
+#EXTINF:-1 tvg-id="SABC 1 HD.za" tvg-logo="https://i.ibb.co/4SJXxN6/s1.jpg" group-title="Lifestyle",SABC 1
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="SABC 2 HD.za" tvg-logo="https://i.ibb.co/tmJGg7W/s2.jpg" group-title="Lifestyle",SABC 2
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="SABC 3 HD.za" tvg-logo="https://i.ibb.co/PW7v0jg/s3.jpg" group-title="Lifestyle",SABC 3
+https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist.m3u8
+
+# --- Regional ---
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Regional",Tshwane TV
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Regional",1KZN TV
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bfc316.jpg" group-title="Regional",Cape Town TV
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" group-title="Regional",Soweto TV
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Regional",Mpuma Kapa TV
+https://senth3ta.cdn.mangomolo.com/mk/smil:mktv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Regional",Phuthuloha TV
+https://senth3ta.cdn.mangomolo.com/pht/smil:pht.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Regional",Mpuma Kapa TV
+https://sabcmpumata.cdn.mangomolo.com/mpk/smil:mpk.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Regional",Platinum North West TV
+https://cdn.freevisiontv.co.za/sttv/smil:pnwtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Regional", Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="South Africa", 1KZN_TV_
+#EXTINF:-1 group-title="Regional", 1KZN_TV_
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+
+# --- Radio ---
 #EXTINF:-1 group-title="South Africa", Motsweding FM
 https://25633.live.streamtheworld.com/MOTSWEDINGAAC_SC
 #EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/839.v15.png" group-title="South Africa", Metro FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac?dist=onlineradiobox
 #EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/840.v15.png" group-title="South Africa", 5 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/5FMAAC.aac?dist=onlineradiobox
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/hVnRYPt/sabcsport.jpg" group-title="Sport",SABC Sport
-https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SABC 1 HD.za" tvg-logo="https://i.ibb.co/4SJXxN6/s1.jpg" group-title="Entertainment",SABC 1
-https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SABC 2 HD.za" tvg-logo="https://i.ibb.co/tmJGg7W/s2.jpg" group-title="Entertainment",SABC 2
-https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SABC 3 HD.za" tvg-logo="https://i.ibb.co/PW7v0jg/s3.jpg" group-title="Entertainment",SABC 3
-https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="News",SABC News
-https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",SuperSport Schools
-https://sabctretasch.cdn.mangomolo.com/ssch/smil:ssch.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="Entertainment",SABC Education
-https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Sportscast Africa
-https://sabcpluscdn.sportscastafrica.com/sca/smil:sca.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Mpuma Kapa TV
-https://sabcmpumata.cdn.mangomolo.com/mpk/smil:mpk.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment",Tshwane TV
-https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment",1KZN TV
-https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="Religious",Faith TV
-https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bfc316.jpg" group-title="Entertainment",Cape Town TV
-https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" group-title="Entertainment",Soweto TV
-https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="News",TV BRICS English
-https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="News",TV BRICS South Africa
-https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Kids",AfroKiddos
+
+# --- Afro ---
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",AfroKiddos
 https://ov.ottera.tv/channels/alt_ak/master900000.m3u8;session=alt_ak
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Nolly Africa
 https://amg02784-amg02784c1-freevisionplay-worldwide-9725.playouts.now.amagi.tv/video_896504_p_2.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Platinum North West TV
-https://cdn.freevisiontv.co.za/sttv/smil:pnwtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Black Experience
 https://ov.ottera.tv/channels/alt_black/master2300000.m3u8;session=alt_black
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland Comedy
@@ -82,10 +64,43 @@ https://ov.ottera.tv/channels/alt_drama/master2300000.m3u8;session=alt_drama
 https://ov.ottera.tv/channels/alt_nolly/master2300000.m3u8;session=alt_nolly
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Afroland TV
 https://alt-al-freevision.otteravision.com/alt/al/al_1080p.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Mpuma Kapa TV
-https://senth3ta.cdn.mangomolo.com/mk/smil:mktv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Entertainment",Phuthuloha TV
-https://senth3ta.cdn.mangomolo.com/pht/smil:pht.stream.smil/chunklist.m3u8
+
+# --- Nature & Travel ---
+#EXTINF:-1 group-title="Nature & Travel", Wild Earth
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 group-title="Nature & Travel", Wild Earth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+
+# --- Sport ---
+#EXTINF:-1 tvg-id="SABCSport.za" group-title="South Africa", SABC Sports 
+https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",SuperSport Schools
+https://sabctretasch.cdn.mangomolo.com/ssch/smil:ssch.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Sportscast Africa
+https://sabcpluscdn.sportscastafrica.com/sca/smil:sca.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/hVnRYPt/sabcsport.jpg" group-title="Sport",SABC Sport
+https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist.m3u8
+
+# --- Education ---
+#EXTINF:-1 tvg-id="SABCEducation.za" group-title="Education", SABC Education 
+https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="Education",SABC Education
+https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist.m3u8
+#EXTINF:-1  group-title="Education", Phuthuloga
+https://senth3ta.cdn.mangomolo.com/pht/smil:pht.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+
+# --- News ---
+#EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="News", SABC News 
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="News",SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist.m3u8
+#EXTINF:-1  group-title="News", Lehae
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="News",TV BRICS English
+https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="News",TV BRICS South Africa
+https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/chunklist.m3u8
+
 #EXTINF:-1 group-title="England", BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 group-title="England", Sky News
