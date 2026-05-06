@@ -52,7 +52,7 @@ https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="News",TV BRICS South Africa
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/chunklist.m3u8
 # --- Sport ---
-#EXTINF:-1 tvg-id="SABCSport.za" group-title="Sports", SABC Sports HD
+#EXTINF:-1 tvg-id="SABCSport.za" group-title="Sport", SABC Sports HD
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/hVnRYPt/sabcsport.jpg" group-title="Sport",SABC Sport SD
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/master.m3u8
