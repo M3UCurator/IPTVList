@@ -132,6 +132,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 #EXTINF:-1 group-title="Sport", DirectTv Sports
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="Sport",Fox Sports 1
+https://stream1.freetv.fun/f032b758b7e3f67bfddd2023f76ca4185dd98aee70346fe55d1e8f96f7fb662c.ctv
+#EXTINF:-1 group-title="Sport",Fox Sports 1
+https://stream1.freetv.fun/fd0c56991557542795b64361f236768cd19318ea4c1f5a1f1666ce26174d6c38.ctv
+
 #EXTINF:-1 group-title="Sport", Premier Sports 1
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1097
 
@@ -257,6 +263,8 @@ https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 group-title="Kids", Cartoon Classics
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1 group-title="Kids",Fox Kids
+https://stream1.freetv.fun/72297186affa8a5ceb555bd4e3c44952836ed687369914c509ee853866588bc8.m3u8
 
 # --- Education ---
 #EXTINF:-1 tvg-id="SABCEducation.za" group-title="Education", SABC Education HD
@@ -412,6 +420,8 @@ https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 #EXTINF:-1 group-title="Uncategorized", KIX
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
+#EXTINF:-1 group-title="Uncategorized", KIX
+https://stream1.freetv.fun/482fc1351cc36a139ebaf7306f56cab38b03d890c05a5482b22063d369702565.m3u8
 #EXTINF:-1 group-title="Uncategorized", Home Plus
 https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Uncategorized", Today Allday
@@ -438,6 +448,20 @@ https://live.teleradiocom.tj/8/3m.m3u8
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 group-title="Uncategorized",Star Movies Select
 http://202.70.146.135:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="Uncategorized",Entertainment Tonight
+https://stream1.freetv.fun/593d4a82e4ae834709234a78adb6d9066cd39398b35096f651dad683e1fa5355.m3u8
+#EXTINF:-1 group-title="Uncategorized",Frisbee TV
+https://stream1.freetv.fun/6955efdb130523eff0bb8e07be343a46e23b4a45250c75fbceefba8986e36aec.m3u8
+
+
+#EXTINF:-1 group-title="Uncategorized",Discovery Channel
+https://stream1.freetv.fun/be59bbb9e9da2d8e2a5529bd5cae9f496acd5681991e07c56c364d5c1e384264.m3u8
+
+#EXTINF:-1 group-title="Uncategorized",Discovery World
+https://stream1.freetv.fun/ca4aac164327de2806c1d1c1436c082ba9c83f99b350e31a4f0b2ee99e2cf442.m3u8
+
+#EXTINF:-1 group-title="Uncategorized",Crime & Investigation UK
+https://stream1.freetv.fun/553183ed7d12a08ef53cefd93ab6d600608f080c9f682a6bf21967392a746a54.m3u8
 
 
 
