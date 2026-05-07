@@ -228,6 +228,7 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 https://sabctretasch.cdn.mangomolo.com/ssch/smil:ssch.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Sport",Sportscast Africa
 https://sabcpluscdn.sportscastafrica.com/sca/smil:sca.stream.smil/chunklist.m3u8
+
 # --- Kids ---
 #EXTINF:-1 group-title="Kids",BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
@@ -282,8 +283,10 @@ https://senth3ta.cdn.mangomolo.com/pht/smil:pht.stream.smil/chunklist.m3u8
 # --- Documentary ---
 #EXTINF:-1 group-title="Documentary", Bloomberg Originals
 https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Uncategorized", CNA Originals
+#EXTINF:-1 group-title="Documentary", CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary", National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
 # --- England ---
 #EXTINF:-1 group-title="England", BBC 1
@@ -320,8 +323,6 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
 http://4.59.210.197:8815/udp/127.0.0.1:6009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="North America", National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 group-title="North America", The Archive
 https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="North America", Artflix Classic Movies
