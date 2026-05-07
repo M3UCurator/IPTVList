@@ -210,6 +210,8 @@ https://jmp2.uk/stvp-GB51000026A
 #EXTINF:-1 group-title="Sport",Rally TV_2
 https://Daviddemaria@dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
 
+#EXTINF:-1 group-title="Sport",ACI Sport TV 
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 group-title="Sport", FIFA+_1
 https://jmp2.uk/stvp-IN270000230
 #EXTINF:-1 group-title="Sport", FIFA+_2
@@ -359,6 +361,12 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 # --- Afro ---
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Afrotainment",AfroKiddos
 https://ov.ottera.tv/channels/alt_ak/master900000.m3u8;session=alt_ak
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Afrotainment",Afro Magic Channel
+https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Afrotainment",Afro Culture TV
+https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Afrotainment",Afro Turk TV
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Afrotainment",Nolly Africa
 https://amg02784-amg02784c1-freevisionplay-worldwide-9725.playouts.now.amagi.tv/video_896504_p_2.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Afrotainment",Afroland Black Experience
