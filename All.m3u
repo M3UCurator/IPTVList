@@ -425,6 +425,9 @@ https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="North America", Entrepreneur TV
 https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CleoTV.us" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110289_dark_360w_270h.png" group-title="North America",Cleo TV
+http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts
+
 #EXTINF:-1 tvg-id="CleoTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png" group-title="North America", CleoTv
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts
 #EXTINF:-1 group-title="North America", Ebony Tv
