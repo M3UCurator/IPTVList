@@ -25,7 +25,7 @@ https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
 #EXTINF:-1 group-title="News", BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
-#EXTINF:-1 group-title="News", ABC News
+#EXTINF:-1 tvg-id="abc_news_live_us" tvg-logo="https://i.ibb.co/9V5x1wJ/ABC-News-Live-logo.png" group-title="News",ABC News Live
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News", ABC News AU
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
@@ -412,7 +412,7 @@ https://ov.ottera.tv/channels/alt_crime/master2300000.m3u8;session=alt_crime
 https://ov.ottera.tv/channels/alt_drama/master2300000.m3u8;session=alt_drama
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Afrotainment",Afroland Nollywood
 https://ov.ottera.tv/channels/alt_nolly/master2300000.m3u8;session=alt_nolly
-#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Afrotainment",Afroland TV
+#EXTINF:-1 tvg-id="AfroLandTV.us" tvg-logo="https://www.africancelebs.com/wp-content/uploads/2017/05/logo-afrolandtv.png" group-title="Afrotainment",AfroLandTVV
 https://alt-al-freevision.otteravision.com/alt/al/al_1080p.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Afrotainment",Cinema Yuroba
 https://streamdot.broadpeak.io/cff02a74da64d1457f33a61a45801a4f/afxpstr/CinemaYoruba/index.m3u8
@@ -430,7 +430,7 @@ https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 group-title="Nature & Travel", Tanzania Safari Channel
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
-#EXTINF:-1 group-title="BBC Earth", BBC Earth
+#EXTINF:-1 group-title="Nature & Travel", BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="Nature & Travel", National Geographic Wild 
 http://103.157.248.140:8000/play/a010/index.m3u8
