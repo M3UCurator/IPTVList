@@ -278,7 +278,8 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296763
 
 #EXTINF:-1 tvg-id="WillowSports.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/00b0773f-34b3-408f-9ae5-696f145ec715/Willow_Sports_Horizontal_Dark_Background_1920_1080.jpg" group-title="Sport", Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
-
+#EXTINF:-1 tvg-id="",Sports First 
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
 
 
 # --- Kids ---
@@ -390,6 +391,8 @@ https://tvpass.org/live/CrimePlusInvestigation/hd
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 group-title="USA", Ebony Tv
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1 group-title="USA", Ebony Tv_2
+https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
 #EXTINF:-1 group-title="USA", Entrepreneur TV
 https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="USA",CBS
