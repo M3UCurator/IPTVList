@@ -380,7 +380,7 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/129849.ts
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/court-tv-logo.png" group-title="USA", Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://www.liblogo.com/img-logo/co1534c153-comedy-central-logo-comedy-central-logo-custom-by-mickeyfan123-on-.png" group-title="USA",,Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://www.liblogo.com/img-logo/co1534c153-comedy-central-logo-comedy-central-logo-custom-by-mickeyfan123-on-.png" group-title="USA",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="USA",Crime 360
 https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
