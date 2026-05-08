@@ -29,7 +29,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News", ABC News AU
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
-#EXTINF:-1  group-title="News", Lehae
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="News", Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 
 
@@ -342,7 +342,12 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 https://tvpass.org/live/CrimePlusInvestigation/hd
 #EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="North America",,Crime 360
 https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png" group-title="USA",Freeform
+https://tvpass.org/live/FreeformEast/hd
+#EXTINF:-1 tvg-id="ICCplus.us" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iccplus-us.png" group-title="USA",ICC plus
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KBSVDT1.us" tvg-logo="https://i.imgur.com/6lklsyN.png" group-title="USA",KBSV-DT1
+http://66.242.170.53/hls/live/temp/index.m3u8
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/640px-USA_Network_2025_logo.svg.png" group-title="North America", USA Network
 https://tvpass.org/live/USANetworkEast/hd
@@ -350,10 +355,12 @@ https://tvpass.org/live/USANetworkEast/hd
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC
 http://4.59.210.197:8815/udp/127.0.0.1:6009
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC Boston
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="North America", NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:-1 group-title="North America", Fox 11 Green Bay
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="North America", Fox 25 Oklahoma
