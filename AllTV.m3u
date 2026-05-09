@@ -1,7 +1,7 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml.gz, https://i.mjh.nz/world/epg.xml.gz, https://iptv-epg.org/files/epg-euopqylido.xml, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml.gz, https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml, https://i.mjh.nz/world/epg.xml.gz, https://iptv-epg.org/files/epg-euopqylido.xml, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # --- Lifestyle ---
-#EXTINF:-1 tvg-id="463808" channel_id="463808" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
+#EXTINF:-1 tvg-id="SABC1.za" channel_id="463808" tvg-name="SABC1.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="SABC1.za" channel id="463808" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
@@ -73,7 +73,7 @@ https://stream1.freetv.fun/3abffa79ffa8ba59f32bb06d9183af4848168b3630195e8787c1a
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
 #EXTINF:-1 group-title="Sport",CBS Sports
 https://stream1.freetv.fun/09309d5a6190fe5fdf32bb990f703186b68aa19ee643280c230a0f744e23d10c.ctv
-#EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png" group-title="Sport",CBS Sports HQ
+
 #EXTINF:-1 group-title="Sport",CBS Sports Network
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/267357
 #EXTINF:-1 group-title="Sport",CBS Sports Network
@@ -306,7 +306,7 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://116.90.120.151:8000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png" group-title="Kids", Disney Channel 
 http://89.105.221.127/Disney/index.m3u8?token=test
-#EXTINF:-1 group-title="Kids", Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" group-title="Kids", Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738" group-title="Kids", DisneyJr
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
