@@ -9,8 +9,8 @@ https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="SABC News.za" channel id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="TV", SABC News 
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC Lehae.za" channel id="SABC Lehae.za" group-title="TV", Lehae
-https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="SABC Lehae.za" channel id="SABC Lehae.za" tvg-logo="https://i.imgur.com/YhdnZHH.png" group-title="TV", Lehae
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="SABC 1 HD.za" channel id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="SABC News.za" channel id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="TV", SABC News
