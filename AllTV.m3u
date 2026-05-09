@@ -190,10 +190,13 @@ https://stream1.freetv.fun/f65cf94d5430bf5d8162074fff7eb4d70fa5536d3301bd0f5384a
 https://jmp2.uk/stvp-GB51000026A
 #EXTINF:-1 group-title="Sport",Rally TV_2
 https://di4fb7mbsq3nf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Sport",Red Bull TV 2
-https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
 #EXTINF:-1 group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Sport",Red Bull TV 2
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+##https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
 #EXTINF:-1 group-title="Sport",Red Bull TV UK
 https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sport",Red Bull TV US
