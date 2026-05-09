@@ -1,22 +1,22 @@
 #EXTM3U x-tvg-url= "https://www.open-epg.com/files/southafrica1.xml; https://www.open-epg.com/files/southafrica2.xml; https://www.open-epg.com/files/unitedkingdom.xml"
 # --- Lifestyle ---
-#EXTINF:-1 tvg-id="SABC 1 HD.za" id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" tvg-shift="2"  group-title="TV", SABC 1 HD
+#EXTINF:-1 tvg-id="SABC 1 HD.za" channel id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" tvg-shift="2"  group-title="TV", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="SABC 2 HD.za" id="SABC 2 HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" tvg-shift="2" group-title="TV", SABC 2 HD
+#EXTINF:-1 tvg-id="SABC 2 HD.za" channel id="SABC 2 HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" tvg-shift="2" group-title="TV", SABC 2 HD
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC 3 HD.za" id="SABC 3 HD.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" tvg-shift="2" group-title="TV", SABC 3 HD
+#EXTINF:-1 tvg-id="SABC 3 HD.za" channel id="SABC 3 HD.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" tvg-shift="2" group-title="TV", SABC 3 HD
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC News.za" id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" tvg-shift="2" group-title="TV", SABC News 
+#EXTINF:-1 tvg-id="SABC News.za" channel id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" tvg-shift="2" group-title="TV", SABC News 
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC Lehae.za" id="SABC Lehae.za" group-title="TV", Lehae
+#EXTINF:-1 tvg-id="SABC Lehae.za" channel id="SABC Lehae.za" group-title="TV", Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC 1 HD.za" id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" tvg-shift="2" group-title="TV", SABC 1 HD (Backup)
+#EXTINF:-1 tvg-id="SABC 1 HD.za" channel id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" tvg-shift="2" group-title="TV", SABC 1 HD (Backup)
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC News.za" id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" tvg-shift="2" group-title="TV", SABC News (Backup)
+#EXTINF:-1 tvg-id="SABC News.za" channel id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" tvg-shift="2" group-title="TV", SABC News (Backup)
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist.m3u8
 
 # --- News ---
-#EXTINF:-1 tvg-id="BBC News.uk" id="BBC News.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="News", BBC News
+#EXTINF:-1 tvg-id="BBC News.uk" channel id="BBC News.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="News", BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="News", ABC News AU
@@ -121,13 +121,13 @@ http://103.157.248.140:8000/play/a012/index.m3u8
 
 
 # --- England ---
-#EXTINF:-1 tvg-id="BBC One.uk" id="BBC One.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png" group-title="England", BBC 1
+#EXTINF:-1 tvg-id="BBC One.uk" channel id="BBC One.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png" group-title="England", BBC 1
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c_output_0.m3u8
-#EXTINF:-1 tvg-id="BBC Two.uk" id="BBC Two.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png" group-title="England", BBC 2
+#EXTINF:-1 tvg-id="BBC Two.uk" channel id="BBC Two.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png" group-title="England", BBC 2
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
-#EXTINF:-1 tvg-id="BBC Three.uk" id="BBC Three.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png" group-title="England", BBC 3
+#EXTINF:-1 tvg-id="BBC Three.uk" channel id="BBC Three.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png" group-title="England", BBC 3
 https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
-#EXTINF:-1 tvg-id="BBC Four.uk" id="BBC Four.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png" group-title="England", BBC 4
+#EXTINF:-1 tvg-id="BBC Four.uk" channel id="BBC Four.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png" group-title="England", BBC 4
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 
 #EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="England", Britbox Mystries
