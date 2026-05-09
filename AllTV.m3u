@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url= "https://www.open-epg.com/files/southafrica1.xml"
+#EXTM3U x-tvg-url= "https://www.open-epg.com/files/southafrica1.xml; https://www.open-epg.com/files/southafrica2.xml; https://www.open-epg.com/files/unitedkingdom.xml"
 # --- Lifestyle ---
-#EXTINF:-1 channel id="SABC 1 HD.za" display-name="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
+#EXTINF:-1 tvg-id="SABC 1 HD.za" display-name="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="SABC 1 HD.za" id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
