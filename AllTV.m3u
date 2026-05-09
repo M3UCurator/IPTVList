@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/southafrica1.xml, https://www.open-epg.com/files/southafrica2.xml"
 
 # --- Lifestyle ---
-#EXTINF:-1 tvg-id="SABC 1 HD.za" id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
+#EXTINF:-1 tvg-id="SABC 1 HD.za" id="SABC 1 HD.za" tvg-name="SABC 1 HD" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="SABC 2 HD.za" channel id="SABC 2 HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="TV", SABC 2 HD
+#EXTINF:-1 tvg-id="SABC 2 HD.za" channel id="SABC 2 HD.za" tvg-name="SABC 2 HD" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="TV", SABC 2 HD
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC 3 HD.za" channel id="SABC 3 HD.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="TV", SABC 3 HD
+#EXTINF:-1 tvg-id="SABC 3 HD.za" channel id="SABC 3 HD.za" tvg-name="SABC 3 HD" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="TV", SABC 3 HD
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC News.za" channel id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="TV", SABC News 
+#EXTINF:-1 tvg-id="SABC News.za" channel id="SABC News.za" tvg-name="SABC News" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="TV", SABC News 
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC Lehae.za" channel id="SABC Lehae.za" tvg-logo="https://i.imgur.com/YhdnZHH.png" group-title="TV", Lehae
+#EXTINF:-1 tvg-id="SABC Lehae.za" channel id="SABC Lehae.za" tvg-name="SABC Lehae" tvg-logo="https://i.imgur.com/YhdnZHH.png" group-title="TV", SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="SABC 1 HD.za" channel id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
@@ -83,7 +83,7 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://116.90.120.151:8000/play/a0hp/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png" group-title="Kids", Disney Channel 
 http://89.105.221.127/Disney/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" group-title="Kids", Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="https://tvassets.roarzone.info/images/79.png" group-title="Kids", Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738" group-title="Kids", DisneyJr
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
@@ -122,8 +122,6 @@ https://senth3ta.cdn.mangomolo.com/pht/smil:pht.stream.smil/chunklist_b3500000_t
 https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Documentary", CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/35.png" group-title="Documentary", National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary", National Geographic
 http://103.157.248.140:8000/play/a012/index.m3u8
 
