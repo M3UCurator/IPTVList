@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml; https://i.mjh.nz/DStv/za.xml.gz; https://i.mjh.nz/world/epg.xml.gz; https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml.gz, https://i.mjh.nz/world/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # --- Lifestyle ---
 #EXTINF:-1 tvg-id="463808" channel_id="463808" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
