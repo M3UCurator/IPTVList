@@ -55,10 +55,10 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Sport",CBS Sports Network
 https://stream1.freetv.fun/09309d5a6190fe5fdf32bb990f703186b68aa19ee643280c230a0f744e23d10c.ctv
+#EXTINF:-1 tvg-id="a90a91570ce0536cbb22b591ad7e0da2" tvg-name="NBC Sports NOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" group-title="Sport", NBC Sports Now
+https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/nbc-sports-logo.png" tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="Sport", NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/nbc-sports-logo.png" tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="Sport", NBC Sports
-https://tvpass.org/live/nbc-sports-boston/hd
 #EXTINF:-1 group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="SABC Sport.za" channel id="SABC Sport.za"  group-title="Sport", SABC Sports HD
