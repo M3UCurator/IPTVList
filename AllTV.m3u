@@ -1,17 +1,17 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/all/epg.xml.gz; https://i.mjh.nz/DStv/za.xml.gz; https://i.mjh.nz/world/epg.xml.gz", https://epg.pw/xmltv/epg_lite.xml, https://www.open-epg.com/generate/daa32jSdN9.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/DStv/za.xml.gz; https://i.mjh.nz/world/epg.xml.gz"
 
 # --- Lifestyle ---
-#EXTINF:-1 tvg-id="SABC1.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
+#EXTINF:-1 tvg-id="191.dstv_com" channel id="191.dstv_com" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="SABC1.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
+#EXTINF:-1 tvg-id="192.dstv_com" channel id="192.dstv_com" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC2.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="TV", SABC 2 HD
+#EXTINF:-1 tvg-id="192.dstv_com" channel id="193.dstv_com" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="TV", SABC 2 HD
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC3.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="TV", SABC 3 HD
+#EXTINF:-1 tvg-id="193.dstv_com" channel id="193.dstv_com" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="TV", SABC 3 HD
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="TV", SABC News 
+#EXTINF:-1 tvg-id="SABCNews.za" channel id="404.dstv_com" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="TV", SABC News 
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="TV",SABC News
+#EXTINF:-1 tvg-id="SABC News.za" channel id="404.dstv_com" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="TV",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="TV", Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
