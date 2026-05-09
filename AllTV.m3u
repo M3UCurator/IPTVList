@@ -49,8 +49,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 ##https://livestream.zazerconer.workers.dev/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
 
 # --- Sport ---
-#EXTINF:-1 tvg-id="ACISportTV.it" tvg-logo="https://www.tvdream.net/img/acisport-tv.png" group-title="Sport",ACI Sport TV 
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sport", BEIN Extra (xumo)
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Sport",CBS Sports Network
