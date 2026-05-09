@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url= "https://www.open-epg.com/files/southafrica1.xml, https://www.open-epg.com/files/southafrica2.xml, https://epg.pw/xmltv/epg_lite.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/southafrica1.xml, https://www.open-epg.com/files/southafrica2.xml"
 
 # --- Lifestyle ---
 #EXTINF:-1 tvg-id="SABC 1 HD.za" id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
@@ -11,9 +11,9 @@ https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="SABC Lehae.za" channel id="SABC Lehae.za" group-title="TV", Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC 1 HD.za" channel id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" tvg-shift="2" group-title="TV", SABC 1 HD (Backup)
+#EXTINF:-1 tvg-id="SABC 1 HD.za" channel id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC News.za" channel id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" tvg-shift="2" group-title="TV", SABC News (Backup)
+#EXTINF:-1 tvg-id="SABC News.za" channel id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="TV", SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist.m3u8
 
 # --- News ---
