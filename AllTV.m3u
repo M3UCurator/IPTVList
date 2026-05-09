@@ -122,9 +122,9 @@ https://senth3ta.cdn.mangomolo.com/pht/smil:pht.stream.smil/chunklist_b3500000_t
 https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Documentary", CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png"group-title="Documentary", National Geographic
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/35.png" group-title="Documentary", National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png"group-title="Documentary", National Geographic
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary", National Geographic
 http://103.157.248.140:8000/play/a012/index.m3u8
 
 
@@ -173,11 +173,9 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="USA",Crime + Investigation
 https://tvpass.org/live/CrimePlusInvestigation/hd
-#EXTINF:-1 group-title="USA",Discovery Channel
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/43.png" group-title="USA",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 group-title="USA", Ebony Tv
-https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
-#EXTINF:-1 group-title="USA", Ebony Tv_2
 https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
 #EXTINF:-1 group-title="USA", Entrepreneur TV
 https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
