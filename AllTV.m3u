@@ -158,8 +158,7 @@ https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 http://212.32.241.201:8000/play/a00g
 
 # --- USA ---
-#EXTINF:-1 group-title="USA", Artflix Classic Movies
-https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/640px-USA_Network_2025_logo.svg.png" group-title="USA", USA Network
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/640px-USA_Network_2025_logo.svg.png" group-title="USA", USA Network East
@@ -182,6 +181,8 @@ https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv
 https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="USA",CBS
 http://stream.cammonitorplus.net/1810/index.m3u8
+#EXTINF:-1 group-title="USA", Artflix Classic Movies
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="USA", Fox 11 Green Bay
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
@@ -296,8 +297,6 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Uncategorized", KIX
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
-#EXTINF:-1 group-title="Uncategorized", KIX
-https://stream1.freetv.fun/482fc1351cc36a139ebaf7306f56cab38b03d890c05a5482b22063d369702565.m3u8
 #EXTINF:-1 tvg-id="KnowledgeNetwork.ca" tvg-logo="https://i.pinimg.com/originals/0d/58/a7/0d58a735ecc07aa3cfe6a226a8dd7aa7.png" group-title="Uncategorized", Knowledge Network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:-1 group-title="Uncategorized", Midnight Pulp
@@ -316,32 +315,14 @@ https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 #EXTINF:-1 group-title="Uncategorized", XPTVUS 2
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 
-#EXTINF:-1 group-title="Uncategorized", Urban Action
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8
-#EXTINF:-1 group-title="Uncategorized", Unchained
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8
-#EXTINF:-1 group-title="Uncategorized", Bravo Plus +1
-https://i.mjh.nz/.r/bravo-plus1.m3u8
-#EXTINF:-1 group-title="Uncategorized", Brit Asia
-https://hls.autopo.st/hls/britasiatv/index.m3u8
-#EXTINF:-1 group-title="Uncategorized", BRT 1
-https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8
-#EXTINF:-1 group-title="Uncategorized",SuperTV
-http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
-#EXTINF:-1 group-title="Uncategorized",Super J TV
-https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1 group-title="Uncategorized",TVRI World
 https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 group-title="Uncategorized",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1 group-title="Uncategorized",TVL World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-#EXTINF:-1 group-title="Uncategorized",Star Movies Select
-http://202.70.146.135:8000/play/a06q/index.m3u8
-#EXTINF:-1 group-title="Uncategorized",Entertainment Tonight
-https://stream1.freetv.fun/593d4a82e4ae834709234a78adb6d9066cd39398b35096f651dad683e1fa5355.m3u8
-#EXTINF:-1 group-title="Uncategorized",Discovery World
-https://stream1.freetv.fun/ca4aac164327de2806c1d1c1436c082ba9c83f99b350e31a4f0b2ee99e2cf442.m3u8
-#EXTINF:-1 group-title="Uncategorized",Wu Tang Collection
-https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
+#EXTINF:-1 group-title="Uncategorized", Bravo Plus +1
+https://i.mjh.nz/.r/bravo-plus1.m3u8
+
+
 
