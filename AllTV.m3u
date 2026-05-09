@@ -1,12 +1,13 @@
 #EXTM3U x-tvg-url= "https://www.open-epg.com/files/southafrica1.xml; https://www.open-epg.com/files/southafrica2.xml; https://www.open-epg.com/files/unitedkingdom.xml"
+
 # --- Lifestyle ---
-#EXTINF:-1 tvg-id="SABC 1 HD.za" channel id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" tvg-shift="2"  group-title="TV", SABC 1 HD
+#EXTINF:-1 tvg-id="SABC 1 HD.za" channel id="SABC 1 HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="SABC 2 HD.za" channel id="SABC 2 HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" tvg-shift="2" group-title="TV", SABC 2 HD
+#EXTINF:-1 tvg-id="SABC 2 HD.za" channel id="SABC 2 HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="TV", SABC 2 HD
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC 3 HD.za" channel id="SABC 3 HD.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" tvg-shift="2" group-title="TV", SABC 3 HD
+#EXTINF:-1 tvg-id="SABC 3 HD.za" channel id="SABC 3 HD.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="TV", SABC 3 HD
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="SABC News.za" channel id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" tvg-shift="2" group-title="TV", SABC News 
+#EXTINF:-1 tvg-id="SABC News.za" channel id="SABC News.za" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="TV", SABC News 
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="SABC Lehae.za" channel id="SABC Lehae.za" group-title="TV", Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
@@ -60,7 +61,7 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 https://tvpass.org/live/nbc-sports-boston/hd
 #EXTINF:-1 group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="SABCSport.za" group-title="Sport", SABC Sports HD
+#EXTINF:-1 tvg-id="SABC Sport.za" channel id="SABC Sport.za"  group-title="Sport", SABC Sports HD
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
 
