@@ -141,13 +141,9 @@ https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 #EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="England", Britbox Mystries
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
 #EXTINF:-1 group-title="England", ITV 2
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
-#EXTINF:-1 group-title="England", ITV 2_2
 http://185.19.191.2:8090/ITV2/index.m3u8
 #EXTINF:-1 group-title="England", ITV 3
 http://81.137.213.119:4201/bysid/8294
-#EXTINF:-1 group-title="England", ITV 3_2
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 group-title="England", ITV 4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
@@ -155,23 +151,23 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
 # --- USA ---
 
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/640px-USA_Network_2025_logo.svg.png" group-title="USA", USA Network
+#EXTINF:-1 tvg-id="USA Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/640px-USA_Network_2025_logo.svg.png" group-title="USA", USA Network
 https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/640px-USA_Network_2025_logo.svg.png" group-title="USA", USA Network East
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/640px-USA_Network_2025_logo.svg.png" group-title="USA", USA Network East
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/3390
-#EXTINF:-1 tvg-id="CleoTV.us" tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110289_dark_360w_270h.png" group-title="USA", CleoTv
+#EXTINF:-1 tvg-id="Cleo TV.us" tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110289_dark_360w_270h.png" group-title="USA", CleoTv
 http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/573316.ts
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/court-tv-logo.png" group-title="USA", Court TV
+#EXTINF:-1 tvg-id="Court TV.us" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/court-tv-logo.png" group-title="USA", Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://www.liblogo.com/img-logo/co1534c153-comedy-central-logo-comedy-central-logo-custom-by-mickeyfan123-on-.png" group-title="USA",Comedy Central
+#EXTINF:-1 tvg-id="Comed yCentral.us" tvg-logo="https://www.liblogo.com/img-logo/co1534c153-comedy-central-logo-comedy-central-logo-custom-by-mickeyfan123-on-.png" group-title="USA",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="USA",Crime 360
+#EXTINF:-1 tvg-id="Crime 360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="USA",Crime 360
 https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/43.png" group-title="USA",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 group-title="USA", Ebony Tv
 https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="USA",CBS
+#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="USA",CBS
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="USA", NBC
 http://4.59.210.197:8815/udp/127.0.0.1:6009
@@ -240,12 +236,8 @@ https://streamdot.broadpeak.io/cff02a74da64d1457be50b4b7f746bff/afxpstr/TrueAfri
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 group-title="Nature & Travel", BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 group-title="Nature & Travel", National Geographic Wild 
-http://103.157.248.140:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="Nature & Travel", Tanzania Safari Channel
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
-#EXTINF:-1 group-title="Nature & Travel", Wild Earth
-https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 group-title="Nature & Travel", Travel Escapes
 https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Nature & Travel", Wild Earth
