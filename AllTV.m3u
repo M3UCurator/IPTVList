@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz; https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # --- Lifestyle ---
 #EXTINF:-1 tvg-id="SABC.1.HD.za" tvg-name="SABC 1 HD" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 HD
