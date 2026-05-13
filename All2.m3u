@@ -1,31 +1,31 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/all/epg.xml.gz; https://i.mjh.nz/DStv/za.xml.gz; https://i.mjh.nz/world/epg.xml.gz", https://epg.pw/xmltv/epg_lite.xml, https://www.open-epg.com/generate/daa32jSdN9.xml.gz" 
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # --- Lifestyle ---
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV" tvg-logo="https://i.imgur.com/G8OXWe4.png", SABC 1 HD
+#EXTINF:-1 tvg-chno="" tvg-id="SABC.1.HD.za" group-title="TV" tvg-logo="https://i.imgur.com/G8OXWe4.png", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV" tvg-logo="https://i.imgur.com/rj6i9sn.png", SABC 2 HD
+#EXTINF:-1 tvg-chno="" tvg-id="SABC.2.HD.za" group-title="TV" tvg-logo="https://i.imgur.com/rj6i9sn.png", SABC 2 HD
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV" tvg-logo="https://i.imgur.com/eEhLk1D.png", SABC 3 HD
+#EXTINF:-1 tvg-chno="" tvg-id="SABC.3.HD.za" group-title="TV" tvg-logo="https://i.imgur.com/eEhLk1D.png", SABC 3 HD
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg", SABC News 
+#EXTINF:-1 tvg-chno="" tvg-id="SABC.News.za" group-title="TV" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg", SABC News 
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV" tvg-logo="https://i.imgur.com/YhdnZHH.png", SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png", BBC 1
+#EXTINF:-1 tvg-chno="" tvg-id="BBC.One.Lon.HD.uk" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png", BBC 1
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c_output_0.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", BBC 2
+#EXTINF:-1 tvg-chno="" tvg-id="BBC.Two.HD.uk" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", BBC 2
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png", BBC 3
+#EXTINF:-1 tvg-chno="" tvg-id="BBC.Three.HD.uk" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png", BBC 3
 https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png", BBC 4
+#EXTINF:-1 tvg-chno="" tvg-id="BBC.Four.HD.uk" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png", BBC 4
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV", ITV
