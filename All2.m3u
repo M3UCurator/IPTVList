@@ -74,6 +74,33 @@ http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/365
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="Sport" tvg-logo="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png",TNT 4
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/1819
 
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/NowSportspl.webp", Now Sports PL 1
+https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B21&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPUtBTkFlZWN4Y3o=
+
+
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="Sport"  
+
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="Sport" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png", Now Sports PL 3
+https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B23&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPTV1aUtDR1ROQ0Y=
+
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="Sport" tvg-logo="https://logo.m3uassets.com/nowsports4.png", Now Sports 4
+https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B24&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWVvZVlkanJrVWc=
+
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="Sport" tvg-logo="https://logo.m3uassets.com/nowsports4.png", Now Sports 5
+https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B25&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWx1ME5PZnRHZ2c=
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="Sport" tvg-logo="https://logo.m3uassets.com/nowsports4.png", Now Sports 6
+https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B26&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM4JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdRNHBpNURUeTM=
+
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="Sport" tvg-logo="https://logo.m3uassets.com/nowsports4.png", Now Sports 7
+https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B27&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPXJSbWhlMVRzWDc=
+
+
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="Sport"",Bein Sport US
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/506
 
