@@ -1,49 +1,49 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/generate/JVDwzRJDcu.xml.gz" refresh="3600"
 
 # --- Lifestyle ---
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="SABC.1.HD.za" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-1-za.png", SABC 1 HD
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="SABC.1.HD.za" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-1-za.png?raw=true", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="SABC.2.HD.za" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/sabc-2-za.png?raw=true", SABC 2 HD
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="SABC.3.HD.za" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-3-za.png", SABC 3 HD
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="SABC.3.HD.za" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-3-za.png?raw=true", SABC 3 HD
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="SABC.News.za" group-title="TV" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg", SABC News 
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="SABC.News.za" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-news-za.png?raw=true", SABC News 
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="TV" tvg-logo="https://i.imgur.com/YhdnZHH.png", SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="BBC.One.Lon.HD.uk" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png", BBC 1
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="BBC.One.Lon.HD.uk" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true", BBC 1
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c_output_0.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="BBC.Two.HD.uk" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png", BBC 2
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="BBC.Two.HD.uk" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true", BBC 2
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="BBC.Three.HD.uk" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png", BBC 3
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="BBC.Three.HD.uk" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true", BBC 3
 https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="BBC.Four.HD.uk" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-four-uk.png", BBC 4
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="BBC.Four.HD.uk" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-four-uk.png?raw=true", BBC 4
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-1-uk.png" group-title="TV", ITV
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-1-uk.png?raw=true" group-title="TV", ITV
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/1985
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" ttvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png" group-title="TV",ITV 2
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" ttvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-2-uk.png?raw=true" group-title="TV",ITV 2
 http://185.19.191.2:8090/ITV2/index.m3u8 
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png",ITV 3
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true",ITV 3
 http://81.137.213.119:4201/bysid/8294
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png",ITV 4
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true",ITV 4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png", ABC
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/539
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-us.png", FOX
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/512
 
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV" tvg-logo="https://i.imgur.com/PWnHe3b.png", NBC
