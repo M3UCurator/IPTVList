@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="SABC.1.HD.za" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-1-za.png", SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="SABC.2.HD.za" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-2-za.png", SABC 2 HD
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="SABC.2.HD.za" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/sabc-2-za.png?raw=true", SABC 2 HD
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="SABC.3.HD.za" group-title="TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-3-za.png", SABC 3 HD
