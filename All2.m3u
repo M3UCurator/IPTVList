@@ -70,6 +70,15 @@ https://1nyaler.screenistream.xyz/stream/15/index.m3u8
 https://1nyaler.screenistream.xyz/stream/14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 Max HD" tvg-logo="https://archive.org/download/bein-sports-max-9/Bein_Sports_Max_8.png" tvg-chno="" group-title="Sport",beIN Sports 8 Max HD
 https://1nyaler.screenistream.xyz/stream/13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" tvg-chno="" group-title="Sport", BEIN 1 (TR)
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/bein-sports-2-us.png?raw=true" group-title="Sport", BEIN 2 (TR)
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/bein-sports-3-us.png?raw=true" group-title="Sport", BEIN 3 (TR)
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/bein-sports-4-us.png?raw=true" group-title="Sport", BEIN 4 (TR)
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 Peacock" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" tvg-chno="" group-title="Sport",beIN Sports 3 Peacock
 https://1nyaler.screenistream.xyz/stream/19/index.m3u8
 #EXTINF:-1 tvg-id="485735" tvg-name="NBC Sports Network" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" tvg-chno="" group-title="Sport",NBC Sports Network
@@ -91,13 +100,13 @@ http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/544
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/eurosport-1-uk.png?raw=true" tvg-chno="" group-title="Sport",EUROSPORTS 1
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/1812
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" tvg-chno="" group-title="Sport",EUROSPORTS 2
-http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/1811
+http://185.102.171.218/Eurosport2HD/index.m3u8
 #EXTINF:-1 tvg-id="219100" tvg-name="Premier Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg" tvg-chno="" group-title="Sport",Premier Sports 1
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/1807
 #EXTINF:-1 tvg-id="219104" tvg-name="Premier Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg" tvg-chno="" group-title="Sport",Premier Sports 2
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/1808
 #EXTINF:-1 tvg-id="465248" tvg-name="Fox Sports 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-chno="" group-title="Sport",Fox Sports 1
-http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/553
+http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="465280" tvg-name="Fox Sports 2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-chno="" group-title="Sport",Fox Sports 2
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/7759
 #EXTINF:-1 tvg-id="465214" tvg-name="Fox Soccer Plus" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-soccer-plus-us.png?raw=true" tvg-chno="" group-title="Sport",Fox Soccer Plus
