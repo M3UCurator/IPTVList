@@ -32,6 +32,8 @@ http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/539
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/512
 #EXTINF:-1 tvg-id="465059" tvg-name="NBC" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" tvg-chno="" group-title="TV",NBC
 http://4.59.210.197:8815/udp/127.0.0.1:6009
+#EXTINF:-1 tvg-id="464941" tvg-name="CBS" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" tvg-chno="" group-title="TV",CBS 2 New York
+http://stream.cammonitorplus.net/1810/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="465006" tvg-name="USA Network" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-chno="" group-title="TV",USA Network
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="464937" tvg-name="CBS Sports" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-chno="" group-title="Sport",CBS Sports
@@ -116,4 +118,5 @@ https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d
 https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B26&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM4JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdRNHBpNURUeTM=
 #EXTINF:-1 tvg-id="" tvg-name="Now Sports 7" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/hong-kong/now-sports-7-hk.png?raw=true" tvg-chno="" group-title="Sport",Now Sports 7
 https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B27&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPXJSbWhlMVRzWDc=
-
+#EXTINF:-1 tvg-id="465010" tvg-name="Willow" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" tvg-chno="" group-title="Sport",Willow
+http://premimum.online/live/jen12345/jen54321/215.ts
