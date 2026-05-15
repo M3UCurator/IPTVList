@@ -27,11 +27,11 @@ http://81.137.213.119:4201/bysid/8294
 #EXTINF:-1 tvg-id="486853" tvg-name="ITV 4" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" tvg-chno="" group-title="TV",ITV 4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 tvg-id="464902" tvg-name="ABC" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true" tvg-chno="" group-title="TV",ABC
-http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/539
+http://stream.cammonitorplus.net/1809/index.m3u8
 #EXTINF:-1 tvg-id="WNYW51.us@HD" tvg-name="FOX" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" tvg-chno="" group-title="TV",FOX
-http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/512
+http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-id="465059" tvg-name="NBC" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" tvg-chno="" group-title="TV",NBC
-http://4.59.210.197:8815/udp/127.0.0.1:6009
+http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:-1 tvg-id="464941" tvg-name="CBS" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" tvg-chno="" group-title="TV",CBS 2 New York
 http://stream.cammonitorplus.net/1810/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="465006" tvg-name="USA Network" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-chno="" group-title="TV",USA Network
@@ -39,7 +39,7 @@ https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="" tvg-name="SABC Sports" tvg-logo="" tvg-chno="" group-title="Sport", SABC Sports HD
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="464937" tvg-name="CBS Sports" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-chno="" group-title="Sport",CBS Sports
-http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/79740
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3712.ts
 #EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-chno="" group-title="Sport",Red Bull TV
 https://di4fb7mbsq3nf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="400477" tvg-name="TNT 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-chno="" group-title="Sport",TNT 1
@@ -78,11 +78,10 @@ https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/bein-sports-4-us.png?raw=true" group-title="Sport", BEIN 4 (TR)
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 Peacock" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" tvg-chno="" group-title="Sport",beIN Sports 3 Peacock
 https://1nyaler.screenistream.xyz/stream/19/index.m3u8
 #EXTINF:-1 tvg-id="485735" tvg-name="NBC Sports Network" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" tvg-chno="" group-title="Sport",NBC Sports Network
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-name="TSN 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-chno="" group-title="Sport",TSN 1
 http://nocable.cc:8080/9196458810/leebee1957@att.net/57292
 #EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-chno="" group-title="Sport",TSN 2
@@ -94,25 +93,25 @@ http://nocable.cc:8080/9196458810/leebee1957@att.net/66783
 #EXTINF:-1 tvg-id="" tvg-name="TSN 5" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-chno="" group-title="Sport",TSN 5
 http://nocable.cc:8080/9196458810/leebee1957@att.net/57467
 #EXTINF:-1 tvg-id="465198" tvg-name="ESPN" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" tvg-chno="" group-title="Sport",ESPN
-http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/7763
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="465373" tvg-name="ESPN 2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" tvg-chno="" group-title="Sport",ESPN 2
-http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/544
+http://41.223.30.230/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/eurosport-1-uk.png?raw=true" tvg-chno="" group-title="Sport",EUROSPORTS 1
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/1812
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" tvg-chno="" group-title="Sport",EUROSPORTS 2
 http://185.102.171.218/Eurosport2HD/index.m3u8
 #EXTINF:-1 tvg-id="219100" tvg-name="Premier Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg" tvg-chno="" group-title="Sport",Premier Sports 1
-http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/1807
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89089.ts
 #EXTINF:-1 tvg-id="219104" tvg-name="Premier Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg" tvg-chno="" group-title="Sport",Premier Sports 2
-http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/1808
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/89090.ts
 #EXTINF:-1 tvg-id="465248" tvg-name="Fox Sports 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-chno="" group-title="Sport",Fox Sports 1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2501.ts
 #EXTINF:-1 tvg-id="465280" tvg-name="Fox Sports 2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-chno="" group-title="Sport",Fox Sports 2
-http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/7759
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2500.ts
 #EXTINF:-1 tvg-id="465214" tvg-name="Fox Soccer Plus" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-soccer-plus-us.png?raw=true" tvg-chno="" group-title="Sport",Fox Soccer Plus
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/6206
 #EXTINF:-1 tvg-id="464912" tvg-name="NBA TV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-chno="" group-title="Sport",NBA TV
-http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/533
+http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" tvg-chno="" group-title="Sport",SPOTV HD
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV2 HD" tvg-logo="https://iili.io/MkG2hg.png" tvg-chno="" group-title="Sport",SPOTV2 HD
@@ -130,4 +129,4 @@ https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d
 #EXTINF:-1 tvg-id="" tvg-name="Now Sports 7" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/hong-kong/now-sports-7-hk.png?raw=true" tvg-chno="" group-title="Sport",Now Sports 7
 https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B27&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPXJSbWhlMVRzWDc=
 #EXTINF:-1 tvg-id="465010" tvg-name="Willow" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" tvg-chno="" group-title="Sport",Willow
-http://premimum.online/live/jen12345/jen54321/215.ts
+http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3972.ts
