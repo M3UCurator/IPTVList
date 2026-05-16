@@ -53,7 +53,8 @@ http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/365
 #EXTINF:-1 tvg-id="400478" tvg-name="TNT 4" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-chno="" group-title="Sport",TNT 4
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/1819
 #EXTINF:-1 tvg-id="464754" tvg-name="Bein Sport US" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" tvg-chno="" group-title="Sport",Bein Sport US
-http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/506
+http://23.237.104.106:8080/USA_BEIN/Index.m3u8
+#http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/506
 #http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3612
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" tvg-chno="" group-title="Sport",beIN Sports 1 HD
 https://1nyaler.screenistream.xyz/stream/12/index.m3u8
