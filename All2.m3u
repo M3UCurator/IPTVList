@@ -38,7 +38,7 @@ http://stream.cammonitorplus.net/1810/tracks-v1a1/mono.m3u8
 #http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3621
 #EXTINF:-1 tvg-id="465006" tvg-name="USA Network" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-chno="" group-title="TV",USA Network
 https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 tvg-id="" tvg-name="SABC Sports" tvg-logo="https://sl.bing.net/GgtLPdavGC" tvg-chno="" group-title="Sport", SABC Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="SABC Sports" tvg-logo="https://iconape.com/wp-content/png_logo_vector/sabc-sport-logo.png" tvg-chno="" group-title="Sport", SABC Sports HD
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="464937" tvg-name="CBS Sports" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-chno="" group-title="Sport",CBS Sports
 http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/3712.ts
