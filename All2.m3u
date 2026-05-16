@@ -111,7 +111,8 @@ http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/
 #EXTINF:-1 tvg-id="" group-title="Sport", Fox Sports 
 https://amg02855-foxsports-amg02855c1-lg-us-1388.playouts.now.amagi.tv/playlist/amg02855-foxnewsnetwork-foxsports-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="465248" tvg-name="Fox Sports 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-chno="" group-title="Sport",Fox Sports 1
-http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2501.ts
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+#http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2501.ts
 #http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3645
 #EXTINF:-1 tvg-id="465280" tvg-name="Fox Sports 2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-chno="" group-title="Sport",Fox Sports 2
 http://realsport.scalecdn.co:8080/live/supersonicstreams/cUewZolveU8Jh18jk34BDJ/2500.ts
