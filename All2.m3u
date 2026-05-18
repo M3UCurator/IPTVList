@@ -56,6 +56,12 @@ http://stream.cammonitorplus.net/1810/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="465006" tvg-name="USA Network" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-chno="" group-title="TV",USA Network
 https://tvpass.org/live/USANetworkEast/hd
 
+#EXTINF:-1 tvg-id="" tvg-name="Home Plus" tvg-logo="" group-title="TV", Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TV", Today Allday
+https://d37kx062o4ii0p.cloudfront.net/master.m3u8
+
 #EXTINF:-1 tvg-id="465150" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/ABC-News.png" tvg-chno="" group-title="Global News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
@@ -127,4 +133,12 @@ https://jmp2.uk/stvp-USBD420002446
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Sport", TalkSport
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" tvg-id="" tvg-name="Mindset Learn" group-title="Education", Mindset Learn
+https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" tvg-id="" group-title="Education", SABC Education HD
+https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+
+
 
