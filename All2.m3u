@@ -177,7 +177,7 @@ https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/RUSSIA-TODAY/RUSSIA-TODAY_140x140.png" group-title="Kids", Cartoon_Network_3
-https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+http://epicboss.live:80/live/bjune@teksavvy.com/5193594414/124590.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://companieslogo.com/img/orig/TOON-a2def49e.png?t=1720244494" group-title="Kids", Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
