@@ -222,8 +222,6 @@ https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" tvg-id="" group-title="Education", SABC Education HD
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports", TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
@@ -239,7 +237,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports",DD Sport
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/03/gol_classics_logo.jpg" roup-title="Global Sports",Gol Classics
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/03/gol_classics_logo.jpg" group-title="Global Sports",Gol Classics
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/K/ktv-logo-703754480A-seeklogo.com.png" group-title="Global Sports",KTV Sport
@@ -272,12 +270,12 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports", TYCSports Fan
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="Global General",TVRI World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global General",TVRI World
 https://live.teleradiocom.tj/8/3m.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="Global General",KBS World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global General",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""group-title="Global General",TVL World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global General",TVL World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 
