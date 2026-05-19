@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_GB.xml, https://epg.pw/xmltv/epg_US.xmlc, https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz, https://www.open-epg.com/generate/JVDwzRJDcu.xml.gz" refresh="3600"
 
-#EXTINF:-1 tvg-id="SABC.1.HD.za" tvg-name="SABC 1 HD" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-1-za.png?raw=true" tvg-chno="" group-title="TV",SABC 1 HD
+#EXTINF:-1 tvg-id="SABC.1.HD.za" tvg-name="SABC 1 HD" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-1-za.png?raw=true" tvg-chno="001" group-title="TV",SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-id="SABC.2.HD.za" tvg-name="SABC 2 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/sabc-2-za.png?raw=true" tvg-chno="" group-title="TV",SABC 2 HD
+#EXTINF:-1 tvg-id="SABC.2.HD.za" tvg-name="SABC 2 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/sabc-2-za.png?raw=true" tvg-chno="002" group-title="TV",SABC 2 HD
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-id="SABC.3.HD.za" tvg-name="SABC 3 HD" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-3-za.png?raw=true" tvg-chno="" group-title="TV",SABC 3 HD
+#EXTINF:-1 tvg-id="SABC.3.HD.za" tvg-name="SABC 3 HD" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-3-za.png?raw=true" tvg-chno="003" group-title="TV",SABC 3 HD
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-id="SABC.News.za" tvg-name="SABC News" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-news-za.png?raw=true" tvg-chno="" group-title="TV",SABC News
+#EXTINF:-1 tvg-id="SABC.News.za" tvg-name="SABC News" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-news-za.png?raw=true" tvg-chno="004" group-title="TV",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SABC Lehae" tvg-logo="https://i.imgur.com/YhdnZHH.png" tvg-chno="" group-title="TV",SABC Lehae
+#EXTINF:-1 tvg-id="" tvg-name="SABC Lehae" tvg-logo="https://i.imgur.com/YhdnZHH.png" tvg-chno="005" group-title="TV",SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="486807" tvg-name="BBC 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" tvg-chno="" group-title="TV",BBC 1
