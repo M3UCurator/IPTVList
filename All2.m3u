@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz, https://www.open-epg.com/generate/JVDwzRJDcu.xml.gz" refresh="3600"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-id="SABC.1.HD.za" tvg-name="SABC 1 HD" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-1-za.png?raw=true" tvg-chno="001" group-title="TV",SABC 1 HD
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
@@ -42,48 +42,49 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-chno="010" group-title="TV",USA Network
 https://tvpass.org/live/USANetworkEast/hd
 
-#EXTINF:-1 tvg-id="464902" tvg-name="ABC" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true" tvg-chno="" group-title="TV",ABC
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true" tvg-chno="011" group-title="TV",ABC
 http://stream.cammonitorplus.net/1809/index.m3u8
 #http://41.205.93.154/ABC/index.m3u8
 
-
-#EXTINF:-1 tvg-id="WNYW51.us@HD" tvg-name="FOX" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" tvg-chno="011" group-title="TV",FOX
-http://stream.cammonitorplus.net/1752/index.m3u8
-
-#EXTINF:-1 tvg-id="464941" tvg-name="CBS" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" tvg-chno="012" group-title="TV",CBS 2 New York
+#EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-name="CBS" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" tvg-chno="012" group-title="TV",CBS 2 New York
 http://stream.cammonitorplus.net/1810/tracks-v1a1/mono.m3u8
 #http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3621
 
-#EXTINF:-1 tvg-id="465059" tvg-name="NBC" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" tvg-chno="013" group-title="TV",NBC
+#EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-name="NBC" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/nbc-logo-alt-us.png?raw=true" tvg-chno="013" group-title="TV",NBC
 http://stream.cammonitorplus.net/1812/index.m3u8
 
 
-#EXTINF:-1 tvg-id="465150" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/ABC-News.png" tvg-chno="" tvg-chno="014" group-title="Global News", ABC News
+#EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/ABC-News.png" tvg-chno="" tvg-chno="014" group-title="Global News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="464941" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CBSN.png" tvg-chno="" tvg-chno="015" group-title="Global News", CBS News
+#EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/CBSN.png" tvg-chno="" tvg-chno="015" group-title="Global News", CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="465372" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/LiveNOW_from_Fox.webp" tvg-chno="016" group-title="Global News", Fox Now
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/LiveNOW_from_Fox.webp" tvg-chno="016" group-title="Global News", Fox Now
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="017" group-title="Global News", NBC News Now
-https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-
-#EXTINF:-1 tvg-id="GlobalNews.ca" tvg-chno="018" group-title="Global News", Global News
+#EXTINF:-1 tvg-id="Global.BC.ca2" tvg-chno="017" group-title="Global News", Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-id="486800" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/BBC-World-News.png" tvg-chno="019" group-title="Global News", BBC News
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/BBC-World-News.png" tvg-chno="018" group-title="Global News", BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 
-#EXTINF:-1 tvg-id="9504" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Sky-News.png" tvg-chno="020" group-title="Global News", Sky News
+#EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Sky-News.png" tvg-chno="019" group-title="Global News", Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
-#EXTINF:-1 tvg-id="3474" tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-chno="021" group-title="Global News", ABC News AU
+#EXTINF:-1 tvg-id="Al.Jazeera.English.ca2" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Al-Jazeera.png" tvg-chno="020" group-title="Global News", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" tvg-chno="021" group-title="TV",FOX
+http://stream.cammonitorplus.net/1752/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="022" group-title="Global News", NBC News Now
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+
+#EXTINF:-1 tvg-id="3474" tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-chno="023" group-title="Global News", ABC News AU
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
-#EXTINF:-1 tvg-id="470415" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Al-Jazeera.png" tvg-chno="022" group-title="Global News", Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-chno="023" group-title="Global News", Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
@@ -96,7 +97,6 @@ https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-chno="026" group-title="Documentary", Crime 360
 https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="027" group-title="Documentary", Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
