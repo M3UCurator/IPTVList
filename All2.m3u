@@ -239,7 +239,7 @@ https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/K/ktv-logo-703754480A-seeklogo.com.png" group-title="Global Sports",KTV Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.arabtimesonline.com/uploads/imported_images/2023/06/ktv-sports.jpg group-title="Global Sports", KTV Sport Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.arabtimesonline.com/uploads/imported_images/2023/06/ktv-sports.jpg" group-title="Global Sports", KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports",SETENTA 1
@@ -248,7 +248,7 @@ http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS1HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="Global Sports",SETENTA 2
 http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS2HD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/50/1/tvr-sport-logo-png_seeklogo-509876.png group-title="Global Sports",TVR Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/50/1/tvr-sport-logo-png_seeklogo-509876.png" group-title="Global Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_(2019)_ver2.svg/revision/latest/scale-to-width-down/1200?cb=20190331112412" group-title="Global Sports",TVRI Sport
