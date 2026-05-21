@@ -125,7 +125,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TJ-logo_.png.png/revision/latest?cb=20200828151620" tvg-chno="" group-title="Kids", Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="Kids", SpongeBob 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/2ebff561-be15-4cad-bbd0-f61d67a8fda4/scale-to-width/755" tvg-chno="" group-title="Kids", SpongeBob 
 http://lucidhosting.xyz:82/abrigeman/1jBKCpy7mc/2604
 
 #EXTINF:-1 tvg-id="038" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/cna-channel-news-asia-hk.png?raw=true" tvg-chno="" group-title="Documentary", CNA Originals
