@@ -183,7 +183,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Sport", Goal TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Sport", SABC Sports HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/6555ceebad.jpg" tvg-chno="" group-title="Sport", SABC Sports HD
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Global Sports", Futbol
@@ -210,7 +210,7 @@ https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" tvg-chno="" tvg-id="" tvg-name="Mindset Learn" group-title="Education", Mindset Learn
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" tvg-id="" group-title="Education", SABC Education HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="http://file.efarmers.co.za/client/assets/img/logo-sabc-education.png" tvg-id="" group-title="Education", SABC Education HD
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports", TUDN
