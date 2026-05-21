@@ -66,7 +66,7 @@ https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Global.BC.ca2" tvg-chno="017"   tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/global-bc-ca.png?raw=true" group-title="Global News", Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/BBC-World-News.png" tvg-chno="018" group-title="Global News", BBC News
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/bbc-world-news-int.png?raw=true" tvg-chno="018" group-title="Global News", BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
 
 #EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Sky-News.png" tvg-chno="019" group-title="Global News", Sky News
@@ -117,7 +117,7 @@ https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Kiddo+" tvg-logo="" tvg-chno="033" group-title="Kids", Kiddo+
 https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="" tvg-chno="034" group-title="Kids", Dreamworks
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/dreamworks-channel-hk.png?raw=true" tvg-chno="034" group-title="Kids", Dreamworks
 https://github.com/s48139104-netizen/IPTV/raw/refs/heads/main/Dreamworks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://companieslogo.com/img/orig/TOON-a2def49e.png?t=1720244494" tvg-chno="035" group-title="Kids", Kartoon Channel
@@ -129,19 +129,16 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="037" group-title="Kids", Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="038" group-title="Kids", Tom & Jerry
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Documentary", Bloomberg Originals
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" tvg-chno="" group-title="Documentary", Bloomberg Originals
 https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Documentary", CNA Originals
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/cna-channel-news-asia-hk.png?raw=true" tvg-chno="" group-title="Documentary", CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-chno="026" group-title="Documentary", Crime 360
 https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Documentary", Court TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" tvg-chno="" group-title="Documentary", Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Documentary", Documentary+
@@ -150,7 +147,7 @@ https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Documentary", Documentary+ International
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Documentary", RT Documentary
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/rt-documentary-int.png?raw=true" tvg-chno="" group-title="Documentary", RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Home Plus" tvg-logo="" group-title="TV", Home Plus
@@ -265,6 +262,9 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports", TYCSports Fan
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports",Caze Tv
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global General",TVRI World
 https://live.teleradiocom.tj/8/3m.m3u8
