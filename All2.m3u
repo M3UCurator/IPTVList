@@ -53,7 +53,7 @@ http://stream.cammonitorplus.net/1810/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" tvg-chno="013" group-title="TV",NBC
 http://stream.cammonitorplus.net/1812/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/ABC-News.png" tvg-chno="" tvg-chno="014" group-title="Global News", ABC News
+#EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-logo="https://iptvboss.xyz/logos/USA/ABCNewsLive.us.png" tvg-chno="" tvg-chno="014" group-title="Global News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-logo="https://iptvboss.xyz/logos/USA/CBSNews.us.png" tvg-chno="" tvg-chno="015" group-title="Global News", CBS News
