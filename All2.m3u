@@ -83,7 +83,7 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 tvg-id="3474" tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-chno="023" group-title="Global News", ABC News AU
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="023" group-title="Global News", Sky News Weather
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SkyNewsWeatherChannelAU.svg/1200px-SkyNewsWeatherChannelAU.svg.png" tvg-chno="023" group-title="Global News", Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvboss.xyz/logos/South_Africa/CartoonNetwork.za.png" tvg-chno="024" group-title="Kids", Cartoon Network Asia
