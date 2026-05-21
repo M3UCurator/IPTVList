@@ -122,7 +122,7 @@ https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="036" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/df/5a/70df5a45-d3af-e622-114a-bce9b42f2b1c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png" group-title="Kids", KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="Kids", Tom & Jerry
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TJ-logo_.png.png/revision/latest?cb=20200828151620" tvg-chno="" group-title="Kids", Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="Kids", SpongeBob 
