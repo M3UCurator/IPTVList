@@ -46,18 +46,17 @@ https://tvpass.org/live/USANetworkEast/hd
 http://stream.cammonitorplus.net/1809/index.m3u8
 #http://41.205.93.154/ABC/index.m3u8
 
-#EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-name="CBS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" tvg-chno="012" group-title="TV",CBS 2 New York
+#EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-name="CBS" tvg-logo="https://iptvboss.xyz/logos/USA/CBS.png" tvg-chno="012" group-title="TV",CBS 2 New York
 http://stream.cammonitorplus.net/1810/tracks-v1a1/mono.m3u8
 #http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3621
 
 #EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" tvg-chno="013" group-title="TV",NBC
 http://stream.cammonitorplus.net/1812/index.m3u8
 
-
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/ABC-News.png" tvg-chno="" tvg-chno="014" group-title="Global News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" tvg-chno="" tvg-chno="015" group-title="Global News", CBS News
+#EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-logo="https://iptvboss.xyz/logos/USA/CBSNews.us.png" tvg-chno="" tvg-chno="015" group-title="Global News", CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/LiveNOW_from_Fox.webp" tvg-chno="016" group-title="Global News", Fox Now
@@ -75,10 +74,10 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 tvg-id="Al.Jazeera.English.ca2" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/Al-Jazeera.png" tvg-chno="020" group-title="Global News", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-5-wnyw-us.png?raw=true" tvg-chno="021" group-title="TV",FOX
+#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX" tvg-logo="https://iptvboss.xyz/logos/USA/FoxEast_WNYW.us.png" tvg-chno="021" group-title="TV",FOX
 http://stream.cammonitorplus.net/1752/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="022" group-title="Global News", NBC News Now
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptvboss.xyz/logos/USA/NBCNewsNow.us.png" tvg-chno="022" group-title="Global News", NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 
 #EXTINF:-1 tvg-id="3474" tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-chno="023" group-title="Global News", ABC News AU
