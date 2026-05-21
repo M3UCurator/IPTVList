@@ -12,7 +12,7 @@ https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600
 #EXTINF:-1 tvg-id="SABC.News.za" tvg-name="SABC News" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-news-za.png?raw=true" tvg-chno="004" group-title="TV",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SABC Lehae" tvg-logo="https://i.imgur.com/YhdnZHH.png" tvg-chno="005" group-title="TV",SABC Lehae
+#EXTINF:-1 tvg-id="" tvg-name="SABC Lehae" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg" tvg-chno="005" group-title="TV",SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" tvg-chno="006" group-title="TV",BBC 1
