@@ -83,7 +83,7 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 tvg-id="3474" tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-chno="023" group-title="Global News", ABC News AU
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SkyNewsWeatherChannelAU.svg/1200px-SkyNewsWeatherChannelAU.svg.png" tvg-chno="023" group-title="Global News", Sky News Weather
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5tj8kWSX/skynewsweather.png" tvg-chno="023" group-title="Global News", Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvboss.xyz/logos/South_Africa/CartoonNetwork.za.png" tvg-chno="024" group-title="Kids", Cartoon Network Asia
@@ -288,4 +288,15 @@ https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global General",TVL World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title=" Global News",TRT World
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Global News",NHK World-Japan
+https://nhk.lls.pbs.org/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/KBS-World.png" group-title="Global News",KBS World
+#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+https://liveh12.vtvprime.vn/hls/KBS/index.m3u8
 
