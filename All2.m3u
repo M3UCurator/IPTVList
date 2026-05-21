@@ -104,7 +104,7 @@ http://lucidhosting.xyz:82/abrigeman/1jBKCpy7mc/2607
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvboss.xyz/logos/South_Africa/MoonbugKids.za.png"  tvg-chno="030" group-title="Kids", Moonbug
 https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-kids-us.png"  tvg-chno="031" group-title="Kids",PBS Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-kids-dot-icon-us.png?raw=true"  tvg-chno="031" group-title="Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="032" tvg-name="BBC Kids" tvg-logo="https://static.wikia.nocookie.net/kids-tv-channel/images/e/e0/1200px-BBC_Kids_logo.svg.png/revision/latest?cb=20200225224040" group-title="Kids",BBC Kids
