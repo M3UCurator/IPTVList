@@ -251,8 +251,18 @@ https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_(2019)_ver2.svg/revision/latest/scale-to-width-down/1200?cb=20190331112412" group-title="Global Sports",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports",TVL Sport
 http://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports",TW Sport 1
+https://live-aburayhan1104.telewebion.ir/ek/sport1/live/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports",TW Sport 2
+https://live-aburayhan1105.telewebion.ir/ek/sport2/live/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports",TW Sport 3
+https://live-aburayhan1110.telewebion.ir/ek/sport3/live/1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1 tvg-logo="https://i.postimg.cc/6qDg2JN8/rtasport.png" group-title="Global Sports",RTA Sport
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
@@ -266,19 +276,19 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports", Caze Tv
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports", SportyTv
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Sport Stream", Bein 1
-https://love.sayob28681.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports", T Sports
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Sport Stream", MatchNow
 https://match-now.site/hls/b1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Sport Stream", Bein 1
+https://love.sayob28681.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global General",TVRI World
 https://live.teleradiocom.tj/8/3m.m3u8
@@ -286,7 +296,7 @@ https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global General",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global General",TVL World
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global General", TVL World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title=" Global News",TRT World
@@ -294,7 +304,6 @@ https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Global News",NHK World-Japan
 https://nhk.lls.pbs.org/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1"  tvg-chno="" group-title="Sport", FS1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
