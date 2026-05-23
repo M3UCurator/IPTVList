@@ -65,22 +65,6 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2b
 #EXTINF:-1  tvg-chno="024" group-title="TV tvg-id="" user-agent="Wink/1.31.1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Sky_News_Weather_Channel_Logo.jpg/330px-Sky_News_Weather_Channel_Logo.jpg",Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global General",TVRI World
-https://live.teleradiocom.tj/8/3m.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global General",KBS World
-https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global General", TVL World
-https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title=" Global News",TRT World
-https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Global News",NHK World-Japan
-https://nhk.lls.pbs.org/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/KBS-World.png" group-title="Global News",KBS World
-#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-https://liveh12.vtvprime.vn/hls/KBS/index.m3u8
+FOX 501
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 
