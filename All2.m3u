@@ -183,7 +183,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 #EXTINF:-1 tvg-id="" user-agent="Wink/1.31.1" tvg-logo="" tvg-chno="" group-title="Sport", Goal TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" tvg-chno="" group-title="Sport", FS1
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" tvg-chno="" group-title="Sport", FS1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/6555ceebad.jpg" tvg-chno="" group-title="Sport", SABC Sports HD
