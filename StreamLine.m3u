@@ -65,6 +65,5 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2b
 #EXTINF:-1  tvg-chno="024" group-title="Global News" tvg-id="" user-agent="Wink/1.31.1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Sky_News_Weather_Channel_Logo.jpg/330px-Sky_News_Weather_Channel_Logo.jpg",Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
-#EXTINF:-1  tvg-chno="025" group-title="Global News" tvg-id="" user-agent="Wink/1.31.1" ,FOX 501
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-
+#EXTINF:-1  tvg-chno="025" group-title="Global News" tvg-id="" user-agent="Wink/1.31.1" ,FOX Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
