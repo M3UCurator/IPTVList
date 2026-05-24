@@ -198,7 +198,7 @@ https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" tvg-chno="" group-title="Sport", Sports Connect
 https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" tvg-chno="" group-title="Sport", Womens Sports Network
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://i.imgur.com/rhIwUcQ.png" tvg-chno="" group-title="Sport", Womens Sports Network
 https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" tvg-name="ESPN8 The Ocho" tvg-logo="" group-title="Sport", ESPN8 The Ocho 
@@ -231,7 +231,7 @@ https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Spotv02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://seeklogo.com/images/Q/qazsport-logo-1A972E1836-seeklogo.com.png" group-title="Global Sports",QazSport
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports", A Spor
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Global Sports", A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports",DD Sport
@@ -240,10 +240,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/03/gol_classics_logo.jpg" group-title="Global Sports",Gol Classics
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://seeklogo.com/images/K/ktv-logo-703754480A-seeklogo.com.png" group-title="Global Sports",KTV Sport
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="Global Sports",KTV Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.arabtimesonline.com/uploads/imported_images/2023/06/ktv-sports.jpg" group-title="Global Sports", KTV Sport Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="Global Sports", KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports",SETENTA 1
@@ -316,10 +316,10 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports", MSG Sports
 https://d2a31kzot4f8t3.cloudfront.net/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports", Bahrain Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Global Sports", Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/sportsone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports", Bahrain Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Global Sports", Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/bahrainsportstwo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" user-agent="Wink/1.31.1" tvg-logo="" group-title="Global Sports", 1TV Sport
