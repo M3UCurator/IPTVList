@@ -261,8 +261,6 @@ https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports",TVP Sport
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_(2019)_ver2.svg/revision/latest/scale-to-width-down/1200?cb=20190331112412" group-title="Global Sports",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -288,8 +286,6 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports", TYCSports Fan
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports", Caze Tv
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports", SportyTv
@@ -350,4 +346,27 @@ http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/KBS-World.png" group-title="Global News",KBS World
 #https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://liveh12.vtvprime.vn/hls/KBS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="WC 2026", TSN 1
+
+#EXTINF:-1 tvg-id="" tvg-name="Telamundo Deportes" tvg-logo="" tvg-chno="" tvg-shift="" group-title="WC 2026",Telamundo Deportes 
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" tvg-chno="" tvg-shift="" group-title="WC 2026",Fox Deportes 
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4hYYpiu.png" tvg-chno="" group-title="WC 2026",TVP Sport
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" tvg-logo="https://i.imgur.com/2PoEm1x.png" group-title="WC 2026",DSports 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  tvg-logo="https://i.imgur.com/iyYLNRt.png" group-title="WC 2026",DeporTV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  tvg-logo="https://i.imgur.com/wrZfMXn.png" group-title="WC 2026,Telefe
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="WC 2026,TUDN
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""   tvg-logo="" group-title="WC 2026, Caze Tv
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
