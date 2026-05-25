@@ -207,6 +207,12 @@ https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="Sport", TalkSport
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="Sport", SS Cricket
+https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="Sport", Star Cricket
+https://atc.hopto.org/star-sprts-1-hd-sport/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-logo="" tvg-chno="" group-title="Education", English Club 
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8 
 
@@ -339,18 +345,19 @@ https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Global News",NHK World-Japan
 https://nhk.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" group-title="Sport", FS1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/KBS-World.png" group-title="Global News",KBS World
 #https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://liveh12.vtvprime.vn/hls/KBS/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="WC 2026", TSN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""   tvg-logo="" group-title="WC 2026", Fox
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Telamundo Deportes" tvg-logo="" tvg-chno="" tvg-shift="" group-title="WC 2026",Telamundo Deportes 
-https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" group-title="WC 2026", FS1
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="WC 2026", TSN 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Deportes " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" tvg-chno="" tvg-shift="" group-title="WC 2026",Fox Deportes 
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
@@ -363,9 +370,13 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  tvg-logo="https://i.imgur.com/iyYLNRt.png" group-title="WC 2026",DeporTV
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  tvg-logo="https://i.imgur.com/wrZfMXn.png" group-title="WC 2026",Telefe
+http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe_480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="WC 2026",TUDN
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=NVQrq6a3oZfdBzkefWT1rvdRCoj9XOyx&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJOVlFycTZhM29aZmRCemtlZldUMXJ2ZFJDb2o5WE95eCIsImV4cCI6MTY1NjE5ODE4NSwiYWRfcGFycyI6eyJkZnAiOnsiaXVfdmFsdWVfZnJvbV9wYWdlIjoiL3VuZGVmaW5lZC9yZC51bml2aXNpb25fdmlkZW9fZGVwb3J0ZXMvZGFpIiwidXJsIjoiaHR0cHM6Ly93d3cudHVkbi5jb20vdHVkbi1saXZlc3RyZWFtLTI0LTciLCJwbGF5ZXJfd2lkdGgiOiI3NTMiLCJwbGF5ZXJfaGVpZ2h0IjoiNDI0IiwicHAiOiJEZXNrdG9wQml0UmF0ZXMiLCJtdnBkIjoidGVtcF9wYXNzIn19LCJ2aWQiOiJhZHN0a1pqME52S3F6QjZlIiwidXNlcl9wYXJzIjp7InByZWZlcnJlZF9jZG4iOnsibmFtZSI6ImFrYW1haSIsImZvcmNlIjp0cnVlfX19.Y9JMF-b_SUsCZ3WMkjU1cmNkiHvT7lmvYLsVbCx-Dhg
+
+#EXTINF:-1 tvg-id="" tvg-name="Telamundo Deportes" tvg-logo="" tvg-chno="" tvg-shift="" group-title="WC 2026",Telamundo Deportes 
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""   tvg-logo="" group-title="WC 2026", Caze Tv
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
