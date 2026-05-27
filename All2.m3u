@@ -152,8 +152,8 @@ https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="046" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/evVIud42yl9aiQ==/bf04720c-d113-4728-a69a-a0ebc800e7b3/CHgQeDoFMS4xLjlAAQ==" group-title="TV", Today Allday
 https://d37kx062o4ii0p.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="045" tvg-name="Home Plus" tvg-logo="" group-title="TV", Home Plus
-https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="045" tvg-name="Home Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="TV", Fox Sports 501
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-chno="050" group-title="Sport", CBS Sports Network
 https://d2zcho4un89rnb.cloudfront.net/slot/1/fronts.woff2?6d09d3
@@ -188,7 +188,7 @@ http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/6555ceebad.jpg" tvg-chno="" group-title="Sport", SABC Sports HD
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="Global Sports", Futbol
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rafail1982.uz/logo/football.png" tvg-chno="" group-title="Global Sports", Futbol
 https://live.teleradiocom.tj/8/3m.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" tvg-chno="" group-title="Sport", Sports Illustrated
@@ -251,10 +251,10 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="Global Sports", KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports",SETENTA 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="Global Sports",SETENTA 1
 http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS1HD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=""  group-title="Global Sports",SETENTA 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png"  group-title="Global Sports",SETENTA 2
 http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS2HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/50/1/tvr-sport-logo-png_seeklogo-509876.png" group-title="Global Sports",TVR Sport
