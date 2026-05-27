@@ -387,11 +387,11 @@ https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp" tvg-chno=""  group-title="WC 2026", Caze Tv
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="WC 2026",TVRI Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_(2019)_ver2.svg/revision/latest/scale-to-width-down/1200?cb=20190331112412" tvg-chno="" group-title="WC 2026",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20002.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  group-title="WC 2026",Teledeporte 1
 http://92.176.119.180:2095/play/a16t
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  group-title="WC 2026",Tigo Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-chno=""  group-title="WC 2026",Tigo Sport
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
