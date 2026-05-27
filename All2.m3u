@@ -194,7 +194,7 @@ https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" tvg-chno="" group-title="Sport", Sports Illustrated
 https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-235-CAMPUSLORE-SPORTS-SPORTSTRIBALTV/mt/sportstribaltv/235/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="Sport", Sports Connect
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://stacksports.com/wp-content/uploads/2024/02/Sports-Connect.png" tvg-chno="" group-title="Sport", Sports Connect
 https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rhIwUcQ.png" tvg-chno="" group-title="Sport", Womens Sports Network
@@ -261,7 +261,7 @@ http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS2HD.m3u8
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports",TVR 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CKQ7mpB.png" group-title="Global Sports",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist.m3u8
 
 
@@ -349,11 +349,13 @@ https://nhk.lls.pbs.org/index.m3u8
 #https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://liveh12.vtvprime.vn/hls/KBS/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""   tvg-logo="" group-title="WC 2026", Fox
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" tvg-chno=""   tvg-logo="" group-title="WC 2026", Fox
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" group-title="WC 2026", FS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="WC 2026", FS1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="WC 2026", Fox Soccer Plus
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="WC 2026", TSN 1
 
@@ -373,19 +375,20 @@ http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="WC 2026",TUDN
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=NVQrq6a3oZfdBzkefWT1rvdRCoj9XOyx&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJOVlFycTZhM29aZmRCemtlZldUMXJ2ZFJDb2o5WE95eCIsImV4cCI6MTY1NjE5ODE4NSwiYWRfcGFycyI6eyJkZnAiOnsiaXVfdmFsdWVfZnJvbV9wYWdlIjoiL3VuZGVmaW5lZC9yZC51bml2aXNpb25fdmlkZW9fZGVwb3J0ZXMvZGFpIiwidXJsIjoiaHR0cHM6Ly93d3cudHVkbi5jb20vdHVkbi1saXZlc3RyZWFtLTI0LTciLCJwbGF5ZXJfd2lkdGgiOiI3NTMiLCJwbGF5ZXJfaGVpZ2h0IjoiNDI0IiwicHAiOiJEZXNrdG9wQml0UmF0ZXMiLCJtdnBkIjoidGVtcF9wYXNzIn19LCJ2aWQiOiJhZHN0a1pqME52S3F6QjZlIiwidXNlcl9wYXJzIjp7InByZWZlcnJlZF9jZG4iOnsibmFtZSI6ImFrYW1haSIsImZvcmNlIjp0cnVlfX19.Y9JMF-b_SUsCZ3WMkjU1cmNkiHvT7lmvYLsVbCx-Dhg
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="WC 2026",TUDN [2]
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Telamundo Deportes" tvg-logo="" tvg-chno="" tvg-shift="" group-title="WC 2026",Telamundo Deportes 
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""   tvg-logo="" group-title="WC 2026", Caze Tv
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  group-title="WC 2026"",TVRI Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  group-title="WC 2026",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20002.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  group-title="WC 2026"",Teledeporte 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  group-title="WC 2026",Teledeporte 1
 http://92.176.119.180:2095/play/a16t
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  group-title="WC 2026"",Tigo Sport
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  group-title="WC 2026",Tigo Sport
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
