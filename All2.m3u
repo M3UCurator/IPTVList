@@ -384,10 +384,10 @@ http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telamundo Deportes" tvg-logo="" tvg-chno="" tvg-shift="" group-title="WC 2026",Telamundo Deportes 
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp" tvg-chno=""   tvg-logo="" group-title="WC 2026", Caze Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp" tvg-chno=""  group-title="WC 2026", Caze Tv
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  group-title="WC 2026",TVRI Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="WC 2026",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20002.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  group-title="WC 2026",Teledeporte 1
