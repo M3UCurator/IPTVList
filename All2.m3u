@@ -188,17 +188,11 @@ https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b16
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rafail1982.uz/logo/football.png" tvg-chno="" group-title="Global Sports", Futbol
 https://live.teleradiocom.tj/8/3m.m3u8
 
-#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="" tvg-chno="" group-title="Sport", Sports Illustrated
-https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-235-CAMPUSLORE-SPORTS-SPORTSTRIBALTV/mt/sportstribaltv/235/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0sNWg54.png" tvg-chno="" group-title="Sport", Sports Connect
 https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rhIwUcQ.png" tvg-chno="" group-title="Sport", Womens Sports Network
 https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" tvg-name="ESPN8 The Ocho" tvg-logo="" group-title="Sport", ESPN8 The Ocho 
-https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" tvg-chno="" group-title="Sport", TalkSport
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
@@ -217,9 +211,6 @@ https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="http://file.efarmers.co.za/client/assets/img/logo-sabc-education.png" tvg-id="" group-title="Education", SABC Education HD
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport Stream", MatchNow
-https://match-now.site/hls/b1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Sport Stream", Bein 1
 https://love.sayob28681.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
