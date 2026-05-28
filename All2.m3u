@@ -62,7 +62,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/Corvisier/iptv_streams/main/logos/LiveNOW_from_Fox.webp" tvg-chno="016" group-title="Global News", Fox Now
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 
-#EXTINF:-1 tvg-id="Global.BC.ca2" tvg-chno="017" user-agent="Wink/1.31.1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/global-bc-ca.png?raw=true" group-title="Global News", Global News
+#EXTINF:-1 tvg-id="Global.BC.ca2" tvg-chno="017" user-agent="Wink/1.31.1" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Global News", Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/bbc-world-news-int.png?raw=true" tvg-chno="018" group-title="Global News", BBC News
@@ -110,7 +110,7 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="032" tvg-name="BBC Kids" tvg-logo="https://static.wikia.nocookie.net/kids-tv-channel/images/e/e0/1200px-BBC_Kids_logo.svg.png/revision/latest?cb=20200225224040" group-title="Kids",BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" Kiddo+" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Kiddo512X512_blackz1.png" tvg-chno="033" group-title="Kids", Kiddo+
+#EXTINF:-1 tvg-id="" tvg-name=" Kiddo+" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png" tvg-chno="033" group-title="Kids", Kiddo+
 https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/dreamworks-channel-hk.png?raw=true" tvg-chno="034" group-title="Kids", Dreamworks
@@ -181,9 +181,6 @@ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playl
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-hz-us.png?raw=true" tvg-chno="054" group-title="Sport", Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Sport", Goal TV
-https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" tvg-chno="" group-title="Sport", FS1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
