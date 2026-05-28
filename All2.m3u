@@ -271,7 +271,7 @@ https://live-aburayhan1110.telewebion.ir/ek/sport3/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lEXrwos.jpg" group-title="Global Sports",RTA Sport
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports", TYCSports Fan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Global Sports", TYCSports Fan
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Global Sports", SpoTV
@@ -365,6 +365,10 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=NVQrq6a3oZfdB
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="WC 2026",TUDN [2]
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo"https://i.imgur.com/TQ4uJZk.png" tvg-chno="" tvg-shift="" group-title="WC 2026",M4 Sport
+https://c401-node61-cdn.connectmedia.hu/110304/53e539527895f143b0a8c34976eeba8d/6a181a02/304-M4_NOGEO-avc1_1800000=6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Telamundo Deportes" tvg-logo="" tvg-chno="" tvg-shift="" group-title="WC 2026",Telamundo Deportes 
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352
