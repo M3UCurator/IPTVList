@@ -200,7 +200,7 @@ https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" group-title="Sport", SS Cricket
 https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" tvg-chno="" group-title="Sport", Star Cricket
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020730016588_22.png" tvg-chno="" group-title="Sport", Star Cricket
 https://atc.hopto.org/star-sprts-1-hd-sport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-logo="https://i.imgur.com/9FMvaRK.png" tvg-chno="" group-title="Education", English Club 
@@ -325,7 +325,7 @@ https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global General", TVL World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title=" Global News",TRT World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164224699889_88.png" group-title=" Global News",TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Global News",NHK World-Japan
