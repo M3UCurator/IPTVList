@@ -325,7 +325,7 @@ https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global General", TVL World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title=" Global News",TRT World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title=" Global News",TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Global News",NHK World-Japan
