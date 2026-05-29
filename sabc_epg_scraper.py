@@ -10,6 +10,7 @@ from datetime import datetime, timedelta
 import logging
 from typing import List, Dict, Optional
 import json
+import gzip
 
 # Configure logging
 logging.basicConfig(
@@ -278,7 +279,7 @@ class SABCSportScraper:
         return xml
     
     def scrape_and_generate(self, channel: str, date: str, 
-                           output_file: str = None) -> Optional[bytes]:
+                           output_file: str = None, compress: bool = False) -> Optional[bytes]:
         """
         Complete workflow: fetch, parse, and generate EPG
         
@@ -286,9 +287,10 @@ class SABCSportScraper:
             channel: Channel name
             date: Date in YYYY-MM-DD format
             output_file: Optional output file path
+            compress: Whether to compress output with gzip
             
         Returns:
-            XML bytes, or None if failed
+            XML bytes (or gzipped bytes if compress=True), or None if failed
         """
         logger.info(f"Starting scrape for {channel} on {date}")
         
@@ -310,16 +312,22 @@ class SABCSportScraper:
         # Generate EPG XML
         xml = self.create_epg_xml(channel, programmes)
         
+        # Compress if requested
+        output_data = xml
+        if compress:
+            output_data = gzip.compress(xml)
+            logger.info("Output compressed with gzip")
+        
         # Save to file if specified
         if output_file:
             try:
                 with open(output_file, 'wb') as f:
-                    f.write(xml)
+                    f.write(output_data)
                 logger.info(f"EPG saved to {output_file}")
             except Exception as e:
                 logger.error(f"Error saving to {output_file}: {e}")
         
-        return xml
+        return output_data
 
 
 def main():
@@ -332,12 +340,14 @@ def main():
     xml = scraper.scrape_and_generate(
         channel="sabc_sport",
         date=today,
-        output_file="sabc_sport_epg.xml"
+        output_file="sabc_sport_epg.xml.gz",
+        compress=True
     )
     
     if xml:
         print("EPG generated successfully!")
-        print(xml.decode('utf-8')[:500])  # Print first 500 chars
+        print(f"Output file: sabc_sport_epg.xml.gz")
+        print(f"Compressed size: {len(xml)} bytes")
     else:
         print("Failed to generate EPG")
 
