@@ -259,8 +259,8 @@ https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_(2019)_ver2.svg/revision/latest/scale-to-width-down/1200?cb=20190331112412" group-title="Global Sports",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports",TVL Sport
-http://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvl.it/wp-content/uploads/2025/03/tvl_logo.png" group-title="Global Sports",TVL Sport
+https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global Sports",TW Sport 1
 https://live-aburayhan1104.telewebion.ir/ek/sport1/live/1080p/index.m3u8
