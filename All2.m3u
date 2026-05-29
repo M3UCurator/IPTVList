@@ -313,7 +313,7 @@ https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Global Sports", SportItalia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Global General",TVRI World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvlogo.org/indonesia/tvri-world-id.png" group-title="Global General",TVRI World
 https://live.teleradiocom.tj/8/3m.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QCjEJll.png" group-title="Global General",KBS World
