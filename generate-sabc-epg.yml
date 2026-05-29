@@ -1,0 +1,110 @@
+name: Generate SABC Sport EPG
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: 'Channel to scrape'
+        required: false
+        default: 'sabc_sport'
+        type: choice
+        options:
+          - sabc_sport
+          - sabc_sport_1
+          - sabc_sport_2
+      date:
+        description: 'Date in YYYY-MM-DD format (leave empty for today)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  generate-epg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Generate EPG
+        env:
+          CHANNEL: ${{ github.event.inputs.channel || 'sabc_sport' }}
+          DATE: ${{ github.event.inputs.date || '' }}
+        run: |
+          python3 << 'EOF'
+          import os
+          from datetime import datetime
+          from sabc_epg_scraper import SABCSportScraper
+          
+          scraper = SABCSportScraper()
+          channel = os.getenv('CHANNEL', 'sabc_sport')
+          date = os.getenv('DATE', '')
+          
+          if not date:
+              date = datetime.now().strftime("%Y-%m-%d")
+          
+          print(f"Generating EPG for {channel} on {date}...")
+          
+          xml = scraper.scrape_and_generate(
+              channel=channel,
+              date=date,
+              output_file="sabc_sport_epg.xml.gz",
+              compress=True
+          )
+          
+          if xml:
+              print("✓ EPG generated successfully!")
+              print(f"✓ File size: {len(xml)} bytes")
+              print(f"✓ Output: sabc_sport_epg.xml.gz")
+          else:
+              print("✗ Failed to generate EPG")
+              exit(1)
+          EOF
+      
+      - name: Verify output file
+        run: |
+          if [ -f "sabc_sport_epg.xml.gz" ]; then
+            ls -lh sabc_sport_epg.xml.gz
+            file sabc_sport_epg.xml.gz
+            echo "✓ File verification passed"
+          else
+            echo "✗ Output file not found"
+            exit 1
+          fi
+      
+      - name: Commit and push EPG file
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          git add sabc_sport_epg.xml.gz
+          git commit -m "chore: update SABC Sport EPG ($DATE)" || echo "No changes to commit"
+          git push
+      
+      - name: Upload artifact
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: sabc-sport-epg
+          path: sabc_sport_epg.xml.gz
+          retention-days: 7
