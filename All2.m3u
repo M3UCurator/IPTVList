@@ -183,7 +183,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" tvg-chno="" group-title="Sport", FS1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/6555ceebad.jpg" tvg-chno="" group-title="Sport", SABC Sports HD
+#EXTINF:-1 tvg-id="SABC Sports" tvg-name="" tvg-logo="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/6555ceebad.jpg" tvg-chno="" group-title="Sport", SABC Sports HD
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png" tvg-chno="" group-title="Sport", Willow TV
