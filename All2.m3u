@@ -248,7 +248,7 @@ http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS1HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png"  group-title="Global Sports",SETENTA 2
 http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS2HD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/50/1/tvr-sport-logo-png_seeklogo-509876.png" group-title="Global Sports",TVR Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/TVR_Sport#/media/File:TVR_Sport_Logo_2023.svg" group-title="Global Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 
 
