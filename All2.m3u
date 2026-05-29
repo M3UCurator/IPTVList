@@ -152,7 +152,7 @@ https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="046" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/evVIud42yl9aiQ==/bf04720c-d113-4728-a69a-a0ebc800e7b3/CHgQeDoFMS4xLjlAAQ==" group-title="TV", Today Allday
 https://d37kx062o4ii0p.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="045" tvg-name="Home Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="TV", Fox Sports 501
+#EXTINF:-1 tvg-id="045" tvg-name="Fox Sports 501" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="TV", Fox Sports 501
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-chno="050" group-title="Sport", CBS Sports Network
