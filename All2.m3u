@@ -186,7 +186,7 @@ http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/6555ceebad.jpg" tvg-chno="" group-title="Sport", SABC Sports HD
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png" tvg-chno="" group-title="Sport", Willow TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png" tvg-chno="" group-title="Sport", Willow TV
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0sNWg54.png" tvg-chno="" group-title="Sport", Sports Connect
@@ -216,7 +216,7 @@ https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" tvg-chno="" tvg-id="" tvg-name="Mindset Learn" group-title="Education", Mindset Learn
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="http://file.efarmers.co.za/client/assets/img/logo-sabc-education.png" tvg-id="" group-title="Education", SABC Education HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://file.efarmers.co.za/client/assets/img/logo-sabc-education.png" tvg-chno="" tvg-id="" group-title="Education", SABC Education HD
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Sport Stream", Bein 1
