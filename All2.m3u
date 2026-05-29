@@ -185,7 +185,7 @@ http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/6555ceebad.jpg" tvg-chno="" group-title="Sport", SABC Sports HD
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png"" tvg-chno="" group-title="Sport", Willow TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png" tvg-chno="" group-title="Sport", Willow TV
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0sNWg54.png" tvg-chno="" group-title="Sport", Sports Connect
