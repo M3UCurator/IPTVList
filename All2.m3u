@@ -132,6 +132,12 @@ https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/2ebff561-be15-4cad-bbd0-f61d67a8fda4/scale-to-width/755" tvg-chno="" group-title="Kids", SpongeBob 
 http://lucidhosting.xyz:82/abrigeman/1jBKCpy7mc/2604
 
+#EXTINF:-1 , Nickelodeon 2
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=nickelodeon
+
+#EXTINF:-1 , Cartoon Network 2
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=cartoon-network
+
 #EXTINF:-1 tvg-id="038" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/cna-channel-news-asia-hk.png?raw=true" tvg-chno="" group-title="Documentary", CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 
