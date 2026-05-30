@@ -383,6 +383,10 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_(2019)_ver2.svg/revision/latest/scale-to-width-down/1200?cb=20190331112412" tvg-chno="" group-title="WC 2026",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20002.m3u8
 
+
+#EXTINF:-1 group-title="WC 2026",Bein Sports 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVE.png" tvg-chno=""  group-title="WC 2026",Rtve
 https://rtvelivestream.rtve.es/rtvesec/oca/irtve17_main.m3u8
 
