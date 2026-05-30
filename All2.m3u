@@ -2,19 +2,19 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" group-title="TV" tvg-name="SABC 1 HD" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-1-za.png?raw=true",SABC 1 HD
-https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="002" group-title="TV" tvg-id="SABC.2.HD.za" tvg-name="SABC 2 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/sabc-2-za.png?raw=true",SABC 2 HD
-https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="003" group-title="TV" tvg-id="SABC.3.HD.za" tvg-name="SABC 3 HD" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-3-za.png?raw=true",SABC 3 HD
-https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="004" group-title="TV" tvg-id="SABC.News.za" tvg-name="SABC News" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-news-za.png?raw=true",SABC News
-https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="005" group-title="TV" tvg-id="" tvg-name="SABC Lehae" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg",SABC Lehae
-https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="006" group-title="TV" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true",BBC 1
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c_output_0.m3u8
@@ -184,7 +184,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 http://41.223.30.230/FOXSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-id="SABC Sports" tvg-name="" tvg-logo="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/6555ceebad.jpg" tvg-chno="" group-title="Sport", SABC Sports HD
-https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png" tvg-chno="" group-title="Sport", Willow TV
 https://tvsen5.aynaott.com/willowhd/index.m3u8
