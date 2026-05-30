@@ -17,7 +17,7 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist.m3u8
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="006" group-title="TV" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true",BBC 1
-https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c_output_0.m3u8
+https://helpfullive.info/bbcone/tracks-v1a1/mono.ts.m3u8?token=5a5db9fc558a55fba87355b42683b2bb001af858-24ba3c12d8ff11735b6265b0c7d89827-1780142672-1780131872
 
 #EXTINF:-1 tvg-chno="007" group-title="TV" tvg-id="BBC.Two.HD.uk" tvg-name="BBC 2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true",BBC 2
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
