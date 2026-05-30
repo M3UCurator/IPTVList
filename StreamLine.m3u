@@ -80,7 +80,7 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-chno="029" tvg-id="NBC.Sports.HD.1.us2" tvg-name="NBC Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="Sports",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
-EXTINF:-1 tvg-chno="030" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports",SS P. League
+#EXTINF:-1 tvg-chno="030" tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports",SS P. League
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/9334/index.m3u8
 
 #EXTINF:-1 tvg-chno="031" tvg-id="" tvg-logo=""  group-title="Sports",SS Football
