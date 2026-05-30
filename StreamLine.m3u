@@ -12,14 +12,9 @@ https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600
 #EXTINF:-1 tvg-chno="004" group-title="TV" tvg-id="SABC.News.za" tvg-name="SABC News" user-agent="Wink/1.31.1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-news-za.png?raw=true",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-chno="005" group-title="TV" tvg-id="" tvg-name="SABC Lehae" user-agent="Wink/1.31.1" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg",SABC Lehae
-https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-
 #EXTINF:-1 tvg-chno="006" group-title="TV" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true",BBC 1
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c_output_0.m3u8
 
-#EXTINF:-1 tvg-chno="010" group-title="TV" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" user-agent="Wink/1.31.1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network
-https://tvpass.org/live/USANetworkEast/hd
 
 #EXTINF:-1 tvg-chno="011" group-title="TV" tvg-id="ABC.National.Feed.us2" tvg-name="ABC" user-agent="Wink/1.31.1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-us.png?raw=true",ABC
 http://stream.cammonitorplus.net/1809/index.m3u8
