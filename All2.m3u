@@ -137,6 +137,19 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=nickelodeon
 #EXTINF:-1 , Cartoon Network 2
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=cartoon-network
 
+#EXTINF:-1 ,YTA
+https://yta.unitedteleports.tv/hls/YTA/720-HD/YTA-720.m3u8
+
+#EXTINF:-1 ,Fox Sports (P)
+https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
+
+#EXTINF:-1 ,LRT
+https://stream-extralive.lrt.lt/abr_live/live9/playlist_dvr.m3u8 
+
+#EXTINF:-1 ,Oman
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-id="038" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/cna-channel-news-asia-hk.png?raw=true" tvg-chno="" group-title="Documentary", CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 
