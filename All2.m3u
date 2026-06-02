@@ -197,7 +197,8 @@ https://2a7ce3b9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRk
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-hz-us.png?raw=true" tvg-chno="052" group-title="Sport", NBC Sport Now
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fubo-sports-network-us.png?raw=true" tvg-chno="053" group-title="Sport", Fubo Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fubo-sports-network-us.png?raw=true" tvg-chno="053" group-title="Sport", Fubo Sports Network
+#EXTVLCOPT:network-caching=1000
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-hz-us.png?raw=true" tvg-chno="054" group-title="Sport", Tennis Channel
@@ -400,7 +401,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_(2019)_ver2.svg/revision/latest/scale-to-width-down/1200?cb=20190331112412" tvg-chno="" group-title="WC 2026",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20002.m3u8
 
-
 #EXTINF:-1 group-title="WC 2026",Bein Sports 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
@@ -409,3 +409,6 @@ https://rtvelivestream.rtve.es/rtvesec/oca/irtve17_main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-chno=""  group-title="WC 2026",Tigo Sport
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWoIGaLEBbG3cSbr6f3QBV64t9W2zTHH-dw&s",TELEMUNDO 47 
+https://futbol9865.ultratv13.workers.dev/deportivo111/73.m3u8
