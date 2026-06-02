@@ -111,6 +111,7 @@ https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-chno="035" group-title="Sports" tvg-id="" tvg-name="" tvg-logo="https://beinxtraespanol.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png, Bein Extra
 https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8
 
+
 #EXTINF:-1 tvg-chno="036" group-title="Sports" tvg-id="" tvg-name="" tvg-logo="",Fox sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
@@ -150,6 +151,9 @@ https://di4fb7mbsq3nf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="048" group-title="Sports" tvg-id="" tvg-name="" tvg-logo="",Fubo Sports Network
 #EXTVLCOPT:network-caching=1000
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="048" group-title="Sports" tvg-id="" tvg-name=""  tvg-logo="",Fubo Sports Network 2
+https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="049" group-title="Sports" tvg-id="" tvg-name="" tvg-logo="", Sports Illustrated
 https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-235-CAMPUSLORE-SPORTS-SPORTSTRIBALTV/mt/sportstribaltv/235/hls/master/playlist.m3u8
