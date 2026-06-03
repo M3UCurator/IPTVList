@@ -434,7 +434,7 @@ https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-chno="214" group-title="Foreign" tvg-id="" tvg-name="" tvg-logo="https://tvl.it/wp-content/uploads/2025/03/tvl_logo.png",TVL Sport
 https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/chunks.m3u8
 
-##EXTINF:-1 tvg-chno="215" group-title="Foreign" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wrZfMXn.png",Telefe
+#EXTINF:-1 tvg-chno="215" group-title="Foreign" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wrZfMXn.png",Telefe
 http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe_480.m3u8
 
 #EXTINF:-1 tvg-chno="216" group-title="Foreign" tvg-id="" tvg-name="", Sporty TV
