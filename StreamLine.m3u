@@ -392,7 +392,7 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 #EXTINF:-1 tvg-chno="200" group-title="Foreign" tvg-id="" tvg-name="", MatchNow
 https://match-now.site/hls/b1/index.m3u8
 
-#EXTINF:-1 tvg-chno="201" group-title="Foreign" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fBpLsbC.png, Bahrain Sports 1
+#EXTINF:-1 tvg-chno="201" group-title="Foreign" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fBpLsbC.png", Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="202" group-title="Foreign" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZkuZmIo.png", Bahrain Sports 2
