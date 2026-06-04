@@ -57,6 +57,9 @@ https://amg00488-foxdigital-fox11losangeleskttv-vizious-a7b8z.amagi.tv/ts-us-w2-
 #EXTINF:-1 tvg-id="023" tvg-name="" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-chno="038" group-title="Documentary", Crime 360
 https://94a3e237.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/2e47bce2-67ea-4697-84de-30ba5a25d3ff/2.m3u8
 
+#EXTINF:-1 tvg-id="024" tvg-logo="https://i.ibb.co.com/CsvjtFmt/Funny-Junior.png" group-title="TV",Funny Junior HD
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/chunks.m3u8
+
 #EXTINF:-1 tvg-chno="030" tvg-id="SABCSport.za" group-title="Sports" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/SABC-Education-Logo-Vector.svg-.png", SABC Sports (720)
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="031" group-title="Sports" tvg-id="" tvg-name="" ""  tvg-logo="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png", TNT Sports 1 (720)
@@ -83,7 +86,8 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=NVQrq6a3oZfdB
 https://daffodil.formaturamaxi.com.br/fubo.m3u8
 #EXTINF:-1 tvg-chno="041" group-title="Sports" tvg-logo="https://i.imgur.com/7BwABte.png", Fubo Sports 2
 
-
+#EXTINF:-1 tvg-chno="041" group-title="Sports tvg-id="Redbull.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
