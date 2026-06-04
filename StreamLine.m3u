@@ -184,13 +184,13 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 ##Entertainment##
  
 #EXTINF:-1 tvg-chno="060" group-title="Entertainment" tvg-id="" tvg-name=""tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-1-za.png?raw=true",SABC 1
-https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-chno="061" group-title="Entertainment" tvg-id="" tvg-name=""tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/sabc-2-za.png?raw=true",SABC 2
-https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-chno="062" group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/south-africa/sabc-3-za.png?raw=true",SABC 3
-https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist.m3u8
+https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-chno="063" group-title="Entertainment" tvg-id="" tvg-name="" tvg-logo="",ABC 7 NY
 http://stream.cammonitorplus.net/1797/index.m3u8
