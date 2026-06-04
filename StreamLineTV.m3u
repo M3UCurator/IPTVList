@@ -1,0 +1,60 @@
+#EXTM3U url-tvg=""
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-id="SABC1.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 (720)
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="SABC2.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="TV", SABC 2 (720)
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="SABC3.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="TV", SABC 3 (720)
+https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="TV", SABC News (720)
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="Lehae.za" group-title="TV", Lehae (720)
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="SABCEducation.za" group-title="TV", SABC Education (720)
+https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="TV",Mindset Learn (576)
+https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
+#EXTINF:-1 group-title="TV", Wild Earth (720)
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 group-title="TV",Moonbug
+https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8 (1080)
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="" group-title="TV", Localish (720)
+https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index_1.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="",CW Forever (720)
+https://d1sknsnbkyvie.cloudfront.net/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="",CW Gold(720)
+https://d1d726ny1vain2.cloudfront.net/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="", Britbox Mystries (720)
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="", Reelz Famous & Infamous
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="TV", NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
+
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/court-tv-logo.png" group-title="TV", Court TV (1080)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="140" group-title="TV" tvg-id="" tvg-name="",ABC 2020 (720)
+https://d4bq78o8d5tf5.cloudfront.net/ABC_2020_4.m3u8
+
+#EXTINF:-1 tvg-id="SABCSport.za" group-title="Sports", SABC Sports (720)
+https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="" tvg-name="" "" tvg-logo="", TNT Sports 1 (720)
+https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pXrTdWNG4s0INeKOsblzrA&e=2074182240&scheme=https
+
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="" tvg-name=""  tvg-logo="",Fubo Sports Network (720)
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="" tvg-name=""  tvg-logo="",Fubo Sports Network (1080)
+https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
+
+
