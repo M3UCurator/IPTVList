@@ -47,6 +47,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-chno="021" group-title="TV" tvg-id="" tvg-name="",Curiosity Now (720)
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f596419bd749b3d5870e83458677f4099c93a68ace198a8fc77ea802b5670c5e2779cd847896fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3810bd75a8311465dfa8ae1e07dd94a0203b334df770fcee5f05/27/1280x720_3329040/index.m3u8
 
+#EXTINF:-1 tvg-chno="022" group-title="TV" tvg-id="" tvg-name="",FOX 13 (720)
+https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index_1.m3u8
 
 
 
@@ -64,6 +66,29 @@ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u
 https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
 #EXTINF:-1 tvg-chno="034" group-title="Sports" tvg-id="" tvg-name="" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png",Willow TV (720)
 https://tvsen5.aynaott.com/willowhd/index.m3u8
+#EXTINF:-1 tvg-chno="035" tvg-id="" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports", Bein Xtra (720)
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
+#EXTINF:-1 tvg-chno="035" tvg-id="" group-title="Sports" tvg-logo="https://i.imgur.com/xA0l7DP.png", FOX Sports (720)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
+#EXTINF:-1 tvg-chno="036" tvg-id="" group-title="Sports",Caze TV (720)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/en-vtt/index.m3u8
+#EXTINF:-1 tvg-chno="037" tvg-id="" group-title="Sports",BEIN USA (720)
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-chno="050" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="News", BBC News (720)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="051"  tvg-id="ABCAustralia.au" tvg-name="ABC Australia" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="News", ABC Australia News (720)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+#EXTINF:-1 tvg-chno="052" tvg-id="SkyNews.uk" group-title="News", Sky News (720)
+https://d25w9q07b2mtmw.cloudfront.net/live/master_3.m3u8
+#EXTINF:-1 tvg-chno="052" tvg-id="SkyNews.uk" group-title="News", Sky News (1080)
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/05_1080-30.m3u8
+#EXTINF:-1 tvg-chno="052"  tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News", Al Jazeera
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8?wowzasessionid=@iprtlk
+
+
