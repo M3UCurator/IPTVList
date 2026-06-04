@@ -533,7 +533,7 @@ https://srv7.flussonic111.com/PL_TVP2_HD/index.m3u8
 #EXTINF:-1 tvg-chno="245" group-title="Foreign" tvg-id="" tvg-name="",Canal +
 http://151.80.18.177:86/Canal+_sport_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="246" group-title="Foreign" tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/50/1/tvr-sport-logo-png_seeklogo-509876.png ,TVR Sport
+#EXTINF:-1 tvg-chno="246" group-title="Foreign" tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/50/1/tvr-sport-logo-png_seeklogo-509876.png" ,TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 
 #EXTINF:-1 tvg-chno="247" group-title="Foreign" tvg-id="" tvg-name="" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" ,TUDN
