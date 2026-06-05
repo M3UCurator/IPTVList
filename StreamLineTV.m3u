@@ -68,7 +68,7 @@ https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pX
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
 #EXTINF:-1 tvg-chno="033" group-title="Sports" tvg-id="" tvg-name=""  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fubo-sports-network-us.png?raw=true",Fubo Sports Network (1080)
 https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
-#EXTINF:-1 tvg-chno="034" group-title="Sports" tvg-id="" tvg-name="" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png",Willow TV (720)
+#EXTINF:-1 tvg-chno="034" group-title="Sports" tvg-id="" tvg-name="" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png" ,Willow TV (720)
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-chno="035" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Sports", Bein Xtra (720)
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
