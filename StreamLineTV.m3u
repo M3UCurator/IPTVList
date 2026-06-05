@@ -16,7 +16,7 @@ https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b16
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="007" tvg-id="24.7.Dummy.us" group-title="TV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" ,Mindset Learn (576)
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
-#EXTINF:-1 tvg-chno="008" group-title="TV", Wild Earth (720)
+#EXTINF:-1 tvg-chno="008" group-title="TV" tvg-logo="https://i.imgur.com/Vhv5gjN.png", Wild Earth (720)
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 tvg-chno="009" group-title="TV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/MoonbugKids.za.png",Moonbug
 https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8 (1080)
