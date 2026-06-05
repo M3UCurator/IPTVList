@@ -14,11 +14,11 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="006" tvg-id="SABCEducation.za" group-title="TV", SABC Education (720)
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="007" tvg-id="24.7.Dummy.us" group-title="TV",Mindset Learn (576)
+#EXTINF:-1 tvg-chno="007" tvg-id="24.7.Dummy.us" group-title="TV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" ,Mindset Learn (576)
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 #EXTINF:-1 tvg-chno="008" group-title="TV", Wild Earth (720)
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 tvg-chno="009" group-title="TV",Moonbug
+#EXTINF:-1 tvg-chno="009" group-title="TV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/MoonbugKids.za.png",Moonbug
 https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8 (1080)
 #EXTINF:-1 tvg-chno="010" tvg-id="" tvg-name="" tvg-logo="" group-title="TV" tvg-logo="https://i.imgur.com/ACEbGD5.png", Localish (720)
 https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index_1.m3u8
@@ -60,7 +60,7 @@ https://94a3e237.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFr
 #EXTINF:-1 tvg-id="024" tvg-logo="https://i.ibb.co.com/CsvjtFmt/Funny-Junior.png" group-title="TV",Funny Junior HD
 https://nomawnoijl.gpcdn.net/akash/funnyjunior/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="030" tvg-id="SABCSport.za" group-title="Sports" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/SABC-Education-Logo-Vector.svg-.png", SABC Sports (720)
+#EXTINF:-1 tvg-chno="030" tvg-id="SABCSport.za" group-title="Sports" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/6555ceebad.jpg", SABC Sports (720)
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="031" group-title="Sports" tvg-id="" tvg-name="" ""  tvg-logo="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png", TNT Sports 1 (720)
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pXrTdWNG4s0INeKOsblzrA&e=2074182240&scheme=https
@@ -76,7 +76,7 @@ https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
 #EXTINF:-1 tvg-chno="036" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports", FS1 (1080)
 http://41.223.30.230/FOXSPORTS1/index.m3u8
-#EXTINF:-1 tvg-chno="037" tvg-id="" group-title="Sports",Caze TV (720)
+#EXTINF:-1 tvg-chno="037" tvg-id="" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp",Caze TV (720)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/en-vtt/index.m3u8
 #EXTINF:-1 tvg-chno="038" tvg-id="" group-title="Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true",BEIN USA (720)
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
