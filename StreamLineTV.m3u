@@ -91,6 +91,9 @@ https://daffodil.formaturamaxi.com.br/fubo.m3u8
 #EXTINF:-1 tvg-chno="041" group-title="Sports" tvg-id="Redbull.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1 tvg-chno="042" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",Fifa+
+https://2a7ce3b9.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRklGQVBsdXNFbmdsaXNoX0hMUw/cb32132c-9516-4db5-a9d5-c709b0d71705/3.m3u8
+
 
 
 
