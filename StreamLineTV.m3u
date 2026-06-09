@@ -178,5 +178,4 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-
 
 
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/M3UCurator/IPTVList/main/logo_.png" group-title="Digital TV", StreamLine TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://github.com/M3UCurator/IPTVList/raw/refs/heads/main/intro.mp4
