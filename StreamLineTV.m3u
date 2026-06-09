@@ -167,7 +167,6 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/02.m3u8
 
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/640px-USA_Network_2025_logo.svg.png", USA Network
-#EXTVLCOPT:http-referrer=https://tvpass.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://tvpass.org/live/USANetworkEast/hd
 
