@@ -1,2 +1,2 @@
-# IPTVList-the
+# IPTVList
 World
