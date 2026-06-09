@@ -9,7 +9,7 @@ https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="003" tvg-id="SABC3.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="TV", SABC 3 (720)
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="004" tvg-id="SABCNews.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="TV", SABC News (720)
+#EXTINF:-1 tvg-chno="004" tvg-id="SABCNews.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="TV" latency="18ms", SABC News (720)
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="005" tvg-id="Lehae.za" group-title="TV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", Lehae (720)
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
