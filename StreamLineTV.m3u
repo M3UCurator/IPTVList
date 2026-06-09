@@ -154,6 +154,9 @@ https://tvsen7.aynaott.com/tsn1/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" ,FS2
 https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
 
+#EXTINF:-1 tvg-chno=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NBA_League_Pass_Logo_%282017%29.png/1200px-NBA_League_Pass_Logo_%282017%29.png" group-title="Sports",NBA
+http://41.223.30.230/ESPN2/index.m3u8
+
 #EXTINF:-1 tvg-chno="050" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="News", BBC News (720)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="051"  tvg-id="ABCAustralia.au" tvg-name="ABC Australia" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="News", ABC Australia News (720)
