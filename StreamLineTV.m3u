@@ -175,3 +175,8 @@ https://tvpass.org/live/USANetworkEast/hd
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="Sports",TVRI Sport (720p)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000=20002.m3u8
+
+
+#EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/M3UCurator/IPTVList/main/logo_.png" group-title="Digital TV", StreamLine TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://raw.githubusercontent.com/M3UCurator/IPTVList/main/intro.mp4
