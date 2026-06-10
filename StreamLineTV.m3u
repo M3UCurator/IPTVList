@@ -185,25 +185,25 @@ http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 group-title="WC 2026" tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" tvg-name="Fox Sports 2",Fox Sports 2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" tvg-shift="",Fox Deportes 
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Fox Deportes 
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" tvg-shift="",Bein US
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Bein US
 http://23.237.104.106:8080/USA_BEIN/index.m3u8  
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" tvg-shift="",Dazn 2
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Dazn 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8  
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" tvg-shift="",Dazn 3
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Dazn 3
 http://23.237.104.106:8080/DAZN_3/index.m3u8 
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" tvg-shift="",Dazn 4
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Dazn 4
 http://23.237.104.106:8080/DAZN_4/index.m3u8  
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" tvg-shift="",Dazn 5
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Dazn 5
 http://23.237.104.106:8080/DAZN_5/index.m3u8  
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="" tvg-chno="" tvg-shift="",Dazn 6
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Dazn 6
 http://23.237.104.106:8080/DAZN_6/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="Sports",TVRI Sport (720p)
