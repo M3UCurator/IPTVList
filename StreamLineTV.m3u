@@ -108,6 +108,7 @@ http://23.237.104.106:8080/USA_BEIN/index.m3u8
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=NVQrq6a3oZfdBzkefWT1rvdRCoj9XOyx&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJOVlFycTZhM29aZmRCemtlZldUMXJ2ZFJDb2o5WE95eCIsImV4cCI6MTY1NjE5ODE4NSwiYWRfcGFycyI6eyJkZnAiOnsiaXVfdmFsdWVfZnJvbV9wYWdlIjoiL3VuZGVmaW5lZC9yZC51bml2aXNpb25fdmlkZW9fZGVwb3J0ZXMvZGFpIiwidXJsIjoiaHR0cHM6Ly93d3cudHVkbi5jb20vdHVkbi1saXZlc3RyZWFtLTI0LTciLCJwbGF5ZXJfd2lkdGgiOiI3NTMiLCJwbGF5ZXJfaGVpZ2h0IjoiNDI0IiwicHAiOiJEZXNrdG9wQml0UmF0ZXMiLCJtdnBkIjoidGVtcF9wYXNzIn19LCJ2aWQiOiJhZHN0a1pqME52S3F6QjZlIiwidXNlcl9wYXJzIjp7InByZWZlcnJlZF9jZG4iOnsibmFtZSI6ImFrYW1haSIsImZvcmNlIjp0cnVlfX19.Y9JMF-b_SUsCZ3WMkjU1cmNkiHvT7lmvYLsVbCx-Dhg
 #EXTINF:-1 tvg-chno="040" group-title="Sports" tvg-logo="https://i.imgur.com/7BwABte.png", Fubo Sports 1
 https://daffodil.formaturamaxi.com.br/fubo.m3u8
+
 #EXTINF:-1 tvg-chno="041" group-title="Sports" tvg-logo="https://i.imgur.com/7BwABte.png", Fubo Sports 2
 https://daffodil.formaturamaxi.com.br/fubo.m3u8
 
@@ -123,7 +124,6 @@ https://match-now.site/hls/b1/index.m3u8
 #EXTINF:-1 tvg-chno="044" group-title="Sports", MatchNow | Blue Sport 1
 https://match-now.site/live/blue_sport_1/index.m3u8
 
-
 #EXTINF:-1 tvg-chno="045" group-title="Sports" , MatchNow | Blue Sport 2
 https://match-now.site/live/blue_sport_2/index.m3u8
 
@@ -137,16 +137,16 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
 
 #EXTINF:-1 tvg-chno="049" group-title="Sports" ,S4C
-https://daffodil.formaturamaxi.com.br/fsp.m3u8
+
 
 #EXTINF:-1 tvg-chno="" group-title="Sports" ,TNT
-https://601.formaturamaxi.com.br/tnt.m3u8
+
 
 #EXTINF:-1 tvg-chno="" group-title="Sports" ,BYU
-https://daffodil.formaturamaxi.com.br/byu.m3u8
+
 
 #EXTINF:-1 tvg-chno="" group-title="Sports" ,EPL 9
-https://601.formaturamaxi.com.br/epl9.m3u8
+
 
 #EXTINF:-1 tvg-chno="" group-title="Sports" ,TSN 1
 https://tvsen7.aynaott.com/tsn1/index.m3u8
@@ -209,6 +209,13 @@ http://23.237.104.106:8080/DAZN_6/index.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="Sports",TVRI Sport (720p)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000=20002.m3u8
 
+
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",FOX NY
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="", FOX 11 Green Bay WI (WLUK) 
+#EXTVLCOPT:network-caching=1000
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/M3UCurator/IPTVList/main/logo_.png" group-title="Digital TV", StreamLine TV
 https://github.com/M3UCurator/IPTVList/raw/refs/heads/main/intro.mp4
