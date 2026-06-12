@@ -101,7 +101,7 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
 #EXTINF:-1 tvg-chno="036" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports", FS1 (1080)
 http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 tvg-chno="037" tvg-id="" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp",Caze TV (720)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/en-vtt/index.m3u8
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-chno="038" tvg-id="" group-title="Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true",BEIN USA (720)
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 tvg-chno="039" group-title="Sports" tvg-id="TUDN.us2" tvg-name="TUDN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tudn-us.png?raw=true" ,TUDN
