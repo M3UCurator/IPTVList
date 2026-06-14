@@ -325,5 +325,19 @@ http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe_480.m3u8
 #EXTINF:-1 group-title="WC 2026" tvg-id="FOX ONE" tvg-logo="https://i.postimg.cc/XpSD2cdh/FOX-t-290x163.webp", Fox One
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 
+
+#EXTINF:-1 tvg-chno="" group-title="Sports",Arenasport 1 SK
+http://88.212.15.50/live/test_arenasport/playlist.m3u8 
+#EXTINF:-1 tvg-chno="" group-title="Sports",Arenasport 2 SK
+http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8 
+#EXTINF:-1 tvg-chno="" group-title="Sports",Sport1 SK
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8 
+#EXTINF:-1 tvg-chno="" group-title="Sports",Sport2 SK
+http://88.212.15.50/live/test_sport_2/playlist.m3u8 
+#EXTINF:-1 tvg-chno="" group-title="Sports",Auto Moto Sport SK
+http://88.212.15.50/live/test_ams/playlist.m3u8 
+#EXTINF:-1 tvg-chno="" group-title="Sports",Canal +
+http://151.80.18.177:86/Canal+_sport_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/M3UCurator/IPTVList/main/logo_.png" group-title="Digital TV", StreamLine TV
 https://github.com/M3UCurator/IPTVList/raw/refs/heads/main/intro.mp4
