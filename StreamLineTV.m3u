@@ -318,7 +318,11 @@ http://177.10.184.193:8000/play/a0fc/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports (Opción 12)
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="FOX ONE", tvg-logo="https://i.postimg.cc/XpSD2cdh/FOX-t-290x163.webp", Fox One
+
+#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",Telefe
+http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe_480.m3u8
+
+#EXTINF:-1 group-title="WC 2026" tvg-id="FOX ONE" tvg-logo="https://i.postimg.cc/XpSD2cdh/FOX-t-290x163.webp", Fox One
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/M3UCurator/IPTVList/main/logo_.png" group-title="Digital TV", StreamLine TV
