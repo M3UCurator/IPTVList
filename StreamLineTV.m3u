@@ -266,19 +266,19 @@ http://23.237.104.106:8080/DAZN_6/index.m3u8
 #EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png"  ,TUDN [2]
 https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png",ZDF
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg",ZDF
 http://169.150.223.25/ZDF/index.m3u8 
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png",ZDF
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg",ZDF
 http://23.88.66.93/ZDF/index.m3u8 
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png",ZDF
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg",ZDF
 http://83.228.75.166:8000/play/a0da
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png",ZDF
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg",ZDF
 http://smarterstv99.dyndns.tv:25461/live/IselaGranad24/CbgVfaaXAqSj/494201.ts 
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png", Telemundo
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports (Opción 1)
