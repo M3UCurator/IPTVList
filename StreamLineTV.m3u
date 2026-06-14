@@ -79,6 +79,11 @@ https://amg00488-foxdigital-ktbc-lgus-zwsvj.amagi.tv/ts-us-w2-n1/playlist/amg004
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",FOX 11 (720)
 https://amg00488-foxdigital-fox11losangeleskttv-vizious-a7b8z.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-fox11losangeleskttv-vizious/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f59647ced51fbbd3d65883458674f9099c93a68ace41d086c47eaa06b56c595e712ac98620c5fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3913becd29843d4d887ffab7dc7e8bb481b5748a875b5248be229d/148/1280x720_3000140/index.m3u8
 
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="",CTV
+http://stream.cammonitorplus.net/1720/index.m3u8
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="",TV CANADA CTV
+http://stream.cammonitorplus.net/1724/index.m3u8
+
 #EXTINF:-1 tvg-id="023" tvg-name="" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-chno="038" group-title="Documentary", Crime 360
 https://94a3e237.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/2e47bce2-67ea-4697-84de-30ba5a25d3ff/2.m3u8
 
@@ -181,6 +186,8 @@ https://1nyaler.streamhostingcdn.top/stream/121/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", CT SPORT HD
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="",RTVS :SPORT
+http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8 
 
 #EXTINF:-1 tvg-chno="050" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="News", BBC News (720)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
