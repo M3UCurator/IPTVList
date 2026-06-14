@@ -48,7 +48,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist
 #EXTINF:-1 tvg-chno="0" group-title="TV" tvg-id="" tvg-name="" ,BBC One
 http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="WTXFTV291.us@HD" tvg-logo="https://i.imgur.com/fRjmk5r.png" ",WTXF-DT1 (720p)
+#EXTINF:-1 tvg-id="WTXFTV291.us@HD" tvg-logo="https://i.imgur.com/fRjmk5r.png" ,WTXF-DT1 (720p)
 https://amg00488-foxdigital-fox29philadelphiawtx-vizious-x0v1b.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-fox29philadelphiawtx-vizious/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725bdb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a8af1c56953145f59642cf8049bd85dd5b8345807ff1099c93a68ace188582c57ea102b6360d08742bca847c96fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2989a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbba920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3913bbc629844d4bbf7ffac854529311e1b2a2dda63e5dfef5af88/113/1280x720_3000140/index.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="", FOX LA2
@@ -194,7 +194,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/02.m3u8
 
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.pngtvg-chno="" tvg-shift="",FOX
+#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-chno="" tvg-shift="",FOX
 http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-chno="" tvg-shift="",FS1
