@@ -82,6 +82,8 @@ https://amg00488-foxdigital-fox11losangeleskttv-vizious-a7b8z.amagi.tv/ts-us-w2-
 http://stream.cammonitorplus.net/1720/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="",TV CANADA CTV
 http://stream.cammonitorplus.net/1724/index.m3u8
+#EXTINF:-1 ,BBC One HD UK
+http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://logo.m3uassets.com/tviinternacional.png",TVI International
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
