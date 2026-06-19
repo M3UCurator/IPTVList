@@ -1,0 +1,22 @@
+{
+  "name": "iptv-proxy",
+  "version": "1.0.0",
+  "description": "Generic IPTV Proxy for rewriting and proxying M3U8 streams",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "iptv",
+    "proxy",
+    "m3u8",
+    "streaming"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0"
+  }
+}
