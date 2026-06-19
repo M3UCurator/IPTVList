@@ -1,0 +1,6 @@
+# List of IPTV master playlists to fetch through the local proxy
+# Format: name|url  (or just the url)
+# Example:
+# Sample Channel|https://example.com/master.m3u8
+
+# Add your sources below, one per line
