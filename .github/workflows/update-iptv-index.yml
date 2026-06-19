@@ -24,16 +24,75 @@ jobs:
       - name: Start IPTV proxy server
         run: |
           nohup node iptv-proxy/server.js > iptv-proxy/server.log 2>&1 &
-          # give the server a moment to start
-          sleep 2
+          SERVER_PID=$!
+          echo "SERVER_PID=$SERVER_PID" >> $GITHUB_ENV
+          
+          # Wait for server to be ready with timeout
+          echo "Waiting for server to start..."
+          for i in {1..30}; do
+            if curl -s http://localhost:3000/health > /dev/null 2>&1; then
+              echo "✓ Server is ready"
+              exit 0
+            fi
+            echo "  Attempt $i/30..."
+            sleep 1
+          done
+          
+          echo "✗ Server failed to start within 30 seconds"
+          echo "Server log:"
+          cat iptv-proxy/server.log
+          exit 1
 
       - name: Generate index.json
-        run: node iptv-proxy/generate-index.js
+        run: |
+          echo "Generating IPTV index..."
+          node iptv-proxy/generate-index.js
+          if [ $? -eq 0 ]; then
+            echo "✓ Index generated successfully"
+          else
+            echo "✗ Index generation failed"
+            exit 1
+          fi
+
+      - name: Verify server still running
+        if: success()
+        run: |
+          if pgrep -f "node iptv-proxy/server.js" > /dev/null; then
+            echo "✓ Server process is still running"
+          else
+            echo "✗ Server process died unexpectedly"
+            echo "Server log:"
+            cat iptv-proxy/server.log
+            exit 1
+          fi
 
       - name: Commit and push index
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add iptv-proxy/index.json
-          git commit -m "chore(ci): update iptv-proxy/index.json" || echo "No changes to commit"
+          git commit -m "chore(ci): update iptv-proxy/index.json" || echo "ℹ No changes to commit"
           git push
+          echo "✓ Changes pushed successfully"
+
+      - name: Cleanup
+        if: always()
+        run: |
+          if pgrep -f "node iptv-proxy/server.js" > /dev/null; then
+            echo "Stopping IPTV proxy server..."
+            pkill -f "node iptv-proxy/server.js"
+            sleep 1
+            if pgrep -f "node iptv-proxy/server.js" > /dev/null; then
+              echo "Force killing remaining processes..."
+              pkill -9 -f "node iptv-proxy/server.js" || true
+            fi
+            echo "✓ Server stopped"
+          fi
+
+      - name: Upload server logs on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: server-logs
+          path: iptv-proxy/server.log
+          retention-days: 7
