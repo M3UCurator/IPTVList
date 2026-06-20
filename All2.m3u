@@ -301,6 +301,112 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Global Sports", TYCSports Fan
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
+#EXTINF:-1 group-title="WC 2026",World Cup 2026
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 group-title="WC 2026",World Cup 2026
+
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 group-title="WC 2026",World Cup 2026
+
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 group-title="WC 2026",World Cup 2026
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 tvg-chno="01" group-title="WC 2026" ,FOX KSAZ 🇺🇸 🔥
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="02" group-title="WC 2026" , FOX Deportes 🇺🇸
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-chno="03" group-title="WC 2026",FS1 🇺🇸
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="04" group-title="WC 2026",FS2 🇺🇸
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FS2/index.m3u8
+
+#EXTINF:-1 tvg-chno="05" group-title="WC 2026",TVRI 🇺🇸
+https://digital.tsender57.workers.dev/7a02027004/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-chno="06" group-title="WC 2026", BBC One 🇬🇧
+
+
+#EXTINF:-1 tvg-chno="07" group-title="WC 2026",TSN 4 🇨🇦
+http://stalker.hakunamata.workers.dev/play/261/index.m3u8
+
+#EXTINF:-1 tvg-chno="08" group-title="WC 2026",TSN5 🇨🇦
+http://185.246.209.113:80/TSN5HD/index.m3u8
+
+#EXTINF:-1 tvg-chno="09" group-title="WC 2026",Unite8 Sports 1 🇮🇳
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
+
+#EXTINF:-1 tvg-chno="10" group-title="WC 2026",Unite8 Sports 2 🇮🇳
+https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
+
+#EXTINF:-1 tvg-chno="11" group-title="WC 2026",Bein 1 🇹🇷
+https://biraz.1386503.xyz/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-chno="12" group-title="WC 2026" ,TRT 1 🇹🇷
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-chno="13" group-title="WC 2026",A Spor 🇹🇷 🔥
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
+
+#EXTINF:-1 tvg-chno="14" group-title="WC 2026",HT Spor 1 🇹🇷
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+
+
+#EXTINF:-1 tvg-chno="15" group-title="WC 2026",S SPORT 1 🇹🇷
+http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19070/index.m3u8
+
+#EXTINF:-1 tvg-chno="16" group-title="WC 2026",S SPORT 2 🇹🇷
+http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19071/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="17" group-title="WC 2026" , Telemundo 🇲🇽 ★
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-chno="18" group-title="WC 2026" , Universo 🇲🇽
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="19" group-title="WC 2026" ,NBC Universo 🇺🇸
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="20" group-title="WC 2026" , Universo (backup) 🇲🇽
+http://belami.top/DATAS/arm/plays.php?ch=96&f=.m3u8
+
+#EXTINF:-1 tvg-chno="21" group-title="WC 2026" ,Setenta Sport 1 🇺🇦
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+
+#EXTINF:-1 tvg-chno="22" group-title="WC 2026",Setenta Sport 2 🇺🇦
+http://cdntv.online/low/9mlxywika2/1022.m3u8
+
+
+#EXTINF:-1 tvg-chno="23" group-title="WC 2026",Cazetv 🇧🇷 ★
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8?wowzasessionid=@iprtlk
+
+
+#EXTINF:-1 tvg-chno="24" tvg-id="" tvg-logo="" group-title="WC 2026", RTBGO
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-id="" tvg-logo="" group-title="WC 2026", RTBGO ENG
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="" tvg-logo="" group-title="WC 2026", CT Sport  🇨🇿
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="27" tvg-id="" tvg-logo="" group-title="WC 2026", Матч! 🇷🇺
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+
+#EXTINF:-1 tvg-chno="28" tvg-id="" tvg-logo="" group-title="WC 2026",Super Sport 2 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+
+#EXTINF:-1 tvg-chno="29" tvg-id="" tvg-logo="" group-title="WC 2026",TELEFE FUENTE 1
+http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157590
+
+#EXTINF:-1 tvg-chno="30" tvg-id="" tvg-logo="" group-title="WC 2026",PTV Sports HD 🇵🇰
+http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Global Sports", SpoTV
 http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8
 
