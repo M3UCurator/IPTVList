@@ -44,6 +44,8 @@ https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg004
 #EXTINF:-1 tvg-chno="0" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/VrF_zxymbLCTzg==/030f186b-cf60-4481-b37a-2d17d42366fa/CHgQeDoFMS4xLjVAAQ==" ,FOX 5 [2]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-chno="0" group-title="TV" tvg-id="" tvg-name="" ,BBC One
 http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
 
@@ -110,7 +112,18 @@ https://channels.trace.plus/Traceprod/LATINA.m3u8
 #EXTINF:-1 tvg-chno="028" group-title="TV" tvg-id="" tvg-name=""  group-title="TV",Trace Brazil HD
 https://channels.trace.plus/Traceprod/BRAZIL/.m3u8
 
+#EXTINF:-1 group-title="TV", Cartoon Network
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 
+#EXTINF:-1 group-title="TV", Disney XD
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1 group-title="TV", Nickelodeon
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 group-title="TV", Nicketoons
+https://cors-proxy.cooks.fyi/http://212.102.60.231/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-chno="030" tvg-id="SABCSport.za" group-title="Sports" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/6555ceebad.jpg", SABC Sports (720)
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
@@ -200,6 +213,18 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",RTVS :SPORT
 http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8 
+#EXTINF:-1 tvg-chno="" cuid="1811" tvg-name="beIN.SPORTS.XTRA n" tvg-id="plex.tv.beIN.Sports.Xtra.en.Español.plex" group-title="Sports" , Bein Sports Extra
+https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f28bd541047/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports" , Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="Sports"  tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" , RallyTV
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-us.png?raw=true" group-title="Sports" ,Tennis Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="050" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="News", BBC News (720)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -237,8 +262,11 @@ https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
 #EXTINF:-1 group-title="WC 2026"  tvg-logo="https://i.imgur.com/sbooXpg.png" ,Fox Soccer Plus 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
+
 https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
 
+#EXTINF:-1 group-title="WC 2026" tvg-logo="",RTBGO
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 group-title="WC 2026"  tvg-logo="https://i.imgur.com/oG7HzEf.png",FOX Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
