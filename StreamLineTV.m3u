@@ -552,12 +552,60 @@ https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 212.70.131.37:8000/play/a06o
 #EXTINF:-1,MEGOGO Спорт
 http://5.188.159.128:8070/megogo_sport/index.m3u8 
-
 #EXTINF:-1, Fox
 http://84.17.50.102/fox/index.m3u8 
-
 #EXTINF:-1,World Cup 2026
 http://46.101.169.21/ch299/index.m3u8
+
+
+#EXTINF:-1,Tabii Spor 1 HD
+https://1nyaler.streamhostingcdn.top/stream/88/index.m3u8
+#EXTINF:-1,beIN Sports 1 HD (Turkiye)
+https://1nyaler.streamhostingcdn.top/stream/22/index.m3u8
+#EXTINF:-1,beIN Sports 2 HD (Turkiye)
+https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
+#EXTINF:-1,beIN Sports 3 HD (Turkiye)
+https://1nyaler.streamhostingcdn.top/stream/18/.index.m3u8
+#EXTINF:-1,beIN Sports 1 HD (Fr)
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1,beIN Sports 2 HD (Fr)
+https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
+#EXTINF:-1,beIN Sports 3 HD (Fr)
+https://1nyaler.streamhostingcdn.top/stream/19/index.m3u8
+#EXTINF:-1,DAZN 1 HD
+https://1nyaler.streamhostingcdn.top/stream/5/index.m3u8
+#EXTINF:-1,DAZN 2 HD
+https://1nyaler.streamhostingcdn.top/stream/3/index.m3u8
+#EXTINF:-1,DAZN 3 HD
+https://1nyaler.streamhostingcdn.top/stream/9/index.m3u8
+#EXTINF:-1,Eleven Sports 1 HD
+https://1nyaler.streamhostingcdn.top/stream/43/index.m3u8
+#EXTINF:-1,Eleven Sports 2 HD
+https://1nyaler.streamhostingcdn.top/stream/44/index.m3u8
+#EXTINF:-1,Eleven Sports 3 HD
+https://1nyaler.streamhostingcdn.top/stream/45/index.m3u8
+
+#EXTINF:-1 group-title="Radio", Motsweding FM
+https://25633.live.streamtheworld.com/MOTSWEDINGAAC_SC
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/839.v15.png" group-title="Radio", Metro FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac?dist=onlineradiobox
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/840.v15.png" group-title="Radio", 5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/5FMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 group-title="Radio", Smooth Jazz Radio - Kool & Klean - It's Time
+https://eu8.fastcast4u.com/proxy/lch?mp=/1
+#EXTINF:-1 group-title="Radio",Deep Awakening Radio
+https://s1.viastreaming.net:8525/stream.mp3
+
+#EXTINF:-1 group-title="Nature & Travel", Wild Earth
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 group-title="Nature & Travel", Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:-1 group-title="Nature & Travel", Wellbeing TV/My Zen
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="Nature & Travel", Travel Escapes
+https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Nature & Travel", Autentic Travel
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-
 
 
 
