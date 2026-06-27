@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+3#EXTM3U url-tvg=""
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko, m3u-ip.tv 2.2.4) Chrome/132.0.0.0 Safari/537.36
 
 
@@ -636,8 +636,15 @@ https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Nature & Travel", Autentic Travel
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-
 
+#EXTINF:-1,TSN5
+http://185.246.209.113:80/TSN5HD/index.m3u8
+
+#EXTINF:-1,foxss1
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/foxss1.m3u8
 
 
+#EXTINF:-1,tsn 2
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn2.m3u8
 
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/M3UCurator/IPTVList/main/logo_.png" group-title="Digital TV", StreamLine TV
 https://github.com/M3UCurator/IPTVList/raw/refs/heads/main/intro.mp4
