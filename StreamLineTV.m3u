@@ -93,6 +93,8 @@ http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://logo.m3uassets.com/tviinternacional.png",TVI International
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 
+#EXTINF:-1 tvg-chno="" group-title="TV",National Geographic HD East
+http://198.58.104.90:8989/natgeo/index.m3u8
 
 #EXTINF:-1 tvg-id="023" tvg-name="" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-chno="038" group-title="Documentary", Crime 360
 https://94a3e237.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/2e47bce2-67ea-4697-84de-30ba5a25d3ff/2.m3u8
@@ -595,6 +597,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/5FMAAC.aac?dis
 https://eu8.fastcast4u.com/proxy/lch?mp=/1
 #EXTINF:-1 group-title="Radio",Deep Awakening Radio
 https://s1.viastreaming.net:8525/stream.mp3
+#EXTINF:-1 tvg-logo="" group-title="Radio",Chocolate
+http://choco.hostingradio.ru:10010/fm
+#EXTINF:-1 tvg-logo="" group-title="Radio",Record Deep
+https://hls-01-radiorecord.hostingradio.ru/record-deep/playlist.m3u8
 
 #EXTINF:-1 group-title="Nature & Travel", Wild Earth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
