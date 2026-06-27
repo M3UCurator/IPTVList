@@ -44,7 +44,8 @@ https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg004
 #EXTINF:-1 tvg-chno="0" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/VrF_zxymbLCTzg==/030f186b-cf60-4481-b37a-2d17d42366fa/CHgQeDoFMS4xLjVAAQ==" ,FOX 5 [2]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 
-
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" ,BBC First
+http://91.146.94.234:10001/play/a087
 
 #EXTINF:-1 tvg-chno="0" group-title="TV" tvg-id="" tvg-name="" ,BBC One
 http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
@@ -187,20 +188,30 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-chno="048" group-title="Sports" ,T Sports
 https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
 
-#EXTINF:-1 tvg-chno="049" group-title="Sports" ,S4C
 
 
-#EXTINF:-1 tvg-chno="" group-title="Sports" ,TNT
+#EXTINF:-1 tvg-chno="049" group-title="Sports" ,Supersport 2
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562257
+
+#EXTINF:-1 tvg-chno="049" group-title="Sports" ,Supersport 3
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562256
+
+#EXTINF:-1 tvg-chno="049" group-title="Sports" ,Supersport 4
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562255
 
 
-#EXTINF:-1 tvg-chno="" group-title="Sports" ,BYU
+#EXTINF:-1 tvg-chno="049" group-title="Sports" ,Supersport 5
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562254
 
+#EXTINF:-1 tvg-chno="049" group-title="Sports" ,Supersport 6
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562253
 
-#EXTINF:-1 tvg-chno="" group-title="Sports" ,EPL 9
+#EXTINF:-1 tvg-chno="049" group-title="Sports" ,Supersport 7
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562252
 
 
 #EXTINF:-1 tvg-chno="" group-title="Sports" ,TSN 1
-https://tvsen7.aynaott.com/tsn1/index.m3u8
+https://ataide0.elugohome.com/tsn.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="Sports" ,FS2
 https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
@@ -417,6 +428,15 @@ http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19071/index.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Sports",TVR Sport
 
+#EXTINF:-1 group-title="Sports" ,Fast Sport
+http://37.186.70.39:40/play/80/index.m3u8
+#EXTINF:-1 group-title="Sports",Match Football 1
+http://37.186.70.39:40/play/81/index.m3u8
+#EXTINF:-1 group-title="Sports" ,Match Football 2
+http://37.186.70.39:40/play/82/index.m3u8
+#EXTINF:-1 group-title="Sports" ,083 Match Planeta
+http://37.186.70.39:40/play/83/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/sport-png/tvp-sport-wikipedia-12.png"/https://www.freepnglogos.com/uploads/sport-png/tvp-sport-wikipedia-12.png,TVP Sport
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1, TVP 1
@@ -601,6 +621,9 @@ https://s1.viastreaming.net:8525/stream.mp3
 http://choco.hostingradio.ru:10010/fm
 #EXTINF:-1 tvg-logo="" group-title="Radio",Record Deep
 https://hls-01-radiorecord.hostingradio.ru/record-deep/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Radio",Deep House Mobile
+http://strm112.1.fm/deephouse_mobile_mp3
 
 #EXTINF:-1 group-title="Nature & Travel", Wild Earth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
