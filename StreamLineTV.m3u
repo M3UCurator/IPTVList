@@ -145,6 +145,7 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
 #EXTINF:-1 tvg-chno="035" tvg-id="" group-title="Sports" tvg-logo="https://i.imgur.com/xA0l7DP.png", FOX Sports (720)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
+
 #EXTINF:-1 tvg-chno="036" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports", FS1
 https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-chno="036" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports", FS1 (1080)
@@ -270,7 +271,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist
 #EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="", FOX 11 Green Bay WI (WLUK) 
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="WC 2026"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" ,FOX One
+#EXTINF:-1 group-title="WC 2026"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" ,FOX Soccer Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
@@ -289,7 +290,14 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 
-#EXTINF:-1 group-title="WC 2026"  tvg-logo="https://i.imgur.com/oG7HzEf.png" ,FOX Sports 2 [2]
+#EXTINF:-1 group-title="WC 2026"  ,FOX ESP
+http://190.61.101.11:7050/play/a09z/index.m3u8?hls
+
+#EXTINF:-1 group-title="WC 2026"  ,FOX Sports ESP
+http://190.61.101.11:7050/play/a08t/index.m3u8?hls
+
+
+#EXTINF:-1 group-title="WC 2026"  ,FOX Sports 2 ESP 
 http://190.61.101.11:7050/play/a08v/index.m3u8?hls
 
 #EXTINF:-1 group-title="WC 2026" tvg-id="TVRISport.id" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" ,TVRI Sport (720p)
