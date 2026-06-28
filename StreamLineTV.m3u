@@ -464,7 +464,18 @@ http://179.60.51.134:8888/ESPN3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN4 ESP
 http://179.60.51.134:8888/ESPN4/index.m3u8
 
-#EXTINF:-1, TVP 1
+#EXTINF:-1 group-title="Sports" ,ESPN 1 ESP (2)
+http://8.243.126.131:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="Sports" ,ESPN 2 ESP (2)
+http://8.243.126.131:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="Sports" ,ESPN 3 ESP (2)
+http://8.243.126.131:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="Sports" ,ESPN Premium (2)
+http://8.243.126.131:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Sports" ,Direct TV Deporte (2)
+http://8.243.126.131:8000/play/a05a/index.m3u8
+
+#EXTINF:-1, Jordan Sports
 http://93.184.10.248/JordanSport/index.m3u8
 
 #EXTINF:-1,JORDAN Sport
@@ -645,9 +656,44 @@ http://185.246.209.113:80/TSN5HD/index.m3u8
 #EXTINF:-1,foxss1
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/foxss1.m3u8
 
+#EXTINF:-1 tvg-id="Canal1" tvg-name="Canal Deportivo 1" group-title="Deportes",Canal Deportivo 1
+http://181.78.67.171:8000/play/a0wy/index.m3u8
+
+#EXTINF:-1 tvg-id="WinSports" tvg-name="Win Sports" group-title="Deportes",Win Sports
+http://190.60.48.150:8000/play/WINSPORT/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal2" tvg-name="Canal Deportivo 2" group-title="Deportes",Canal Deportivo 2
+http://190.60.54.158:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal3" tvg-name="Canal Deportivo 3" group-title="Deportes",Canal Deportivo 3
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal4" tvg-name="Canal Deportivo 4" group-title="Deportes",Canal Deportivo 4
+http://181.119.83.235:8000/play/C052/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5" tvg-name="Canal Deportivo 5" group-title="Deportes",Canal Deportivo 5
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal6" tvg-name="Canal Deportivo 6 (Proxy)" group-title="Deportes",Canal Deportivo 6 (Proxy)
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="CazeTV" tvg-name="CazéTV BR" group-title="Deportes",CazéTV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1,Fast Sport TV
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1,tsn 2
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn2.m3u8
 
+#EXTINF:-1,QAZSPORT HD
+http://62.32.84.50:18000/play/a06b/index.m3u8
+
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/M3UCurator/IPTVList/main/logo_.png" group-title="Digital TV", StreamLine TV
 https://github.com/M3UCurator/IPTVList/raw/refs/heads/main/intro.mp4
+
+
+#EXTINF:-1,Sport 1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1,Sport 2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
