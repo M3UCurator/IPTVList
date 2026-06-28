@@ -6,7 +6,7 @@
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="002" tvg-id="SABC2.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="TV", SABC 2 (720)
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="003" tvg-id="SABC3.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="TV", SABC 3 (720)
+#EXTINF:-1 tvg-chno="003" tvg-id="SABC3.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="TV", SABC 3 (720)F
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="004" tvg-id="SABCNews.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="TV", SABC News (720)
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
@@ -546,7 +546,8 @@ http://99.27.51.147:8080/BeinSport3/index.m3u8
 
 #EXTINF:-1,Bein 1
 #https://love.bebin98399.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
-https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Bein01.m3u8
+#https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Bein01.m3u8
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
 #EXTINF:-1,Bein 2
 #https://love.bebin98399.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
