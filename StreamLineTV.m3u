@@ -279,8 +279,32 @@ https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
 #EXTINF:-1 group-title="WC 2026"  tvg-logo="https://i.imgur.com/sbooXpg.png" ,Fox Soccer Plus 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-
 https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+
+#EXTINF:-1 group-title="WC 2026"  tvg-logo="https://i.imgur.com/sbooXpg.png" ,CTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
+http://stream.cammonitorplus.net/1712/index.m3u8
+
+#EXTINF:-1 group-title="WC 2026"  tvg-logo="https://i.imgur.com/sbooXpg.png" ,CTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
+http://stream.cammonitorplus.net/1731/index.m3u
+
+#EXTINF:-1 ,FOX 13 Salt Lake City UT
+https://i1.ut770.freelocaltv.org/hls/kstu-13_hls/kstu-13_master.m3u8
+
+#EXTINF:-1 ,Telemundo 20 Utah
+https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
+
+#EXTINF:-1 ,TSN 1
+http://85.237.89.160:9590/usa-s/TSN-HD-1/index.m3u8
+
+#EXTINF:-1 ,TSN 4
+http://85.237.89.160:-9590/usa-s/TSN4/index.m3u8
+
+#EXTINF:-1 ,FS 1
+http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=858547&extension=ts&play_token=WHBIHGPXA1
 
 #EXTINF:-1 group-title="WC 2026" tvg-logo="",RTBGO
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
@@ -296,12 +320,11 @@ http://190.61.101.11:7050/play/a09z/index.m3u8?hls
 #EXTINF:-1 group-title="WC 2026"  ,FOX Sports ESP
 http://190.61.101.11:7050/play/a08t/index.m3u8?hls
 
-
 #EXTINF:-1 group-title="WC 2026"  ,FOX Sports 2 ESP 
 http://190.61.101.11:7050/play/a08v/index.m3u8?hls
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="TVRISport.id" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" ,TVRI Sport (720p)
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000=20002.m3u8
+#EXTINF:-1 group-title="WC 2026" tvg-id="FOX" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" ,FOX (2)
+http://164.52.224.212:5004/auto/v53.1
 
 
 #EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" ,Telemundo 
