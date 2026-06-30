@@ -727,6 +727,12 @@ http://62.32.84.50:18000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/M3UCurator/IPTVList/main/logo_.png" group-title="Digital TV", StreamLine TV
 https://github.com/M3UCurator/IPTVList/raw/refs/heads/main/intro.mp4
 
+#EXTINF:-1,1TV GE
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+
+#EXTINF:-1,2TV GE
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
