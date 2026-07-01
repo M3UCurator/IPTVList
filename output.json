@@ -1,0 +1,21 @@
+{
+  "channels": [
+    { "name": "SABC Digital News", "channel": "@sabcdigitalnews", "group": "News" },
+    { "name": "BBC News", "channel": "@BBCNews", "group": "News" },
+    { "name": "CNN", "channel": "@CNN", "group": "News" },
+    { "name": "Al Jazeera English", "channel": "@AJEnglish", "group": "News" },
+    { "name": "DW News", "channel": "@dwnews", "group": "News" },
+    { "name": "Sky News", "channel": "@SkyNews", "group": "News" },
+    { "name": "France 24 English", "channel": "@france24_en", "group": "News" },
+    { "name": "Reuters", "channel": "@Reuters", "group": "News" },
+    { "name": "The New York Times", "channel": "@nytimes", "group": "News" },
+    { "name": "Al Jazeera Mubasher", "channel": "@aljazeeramubasher", "group": "News" }
+  ],
+  "live_streams": [
+    {
+      "live": true,
+      "videoId": "AbCdEfGh123",
+      "url": "https://www.youtube.com/watch?v=AbCdEfGh123"
+    }
+  ]
+}
