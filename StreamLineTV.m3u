@@ -719,13 +719,29 @@ https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="CazeTV" tvg-name="CazéTV BR" group-title="Sports",CazéTV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1,Fast Sport TV
+#EXTINF:-1 group-title="Sports",Fast Sport TV
 https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1 #EXTINF:-1 group-title="Sports",TSN2
+#EXTINF:-1 group-title="Sports",TSN1
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn1.m3u8
+
+#EXTINF:-1 group-title="Sports",TSN2
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn2.m3u8
 
-#EXTINF:-1,QAZSPORT HD
+#EXTINF:-1 group-title="Sports",TSN3
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn3.m3u8
+
+#EXTINF:-1 group-title="Sports",TSN4
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn4.m3u8
+
+#EXTINF:-1 group-title="Sports",TSN5
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn5.m3u8
+#EXTINF:-1 group-title="Sports",ESPN 
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/espn.m3u8
+#EXTINF:-1 group-title="Sports",ESPN 2
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/espn2.m3u8
+
+#EXTINF:-1 group-title="Sports",QAZSPORT HD
 http://62.32.84.50:18000/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/M3UCurator/IPTVList/main/logo_.png" group-title="Digital TV", StreamLine TV
