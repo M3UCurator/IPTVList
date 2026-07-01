@@ -52,7 +52,7 @@ http://45.7.237.109:9000/play/a03r/index.m3u8
 http://stream.cammonitorplus.net/1797/index.m3u8
 #EXTINF:-1 group-title="TV", CBS Miami
 http://45.7.237.109:9000/play/a03s/index.m3u8
-EXTINF:-1 group-title="TV", CBS NY
+#EXTINF:-1 group-title="TV", CBS NY
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1 group-title="TV", CBS LA
 http://stream.cammonitorplus.net/1798/index.m3u8
