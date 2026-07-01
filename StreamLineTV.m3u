@@ -43,12 +43,25 @@ https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg004
 
 #EXTINF:-1 tvg-chno="0" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://canvas-lb.tubitv.com/opts/VrF_zxymbLCTzg==/030f186b-cf60-4481-b37a-2d17d42366fa/CHgQeDoFMS4xLjVAAQ==" ,FOX 5 [2]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="TV",ABC (720p)
+http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 group-title="TV",ABC Miami
 http://45.7.237.109:9000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="TV", ABC NY
+http://stream.cammonitorplus.net/1797/index.m3u8
 #EXTINF:-1 group-title="TV", CBS Miami
 http://45.7.237.109:9000/play/a03s/index.m3u8
+EXTINF:-1 group-title="TV", CBS NY
+http://stream.cammonitorplus.net/1810/index.m3u8
+#EXTINF:-1 group-title="TV", CBS LA
+http://stream.cammonitorplus.net/1798/index.m3u8
 #EXTINF:-1 group-title="TV", NBC Miami
 http://45.7.237.109:9000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="TV", NBC NY
+http://stream.cammonitorplus.net/1812/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" ,BBC First
 http://91.146.94.234:10001/play/a087
 
