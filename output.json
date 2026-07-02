@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-02T20:24:38Z"
+    "fetchedAt": "2026-07-02T21:44:39Z"
   },
   {
     "name": "Newsroom Africa",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-02T20:24:42Z"
+    "fetchedAt": "2026-07-02T21:44:43Z"
   },
   {
     "name": "BBC News",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "TRU7TdHykiU",
-    "url": "https://www.youtube.com/watch?v=TRU7TdHykiU",
+    "videoId": "IRTIg4XgcpU",
+    "url": "https://www.youtube.com/watch?v=IRTIg4XgcpU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-02T20:24:46Z"
+    "fetchedAt": "2026-07-02T21:44:46Z"
   },
   {
     "name": "CNN",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "sBp-nc9u4IE",
-    "url": "https://www.youtube.com/watch?v=sBp-nc9u4IE",
+    "videoId": "FIsF8memBOg",
+    "url": "https://www.youtube.com/watch?v=FIsF8memBOg",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-02T20:24:49Z"
+    "fetchedAt": "2026-07-02T21:44:51Z"
   },
   {
     "name": "Al Jazeera English",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-02T20:24:54Z"
+    "fetchedAt": "2026-07-02T21:44:55Z"
   },
   {
     "name": "DW News",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "KrR96rgzRUo",
-    "url": "https://www.youtube.com/watch?v=KrR96rgzRUo",
+    "videoId": "YdQcNBNgLVk",
+    "url": "https://www.youtube.com/watch?v=YdQcNBNgLVk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-02T20:24:57Z"
+    "fetchedAt": "2026-07-02T21:44:58Z"
   },
   {
     "name": "Sky News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "dKB2iA9BzSI",
-    "url": "https://www.youtube.com/watch?v=dKB2iA9BzSI",
+    "videoId": "ZH4YSPnPQVU",
+    "url": "https://www.youtube.com/watch?v=ZH4YSPnPQVU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-02T20:25:01Z"
+    "fetchedAt": "2026-07-02T21:45:02Z"
   },
   {
     "name": "France 24 English",
@@ -109,7 +109,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-02T20:25:05Z"
+    "fetchedAt": "2026-07-02T21:45:05Z"
   },
   {
     "name": "Reuters",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "uQ6hs13ASOg",
-    "url": "https://www.youtube.com/watch?v=uQ6hs13ASOg",
-    "title": null,
-    "thumbnail": null,
+    "videoId": "veqOOoCEt0o",
+    "url": "https://www.youtube.com/watch?v=veqOOoCEt0o",
+    "title": "LIVE: UN briefing after Russia bombarded Kyiv in one of war's biggest strikes",
+    "thumbnail": "https://i.ytimg.com/vi/veqOOoCEt0o/maxresdefault.jpg",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-02T20:25:09Z"
+    "fetchedAt": "2026-07-02T21:45:09Z"
   },
   {
     "name": "The New York Times",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-02T20:25:13Z"
+    "fetchedAt": "2026-07-02T21:45:13Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -151,6 +151,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-02T20:25:16Z"
+    "fetchedAt": "2026-07-02T21:45:16Z"
   }
 ]
