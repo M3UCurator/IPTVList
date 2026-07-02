@@ -61,6 +61,19 @@ http://45.7.237.109:9000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="TV", NBC NY
 http://stream.cammonitorplus.net/1812/index.m3u8
 
+#EXTINF:-1 group-title="TV",CBS 6 Richmond VA (WTVR)
+https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8
+
+#EXTINF:-1 group-title="TV",CBS 2 Salt Lake City UT (KUTV) 
+https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 group-title="TV",CBS 3 Kalamazoo MI (WWMT) 
+https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 group-title="TV",CBS 42 Austin TX (KEYE) 
+https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist_1280x720.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" ,BBC First
 http://91.146.94.234:10001/play/a087
