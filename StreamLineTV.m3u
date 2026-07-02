@@ -74,6 +74,7 @@ https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist_1280x720.
 https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1 group-title="TV",CBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=855366&extension=ts
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" ,BBC First
