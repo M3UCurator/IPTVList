@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-03T11:33:11Z"
+    "fetchedAt": "2026-07-03T14:07:06Z"
   },
   {
     "name": "Newsroom Africa",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-03T11:33:14Z"
+    "fetchedAt": "2026-07-03T14:07:09Z"
   },
   {
     "name": "BBC News",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "2VPnBaiQqRA",
-    "url": "https://www.youtube.com/watch?v=2VPnBaiQqRA",
+    "videoId": "CcdOuVY6lsQ",
+    "url": "https://www.youtube.com/watch?v=CcdOuVY6lsQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-03T11:33:18Z"
+    "fetchedAt": "2026-07-03T14:07:13Z"
   },
   {
     "name": "CNN",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "2WjYw5KefKA",
-    "url": "https://www.youtube.com/watch?v=2WjYw5KefKA",
+    "videoId": "X8LreQnutgY",
+    "url": "https://www.youtube.com/watch?v=X8LreQnutgY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-03T11:33:22Z"
+    "fetchedAt": "2026-07-03T14:07:17Z"
   },
   {
     "name": "Al Jazeera English",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "gCNeDWCI0vo",
-    "url": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
+    "videoId": "ZhDpcr_Ghmo",
+    "url": "https://www.youtube.com/watch?v=ZhDpcr_Ghmo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-03T11:33:26Z"
+    "fetchedAt": "2026-07-03T14:07:21Z"
   },
   {
     "name": "DW News",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-03T11:33:30Z"
+    "fetchedAt": "2026-07-03T14:07:25Z"
   },
   {
     "name": "Sky News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "64OdtJWH8S8",
-    "url": "https://www.youtube.com/watch?v=64OdtJWH8S8",
+    "videoId": "2MPlpU0Iub8",
+    "url": "https://www.youtube.com/watch?v=2MPlpU0Iub8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-03T11:33:33Z"
+    "fetchedAt": "2026-07-03T14:07:28Z"
   },
   {
     "name": "France 24 English",
@@ -109,7 +109,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-03T11:33:37Z"
+    "fetchedAt": "2026-07-03T14:07:32Z"
   },
   {
     "name": "Reuters",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "OkQo_IVa50E",
-    "url": "https://www.youtube.com/watch?v=OkQo_IVa50E",
+    "videoId": "fEUzEPrUS9k",
+    "url": "https://www.youtube.com/watch?v=fEUzEPrUS9k",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-03T11:33:40Z"
+    "fetchedAt": "2026-07-03T14:07:35Z"
   },
   {
     "name": "The New York Times",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Wkv1gG18jdQ",
-    "url": "https://www.youtube.com/watch?v=Wkv1gG18jdQ",
+    "videoId": "RNAJn80xn3c",
+    "url": "https://www.youtube.com/watch?v=RNAJn80xn3c",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-03T11:33:44Z"
+    "fetchedAt": "2026-07-03T14:07:39Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -145,12 +145,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "qMyQQ4HZ4d0",
-    "url": "https://www.youtube.com/watch?v=qMyQQ4HZ4d0",
+    "videoId": "f2XGsvP794M",
+    "url": "https://www.youtube.com/watch?v=f2XGsvP794M",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-03T11:33:48Z"
+    "fetchedAt": "2026-07-03T14:07:42Z"
   }
 ]
