@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/134.0.0.0 CrKey/1.44.191160
 
 
 #EXTINF:-1 tvg-chno="001" tvg-id="SABC1.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", SABC 1 (720)
@@ -74,7 +74,7 @@ https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist_1280x720.
 https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1 group-title="TV",CBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/134.0.0.0 CrKey/1.44.191160
 http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=855366&extension=ts
 
 #EXTINF:-1 group-title="TV",CBS2
