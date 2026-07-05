@@ -246,7 +246,7 @@ def _print_summary(report: Dict[str, Any]) -> None:
             print(f"  User-Agent: {s.get('user_agent')}")
 
 
-def _fetch_url_text(url: str, timeout: int = 10) -> Optional[str]:
+def _fetch_url_text(url: str, timeout: int = 10, extra_headers: Optional[Dict[str, str]] = None) -> Optional[str]:
     """Fetch a remote URL and return its text content.
 
     Tries requests if available, otherwise uses urllib.
@@ -254,12 +254,16 @@ def _fetch_url_text(url: str, timeout: int = 10) -> Optional[str]:
     """
     try:
         if _HAS_REQUESTS:
-            resp = requests.get(url, timeout=timeout)
+            resp = requests.get(url, timeout=timeout, headers=extra_headers)
             resp.raise_for_status()
             # requests automatically decodes based on headers
             return resp.text
         else:
-            with urllib.request.urlopen(url, timeout=timeout) as resp:
+            if extra_headers is None:
+                req = urllib.request.Request(url)
+            else:
+                req = urllib.request.Request(url, headers=extra_headers)
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
                 bytes_data = resp.read()
                 # Try to decode using utf-8, fall back to latin-1
                 try:
@@ -314,6 +318,29 @@ def _parse_header_string(header_str: str) -> Dict[str, str]:
     return headers
 
 
+def _parse_cli_headers(header_list: Optional[List[str]]) -> Dict[str, str]:
+    """Parse CLI --header/-H entries into a dict.
+
+    Accepts entries in formats like "Key: Value" or "Key=Value". Repeated
+    flags merge, later entries override earlier ones.
+    """
+    headers: Dict[str, str] = {}
+    if not header_list:
+        return headers
+    for item in header_list:
+        if not item:
+            continue
+        if ':' in item:
+            k, v = item.split(':', 1)
+        elif '=' in item:
+            k, v = item.split('=', 1)
+        else:
+            # treat whole string as header name with empty value
+            k, v = item, ''
+        headers[k.strip()] = v.strip()
+    return headers
+
+
 def _request_url(url: str, headers: Dict[str, str], timeout: int = 10) -> Dict[str, Any]:
     """Request a URL with headers and return a small result summary.
 
@@ -350,6 +377,7 @@ def main(argv: Optional[List[str]] = None) -> None:
     --fetch-url URL   : Fetch remote M3U8 URL, parse its contents and analyze streams
     --parse-headers   : Parse raw http_headers strings into dicts and merge into headers
     --request         : Request the parsed stream URLs using the built headers
+    --header / -H     : Custom header(s) to include in fetch/request calls (repeatable)
     --json            : Output machine-readable JSON
     --timeout SECS    : Timeout in seconds for network requests (default 10)
     """
@@ -360,11 +388,15 @@ def main(argv: Optional[List[str]] = None) -> None:
     group.add_argument('--fetch-url', '-x', help='Fetch remote M3U8 URL and analyze its contents')
     parser.add_argument('--parse-headers', '-p', action='store_true', help='Parse raw http_headers strings into dicts')
     parser.add_argument('--request', '-r', action='store_true', help='Request parsed stream URLs using built headers')
+    parser.add_argument('--header', '-H', action='append', help='Custom header to include in fetch/request (format "Key: Value" or "Key=Value"). Repeatable.')
     parser.add_argument('--json', '-j', action='store_true', help='Output JSON')
     parser.add_argument('--timeout', '-t', type=int, default=10, help='Network timeout in seconds (default 10)')
     args = parser.parse_args(argv)
 
     extractor = ReferrerExtractor()
+
+    # Parse CLI headers once
+    cli_headers = _parse_cli_headers(getattr(args, 'header', None))
 
     def _maybe_request_streams(streams: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         results: List[Dict[str, Any]] = []
@@ -373,8 +405,10 @@ def main(argv: Optional[List[str]] = None) -> None:
             if not url:
                 continue
 
-            # Build headers: start with any parsed headers and then add referer/user-agent
+            # Build headers: start with CLI headers, then parsed headers, then add referer/user-agent
             combined_headers: Dict[str, str] = {}
+            combined_headers.update(cli_headers)
+
             # parse http_headers if requested
             if args.parse_headers and s.get('http_headers'):
                 parsed = _parse_header_string(s.get('http_headers'))
@@ -440,7 +474,7 @@ def main(argv: Optional[List[str]] = None) -> None:
         return
 
     if args.fetch_url:
-        text = _fetch_url_text(args.fetch_url, timeout=args.timeout)
+        text = _fetch_url_text(args.fetch_url, timeout=args.timeout, extra_headers=cli_headers if cli_headers else None)
         if text is None:
             print("Failed to fetch or decode remote URL")
             return
