@@ -294,30 +294,133 @@ def _analyze_m3u_text(text: str, extractor: ReferrerExtractor) -> List[Dict[str,
     return streams
 
 
+def _parse_header_string(header_str: str) -> Dict[str, str]:
+    """Parse a raw header string into a dict.
+
+    Supports header strings separated by newlines or "\r\n". Each header line
+    should be in the form "Key: Value". Lines without a colon are ignored.
+    """
+    headers: Dict[str, str] = {}
+    if not header_str:
+        return headers
+
+    for raw_line in header_str.splitlines():
+        line = raw_line.strip()
+        if not line:
+            continue
+        if ':' in line:
+            k, v = line.split(':', 1)
+            headers[k.strip()] = v.strip()
+    return headers
+
+
+def _request_url(url: str, headers: Dict[str, str], timeout: int = 10) -> Dict[str, Any]:
+    """Request a URL with headers and return a small result summary.
+
+    Uses requests if available, otherwise urllib. Returns a dict with either
+    status_code and content_type on success or an 'error' key on failure.
+    """
+    try:
+        if _HAS_REQUESTS:
+            resp = requests.get(url, headers=headers, timeout=timeout)
+            return {
+                'status_code': resp.status_code,
+                'content_type': resp.headers.get('content-type'),
+                'headers': dict(resp.headers)
+            }
+        else:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                ct = resp.headers.get('content-type') if hasattr(resp, 'headers') else None
+                status = getattr(resp, 'status', None)
+                return {
+                    'status_code': status,
+                    'content_type': ct,
+                    'headers': dict(resp.getheaders()) if hasattr(resp, 'getheaders') else {}
+                }
+    except Exception as e:
+        return {'error': str(e)}
+
+
 def main(argv: Optional[List[str]] = None) -> None:
     """CLI entrypoint. Supported flags:
 
     --file PATH       : Analyze an M3U8 file and print a report
     --url  URL        : Extract referrer/user-agent from a single URL (no fetch)
     --fetch-url URL   : Fetch remote M3U8 URL, parse its contents and analyze streams
+    --parse-headers   : Parse raw http_headers strings into dicts and merge into headers
+    --request         : Request the parsed stream URLs using the built headers
     --json            : Output machine-readable JSON
+    --timeout SECS    : Timeout in seconds for network requests (default 10)
     """
     parser = argparse.ArgumentParser(description='ReferrerExtractor CLI')
     group = parser.add_mutually_exclusive_group()
     group.add_argument('--file', '-f', help='Path to M3U8 file to analyze')
     group.add_argument('--url', '-u', help='Single stream URL to extract referrer from (no fetch)')
     group.add_argument('--fetch-url', '-x', help='Fetch remote M3U8 URL and analyze its contents')
+    parser.add_argument('--parse-headers', '-p', action='store_true', help='Parse raw http_headers strings into dicts')
+    parser.add_argument('--request', '-r', action='store_true', help='Request parsed stream URLs using built headers')
     parser.add_argument('--json', '-j', action='store_true', help='Output JSON')
+    parser.add_argument('--timeout', '-t', type=int, default=10, help='Network timeout in seconds (default 10)')
     args = parser.parse_args(argv)
 
     extractor = ReferrerExtractor()
 
+    def _maybe_request_streams(streams: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        results: List[Dict[str, Any]] = []
+        for s in streams:
+            url = s.get('url')
+            if not url:
+                continue
+
+            # Build headers: start with any parsed headers and then add referer/user-agent
+            combined_headers: Dict[str, str] = {}
+            # parse http_headers if requested
+            if args.parse_headers and s.get('http_headers'):
+                parsed = _parse_header_string(s.get('http_headers'))
+                combined_headers.update(parsed)
+
+            # prefer explicit referer in stream, otherwise use domain
+            referer = s.get('referer') or extractor.extract_domain_from_url(url)
+            user_agent = s.get('user_agent') or combined_headers.get('User-Agent') or 'Mozilla/5.0'
+
+            # ensure keys are proper-case for requests/urllib
+            if 'User-Agent' not in combined_headers:
+                combined_headers['User-Agent'] = user_agent
+            if referer and 'Referer' not in combined_headers:
+                combined_headers['Referer'] = referer
+
+            res = _request_url(url, combined_headers, timeout=args.timeout)
+            entry = {'url': url, 'request_result': res}
+            results.append(entry)
+        return results
+
     if args.file:
         report = extractor.analyze_stream_links(args.file)
+
+        # Optionally parse header strings
+        if args.parse_headers:
+            for s in report.get('streams', []):
+                if s.get('http_headers'):
+                    s['parsed_headers'] = _parse_header_string(s.get('http_headers'))
+
+        if args.request:
+            req_results = _maybe_request_streams(report.get('streams', []))
+            report['request_results'] = req_results
+
         if args.json:
             _print_json(report)
         else:
             _print_summary(report)
+            if args.request:
+                print('\nRequest results:')
+                for r in report.get('request_results', [])[:10]:
+                    url = r.get('url')
+                    rr = r.get('request_result', {})
+                    if 'error' in rr:
+                        print(f"- {url} -> ERROR: {rr['error']}")
+                    else:
+                        print(f"- {url} -> {rr.get('status_code')} {rr.get('content_type')}")
         return
 
     if args.url:
@@ -337,15 +440,27 @@ def main(argv: Optional[List[str]] = None) -> None:
         return
 
     if args.fetch_url:
-        text = _fetch_url_text(args.fetch_url)
+        text = _fetch_url_text(args.fetch_url, timeout=args.timeout)
         if text is None:
             print("Failed to fetch or decode remote URL")
             return
         streams = _analyze_m3u_text(text, extractor)
+
+        # Optionally parse header strings
+        if args.parse_headers:
+            for s in streams:
+                if s.get('http_headers'):
+                    s['parsed_headers'] = _parse_header_string(s.get('http_headers'))
+
         report = {
             'total_streams': len(streams),
             'streams': streams
         }
+
+        if args.request:
+            req_results = _maybe_request_streams(streams)
+            report['request_results'] = req_results
+
         if args.json:
             _print_json(report)
         else:
@@ -357,6 +472,15 @@ def main(argv: Optional[List[str]] = None) -> None:
                     print(f"  Referer: {s.get('referer')}")
                 if s.get('user_agent'):
                     print(f"  User-Agent: {s.get('user_agent')}")
+            if args.request:
+                print('\nRequest results:')
+                for r in report.get('request_results', [])[:10]:
+                    url = r.get('url')
+                    rr = r.get('request_result', {})
+                    if 'error' in rr:
+                        print(f"- {url} -> ERROR: {rr['error']}")
+                    else:
+                        print(f"- {url} -> {rr.get('status_code')} {rr.get('content_type')}")
         return
 
     # No args provided: show examples (previous behavior)
