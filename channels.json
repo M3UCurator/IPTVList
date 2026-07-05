@@ -1,7 +1,7 @@
 [
   { "name": "SABC Digital News", "channel": "@sabcdigitalnews", "group": "News" },
   { "name": "Newslive SA", "channel": "@newslivesa", "group": "News" },
-  { "name": "Newsroom Africa", "channel": "@newzroomafrika405", "group": "News" }
+  { "name": "Newsroom Africa", "channel": "@newzroomafrika405", "group": "News" },
   { "name": "BBC News", "channel": "@BBCNews", "group": "News" },
   { "name": "CNN", "channel": "@CNN", "group": "News" },
   { "name": "Al Jazeera English", "channel": "@AJEnglish", "group": "News" },
