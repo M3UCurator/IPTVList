@@ -12,6 +12,15 @@ import argparse
 from urllib.parse import urlparse, parse_qs
 from typing import Dict, List, Optional, Tuple, Any
 
+# For fetching remote M3U8 files we try requests first, then fall back to urllib
+try:
+    import requests  # type: ignore
+    _HAS_REQUESTS = True
+except Exception:
+    import urllib.request
+    import urllib.error
+    _HAS_REQUESTS = False
+
 
 class ReferrerExtractor:
     """Extract referrer and header information from M3U8 streams."""
@@ -237,17 +246,67 @@ def _print_summary(report: Dict[str, Any]) -> None:
             print(f"  User-Agent: {s.get('user_agent')}")
 
 
+def _fetch_url_text(url: str, timeout: int = 10) -> Optional[str]:
+    """Fetch a remote URL and return its text content.
+
+    Tries requests if available, otherwise uses urllib.
+    Returns None on failure.
+    """
+    try:
+        if _HAS_REQUESTS:
+            resp = requests.get(url, timeout=timeout)
+            resp.raise_for_status()
+            # requests automatically decodes based on headers
+            return resp.text
+        else:
+            with urllib.request.urlopen(url, timeout=timeout) as resp:
+                bytes_data = resp.read()
+                # Try to decode using utf-8, fall back to latin-1
+                try:
+                    return bytes_data.decode('utf-8')
+                except UnicodeDecodeError:
+                    return bytes_data.decode('latin-1')
+    except Exception as e:
+        print(f"Failed to fetch URL {url}: {e}")
+        return None
+
+
+def _analyze_m3u_text(text: str, extractor: ReferrerExtractor) -> List[Dict[str, Any]]:
+    lines = text.splitlines()
+    streams: List[Dict[str, Any]] = []
+    current_info: Dict[str, Any] = {}
+
+    for line in lines:
+        line = line.strip()
+        if line.startswith('#EXTINF:'):
+            current_info = extractor.extract_from_m3u_line(line)
+            current_info['extinf'] = line
+        elif line.startswith('#EXT-X-STREAM-INF:'):
+            headers_info = extractor.extract_from_m3u_line(line)
+            current_info.update(headers_info)
+        elif line and not line.startswith('#'):
+            if current_info:
+                current_info['url'] = line
+                current_info.update(extractor.extract_from_url(line))
+                streams.append(current_info)
+                current_info = {}
+
+    return streams
+
+
 def main(argv: Optional[List[str]] = None) -> None:
     """CLI entrypoint. Supported flags:
 
-    --file PATH   : Analyze an M3U8 file and print a report
-    --url  URL    : Extract referrer/user-agent from a single URL
-    --json        : Output machine-readable JSON
+    --file PATH       : Analyze an M3U8 file and print a report
+    --url  URL        : Extract referrer/user-agent from a single URL (no fetch)
+    --fetch-url URL   : Fetch remote M3U8 URL, parse its contents and analyze streams
+    --json            : Output machine-readable JSON
     """
     parser = argparse.ArgumentParser(description='ReferrerExtractor CLI')
     group = parser.add_mutually_exclusive_group()
     group.add_argument('--file', '-f', help='Path to M3U8 file to analyze')
-    group.add_argument('--url', '-u', help='Single stream URL to extract referrer from')
+    group.add_argument('--url', '-u', help='Single stream URL to extract referrer from (no fetch)')
+    group.add_argument('--fetch-url', '-x', help='Fetch remote M3U8 URL and analyze its contents')
     parser.add_argument('--json', '-j', action='store_true', help='Output JSON')
     args = parser.parse_args(argv)
 
@@ -277,8 +336,31 @@ def main(argv: Optional[List[str]] = None) -> None:
                     print(f"  {k}: {v}")
         return
 
+    if args.fetch_url:
+        text = _fetch_url_text(args.fetch_url)
+        if text is None:
+            print("Failed to fetch or decode remote URL")
+            return
+        streams = _analyze_m3u_text(text, extractor)
+        report = {
+            'total_streams': len(streams),
+            'streams': streams
+        }
+        if args.json:
+            _print_json(report)
+        else:
+            print(f"Fetched URL: {args.fetch_url}")
+            print(f"Total streams found: {len(streams)}")
+            for s in streams[:10]:
+                print(f"- {s.get('url')}")
+                if s.get('referer'):
+                    print(f"  Referer: {s.get('referer')}")
+                if s.get('user_agent'):
+                    print(f"  User-Agent: {s.get('user_agent')}")
+        return
+
     # No args provided: show examples (previous behavior)
-    print("No --file or --url provided. Running built-in examples...\n")
+    print("No --file, --url or --fetch-url provided. Running built-in examples...\n")
 
     # Example 1: Extract from URL
     example_url = "https://example.com/stream.m3u8?referer=https://example.com/player&ua=Mozilla/5.0"
