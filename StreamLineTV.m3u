@@ -256,8 +256,8 @@ http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562253
 
 #EXTINF:-1 tvg-chno="049" group-title="Sports" ,Supersport 7
 http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562252
-
-
+#EXTINF:-1 tvg-chno="" group-title="Sports" ,SS F1
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4180?WithCaption
 #EXTINF:-1 tvg-chno="" group-title="Sports" ,TSN 1
 https://ataide0.elugohome.com/tsn.m3u8
 
