@@ -7,14 +7,14 @@ https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="003" tvg-id="SABC.3.HD.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="TV", ZA | SABC 3 (720)F
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="TV", ZA |SABC News (720)
+#EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="TV", ZA | SABC News (720)
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="005" tvg-id="SABC.Lehae.za" group-title="TV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", ZA |Lehae (720)
+#EXTINF:-1 tvg-chno="005" tvg-id="SABC.Lehae.za" group-title="TV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", ZA | Lehae (720)
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="006" tvg-id="SABC.Education.za" group-title="TV" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/SABC-Education-Logo-Vector.svg-.png" , ZA | SABC Education (720)
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-chno="007" tvg-id="24.7.Dummy.us" group-title="TV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" , ZA |Mindset Learn (576)
+#EXTINF:-1 tvg-chno="007" tvg-id="24.7.Dummy.us" group-title="TV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" , ZA | Mindset Learn (576)
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 #EXTINF:-1 tvg-id="SABCEducation.za" group-title="Education", ZA | SABC Education 
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
@@ -30,22 +30,22 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tabl
 #EXTINF:-1 group-title="TV" , UK | Black Family Sitcoms
 https://jmp2.uk/plu-686d61503484d6073283059d.m3u8 
 
-#EXTINF:-1 group-title="TV" , US |Black News Channel 
+#EXTINF:-1 group-title="TV" , US | Black News Channel 
 https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 group-title="TV" , US | Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8 
 
-#EXTINF:-1 group-title="TV" , US |BET (720p)
+#EXTINF:-1 group-title="TV" , US | BET (720p)
 http://41.205.93.154/BET-EN/index.m3u8 
 
-#EXTINF:-1 group-title="TV" , US |BET Cinema
+#EXTINF:-1 group-title="TV" , US | BET Cinema
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8 
 
-#EXTINF:-1 group-title="TV" , US |BET Classics
-https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8 
+#EXTINF:-1 group-title="TV" , UK | BET Throwbacks
+https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
 
-#EXTINF:-1 group-title="TV" , US |BET Her (720p)
+#EXTINF:-1 group-title="TV" , US | BET Her (720p)
 http://41.205.93.154/BETHER/index.m3u8 
 
 #EXTINF:-1 group-title="TV" , US | BET Visionaries
@@ -54,7 +54,7 @@ https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 #EXTINF:-1 group-title="TV" ,US | Ebony TV by Lionsgate (1080p)
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8 
 
-#EXTINF:-1 group-title="TV" , US |Fox Soul (1080p)
+#EXTINF:-1 group-title="TV" , US | Fox Soul (1080p)
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 group-title="TV" , US | VOA TV Africa (1080p)
