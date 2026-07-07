@@ -104,9 +104,9 @@ http://45.7.237.109:9000/play/a03s/index.m3u8
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" , US | CBS LA
 http://stream.cammonitorplus.net/1798/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" , US | NBC Miami
+#EXTINF:-1 group-title="TV" tvg-name="NBS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true"  , US | NBC Miami
 http://45.7.237.109:9000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" , US | NBC NY
+#EXTINF:-1 group-title="TV" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" , US | NBC NY
 http://stream.cammonitorplus.net/1812/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" , US | CBS 6 Richmond VA (WTVR)
@@ -798,13 +798,13 @@ https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Nature & Travel", Autentic Travel
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-
 
-#EXTINF:-1 group-title="Sports" ,foxss1 (2)
+#EXTINF:-1 group-title="Sports" ,US | foxss1 (2)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102019
 
-#EXTINF:-1 group-title="Sports",TSN5
+#EXTINF:-1 group-title="Sports",CA | TSN5
 http://185.246.209.113:80/TSN5HD/index.m3u8
 
-#EXTINF:-1 group-title="Sports",foxss1
+#EXTINF:-1 group-title="Sports",US | foxss1
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/foxss1.m3u8
 
 #EXTINF:-1 group-title="Sports",Fusbal
@@ -813,7 +813,7 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/fusba
 #EXTINF:-1 tvg-id="Canal1" tvg-name="Canal Deportivo 1" group-title="Sports",Canal Deportivo 1
 http://181.78.67.171:8000/play/a0wy/index.m3u8
 
-#EXTINF:-1 tvg-id="WinSports" tvg-name="Win Sports" group-title="Deportes",Win Sports
+#EXTINF:-1 tvg-id="WinSports" tvg-name="Win Sports" group-title="Sports",Win Sports
 http://190.60.48.150:8000/play/WINSPORT/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal2" tvg-name="Canal Deportivo 2" group-title="Sports",Canal Deportivo 2
@@ -877,10 +877,10 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NileSport
 http://149.100.11.235:8080/NileSport/index.m3u8
 
-#EXTINF:-1 group-title="TV",NBC
+#EXTINF:-1 group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true",NBC
 http://4.59.210.197:8815/udp/127.0.0.1:6009
 
-#EXTINF:-1 group-title="TV",NBC South Florida
+#EXTINF:-1 group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true",NBC South Florida
 http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports", Golf+
