@@ -24,7 +24,7 @@ https://wildearth-ono.amagi.tv/ts-us-w2-n1/playlist/amg01290-wildearth-oando/cb5
 #EXTINF:-1 group-title="TV", SNG | CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" , US | BounceXL
+#EXTINF:-1 group-title="TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" , US | BounceXL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" , UK | Black Family Sitcoms
@@ -134,7 +134,7 @@ https://cdn.telecloud.tv/CH3247/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" , UK | BBC First
 http://91.146.94.234:10001/play/a087
 
-#EXTINF:-1 tvg-chno="0" group-title="TV" tvg-ID="BBCOneHD.uk" tvg-name="" , UK | BBC One
+#EXTINF:-1 tvg-chno="0" group-title="TV" tvg-ID="BBCOneHD.uk" tvg-name="" tvg-logo="https://images.open-epg.com/x364.png" , UK | BBC One
 http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="WTXFTV291.us@HD" group-title="TV" tvg-logo="https://i.imgur.com/fRjmk5r.png" , US | WTXF-DT1 (720p)
@@ -171,8 +171,11 @@ https://amg00488-foxdigital-ktbc-lgus-zwsvj.amagi.tv/ts-us-w2-n1/playlist/amg004
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",FOX 11 (720)
 https://amg00488-foxdigital-fox11losangeleskttv-vizious-a7b8z.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-fox11losangeleskttv-vizious/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f59647ced51fbbd3d65883458674f9099c93a68ace41d086c47eaa06b56c595e712ac98620c5fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3913becd29843d4d887ffab7dc7e8bb481b5748a875b5248be229d/148/1280x720_3000140/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCKids.us" tvg-logo="https://static.wikia.nocookie.net/kids-tv-channel/images/e/e0/1200px-BBC_Kids_logo.svg.png/revision/latest?cb=20200225224040" group-title="Kids", US |BBC Kids
+#EXTINF:-1 tvg-id="BBCKids.us" tvg-logo="https://static.wikia.nocookie.net/kids-tv-channel/images/e/e0/1200px-BBC_Kids_logo.svg.png/revision/latest?cb=20200225224040" group-title="TV", US |BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-chno="" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" ,BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="", CA | CTV
 http://stream.cammonitorplus.net/1720/index.m3u8
@@ -180,7 +183,7 @@ http://stream.cammonitorplus.net/1720/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="", CA | TV CANADA CTV
 http://stream.cammonitorplus.net/1724/index.m3u8
 
-#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" group-title="TV", UK | BBC One (720)
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" group-title="TV" tvg-logo="https://images.open-epg.com/x364.png" , UK | BBC One (720)
 http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
 
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-1-uk.png" group-title="TV", UK | ITV1 (720)
@@ -226,7 +229,7 @@ https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8 (1080)
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="TV", US | Disney XD
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="TV", US | Disney XD
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://www.freepnglogos.com/uploads/text-nick-nickelodeon-logo-png-9.png" group-title="TV", US | Nickelodeon
@@ -685,7 +688,7 @@ http://99.27.51.147:8080/BeinSport2/index.m3u8
 http://99.27.51.147:8080/BeinSport3/index.m3u8
 
 
-#EXTINF:-1,Bein 1
+#EXTINF:-1   tvg-logo="https://images.open-epg.com/x1590.png",Bein 1
 #https://love.bebin98399.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
 #https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Bein01.m3u8
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
@@ -853,9 +856,9 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn4.m3u8
 
 #EXTINF:-1 group-title="Sports",TSN5
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn5.m3u8
-#EXTINF:-1 group-title="Sports",ESPN 
+#EXTINF:-1 group-title="Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN 
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/espn.m3u8
-#EXTINF:-1 group-title="Sports",ESPN 2
+#EXTINF:-1 group-title="Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/espn2.m3u8
 
 #EXTINF:-1 group-title="Sports",QAZSPORT HD
