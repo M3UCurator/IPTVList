@@ -1,18 +1,19 @@
-#EXTM3U url-tvg=""
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/generate/JVDwzRJDcu.xml.gz" refresh="3600"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/134.0.0.0 
 
-#EXTINF:-1 tvg-chno="001" tvg-id="SABC1.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", ZA | SABC 1 (720)
+#EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="TV", ZA | SABC 1 (720)
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="002" tvg-id="SABC2.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="TV", ZA | SABC 2 (720)
+#EXTINF:-1 tvg-chno="002" tvg-id="SABC.2.HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="TV", ZA | SABC 2 (720)
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="003" tvg-id="SABC3.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="TV", ZA | SABC 3 (720)F
+#EXTINF:-1 tvg-chno="003" tvg-id="SABC.3.HD.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="TV", ZA | SABC 3 (720)F
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="004" tvg-id="SABCNews.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="TV", ZA |SABC News (720)
+#EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="TV", ZA |SABC News (720)
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="005" tvg-id="Lehae.za" group-title="TV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", ZA |Lehae (720)
+#EXTINF:-1 tvg-chno="005" tvg-id="SABC.Lehae.za" group-title="TV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", ZA |Lehae (720)
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="006" tvg-id="SABCEducation.za" group-title="TV" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/SABC-Education-Logo-Vector.svg-.png" , ZA | SABC Education (720)
+#EXTINF:-1 tvg-chno="006" tvg-id="SABC.Education.za" group-title="TV" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/SABC-Education-Logo-Vector.svg-.png" , ZA | SABC Education (720)
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+
 #EXTINF:-1 tvg-chno="007" tvg-id="24.7.Dummy.us" group-title="TV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" , ZA |Mindset Learn (576)
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 #EXTINF:-1 tvg-id="SABCEducation.za" group-title="Education", ZA | SABC Education 
@@ -131,7 +132,7 @@ https://cdn.telecloud.tv/CH3247/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" ,BBC First
 http://91.146.94.234:10001/play/a087
 
-#EXTINF:-1 tvg-chno="0" group-title="TV" tvg-id="" tvg-name="" ,BBC One
+#EXTINF:-1 tvg-chno="0" group-title="TV" tvg-ID="BBCOneHD.uk" tvg-name="" ,BBC One
 http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="WTXFTV291.us@HD" group-title="TV" tvg-logo="https://i.imgur.com/fRjmk5r.png" ,WTXF-DT1 (720p)
@@ -175,14 +176,14 @@ https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 http://stream.cammonitorplus.net/1720/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="",TV CANADA CTV
 http://stream.cammonitorplus.net/1724/index.m3u8
-#EXTINF:-1 group-title="TV",BBC One (720)
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" group-title="TV",BBC One (720)
 http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
 
-#EXTINF:-1 group-title="TV",ITV1 (720)
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-1-uk.png" group-title="TV",ITV1 (720)
 http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19185/index.m3u8
 
 
-#EXTINF:-1 group-title="TV",ITV2 (720)
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-2-uk.png" group-title="TV",ITV2 (720)
 http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
 
 
