@@ -104,6 +104,8 @@ http://45.7.237.109:9000/play/a03s/index.m3u8
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" , US | CBS LA
 http://stream.cammonitorplus.net/1798/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" , US | CBS East
+http://stream.cammonitorplus.net/1783/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="NBS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true"  , US | NBC Miami
 http://45.7.237.109:9000/play/a03t/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" , US | NBC NY
