@@ -18,6 +18,10 @@ https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 #EXTINF:-1 tvg-chno="008" tvg-id="SABCEducation.za" group-title="ZATV", SABC Education 
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 
+#EXTINF:-1 tvg-chno="0" group-title="UKTV" tvg-ID="BBCOneHD.uk" tvg-name="" tvg-logo="https://images.open-epg.com/x364.png" , BBC One
+#http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
+http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/19176/index.m3u8
+
 #EXTINF:-1 tvg-chno="010" group-title="UKTV" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true", BBC 1
 http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
 
@@ -49,8 +53,7 @@ https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
 #EXTINF:-1 tvg-chno="" group-title="UKTV" tvg-id="" tvg-name="" , BBC First
 http://91.146.94.234:10001/play/a087
 
-#EXTINF:-1 tvg-chno="0" group-title="UKTV" tvg-ID="BBCOneHD.uk" tvg-name="" tvg-logo="https://images.open-epg.com/x364.png" , UK | BBC One
-http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
+
 
 
 
