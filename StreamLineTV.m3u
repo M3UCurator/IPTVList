@@ -44,10 +44,6 @@ https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pX
 
 #EXTINF:-1 group-title="UKTV" , BET Throwbacks
 https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
-#EXTINF:-1 group-title="UKTV" , Black Family Sitcoms
-https://jmp2.uk/plu-686d61503484d6073283059d.m3u8 
-#EXTINF:-1 tvg-chno="" group-title="UKTV" tvg-id="" tvg-name="" , BBC First
-http://91.146.94.234:10001/play/a087
 
 
 
@@ -197,7 +193,7 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 
 #EXTINF:-1 tvg-chno="075" tvg-id="USA.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/640px-USA_Network_2025_logo.svg.png" group-title="USA",  USA Network
 
-#EXTINF:-1 tvg-chno="076" tvg-id="Crime360.us"tvg-name="" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-chno="038" group-title="USTVDocumentary", Crime 360
+#EXTINF:-1 tvg-chno="076" tvg-id="Crime360.us"tvg-name="" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-chno="038" group-title="USTV", Crime 360
 https://94a3e237.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/2e47bce2-67ea-4697-84de-30ba5a25d3ff/2.m3u8
 
 
