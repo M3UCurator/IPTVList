@@ -696,6 +696,132 @@ http://151.80.18.177:86/Canal+_sport_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sportivny" tvg-logo="https://iptvx.one/picons/sportivny.png" group-title="Sports" ,ТВ Спорт
 http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein1.png",beIN 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein2.png",beIN 2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein3.png",beIN 3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN 4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports", SS Football
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KD6YT2WWZRCKHB/9289/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" tvg-chno="" group-title="Sports", SS P. League
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/9334/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Sports",Bein Sport 1 HD
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Sports",Bein Sport 2 HD
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Sports",Bein Sport 3 HD
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://images.open-epg.com/x1590.png",Bein 1
+#https://love.bebin98399.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
+#https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Bein01.m3u8
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+
+#EXTINF:-1,Bein 2
+#https://love.bebin98399.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
+https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Bein02.m3u8
+#EXTINF:-1,Bein 3
+#https://love.bebin98399.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
+https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Bein03.m3u8
+
+
+#EXTINF:-1 group-title="Sports",Tabii Spor 1 HD
+https://1nyaler.streamhostingcdn.top/stream/88/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 1 HD (Turkiye)
+https://1nyaler.streamhostingcdn.top/stream/22/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 2 HD (Turkiye)
+https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HD (Turkiye)
+https://1nyaler.streamhostingcdn.top/stream/18/.index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 1 HD (Fr)
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1,beIN Sports 2 HD (Fr)
+https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports 3 HD (Fr)
+https://1nyaler.streamhostingcdn.top/stream/19/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-chno="" group-title="Nature & Travel", Wild Earth
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-chno=""  group-title="Nature & Travel", Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Nature & Travel", Wellbeing TV/My Zen
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Nature & Travel", Travel Escapes
+https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno=""   group-title="Nature & Travel", Autentic Travel
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-
+#EXTINF:-1 tvg-chno="" group-title="Nature & Travel" tvg-logo="https://i.imgur.com/Vhv5gjN.png", Wild Earth (720)
+https://wildearth-ono.amagi.tv/ts-us-w2-n1/playlist/amg01290-wildearth-oando/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f596109bd51be988d55983458623a5099c93a68ace18818e937ead06b6670b0b7b299dd02dc7fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3816ba75a86b3a6bdfa8abb5e8e28a517faa6d778f8071e875bb/40/1280x720_2657600/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Fusbal
+https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/fusbal.m3u8
+
+#EXTINF:-1 tvg-id="Canal1" tvg-name="Canal Deportivo 1" group-title="Sports",Canal Deportivo 1
+http://181.78.67.171:8000/play/a0wy/index.m3u8
+
+#EXTINF:-1 tvg-id="WinSports" tvg-name="Win Sports" group-title="Sports", Win Sports
+http://190.60.48.150:8000/play/WINSPORT/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal2" tvg-name="Canal Deportivo 2" group-title="Sports",Canal Deportivo 2
+http://190.60.54.158:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal3" tvg-name="Canal Deportivo 3" group-title="Sports" ,Canal Deportivo 3
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal4" tvg-name="Canal Deportivo 4" group-title="Sports",Canal Deportivo 4
+http://181.119.83.235:8000/play/C052/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5" tvg-name="Canal Deportivo 5" group-title="Sports",Canal Deportivo 5
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal6" tvg-name="Canal Deportivo 6 (Proxy)" group-title="Sports",Canal Deportivo 6 (Proxy)
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="CazeTV" tvg-name="CazéTV BR" group-title="Sports",CazéTV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 group-title="Sports",Fast Sport TV
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",QAZSPORT HD
+http://62.32.84.50:18000/play/a06b/index.m3u8
+
+#EXTINF:-1 group-title="TV" ,1TV GE
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+
+##EXTINF:-1 group-title="Sports",2TV GE
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sport 1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Sport 2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",NileSport
+http://149.100.11.235:8080/NileSport/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports", Golf+
+http://tinyurl.com/TvZaTak0/GOLF+_HD/index.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 group-title="Sports", Golf Channel
+http://8.243.126.131:8000/play/a0fi/index.m3u8
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Sports",Belarus 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 
@@ -715,31 +841,6 @@ http://37.186.70.39:40/play/82/index.m3u8
 http://37.186.70.39:40/play/83/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/sport-png/tvp-sport-wikipedia-12.png"/https://www.freepnglogos.com/uploads/sport-png/tvp-sport-wikipedia-12.png,TVP Sport
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1, TVP 1
-https://srv7.flussonic111.com/PL_TVP1_HD/index.m3u8
-#EXTINF:-1,HT Spor
-https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein1.png",beIN 1
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein2.png",beIN 2
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein3.png",beIN 3
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN 4
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 group-title="Sports",TVR Sport
-https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN USA
-http://84.17.50.102/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN ESP
-http://179.60.51.134:8888/ESPN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports"",ESPN2 ESP
-http://179.60.51.134:8888/ESPN2/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN3 ESP
-http://179.60.51.134:8888/ESPN3/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN4 ESP
-http://179.60.51.134:8888/ESPN4/index.m3u8
-
 #EXTINF:-1 group-title="Sports" ,ESPN 1 ESP (2)
 http://8.243.126.131:8000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="Sports" ,ESPN 2 ESP (2)
@@ -795,32 +896,36 @@ https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTINF:-1 , Alkass Shoof 2
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports", SS Football
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KD6YT2WWZRCKHB/9289/index.m3u8
+#EXTINF:-1 group-title="Sports",DAZN 1 HD
+https://1nyaler.streamhostingcdn.top/stream/5/index.m3u8
+#EXTINF:-1 group-title="Sports",DAZN 2 HD
+https://1nyaler.streamhostingcdn.top/stream/3/index.m3u8
+#EXTINF:-1 group-title="Sports",DAZN 3 HD
+https://1nyaler.streamhostingcdn.top/stream/9/index.m3u8
+#EXTINF:-1 group-title="Sports",Eleven Sports 1 HD
+https://1nyaler.streamhostingcdn.top/stream/43/index.m3u8
+#EXTINF:-1 group-title="Sports",Eleven Sports 2 HD
+https://1nyaler.streamhostingcdn.top/stream/44/index.m3u8
+#EXTINF:-1 group-title="Sports",Eleven Sports 3 HD
+https://1nyaler.streamhostingcdn.top/stream/45/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" tvg-chno="" group-title="Sports", SS P. League
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/9334/index.m3u8
+#EXTINF:-1, TVP 1
+https://srv7.flussonic111.com/PL_TVP1_HD/index.m3u8
+#EXTINF:-1,HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 group-title="Sports",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN USA
+http://84.17.50.102/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN ESP
+http://179.60.51.134:8888/ESPN/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports"",ESPN2 ESP
+http://179.60.51.134:8888/ESPN2/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN3 ESP
+http://179.60.51.134:8888/ESPN3/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN4 ESP
+http://179.60.51.134:8888/ESPN4/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Sports",Bein Sport 1 HD
-http://99.27.51.147:8080/BeinSport/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Sports",Bein Sport 2 HD
-http://99.27.51.147:8080/BeinSport2/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Sports",Bein Sport 3 HD
-http://99.27.51.147:8080/BeinSport3/index.m3u8
-
-
-#EXTINF:-1   tvg-logo="https://images.open-epg.com/x1590.png",Bein 1
-#https://love.bebin98399.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
-#https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Bein01.m3u8
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
-
-#EXTINF:-1,Bein 2
-#https://love.bebin98399.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
-https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Bein02.m3u8
-
-#EXTINF:-1,Bein 3
-#https://love.bebin98399.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
-https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Bein03.m3u8
 #EXTINF:-1 ,Oman Sports
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
 #EXTINF:-1, ERT Sports 1 (1080p)
@@ -832,8 +937,7 @@ http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1,Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1,ITV
-https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,CazéTV 1 
 http://201.151.118.136:1234/stream/mundial2026/cazetvop1/master.m3u8 
@@ -865,111 +969,6 @@ http://5.188.159.128:8070/megogo_sport/index.m3u8
 
 #EXTINF:-1 ,World Cup 2026
 http://46.101.169.21/ch299/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports",Tabii Spor 1 HD
-https://1nyaler.streamhostingcdn.top/stream/88/index.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports 1 HD (Turkiye)
-https://1nyaler.streamhostingcdn.top/stream/22/index.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports 2 HD (Turkiye)
-https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports 3 HD (Turkiye)
-https://1nyaler.streamhostingcdn.top/stream/18/.index.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports 1 HD (Fr)
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1,beIN Sports 2 HD (Fr)
-https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports 3 HD (Fr)
-https://1nyaler.streamhostingcdn.top/stream/19/index.m3u8
-#EXTINF:-1 group-title="Sports",DAZN 1 HD
-https://1nyaler.streamhostingcdn.top/stream/5/index.m3u8
-#EXTINF:-1 group-title="Sports",DAZN 2 HD
-https://1nyaler.streamhostingcdn.top/stream/3/index.m3u8
-#EXTINF:-1 group-title="Sports",DAZN 3 HD
-https://1nyaler.streamhostingcdn.top/stream/9/index.m3u8
-#EXTINF:-1 group-title="Sports",Eleven Sports 1 HD
-https://1nyaler.streamhostingcdn.top/stream/43/index.m3u8
-#EXTINF:-1 group-title="Sports",Eleven Sports 2 HD
-https://1nyaler.streamhostingcdn.top/stream/44/index.m3u8
-#EXTINF:-1 group-title="Sports",Eleven Sports 3 HD
-https://1nyaler.streamhostingcdn.top/stream/45/index.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="" group-title="Nature & Travel", Wild Earth
-https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 tvg-chno=""  group-title="Nature & Travel", Wild TV
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Nature & Travel", Wellbeing TV/My Zen
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-chno="" group-title="Nature & Travel", Travel Escapes
-https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno=""   group-title="Nature & Travel", Autentic Travel
-https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-
-#EXTINF:-1 tvg-chno="" group-title="Nature & Travel" tvg-logo="https://i.imgur.com/Vhv5gjN.png", Wild Earth (720)
-https://wildearth-ono.amagi.tv/ts-us-w2-n1/playlist/amg01290-wildearth-oando/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f596109bd51be988d55983458623a5099c93a68ace18818e937ead06b6670b0b7b299dd02dc7fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3816ba75a86b3a6bdfa8abb5e8e28a517faa6d778f8071e875bb/40/1280x720_2657600/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports",Fusbal
-https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/fusbal.m3u8
-
-#EXTINF:-1 tvg-id="Canal1" tvg-name="Canal Deportivo 1" group-title="Sports",Canal Deportivo 1
-http://181.78.67.171:8000/play/a0wy/index.m3u8
-
-#EXTINF:-1 tvg-id="WinSports" tvg-name="Win Sports" group-title="Sports", Win Sports
-http://190.60.48.150:8000/play/WINSPORT/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal2" tvg-name="Canal Deportivo 2" group-title="Sports",Canal Deportivo 2
-http://190.60.54.158:8000/play/a0b0/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal3" tvg-name="Canal Deportivo 3" group-title="Sports" ,Canal Deportivo 3
-http://181.78.8.199:8000/play/a0cc/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal4" tvg-name="Canal Deportivo 4" group-title="Sports",Canal Deportivo 4
-http://181.119.83.235:8000/play/C052/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal5" tvg-name="Canal Deportivo 5" group-title="Sports",Canal Deportivo 5
-http://181.78.8.199:8000/play/a0b0/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal6" tvg-name="Canal Deportivo 6 (Proxy)" group-title="Sports",Canal Deportivo 6 (Proxy)
-https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
-
-#EXTINF:-1 tvg-id="CazeTV" tvg-name="CazéTV BR" group-title="Sports",CazéTV BR
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 group-title="Sports",Fast Sport TV
-https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="Sports",QAZSPORT HD
-http://62.32.84.50:18000/play/a06b/index.m3u8
-
-
-#EXTINF:-1 group-title="TV" ,1TV GE
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-
-##EXTINF:-1 group-title="Sports",2TV GE
-https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,Sport 1
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Sport 2
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",NileSport
-http://149.100.11.235:8080/NileSport/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports", Golf+
-http://tinyurl.com/TvZaTak0/GOLF+_HD/index.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
-
-#EXTINF:-1 group-title="Sports", Golf Channel
-http://8.243.126.131:8000/play/a0fi/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="800" group-title="Radio", Motsweding FM
 https://25633.live.streamtheworld.com/MOTSWEDINGAAC_SC
