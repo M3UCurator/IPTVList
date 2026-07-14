@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T20:12:26Z"
+    "fetchedAt": "2026-07-14T21:30:29Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T20:12:30Z"
+    "fetchedAt": "2026-07-14T21:30:32Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T20:12:33Z"
+    "fetchedAt": "2026-07-14T21:30:36Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "XdDwy179ytU",
-    "url": "https://www.youtube.com/watch?v=XdDwy179ytU",
+    "videoId": "AdC4kT6ddpI",
+    "url": "https://www.youtube.com/watch?v=AdC4kT6ddpI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T20:12:37Z"
+    "fetchedAt": "2026-07-14T21:30:40Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": "https://i.ytimg.com/vi/VAlUMfDWV34/maxresdefault.jpg?v=6a567834",
     "startedAt": "2026-07-17T01:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-07-14T20:12:41Z"
+    "fetchedAt": "2026-07-14T21:30:43Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T20:12:44Z"
+    "fetchedAt": "2026-07-14T21:30:47Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "BW1I1UdaabA",
-    "url": "https://www.youtube.com/watch?v=BW1I1UdaabA",
+    "videoId": "80S1MCX6Nc0",
+    "url": "https://www.youtube.com/watch?v=80S1MCX6Nc0",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T20:12:48Z"
+    "fetchedAt": "2026-07-14T21:30:51Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "BfPwI0UIdMU",
-    "url": "https://www.youtube.com/watch?v=BfPwI0UIdMU",
+    "videoId": "oTPyGdKR2bQ",
+    "url": "https://www.youtube.com/watch?v=oTPyGdKR2bQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T20:12:52Z"
+    "fetchedAt": "2026-07-14T21:30:55Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T20:12:56Z"
+    "fetchedAt": "2026-07-14T21:30:59Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "yHLohzQii7s",
-    "url": "https://www.youtube.com/watch?v=yHLohzQii7s",
-    "title": null,
-    "thumbnail": null,
+    "videoId": "eetUHfhFgL8",
+    "url": "https://www.youtube.com/watch?v=eetUHfhFgL8",
+    "title": "Armed ICE supporter confronts protesters after fatal Maine shooting",
+    "thumbnail": "https://i.ytimg.com/vi/eetUHfhFgL8/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBhKFEwDw==&rs=AOn4CLB0jpskBYIb9iGoPHUIrUO6oS61JQ",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T20:13:00Z"
+    "fetchedAt": "2026-07-14T21:31:03Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "cEYezDEZRKY",
-    "url": "https://www.youtube.com/watch?v=cEYezDEZRKY",
+    "videoId": "Fe2Fbk67MWg",
+    "url": "https://www.youtube.com/watch?v=Fe2Fbk67MWg",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T20:13:04Z"
+    "fetchedAt": "2026-07-14T21:31:07Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "UTc6ZZA2CbE",
-    "url": "https://www.youtube.com/watch?v=UTc6ZZA2CbE",
+    "videoId": "z5f-V-YQAeU",
+    "url": "https://www.youtube.com/watch?v=z5f-V-YQAeU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T20:13:08Z"
+    "fetchedAt": "2026-07-14T21:31:11Z"
   }
 ]
