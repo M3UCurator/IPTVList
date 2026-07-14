@@ -376,9 +376,15 @@ https://channels.trace.plus/Traceprod/LATINA.m3u8
 https://channels.trace.plus/Traceprod/BRAZIL/.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="Kids" tvg-logo="https://iptvboss.xyz/logos/South_Africa/MoonbugKids.za.png", Moonbug
-https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8 (1080)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.us"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kids" , US | Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",ToonGoggles
+https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",TVO Kids
+https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kids" , Cartoon Network
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 
@@ -393,6 +399,13 @@ https://cors-proxy.cooks.fyi/http://212.102.60.231/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="KidsFlix.us" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/df/5a/70df5a45-d3af-e622-114a-bce9b42f2b1c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png" group-title="Kids", KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids", HappyKids
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids", POP
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="" tvg-id="SABCSport.za" group-title="Sports" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/6555ceebad.jpg", ZA | SABC Sports (720)
 https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
