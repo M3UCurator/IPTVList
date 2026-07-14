@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T21:30:29Z"
+    "fetchedAt": "2026-07-14T22:57:24Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T21:30:32Z"
+    "fetchedAt": "2026-07-14T22:57:27Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T21:30:36Z"
+    "fetchedAt": "2026-07-14T22:57:31Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "AdC4kT6ddpI",
-    "url": "https://www.youtube.com/watch?v=AdC4kT6ddpI",
+    "videoId": "eoy1yFVabyU",
+    "url": "https://www.youtube.com/watch?v=eoy1yFVabyU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T21:30:40Z"
+    "fetchedAt": "2026-07-14T22:57:35Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": "https://i.ytimg.com/vi/VAlUMfDWV34/maxresdefault.jpg?v=6a567834",
     "startedAt": "2026-07-17T01:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-07-14T21:30:43Z"
+    "fetchedAt": "2026-07-14T22:57:39Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T21:30:47Z"
+    "fetchedAt": "2026-07-14T22:57:43Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "80S1MCX6Nc0",
-    "url": "https://www.youtube.com/watch?v=80S1MCX6Nc0",
+    "videoId": "hNxrQntRkw8",
+    "url": "https://www.youtube.com/watch?v=hNxrQntRkw8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T21:30:51Z"
+    "fetchedAt": "2026-07-14T22:57:47Z"
   },
   {
     "name": "Sky News",
@@ -109,7 +109,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T21:30:55Z"
+    "fetchedAt": "2026-07-14T22:57:51Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T21:30:59Z"
+    "fetchedAt": "2026-07-14T22:57:55Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "eetUHfhFgL8",
-    "url": "https://www.youtube.com/watch?v=eetUHfhFgL8",
-    "title": "Armed ICE supporter confronts protesters after fatal Maine shooting",
-    "thumbnail": "https://i.ytimg.com/vi/eetUHfhFgL8/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBhKFEwDw==&rs=AOn4CLB0jpskBYIb9iGoPHUIrUO6oS61JQ",
+    "videoId": "IIOcxFnwjh8",
+    "url": "https://www.youtube.com/watch?v=IIOcxFnwjh8",
+    "title": null,
+    "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T21:31:03Z"
+    "fetchedAt": "2026-07-14T22:57:59Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Fe2Fbk67MWg",
-    "url": "https://www.youtube.com/watch?v=Fe2Fbk67MWg",
+    "videoId": "cEYezDEZRKY",
+    "url": "https://www.youtube.com/watch?v=cEYezDEZRKY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T21:31:07Z"
+    "fetchedAt": "2026-07-14T22:58:02Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-14T21:31:11Z"
+    "fetchedAt": "2026-07-14T22:58:06Z"
   }
 ]
