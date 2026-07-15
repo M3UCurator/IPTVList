@@ -1062,10 +1062,8 @@ http://choco.hostingradio.ru:10010/fm
 https://hls-01-radiorecord.hostingradio.ru/record-deep/playlist.m3u8
 #EXTINF:-1 tvg-chno="807" tvg-logo="" group-title="Radio",Deep House Mobile
 http://strm112.1.fm/deephouse_mobile_mp3
-
 #EXTINF:-1 tvg-chno="809" tvg-logo="" group-title="Radio",Radio Talk Sport (UK)
 http://radio.talksport.com/stream
-
 #EXTINF:-1 tvg-chno="810" tvg-logo="" group-title="Radio",Radio Relax FM Cafe
 http://edge02.cdn.bitflip.ee:8888/cafe
 
