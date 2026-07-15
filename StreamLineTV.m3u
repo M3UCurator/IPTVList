@@ -27,7 +27,7 @@ http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/19176/index.m3u8
 #EXTINF:-1 tvg-chno="011" group-title="UKTV" tvg-id="BBC.Two.HD.uk" tvg-name="BBC 2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true", BBC 2
 http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19177/index.m3u8
 
-#EXTINF:-1 tvg-chno="012" group-title="UKTV" tvg-id="BBC.Three.HD.uk" tvg-name="BBC 3" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true", BBC 3
+#EXTINF:-1 tvg-chno="012" group-title="UKTV" tvg-id="BBC.Three.HD.uk" tvg-name="BBC 3" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png", BBC 3
 http://41.205.77.102/BBC-THREE/index.m3u8
 
 #EXTINF:-1 tvg-chno="013" group-title="UKTV"  tvg-id="ITV1.HD.uk" group-title="UKTV" tvg-name="ITV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-1-uk.png?raw=true" , ITV
