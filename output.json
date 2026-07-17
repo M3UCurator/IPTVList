@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-17T00:03:30Z"
+    "fetchedAt": "2026-07-17T03:46:59Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-17T00:03:34Z"
+    "fetchedAt": "2026-07-17T03:47:03Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-17T00:03:38Z"
+    "fetchedAt": "2026-07-17T03:47:06Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "U5obvrTLNmI",
-    "url": "https://www.youtube.com/watch?v=U5obvrTLNmI",
+    "videoId": "4L5rUuE-W74",
+    "url": "https://www.youtube.com/watch?v=4L5rUuE-W74",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-17T00:03:41Z"
+    "fetchedAt": "2026-07-17T03:47:10Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "insz67OvOPc",
-    "url": "https://www.youtube.com/watch?v=insz67OvOPc",
+    "videoId": "U1ZAwSOI408",
+    "url": "https://www.youtube.com/watch?v=U1ZAwSOI408",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-17T00:03:45Z"
+    "fetchedAt": "2026-07-17T03:47:14Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "gCNeDWCI0vo",
-    "url": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
+    "videoId": "r6dVwrJfLO0",
+    "url": "https://www.youtube.com/watch?v=r6dVwrJfLO0",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-17T00:03:50Z"
+    "fetchedAt": "2026-07-17T03:47:18Z"
   },
   {
     "name": "DW News",
@@ -91,11 +91,11 @@
     "live": true,
     "videoId": "NrAu-CtbRZ4",
     "url": "https://www.youtube.com/watch?v=NrAu-CtbRZ4",
-    "title": "Live: US President Donald Trump delivers an address to the nation | DW News",
-    "thumbnail": "https://i.ytimg.com/vi/NrAu-CtbRZ4/maxresdefault.jpg?v=6a595720",
-    "startedAt": "2026-07-17T00:50:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-17T00:03:53Z"
+    "fetchedAt": "2026-07-17T03:47:21Z"
   },
   {
     "name": "Sky News",
@@ -109,7 +109,7 @@
     "thumbnail": "https://i.ytimg.com/vi/8pQSW9OIHzU/maxresdefault.jpg?v=6a58d31a",
     "startedAt": "2026-07-17T05:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-07-17T00:03:57Z"
+    "fetchedAt": "2026-07-17T03:47:25Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-17T00:04:01Z"
+    "fetchedAt": "2026-07-17T03:47:28Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "vSOZlfy70SY",
-    "url": "https://www.youtube.com/watch?v=vSOZlfy70SY",
+    "videoId": "qyc_XuuFH9k",
+    "url": "https://www.youtube.com/watch?v=qyc_XuuFH9k",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-17T00:04:05Z"
+    "fetchedAt": "2026-07-17T03:47:32Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ge83GExcIew",
-    "url": "https://www.youtube.com/watch?v=ge83GExcIew",
+    "videoId": "7S_30baD-Nw",
+    "url": "https://www.youtube.com/watch?v=7S_30baD-Nw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-17T00:04:09Z"
+    "fetchedAt": "2026-07-17T03:47:36Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "cUvp7H9dKMk",
-    "url": "https://www.youtube.com/watch?v=cUvp7H9dKMk",
+    "videoId": "8uROR8NJkHU",
+    "url": "https://www.youtube.com/watch?v=8uROR8NJkHU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-17T00:04:13Z"
+    "fetchedAt": "2026-07-17T03:47:40Z"
   }
 ]
