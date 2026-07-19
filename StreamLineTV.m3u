@@ -70,7 +70,8 @@ http://41.205.93.154/ABC/index.m3u8
 
 #EXTINF:-1 tvg-chno="032" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="USTV" ,ABC TV
 #http://4.30.180.36:8420/abc/index.m3u8?token=test
-http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=855367&extension=ts
+#http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=855367&extension=ts
+http://45.7.237.109:9000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-chno="033" group-title="USTV"  tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" , CBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/134.0.0.0 CrKey/1.44.191160
