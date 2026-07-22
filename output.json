@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Kz9YF2vVNy4",
-    "url": "https://www.youtube.com/watch?v=Kz9YF2vVNy4",
+    "videoId": "3kOhgCgLG_k",
+    "url": "https://www.youtube.com/watch?v=3kOhgCgLG_k",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-22T14:11:23Z"
+    "fetchedAt": "2026-07-22T15:59:59Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-22T14:11:26Z"
+    "fetchedAt": "2026-07-22T16:00:03Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-22T14:11:30Z"
+    "fetchedAt": "2026-07-22T16:00:07Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Vd9P1RV-3Ro",
-    "url": "https://www.youtube.com/watch?v=Vd9P1RV-3Ro",
+    "videoId": "rfk3_YceAZc",
+    "url": "https://www.youtube.com/watch?v=rfk3_YceAZc",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-22T14:11:34Z"
+    "fetchedAt": "2026-07-22T16:00:10Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "VI-AUiYccE8",
-    "url": "https://www.youtube.com/watch?v=VI-AUiYccE8",
+    "videoId": "laP3rE7csJk",
+    "url": "https://www.youtube.com/watch?v=laP3rE7csJk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-22T14:11:38Z"
+    "fetchedAt": "2026-07-22T16:00:14Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-22T14:11:42Z"
+    "fetchedAt": "2026-07-22T16:00:18Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "YJ5d_u7S14E",
-    "url": "https://www.youtube.com/watch?v=YJ5d_u7S14E",
-    "title": null,
-    "thumbnail": null,
+    "videoId": "nqSIhgwqXww",
+    "url": "https://www.youtube.com/watch?v=nqSIhgwqXww",
+    "title": "Cockroach revolution turns on India's leader | DW News",
+    "thumbnail": "https://i.ytimg.com/vi/nqSIhgwqXww/maxresdefault.jpg",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-22T14:11:46Z"
+    "fetchedAt": "2026-07-22T16:00:21Z"
   },
   {
     "name": "Sky News",
@@ -107,9 +107,9 @@
     "url": "https://www.youtube.com/watch?v=G9y6iOjxQ5c",
     "title": "Trump attends dignified transfer of US service members killed in the Middle East",
     "thumbnail": "https://i.ytimg.com/vi/G9y6iOjxQ5c/maxresdefault.jpg?v=6a60c967",
-    "startedAt": "2026-07-22T15:30:00+00:00",
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-22T14:11:52Z"
+    "fetchedAt": "2026-07-22T16:00:27Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-22T14:11:57Z"
+    "fetchedAt": "2026-07-22T16:00:30Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "vPfKsRzhzyA",
-    "url": "https://www.youtube.com/watch?v=vPfKsRzhzyA",
+    "videoId": "z9Ek0nzX1Bs",
+    "url": "https://www.youtube.com/watch?v=z9Ek0nzX1Bs",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-22T14:12:01Z"
+    "fetchedAt": "2026-07-22T16:00:34Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-22T14:12:06Z"
+    "fetchedAt": "2026-07-22T16:00:38Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "_WCBrGR-HMQ",
-    "url": "https://www.youtube.com/watch?v=_WCBrGR-HMQ",
+    "videoId": "HeABHvzLUrU",
+    "url": "https://www.youtube.com/watch?v=HeABHvzLUrU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-22T14:12:10Z"
+    "fetchedAt": "2026-07-22T16:00:42Z"
   }
 ]
