@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T17:56:15Z"
+    "fetchedAt": "2026-07-23T19:23:39Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T17:56:19Z"
+    "fetchedAt": "2026-07-23T19:23:43Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T17:56:22Z"
+    "fetchedAt": "2026-07-23T19:23:47Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "-E5ShDydKbU",
-    "url": "https://www.youtube.com/watch?v=-E5ShDydKbU",
+    "videoId": "urTtLRmdn90",
+    "url": "https://www.youtube.com/watch?v=urTtLRmdn90",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T17:56:26Z"
+    "fetchedAt": "2026-07-23T19:23:50Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "x1wrgRIf_zQ",
-    "url": "https://www.youtube.com/watch?v=x1wrgRIf_zQ",
-    "title": "Live: SpaceX Starship 13th test flight launch",
-    "thumbnail": "https://i.ytimg.com/vi/x1wrgRIf_zQ/maxresdefault.jpg?v=6a620b9f",
-    "startedAt": "2026-07-23T22:15:00+00:00",
+    "videoId": "FT_PoOPaCZ4",
+    "url": "https://www.youtube.com/watch?v=FT_PoOPaCZ4",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T17:56:30Z"
+    "fetchedAt": "2026-07-23T19:23:54Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Z0hAZY5p4aw",
-    "url": "https://www.youtube.com/watch?v=Z0hAZY5p4aw",
+    "videoId": "7h47yhH2qxU",
+    "url": "https://www.youtube.com/watch?v=7h47yhH2qxU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T17:56:34Z"
+    "fetchedAt": "2026-07-23T19:23:58Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "-GoBx541ykQ",
-    "url": "https://www.youtube.com/watch?v=-GoBx541ykQ",
+    "videoId": "m7zVCqT6vKk",
+    "url": "https://www.youtube.com/watch?v=m7zVCqT6vKk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T17:56:37Z"
+    "fetchedAt": "2026-07-23T19:24:02Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "-UCTajZYI50",
-    "url": "https://www.youtube.com/watch?v=-UCTajZYI50",
+    "videoId": "0F0SeVnUcs4",
+    "url": "https://www.youtube.com/watch?v=0F0SeVnUcs4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T17:56:41Z"
+    "fetchedAt": "2026-07-23T19:24:05Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T17:56:45Z"
+    "fetchedAt": "2026-07-23T19:24:09Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "4YPzTTGaHvc",
-    "url": "https://www.youtube.com/watch?v=4YPzTTGaHvc",
+    "videoId": "I1QtghOjycY",
+    "url": "https://www.youtube.com/watch?v=I1QtghOjycY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T17:56:49Z"
+    "fetchedAt": "2026-07-23T19:24:13Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T17:56:53Z"
+    "fetchedAt": "2026-07-23T19:24:17Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "-PpGNzpWGBM",
-    "url": "https://www.youtube.com/watch?v=-PpGNzpWGBM",
+    "videoId": "0V8koHy9Unk",
+    "url": "https://www.youtube.com/watch?v=0V8koHy9Unk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T17:56:56Z"
+    "fetchedAt": "2026-07-23T19:24:20Z"
   }
 ]
