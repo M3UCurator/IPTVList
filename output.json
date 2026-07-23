@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T16:27:19Z"
+    "fetchedAt": "2026-07-23T17:56:15Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T16:27:23Z"
+    "fetchedAt": "2026-07-23T17:56:19Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T16:27:27Z"
+    "fetchedAt": "2026-07-23T17:56:22Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Mj9iyAGlFIM",
-    "url": "https://www.youtube.com/watch?v=Mj9iyAGlFIM",
+    "videoId": "-E5ShDydKbU",
+    "url": "https://www.youtube.com/watch?v=-E5ShDydKbU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T16:27:30Z"
+    "fetchedAt": "2026-07-23T17:56:26Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": "https://i.ytimg.com/vi/x1wrgRIf_zQ/maxresdefault.jpg?v=6a620b9f",
     "startedAt": "2026-07-23T22:15:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-07-23T16:27:34Z"
+    "fetchedAt": "2026-07-23T17:56:30Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "fdkUc0qgMq0",
-    "url": "https://www.youtube.com/watch?v=fdkUc0qgMq0",
+    "videoId": "Z0hAZY5p4aw",
+    "url": "https://www.youtube.com/watch?v=Z0hAZY5p4aw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T16:27:38Z"
+    "fetchedAt": "2026-07-23T17:56:34Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Q7v8VFL_zF8",
-    "url": "https://www.youtube.com/watch?v=Q7v8VFL_zF8",
+    "videoId": "-GoBx541ykQ",
+    "url": "https://www.youtube.com/watch?v=-GoBx541ykQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T16:27:42Z"
+    "fetchedAt": "2026-07-23T17:56:37Z"
   },
   {
     "name": "Sky News",
@@ -105,11 +105,11 @@
     "live": true,
     "videoId": "-UCTajZYI50",
     "url": "https://www.youtube.com/watch?v=-UCTajZYI50",
-    "title": "Burnham announces pause on early prisoner release scheme | The Cathy Newman Show",
-    "thumbnail": "https://i.ytimg.com/vi/-UCTajZYI50/maxresdefault.jpg?v=6a623423",
-    "startedAt": "2026-07-23T18:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T16:27:47Z"
+    "fetchedAt": "2026-07-23T17:56:41Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "WGU4W9Pjnfk",
-    "url": "https://www.youtube.com/watch?v=WGU4W9Pjnfk",
+    "videoId": "jtly9RSXo5k",
+    "url": "https://www.youtube.com/watch?v=jtly9RSXo5k",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T16:27:50Z"
+    "fetchedAt": "2026-07-23T17:56:45Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "VVeufhY_oLk",
-    "url": "https://www.youtube.com/watch?v=VVeufhY_oLk",
+    "videoId": "4YPzTTGaHvc",
+    "url": "https://www.youtube.com/watch?v=4YPzTTGaHvc",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T16:27:54Z"
+    "fetchedAt": "2026-07-23T17:56:49Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T16:27:59Z"
+    "fetchedAt": "2026-07-23T17:56:53Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "IyyO7L7o6v8",
-    "url": "https://www.youtube.com/watch?v=IyyO7L7o6v8",
+    "videoId": "-PpGNzpWGBM",
+    "url": "https://www.youtube.com/watch?v=-PpGNzpWGBM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-23T16:28:03Z"
+    "fetchedAt": "2026-07-23T17:56:56Z"
   }
 ]
