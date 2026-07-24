@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "zZGiczmImb0",
-    "url": "https://www.youtube.com/watch?v=zZGiczmImb0",
+    "videoId": "4khB85ZoSNA",
+    "url": "https://www.youtube.com/watch?v=4khB85ZoSNA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-24T20:26:18Z"
+    "fetchedAt": "2026-07-24T21:38:05Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-24T20:26:22Z"
+    "fetchedAt": "2026-07-24T21:38:08Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-24T20:26:25Z"
+    "fetchedAt": "2026-07-24T21:38:12Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-24T20:26:29Z"
+    "fetchedAt": "2026-07-24T21:38:16Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-24T20:26:33Z"
+    "fetchedAt": "2026-07-24T21:38:20Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "LX8BZ2UM5Eg",
-    "url": "https://www.youtube.com/watch?v=LX8BZ2UM5Eg",
+    "videoId": "DiY60HNrbsU",
+    "url": "https://www.youtube.com/watch?v=DiY60HNrbsU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-24T20:26:36Z"
+    "fetchedAt": "2026-07-24T21:38:23Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "yI8JXL_iXeU",
-    "url": "https://www.youtube.com/watch?v=yI8JXL_iXeU",
+    "videoId": "B4FDVGaKWH4",
+    "url": "https://www.youtube.com/watch?v=B4FDVGaKWH4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-24T20:26:40Z"
+    "fetchedAt": "2026-07-24T21:38:27Z"
   },
   {
     "name": "Sky News",
@@ -105,11 +105,11 @@
     "live": true,
     "videoId": "1PbOtBcmO7s",
     "url": "https://www.youtube.com/watch?v=1PbOtBcmO7s",
-    "title": "'Best day of my life': Burnham opens new 'No 10 North' | The Wrap",
-    "thumbnail": "https://i.ytimg.com/vi/1PbOtBcmO7s/maxresdefault.jpg?v=6a63bc9c",
-    "startedAt": "2026-07-24T21:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-24T20:26:44Z"
+    "fetchedAt": "2026-07-24T21:38:31Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-24T20:26:47Z"
+    "fetchedAt": "2026-07-24T21:38:34Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Jn8Y7e0eWRw",
-    "url": "https://www.youtube.com/watch?v=Jn8Y7e0eWRw",
+    "videoId": "45hE94eDPZw",
+    "url": "https://www.youtube.com/watch?v=45hE94eDPZw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-24T20:26:51Z"
+    "fetchedAt": "2026-07-24T21:38:38Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-24T20:26:55Z"
+    "fetchedAt": "2026-07-24T21:38:42Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "1tqs8Ty2eDk",
-    "url": "https://www.youtube.com/watch?v=1tqs8Ty2eDk",
+    "videoId": "A0D1Nd-srhw",
+    "url": "https://www.youtube.com/watch?v=A0D1Nd-srhw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-24T20:26:58Z"
+    "fetchedAt": "2026-07-24T21:38:46Z"
   }
 ]
