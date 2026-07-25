@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "4khB85ZoSNA",
-    "url": "https://www.youtube.com/watch?v=4khB85ZoSNA",
+    "videoId": "zZGiczmImb0",
+    "url": "https://www.youtube.com/watch?v=zZGiczmImb0",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T21:56:47Z"
+    "fetchedAt": "2026-07-25T22:58:50Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T21:56:50Z"
+    "fetchedAt": "2026-07-25T22:58:54Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T21:56:54Z"
+    "fetchedAt": "2026-07-25T22:58:57Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T21:56:58Z"
+    "fetchedAt": "2026-07-25T22:59:01Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "iaSWp76uEkk",
-    "url": "https://www.youtube.com/watch?v=iaSWp76uEkk",
+    "videoId": "4oLiAOTUP1E",
+    "url": "https://www.youtube.com/watch?v=4oLiAOTUP1E",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T21:57:02Z"
+    "fetchedAt": "2026-07-25T22:59:05Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T21:57:05Z"
+    "fetchedAt": "2026-07-25T22:59:08Z"
   },
   {
     "name": "DW News",
@@ -91,11 +91,11 @@
     "live": true,
     "videoId": "O5NewynLd10",
     "url": "https://www.youtube.com/watch?v=O5NewynLd10",
-    "title": "BREAKING: CSD Berlin called off after car crashed into crowd",
+    "title": "BREAKING: At least one person killed as vehicle crashes into Berlin Pride crowd | DW News",
     "thumbnail": "https://i.ytimg.com/vi/O5NewynLd10/maxresdefault.jpg?v=6a652bd5",
-    "startedAt": "2026-07-25T22:30:00+00:00",
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T21:57:09Z"
+    "fetchedAt": "2026-07-25T22:59:12Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "JfAd-E55dUo",
-    "url": "https://www.youtube.com/watch?v=JfAd-E55dUo",
+    "videoId": "m-P9gym_Tg8",
+    "url": "https://www.youtube.com/watch?v=m-P9gym_Tg8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T21:57:12Z"
+    "fetchedAt": "2026-07-25T22:59:15Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T21:57:16Z"
+    "fetchedAt": "2026-07-25T22:59:19Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "tuwfeKb_rgg",
-    "url": "https://www.youtube.com/watch?v=tuwfeKb_rgg",
+    "videoId": "0EIhd34zoPs",
+    "url": "https://www.youtube.com/watch?v=0EIhd34zoPs",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T21:57:19Z"
+    "fetchedAt": "2026-07-25T22:59:22Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T21:57:23Z"
+    "fetchedAt": "2026-07-25T22:59:26Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "uhiReF2QarA",
-    "url": "https://www.youtube.com/watch?v=uhiReF2QarA",
+    "videoId": "9AVHIqryQ5k",
+    "url": "https://www.youtube.com/watch?v=9AVHIqryQ5k",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T21:57:27Z"
+    "fetchedAt": "2026-07-25T22:59:29Z"
   }
 ]
