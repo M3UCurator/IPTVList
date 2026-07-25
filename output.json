@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "7xm1Cre9mj8",
-    "url": "https://www.youtube.com/watch?v=7xm1Cre9mj8",
+    "videoId": "4khB85ZoSNA",
+    "url": "https://www.youtube.com/watch?v=4khB85ZoSNA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T20:54:06Z"
+    "fetchedAt": "2026-07-25T21:56:47Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T20:54:09Z"
+    "fetchedAt": "2026-07-25T21:56:50Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T20:54:13Z"
+    "fetchedAt": "2026-07-25T21:56:54Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "zhJvtP9LVm4",
-    "url": "https://www.youtube.com/watch?v=zhJvtP9LVm4",
+    "videoId": "t2fEjDf282w",
+    "url": "https://www.youtube.com/watch?v=t2fEjDf282w",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T20:54:16Z"
+    "fetchedAt": "2026-07-25T21:56:58Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T20:54:20Z"
+    "fetchedAt": "2026-07-25T21:57:02Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Ik3shs8mDIE",
-    "url": "https://www.youtube.com/watch?v=Ik3shs8mDIE",
+    "videoId": "ixP8czkpFZg",
+    "url": "https://www.youtube.com/watch?v=ixP8czkpFZg",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T20:54:24Z"
+    "fetchedAt": "2026-07-25T21:57:05Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "CAg-0dgy90w",
-    "url": "https://www.youtube.com/watch?v=CAg-0dgy90w",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "O5NewynLd10",
+    "url": "https://www.youtube.com/watch?v=O5NewynLd10",
+    "title": "BREAKING: CSD Berlin called off after car crashed into crowd",
+    "thumbnail": "https://i.ytimg.com/vi/O5NewynLd10/maxresdefault.jpg?v=6a652bd5",
+    "startedAt": "2026-07-25T22:30:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-07-25T20:54:28Z"
+    "fetchedAt": "2026-07-25T21:57:09Z"
   },
   {
     "name": "Sky News",
@@ -109,7 +109,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T20:54:32Z"
+    "fetchedAt": "2026-07-25T21:57:12Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T20:54:35Z"
+    "fetchedAt": "2026-07-25T21:57:16Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T20:54:39Z"
+    "fetchedAt": "2026-07-25T21:57:19Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T20:54:42Z"
+    "fetchedAt": "2026-07-25T21:57:23Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "4WOdQURIFLw",
-    "url": "https://www.youtube.com/watch?v=4WOdQURIFLw",
+    "videoId": "uhiReF2QarA",
+    "url": "https://www.youtube.com/watch?v=uhiReF2QarA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T20:54:46Z"
+    "fetchedAt": "2026-07-25T21:57:27Z"
   }
 ]
