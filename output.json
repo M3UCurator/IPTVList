@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "zZGiczmImb0",
-    "url": "https://www.youtube.com/watch?v=zZGiczmImb0",
+    "videoId": "cclCSSKM6_0",
+    "url": "https://www.youtube.com/watch?v=cclCSSKM6_0",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T09:18:01Z"
+    "fetchedAt": "2026-07-25T10:52:20Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T09:18:04Z"
+    "fetchedAt": "2026-07-25T10:52:23Z"
   },
   {
     "name": "Newsroom Africa",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "6P7bOasZG58",
-    "url": "https://www.youtube.com/watch?v=6P7bOasZG58",
+    "videoId": "q8r4R45SYSY",
+    "url": "https://www.youtube.com/watch?v=q8r4R45SYSY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T09:18:07Z"
+    "fetchedAt": "2026-07-25T10:52:26Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "7jbAN99Srrk",
-    "url": "https://www.youtube.com/watch?v=7jbAN99Srrk",
+    "videoId": "bVMeQej4M6g",
+    "url": "https://www.youtube.com/watch?v=bVMeQej4M6g",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T09:18:11Z"
+    "fetchedAt": "2026-07-25T10:52:30Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T09:18:14Z"
+    "fetchedAt": "2026-07-25T10:52:33Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "fPByWj9V7c0",
-    "url": "https://www.youtube.com/watch?v=fPByWj9V7c0",
+    "videoId": "6YB1XsgVTsk",
+    "url": "https://www.youtube.com/watch?v=6YB1XsgVTsk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T09:18:18Z"
+    "fetchedAt": "2026-07-25T10:52:37Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "pS4mmKRrEh0",
-    "url": "https://www.youtube.com/watch?v=pS4mmKRrEh0",
+    "videoId": "py2brIVMbew",
+    "url": "https://www.youtube.com/watch?v=py2brIVMbew",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T09:18:21Z"
+    "fetchedAt": "2026-07-25T10:52:40Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Pw__fKoAID0",
-    "url": "https://www.youtube.com/watch?v=Pw__fKoAID0",
+    "videoId": "1Ob75L2dbXw",
+    "url": "https://www.youtube.com/watch?v=1Ob75L2dbXw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T09:18:25Z"
+    "fetchedAt": "2026-07-25T10:52:44Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T09:18:28Z"
+    "fetchedAt": "2026-07-25T10:52:47Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T09:18:32Z"
+    "fetchedAt": "2026-07-25T10:52:50Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T09:18:35Z"
+    "fetchedAt": "2026-07-25T10:52:54Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-25T09:18:38Z"
+    "fetchedAt": "2026-07-25T10:52:57Z"
   }
 ]
