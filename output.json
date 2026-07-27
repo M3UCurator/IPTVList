@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T11:23:11Z"
+    "fetchedAt": "2026-07-27T13:53:53Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T11:23:14Z"
+    "fetchedAt": "2026-07-27T13:53:57Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T11:23:18Z"
+    "fetchedAt": "2026-07-27T13:54:00Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T11:23:21Z"
+    "fetchedAt": "2026-07-27T13:54:04Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "vozD5PYDWl8",
-    "url": "https://www.youtube.com/watch?v=vozD5PYDWl8",
+    "videoId": "f0WQzia_KCI",
+    "url": "https://www.youtube.com/watch?v=f0WQzia_KCI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T11:23:25Z"
+    "fetchedAt": "2026-07-27T13:54:08Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "AakcO54C9wM",
-    "url": "https://www.youtube.com/watch?v=AakcO54C9wM",
+    "videoId": "oKr-VfPkVqw",
+    "url": "https://www.youtube.com/watch?v=oKr-VfPkVqw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T11:23:29Z"
+    "fetchedAt": "2026-07-27T13:54:12Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "kRS9WzPpOtI",
-    "url": "https://www.youtube.com/watch?v=kRS9WzPpOtI",
-    "title": "Live: German Chancellor Merz addresses the nation on Berlin Pride attack | DW News",
-    "thumbnail": "https://i.ytimg.com/vi/kRS9WzPpOtI/maxresdefault.jpg?v=6a673722",
-    "startedAt": "2026-07-27T11:30:00+00:00",
+    "videoId": "jnSwnUbANRs",
+    "url": "https://www.youtube.com/watch?v=jnSwnUbANRs",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T11:23:33Z"
+    "fetchedAt": "2026-07-27T13:54:15Z"
   },
   {
     "name": "Sky News",
@@ -109,7 +109,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T11:23:37Z"
+    "fetchedAt": "2026-07-27T13:54:19Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T11:23:40Z"
+    "fetchedAt": "2026-07-27T13:54:22Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ufN2UXzqvRU",
-    "url": "https://www.youtube.com/watch?v=ufN2UXzqvRU",
+    "videoId": "A-SeVEY1HZE",
+    "url": "https://www.youtube.com/watch?v=A-SeVEY1HZE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T11:23:44Z"
+    "fetchedAt": "2026-07-27T13:54:26Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "e6FXcZftBJY",
-    "url": "https://www.youtube.com/watch?v=e6FXcZftBJY",
+    "videoId": "WSWAl0oQNoA",
+    "url": "https://www.youtube.com/watch?v=WSWAl0oQNoA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T11:23:47Z"
+    "fetchedAt": "2026-07-27T13:54:30Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "FTP1pIOe-HE",
-    "url": "https://www.youtube.com/watch?v=FTP1pIOe-HE",
+    "videoId": "Dfrdle70bAk",
+    "url": "https://www.youtube.com/watch?v=Dfrdle70bAk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T11:23:51Z"
+    "fetchedAt": "2026-07-27T13:54:34Z"
   }
 ]
