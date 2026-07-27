@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T07:36:13Z"
+    "fetchedAt": "2026-07-27T11:23:11Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T07:36:16Z"
+    "fetchedAt": "2026-07-27T11:23:14Z"
   },
   {
     "name": "Newsroom Africa",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "q8r4R45SYSY",
-    "url": "https://www.youtube.com/watch?v=q8r4R45SYSY",
+    "videoId": "6P7bOasZG58",
+    "url": "https://www.youtube.com/watch?v=6P7bOasZG58",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T07:36:20Z"
+    "fetchedAt": "2026-07-27T11:23:18Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Fc-1b2Qm1jo",
-    "url": "https://www.youtube.com/watch?v=Fc-1b2Qm1jo",
+    "videoId": "_sr-M1bv07o",
+    "url": "https://www.youtube.com/watch?v=_sr-M1bv07o",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T07:36:23Z"
+    "fetchedAt": "2026-07-27T11:23:21Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T07:36:27Z"
+    "fetchedAt": "2026-07-27T11:23:25Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "UAE_kh7wcYY",
-    "url": "https://www.youtube.com/watch?v=UAE_kh7wcYY",
+    "videoId": "AakcO54C9wM",
+    "url": "https://www.youtube.com/watch?v=AakcO54C9wM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T07:36:31Z"
+    "fetchedAt": "2026-07-27T11:23:29Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "kRvL8zS_gUU",
-    "url": "https://www.youtube.com/watch?v=kRvL8zS_gUU",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "kRS9WzPpOtI",
+    "url": "https://www.youtube.com/watch?v=kRS9WzPpOtI",
+    "title": "Live: German Chancellor Merz addresses the nation on Berlin Pride attack | DW News",
+    "thumbnail": "https://i.ytimg.com/vi/kRS9WzPpOtI/maxresdefault.jpg?v=6a673722",
+    "startedAt": "2026-07-27T11:30:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-07-27T07:36:35Z"
+    "fetchedAt": "2026-07-27T11:23:33Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "yq2ozBAd4MI",
-    "url": "https://www.youtube.com/watch?v=yq2ozBAd4MI",
+    "videoId": "RncH8HXSz1E",
+    "url": "https://www.youtube.com/watch?v=RncH8HXSz1E",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T07:36:39Z"
+    "fetchedAt": "2026-07-27T11:23:37Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T07:36:42Z"
+    "fetchedAt": "2026-07-27T11:23:40Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "l2X9OjnNAaM",
-    "url": "https://www.youtube.com/watch?v=l2X9OjnNAaM",
+    "videoId": "ufN2UXzqvRU",
+    "url": "https://www.youtube.com/watch?v=ufN2UXzqvRU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T07:36:46Z"
+    "fetchedAt": "2026-07-27T11:23:44Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T07:36:50Z"
+    "fetchedAt": "2026-07-27T11:23:47Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-07-27T07:36:53Z"
+    "fetchedAt": "2026-07-27T11:23:51Z"
   }
 ]
