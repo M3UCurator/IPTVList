@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T10:41:51Z"
+    "fetchedAt": "2026-08-02T12:03:07Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T10:41:54Z"
+    "fetchedAt": "2026-08-02T12:03:11Z"
   },
   {
     "name": "Newsroom Africa",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "6P7bOasZG58",
-    "url": "https://www.youtube.com/watch?v=6P7bOasZG58",
+    "videoId": "q8r4R45SYSY",
+    "url": "https://www.youtube.com/watch?v=q8r4R45SYSY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T10:41:57Z"
+    "fetchedAt": "2026-08-02T12:03:14Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "xcLlqUVmfkM",
-    "url": "https://www.youtube.com/watch?v=xcLlqUVmfkM",
+    "videoId": "owdhtagrgPs",
+    "url": "https://www.youtube.com/watch?v=owdhtagrgPs",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T10:42:01Z"
+    "fetchedAt": "2026-08-02T12:03:18Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T10:42:05Z"
+    "fetchedAt": "2026-08-02T12:03:22Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "uGQG-0bJ1HU",
-    "url": "https://www.youtube.com/watch?v=uGQG-0bJ1HU",
+    "videoId": "QG0NH5fjUzI",
+    "url": "https://www.youtube.com/watch?v=QG0NH5fjUzI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T10:42:08Z"
+    "fetchedAt": "2026-08-02T12:03:26Z"
   },
   {
     "name": "DW News",
@@ -95,7 +95,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T10:42:12Z"
+    "fetchedAt": "2026-08-02T12:03:30Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "GF5HmjNtZKs",
-    "url": "https://www.youtube.com/watch?v=GF5HmjNtZKs",
-    "title": "The Wrap | Sunday 2 August",
-    "thumbnail": "https://i.ytimg.com/vi/GF5HmjNtZKs/hqdefault.jpg?v=6a6def17",
-    "startedAt": "2026-08-02T21:00:00+00:00",
+    "videoId": "YDvsBbKfLPA",
+    "url": "https://www.youtube.com/watch?v=YDvsBbKfLPA",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T10:42:16Z"
+    "fetchedAt": "2026-08-02T12:03:33Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "LfefkQiInt0",
-    "url": "https://www.youtube.com/watch?v=LfefkQiInt0",
+    "videoId": "bFOz3vOkNWA",
+    "url": "https://www.youtube.com/watch?v=bFOz3vOkNWA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T10:42:19Z"
+    "fetchedAt": "2026-08-02T12:03:37Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T10:42:23Z"
+    "fetchedAt": "2026-08-02T12:03:40Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T10:42:26Z"
+    "fetchedAt": "2026-08-02T12:03:44Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "KjOFOM6B5n0",
-    "url": "https://www.youtube.com/watch?v=KjOFOM6B5n0",
+    "videoId": "sA-UCzFliGI",
+    "url": "https://www.youtube.com/watch?v=sA-UCzFliGI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T10:42:30Z"
+    "fetchedAt": "2026-08-02T12:03:48Z"
   }
 ]
