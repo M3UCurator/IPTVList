@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T19:43:40Z"
+    "fetchedAt": "2026-08-02T20:56:13Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T19:43:44Z"
+    "fetchedAt": "2026-08-02T20:56:17Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T19:43:47Z"
+    "fetchedAt": "2026-08-02T20:56:20Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T19:43:51Z"
+    "fetchedAt": "2026-08-02T20:56:24Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T19:43:55Z"
+    "fetchedAt": "2026-08-02T20:56:28Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T19:43:59Z"
+    "fetchedAt": "2026-08-02T20:56:32Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "FtgkyJL8u_U",
-    "url": "https://www.youtube.com/watch?v=FtgkyJL8u_U",
+    "videoId": "Hd_f5L4wcVQ",
+    "url": "https://www.youtube.com/watch?v=Hd_f5L4wcVQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T19:44:02Z"
+    "fetchedAt": "2026-08-02T20:56:36Z"
   },
   {
     "name": "Sky News",
@@ -109,7 +109,7 @@
     "thumbnail": "https://i.ytimg.com/vi/GF5HmjNtZKs/hqdefault.jpg?v=6a6def17",
     "startedAt": "2026-08-02T21:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-02T19:44:07Z"
+    "fetchedAt": "2026-08-02T20:56:39Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "p3Lh0Blpeis",
-    "url": "https://www.youtube.com/watch?v=p3Lh0Blpeis",
+    "videoId": "hMv-LSMSTkI",
+    "url": "https://www.youtube.com/watch?v=hMv-LSMSTkI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T19:44:10Z"
+    "fetchedAt": "2026-08-02T20:56:42Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T19:44:14Z"
+    "fetchedAt": "2026-08-02T20:56:46Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T19:44:17Z"
+    "fetchedAt": "2026-08-02T20:56:50Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "XnZNzIrE0U0",
-    "url": "https://www.youtube.com/watch?v=XnZNzIrE0U0",
-    "title": "صحفي فلسطيني: هذه الدماء ليست دماء لأضاحي قطاع غزة هذه دماء شـهـ ـداء غزة",
-    "thumbnail": "https://i.ytimg.com/vi/XnZNzIrE0U0/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYTyBaKGUwDw==&rs=AOn4CLBF9tL__E4D4e9twpySdm95VE-CxQ",
+    "videoId": "VqrlRLHufYU",
+    "url": "https://www.youtube.com/watch?v=VqrlRLHufYU",
+    "title": "قوات الاحتلال الإسرائيلي تستهدف سيارة قرب مستشفى السرايا الميداني بمدينة غزة",
+    "thumbnail": "https://i.ytimg.com/vi/VqrlRLHufYU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBXKFUwDw==&rs=AOn4CLBoT9JjhvE-v1PclTNtdrDzs5MIdw",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T19:44:21Z"
+    "fetchedAt": "2026-08-02T20:56:54Z"
   }
 ]
