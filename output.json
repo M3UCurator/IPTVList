@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T20:56:13Z"
+    "fetchedAt": "2026-08-02T21:58:22Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T20:56:17Z"
+    "fetchedAt": "2026-08-02T21:58:25Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T20:56:20Z"
+    "fetchedAt": "2026-08-02T21:58:29Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "P4e1yd0-AIE",
-    "url": "https://www.youtube.com/watch?v=P4e1yd0-AIE",
+    "videoId": "fX8jlvjJi58",
+    "url": "https://www.youtube.com/watch?v=fX8jlvjJi58",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T20:56:24Z"
+    "fetchedAt": "2026-08-02T21:58:32Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T20:56:28Z"
+    "fetchedAt": "2026-08-02T21:58:36Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T20:56:32Z"
+    "fetchedAt": "2026-08-02T21:58:40Z"
   },
   {
     "name": "DW News",
@@ -95,7 +95,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T20:56:36Z"
+    "fetchedAt": "2026-08-02T21:58:43Z"
   },
   {
     "name": "Sky News",
@@ -105,11 +105,11 @@
     "live": true,
     "videoId": "GF5HmjNtZKs",
     "url": "https://www.youtube.com/watch?v=GF5HmjNtZKs",
-    "title": "The Wrap | Sunday 2 August",
-    "thumbnail": "https://i.ytimg.com/vi/GF5HmjNtZKs/hqdefault.jpg?v=6a6def17",
-    "startedAt": "2026-08-02T21:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T20:56:39Z"
+    "fetchedAt": "2026-08-02T21:58:47Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "hMv-LSMSTkI",
-    "url": "https://www.youtube.com/watch?v=hMv-LSMSTkI",
+    "videoId": "p3Lh0Blpeis",
+    "url": "https://www.youtube.com/watch?v=p3Lh0Blpeis",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T20:56:42Z"
+    "fetchedAt": "2026-08-02T21:58:51Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T20:56:46Z"
+    "fetchedAt": "2026-08-02T21:58:54Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T20:56:50Z"
+    "fetchedAt": "2026-08-02T21:58:58Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "VqrlRLHufYU",
-    "url": "https://www.youtube.com/watch?v=VqrlRLHufYU",
-    "title": "قوات الاحتلال الإسرائيلي تستهدف سيارة قرب مستشفى السرايا الميداني بمدينة غزة",
-    "thumbnail": "https://i.ytimg.com/vi/VqrlRLHufYU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBXKFUwDw==&rs=AOn4CLBoT9JjhvE-v1PclTNtdrDzs5MIdw",
+    "videoId": "_hfTS1Ahpps",
+    "url": "https://www.youtube.com/watch?v=_hfTS1Ahpps",
+    "title": null,
+    "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T20:56:54Z"
+    "fetchedAt": "2026-08-02T21:59:01Z"
   }
 ]
