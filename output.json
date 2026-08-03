@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T23:01:34Z"
+    "fetchedAt": "2026-08-03T01:06:35Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T23:01:38Z"
+    "fetchedAt": "2026-08-03T01:06:39Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T23:01:41Z"
+    "fetchedAt": "2026-08-03T01:06:43Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "fX8jlvjJi58",
-    "url": "https://www.youtube.com/watch?v=fX8jlvjJi58",
+    "videoId": "bPoMr-Gg_b8",
+    "url": "https://www.youtube.com/watch?v=bPoMr-Gg_b8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T23:01:45Z"
+    "fetchedAt": "2026-08-03T01:06:47Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T23:01:49Z"
+    "fetchedAt": "2026-08-03T01:06:52Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T23:01:53Z"
+    "fetchedAt": "2026-08-03T01:06:56Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "6KyMc8xt09U",
-    "url": "https://www.youtube.com/watch?v=6KyMc8xt09U",
+    "videoId": "x4Sfaor7l-k",
+    "url": "https://www.youtube.com/watch?v=x4Sfaor7l-k",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T23:01:57Z"
+    "fetchedAt": "2026-08-03T01:07:00Z"
   },
   {
     "name": "Sky News",
@@ -109,7 +109,7 @@
     "thumbnail": "https://i.ytimg.com/vi/lIjQQMTwuP8/maxresdefault.jpg?v=6a6def90",
     "startedAt": "2026-08-03T05:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-02T23:02:01Z"
+    "fetchedAt": "2026-08-03T01:07:04Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T23:02:04Z"
+    "fetchedAt": "2026-08-03T01:07:08Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "y9qKrUra_zc",
-    "url": "https://www.youtube.com/watch?v=y9qKrUra_zc",
-    "title": null,
-    "thumbnail": null,
+    "videoId": "e58ptiHXO4c",
+    "url": "https://www.youtube.com/watch?v=e58ptiHXO4c",
+    "title": "WARNING: GRAPHIC CONTENT: One killed, 31 hurt in Russian attacks on Ukraine's Zaporizhzhia",
+    "thumbnail": "https://i.ytimg.com/vi/e58ptiHXO4c/hqdefault.jpg",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T23:02:08Z"
+    "fetchedAt": "2026-08-03T01:07:12Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T23:02:12Z"
+    "fetchedAt": "2026-08-03T01:07:15Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Dv27GN8tbu8",
-    "url": "https://www.youtube.com/watch?v=Dv27GN8tbu8",
+    "videoId": "Wr_nXBlfOS4",
+    "url": "https://www.youtube.com/watch?v=Wr_nXBlfOS4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-02T23:02:16Z"
+    "fetchedAt": "2026-08-03T01:07:19Z"
   }
 ]
