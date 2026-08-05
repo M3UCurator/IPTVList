@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-05T18:04:44Z"
+    "fetchedAt": "2026-08-05T20:08:14Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-05T18:04:47Z"
+    "fetchedAt": "2026-08-05T20:08:18Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-05T18:04:51Z"
+    "fetchedAt": "2026-08-05T20:08:21Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "1bQ8IXStS1A",
-    "url": "https://www.youtube.com/watch?v=1bQ8IXStS1A",
+    "videoId": "AjQRwXmarlo",
+    "url": "https://www.youtube.com/watch?v=AjQRwXmarlo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-05T18:04:55Z"
+    "fetchedAt": "2026-08-05T20:08:25Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "WulNkU0SsBI",
-    "url": "https://www.youtube.com/watch?v=WulNkU0SsBI",
+    "videoId": "AoumXA7bTDo",
+    "url": "https://www.youtube.com/watch?v=AoumXA7bTDo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-05T18:04:59Z"
+    "fetchedAt": "2026-08-05T20:08:29Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-05T18:05:03Z"
+    "fetchedAt": "2026-08-05T20:08:33Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "dM4U5lq_dZk",
-    "url": "https://www.youtube.com/watch?v=dM4U5lq_dZk",
+    "videoId": "lWFaQv-Sfwk",
+    "url": "https://www.youtube.com/watch?v=lWFaQv-Sfwk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-05T18:05:07Z"
+    "fetchedAt": "2026-08-05T20:08:37Z"
   },
   {
     "name": "Sky News",
@@ -105,11 +105,11 @@
     "live": true,
     "videoId": "TWUT2-vsnwI",
     "url": "https://www.youtube.com/watch?v=TWUT2-vsnwI",
-    "title": "The Wrap with Anna Botting | Wednesday 5 August 2026",
-    "thumbnail": "https://i.ytimg.com/vi/TWUT2-vsnwI/maxresdefault.jpg?v=6a731046",
+    "title": "Man convicted of antisemitism withdraws as Tory council candidate | The Wrap with Anna Botting",
+    "thumbnail": "https://i.ytimg.com/vi/TWUT2-vsnwI/maxresdefault.jpg?v=6a737e67",
     "startedAt": "2026-08-05T21:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-05T18:05:11Z"
+    "fetchedAt": "2026-08-05T20:08:40Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-05T18:05:15Z"
+    "fetchedAt": "2026-08-05T20:08:44Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "sS88sWBDlyM",
-    "url": "https://www.youtube.com/watch?v=sS88sWBDlyM",
+    "videoId": "ZbfYv-5t0u0",
+    "url": "https://www.youtube.com/watch?v=ZbfYv-5t0u0",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-05T18:05:19Z"
+    "fetchedAt": "2026-08-05T20:08:48Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-05T18:05:23Z"
+    "fetchedAt": "2026-08-05T20:08:52Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "4sBOeotkjvQ",
-    "url": "https://www.youtube.com/watch?v=4sBOeotkjvQ",
+    "videoId": "in1e4x22f7s",
+    "url": "https://www.youtube.com/watch?v=in1e4x22f7s",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-05T18:05:27Z"
+    "fetchedAt": "2026-08-05T20:08:55Z"
   }
 ]
