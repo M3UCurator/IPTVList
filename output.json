@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-08T19:29:54Z"
+    "fetchedAt": "2026-08-08T19:56:56Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-08T19:29:58Z"
+    "fetchedAt": "2026-08-08T19:57:00Z"
   },
   {
     "name": "Newsroom Africa",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "5nxwRkTok6Q",
-    "url": "https://www.youtube.com/watch?v=5nxwRkTok6Q",
+    "videoId": "i1AtJUtmwq8",
+    "url": "https://www.youtube.com/watch?v=i1AtJUtmwq8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-08T19:30:01Z"
+    "fetchedAt": "2026-08-08T19:57:03Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-08T19:30:05Z"
+    "fetchedAt": "2026-08-08T19:57:06Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-08T19:30:09Z"
+    "fetchedAt": "2026-08-08T19:57:10Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-08T19:30:13Z"
+    "fetchedAt": "2026-08-08T19:57:14Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "klwsMxL8RtY",
-    "url": "https://www.youtube.com/watch?v=klwsMxL8RtY",
+    "videoId": "u7RLzB_kayA",
+    "url": "https://www.youtube.com/watch?v=u7RLzB_kayA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-08T19:30:16Z"
+    "fetchedAt": "2026-08-08T19:57:18Z"
   },
   {
     "name": "Sky News",
@@ -109,7 +109,7 @@
     "thumbnail": "https://i.ytimg.com/vi/G5VvVHacgyw/maxresdefault.jpg?v=6a76fd7f",
     "startedAt": "2026-08-08T21:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-08T19:30:20Z"
+    "fetchedAt": "2026-08-08T19:57:22Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "vcM2aHtgmjw",
-    "url": "https://www.youtube.com/watch?v=vcM2aHtgmjw",
+    "videoId": "aQRymt0I2JU",
+    "url": "https://www.youtube.com/watch?v=aQRymt0I2JU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-08T19:30:24Z"
+    "fetchedAt": "2026-08-08T19:57:25Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-08T19:30:27Z"
+    "fetchedAt": "2026-08-08T19:57:29Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-08T19:30:31Z"
+    "fetchedAt": "2026-08-08T19:57:32Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "JQGPP9If2nA",
-    "url": "https://www.youtube.com/watch?v=JQGPP9If2nA",
-    "title": "الدفاع المدني في غزة ينشر مشاهد لانتشال 19 جثمانا من تحت أنقاض منزل في مدينة غزة",
-    "thumbnail": "https://i.ytimg.com/vi/JQGPP9If2nA/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYVCBZKGUwDw==&rs=AOn4CLDhOs2cDcQg_MIPwGJRKFyQ2myYjQ",
+    "videoId": "tMVQGBel7RY",
+    "url": "https://www.youtube.com/watch?v=tMVQGBel7RY",
+    "title": null,
+    "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-08T19:30:35Z"
+    "fetchedAt": "2026-08-08T19:57:36Z"
   }
 ]
