@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-09T22:32:01Z"
+    "fetchedAt": "2026-08-09T23:31:52Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-09T22:32:05Z"
+    "fetchedAt": "2026-08-09T23:31:56Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-09T22:32:08Z"
+    "fetchedAt": "2026-08-09T23:32:00Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-09T22:32:12Z"
+    "fetchedAt": "2026-08-09T23:32:03Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-09T22:32:15Z"
+    "fetchedAt": "2026-08-09T23:32:07Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-09T22:32:19Z"
+    "fetchedAt": "2026-08-09T23:32:11Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "cNyagSYgs24",
-    "url": "https://www.youtube.com/watch?v=cNyagSYgs24",
+    "videoId": "Gnz_cIttsaI",
+    "url": "https://www.youtube.com/watch?v=Gnz_cIttsaI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-09T22:32:23Z"
+    "fetchedAt": "2026-08-09T23:32:15Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "34jJsvfzqLI",
-    "url": "https://www.youtube.com/watch?v=34jJsvfzqLI",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "C8jB8EsbcZs",
+    "url": "https://www.youtube.com/watch?v=C8jB8EsbcZs",
+    "title": "Solar Eclipse 2026 | Live across the world",
+    "thumbnail": "https://i.ytimg.com/vi/C8jB8EsbcZs/maxresdefault.jpg?v=6a789cf1",
+    "startedAt": "2026-08-12T16:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-09T22:32:27Z"
+    "fetchedAt": "2026-08-09T23:32:19Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "vcM2aHtgmjw",
-    "url": "https://www.youtube.com/watch?v=vcM2aHtgmjw",
+    "videoId": "iei5xtU6JvA",
+    "url": "https://www.youtube.com/watch?v=iei5xtU6JvA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-09T22:32:30Z"
+    "fetchedAt": "2026-08-09T23:32:22Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "g0mkoFMYi38",
-    "url": "https://www.youtube.com/watch?v=g0mkoFMYi38",
+    "videoId": "z5wMEOKZaQE",
+    "url": "https://www.youtube.com/watch?v=z5wMEOKZaQE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-09T22:32:34Z"
+    "fetchedAt": "2026-08-09T23:32:27Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "wR8sxn8aeJA",
-    "url": "https://www.youtube.com/watch?v=wR8sxn8aeJA",
+    "videoId": "RAOsXfCP91U",
+    "url": "https://www.youtube.com/watch?v=RAOsXfCP91U",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-09T22:32:37Z"
+    "fetchedAt": "2026-08-09T23:32:31Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-09T22:32:41Z"
+    "fetchedAt": "2026-08-09T23:32:34Z"
   }
 ]
