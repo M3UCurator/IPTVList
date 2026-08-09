@@ -3,12 +3,20 @@
 
 #EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1 (720)
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1 (Chuncklist)
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1 (Master)
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 tvg-chno="002" tvg-id="SABC.2.HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="ZATV", SABC 2 (720)
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="003" tvg-id="SABC.3.HD.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="ZATV", SABC 3 (720)
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News (720)
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News (Chuncklist)
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News (Master)
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
 #EXTINF:-1 tvg-chno="005" tvg-id="SABC.Lehae.za" group-title="ZATV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", Lehae (720)
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="006" tvg-id="SABC.Education.za" group-title="ZATV" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/SABC-Education-Logo-Vector.svg-.png" , SABC Education (720)
