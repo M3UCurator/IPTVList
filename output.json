@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-10T18:22:58Z"
+    "fetchedAt": "2026-08-10T19:30:59Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "wcFjo3bUbt8",
-    "url": "https://www.youtube.com/watch?v=wcFjo3bUbt8",
+    "videoId": "33zZZYzvWjE",
+    "url": "https://www.youtube.com/watch?v=33zZZYzvWjE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-10T18:23:01Z"
+    "fetchedAt": "2026-08-10T19:31:02Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-10T18:23:05Z"
+    "fetchedAt": "2026-08-10T19:31:06Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "PJxy5qj4HhE",
-    "url": "https://www.youtube.com/watch?v=PJxy5qj4HhE",
+    "videoId": "ZfEka-1wUOs",
+    "url": "https://www.youtube.com/watch?v=ZfEka-1wUOs",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-10T18:23:09Z"
+    "fetchedAt": "2026-08-10T19:31:10Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": "https://i.ytimg.com/vi/mrqGRpOlmWU/maxresdefault.jpg?v=6a79ffd8",
     "startedAt": "2026-08-12T00:45:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-10T18:23:13Z"
+    "fetchedAt": "2026-08-10T19:31:14Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "jTZGlWLwiRk",
-    "url": "https://www.youtube.com/watch?v=jTZGlWLwiRk",
+    "videoId": "sTreFXf5yYE",
+    "url": "https://www.youtube.com/watch?v=sTreFXf5yYE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-10T18:23:17Z"
+    "fetchedAt": "2026-08-10T19:31:18Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "iBOLgaOaMqg",
-    "url": "https://www.youtube.com/watch?v=iBOLgaOaMqg",
+    "videoId": "Pbj1dSBuizE",
+    "url": "https://www.youtube.com/watch?v=Pbj1dSBuizE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-10T18:23:21Z"
+    "fetchedAt": "2026-08-10T19:31:22Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "LqTVThl1ELk",
-    "url": "https://www.youtube.com/watch?v=LqTVThl1ELk",
-    "title": "'National disaster' declared in Colombia after deadly earthquake | The Wrap",
-    "thumbnail": "https://i.ytimg.com/vi/LqTVThl1ELk/maxresdefault.jpg?v=6a7a161f",
-    "startedAt": "2026-08-10T21:00:00+00:00",
+    "videoId": "n0WPypJl8so",
+    "url": "https://www.youtube.com/watch?v=n0WPypJl8so",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-10T18:23:25Z"
+    "fetchedAt": "2026-08-10T19:31:25Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-10T18:23:28Z"
+    "fetchedAt": "2026-08-10T19:31:29Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "wDlZMz4Apco",
-    "url": "https://www.youtube.com/watch?v=wDlZMz4Apco",
+    "videoId": "W_vIEVkyBL0",
+    "url": "https://www.youtube.com/watch?v=W_vIEVkyBL0",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-10T18:23:32Z"
+    "fetchedAt": "2026-08-10T19:31:33Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-10T18:23:36Z"
+    "fetchedAt": "2026-08-10T19:31:37Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "f3DmvcM5Wso",
-    "url": "https://www.youtube.com/watch?v=f3DmvcM5Wso",
+    "videoId": "EUwRmpeEZsQ",
+    "url": "https://www.youtube.com/watch?v=EUwRmpeEZsQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-10T18:23:40Z"
+    "fetchedAt": "2026-08-10T19:31:40Z"
   }
 ]
