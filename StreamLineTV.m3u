@@ -1,32 +1,29 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/generate/JVDwzRJDcu.xml.gz, https://i.mjh.nz/PlutoTV/all.xml, https://i.mjh.nz/SamsungTVPlus/all.xml" refresh="3600"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/134.0.0.0 
 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1 (UHD)
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1 (720)
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1 (Chuncklist)
-https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1 (Master)
-https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
-#EXTINF:-1 tvg-chno="002" tvg-id="SABC.2.HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="ZATV", SABC 2 (720)
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="ZATV", SABC 2 (720)
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-chno="002" tvg-id="SABC.2.HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="ZATV", SABC 2 (HD)
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b2500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-chno="003" tvg-id="SABC.3.HD.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="ZATV", SABC 3 (720)
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="" channel id="" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="TV", SABC News (UHD)
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News (720)
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News (Chuncklist)
-https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News (Master)
-https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" group-title="ZATV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", Lehae (UHD)
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-chno="005" tvg-id="SABC.Lehae.za" group-title="ZATV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", Lehae (720)
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+
 #EXTINF:-1 tvg-chno="006" tvg-id="SABC.Education.za" group-title="ZATV" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/SABC-Education-Logo-Vector.svg-.png" , SABC Education (720)
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="007" tvg-id="24.7.Dummy.us" group-title="ZATV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" , Mindset Learn (576)
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
-#EXTINF:-1 tvg-chno="008" tvg-id="SABCEducation.za" group-title="ZATV", SABC Education (720)
-https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
-
-
 
 #EXTINF:-1 tvg-chno="010" group-title="UKTV" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true", BBC 1
 http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
@@ -283,41 +280,30 @@ http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/121/index.m3u8
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-chno="" tvg-shift="", FOX
+#EXTINF:-1 group-title="USTV" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-chno="" tvg-shift="", FOX
 http://84.17.50.102/fox/index.m3u8
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-chno="" tvg-shift="",  FS1
+#EXTINF:-1 group-title="USTV"  tvg-id="" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-chno="" tvg-shift="",  FS1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="FS2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" tvg-name="Fox Sports 2", Fox Sports 2
-http://23.237.104.106:8080/USA_FS2/index.m3u8
 
 #EXTINF:-1 group-title="USTV", FOX 13 Salt Lake City UT
 https://i1.ut770.freelocaltv.org/hls/kstu-13_hls/kstu-13_master.m3u8
 
-#EXTINF:-1 group-title="USTV", Telemundo 20 Utah
-https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="", FOX NY
+#EXTINF:-1 group-title="USTV" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="", FOX NY
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="", FOX 11 Green Bay WI (WLUK) 
+#EXTINF:-1 group-title="USTV"  tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="", FOX 11 Green Bay WI (WLUK) 
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="WC 2026"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" , FOX Soccer Plus
+#EXTINF:-1 group-title="USTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" , FOX Soccer Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
 
-#EXTINF:-1 group-title="WC 2026"  tvg-logo="https://i.imgur.com/sbooXpg.png" , Fox Soccer Plus 
+#EXTINF:-1 group-title="USTV"  tvg-logo="https://i.imgur.com/sbooXpg.png" , Fox Soccer Plus 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
-
-#EXTINF:-1 tvg-chno="" group-title="WC 2026"  tvg-logo="https://i.imgur.com/oG7HzEf.png", FOX Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 
 #EXTINF:-1 tvg-chno="040" group-title="Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN 
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/espn.m3u8
@@ -336,7 +322,6 @@ https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f2
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png", Fox
 http://84.17.50.102/fox/index.m3u8 
-
 
 
 
@@ -364,12 +349,8 @@ http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:-1 group-title="USTV" , AfroLandTV (1080p)
 https://alt-al.otteravision.com/alt/al/al.m3u
 
-
-
-
 #EXTINF:-1 group-title="Sports" ,Fox Soccer Plus
 http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
-
 
 #EXTINF:-1 group-title="Sports" ,Willow Sports
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31131/index.m3u8
@@ -417,15 +398,11 @@ http://85.237.89.160:-9590/usa-s/TSN4/index.m3u8
 #EXTINF:-1 group-title="CATV", TSN5
 http://185.246.209.113:80/TSN5HD/index.m3u8
 
-
-
 #EXTINF:-1 group-title="TV", France 2
 http://69.64.57.208/france2/mono.m3u8
 
 #EXTINF:-1 group-title="TV", France 5
 http://69.64.57.208/france5/mono.m3u8
-
-
 
 #EXTINF:-1 group-title="TV", CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
@@ -484,9 +461,6 @@ http://206.212.244.63/650/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids", Disney XD
 https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/CsvjtFmt/Funny-Junior.png" group-title="Kids",Funny Junior HD
-https://nomawnoijl.gpcdn.net/akash/funnyjunior/chunks.m3u8
-
 #EXTINF:-1 tvg-id="KidsFlix.us" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/df/5a/70df5a45-d3af-e622-114a-bce9b42f2b1c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png" group-title="Kids", KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
@@ -504,36 +478,16 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245
 
 #EXTINF:-1 tvg-chno="" tvg-id="SABCSport.za" group-title="Sports" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/6555ceebad.jpg", ZA | SABC Sports (720)
-https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-
-
-
-
+https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="038" tvg-id=""  group-title="Sports"  tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" , RallyTV
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-chno="" group-title="Sports" , FS2
 https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Sports" , foxss1 (2)
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102019
-
-
 
 #EXTINF:-1 group-title="Sports",US foxss1
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/foxss1.m3u8
@@ -543,16 +497,14 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:C0:DA:E5&stream=858547&exte
 
 #EXTINF:-1 tvg-chno="037" tvg-id="" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/cazetv.webp",Caze TV (720)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
-#EXTINF:-1 tvg-chno="038" tvg-id="" group-title="Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true",BEIN USA (720)
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1 tvg-chno="039" group-title="Sports" tvg-id="" tvg-name="TUDN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tudn-us.png?raw=true" ,TUDN
-http://24.152.53.3:8090/play/a012/index.m3u8?
+
 
 #EXTINF:-1 tvg-chno="040" group-title="Sports" tvg-logo="https://i.imgur.com/7BwABte.png", Fubo Sports 1
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTINF:-1 tvg-chno="041" group-title="Sports" tvg-logo="https://i.imgur.com/7BwABte.png", Fubo Sports 2
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports" , Redbull TV  
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-chno="041" group-title="Sports" tvg-id="Redbull.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true", Redbull TV UK
@@ -567,18 +519,6 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 tvg-chno="043" group-title="Sports"  tvg-logo="https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png", FIFA Plus B
 https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
-
-
-#EXTINF:-1 tvg-chno="046" group-title="Sports" ,Star Sport 1
-https://tvsen7.aynaott.com/sspts1/index.m3u8 
-
-#EXTINF:-1 tvg-chno="047" group-title="Sports" ,Star Sport 2
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-
-#EXTINF:-1 tvg-chno="048" group-title="Sports" ,T Sports
-https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
-
-
 
 #EXTINF:-1 tvg-chno="049" group-title="Sports" ,Supersport 2
 http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562257
@@ -602,33 +542,10 @@ http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562252
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4180?WithCaption
 
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", CT SPORT HD
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",  RTVS :SPORT
-http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8 
-
-
-#EXTINF:-1 group-title="Sports",  FOX501
-https://iptv-proxy.trionine.workers.dev/http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports", Sport TV
-https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-us.png?raw=true" group-title="Sports" , Tennis Channel
 https://amg01444-tennischannelth-tennischannelspain-orangees-gpx6v.amagi.tv/playlist/amg01444-tennischannelth-tennischannelspain-orangees/playlist.m3u8
 #EXTINF:-1 tvg-id=""  group-title="Sports" , Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-chno="051"  tvg-id="ABCAustralia.au" tvg-name="ABC Australia" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="News",  ABC Australia News (720)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
@@ -636,143 +553,30 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 tvg-chno="052"  tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News", Al Jazeera
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-id="",Channel31
-https://i.mjh.nz/.r/c31.m3u8
-#EXTINF:-1 tvg-id="", Channel44
-https://i.mjh.nz/.r/c44.m3u8
-
 #EXTINF:-1 tvg-id="",HGTV
 https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
 
-#EXTINF:-1 group-title="WC 2026" tvg-logo="", RTBGO
-#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein1.png",beIN 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein2.png",beIN 2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein3.png",beIN 3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN 4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Sports",Bein Sport 1 HD
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Sports",Bein Sport 2 HD
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Sports",Bein Sport 3 HD
+http://99.27.51.147:8080/BeinSport3/index.m3u8
 
-#EXTINF:-1 group-title="WC 2026"  , FOX ESP
-http://190.61.101.11:7050/play/a09z/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="UKTV", SS Football
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KD6YT2WWZRCKHB/9289/index.m3u8
 
-#EXTINF:-1 group-title="WC 2026"  , FOX Sports ESP
-http://190.61.101.11:7050/play/a08t/index.m3u8?hls
-
-#EXTINF:-1 group-title="WC 2026"  , FOX Sports 2 ESP 
-http://190.61.101.11:7050/play/a08v/index.m3u8?hls
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="FOX" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" ,  FOX (2)
-http://164.52.224.212:5004/auto/v53.1
-
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" ,Telemundo 
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
-
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" ,Telemundo 2
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Fox Deportes 
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Bein US
-http://23.237.104.106:8080/USA_BEIN/index.m3u8  
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Dazn 2
-http://23.237.104.106:8080/DAZN_2/index.m3u8  
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Dazn 3
-http://23.237.104.106:8080/DAZN_3/index.m3u8 
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Dazn 4
-http://23.237.104.106:8080/DAZN_4/index.m3u8  
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Dazn 5
-http://23.237.104.106:8080/DAZN_5/index.m3u8  
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-chno="" tvg-shift="",Dazn 6
-http://23.237.104.106:8080/DAZN_6/index.m3u8
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-name="" tvg-logo="" tvg-chno=""  tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png"  ,TUDN [2]
-https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg",ZDF
-http://169.150.223.25/ZDF/index.m3u8 
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg",ZDF
-http://23.88.66.93/ZDF/index.m3u8 
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg",ZDF
-http://83.228.75.166:8000/play/a0da
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg",ZDF
-http://smarterstv99.dyndns.tv:25461/live/IselaGranad24/CbgVfaaXAqSj/494201.ts 
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-id="" , Golive
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", WiN Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-
-#EXTINF:-1 ,TNT Sports ARG
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg", Bein Sports 2 Arabic
-https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports
-https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports (Opción 1)
-http://190.108.83.69:8000/play/a05w/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports (Opción 2)
-http://148.222.230.201:8000/play/a0pk/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports (Opción 3)
-http://148.222.230.197:8000/play/a0mm/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports (Opción 4)
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026"",DSports (Opción 5)
-http://38.187.7.252:8000/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports (Opción 6)
-http://190.223.48.46:8000/play/a028/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg"group-title="WC 2026",DSports (Opción 7)
-http://191.97.59.33:8000/play/a09t/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports (Opción 8)
-http://190.117.20.37:8000/play/a08d/index.m3u
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports (Opción 9)
-http://177.53.152.117:8000/play/a07d/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports (Opción 10)
-http://8.243.126.131:8000/play/a05a/index.m3u8
-
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports (Opción 11)
-http://177.10.184.193:8000/play/a0fc/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",DSports (Opción 12)
-http://217.26.190.76:8888/play/a0co/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="WC 2026",Telefe
-http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe_480.m3u8
-
-#EXTINF:-1 group-title="WC 2026" tvg-id="FOX ONE" tvg-logo="https://i.postimg.cc/XpSD2cdh/FOX-t-290x163.webp", Fox One
-https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" tvg-chno="" group-title="UKTV", SS P. League
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/9334/index.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="Sports",Arenasport 1 SK
 http://88.212.15.50/live/test_arenasport/playlist.m3u8 
@@ -787,68 +591,6 @@ http://88.212.15.50/live/test_ams/playlist.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports",Canal +
 http://151.80.18.177:86/Canal+_sport_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="sportivny" tvg-logo="https://iptvx.one/picons/sportivny.png" group-title="Sports" ,ТВ Спорт
-http://live-3.otcnet.ru/sportivny/tracks-v1a1/mono.ts.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein1.png",beIN 1
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein2.png",beIN 2
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein3.png",beIN 3
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN 4
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Sports", SS Football
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KD6YT2WWZRCKHB/9289/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" tvg-chno="" group-title="Sports", SS P. League
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/9334/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Sports",Bein Sport 1 HD
-http://99.27.51.147:8080/BeinSport/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Sports",Bein Sport 2 HD
-http://99.27.51.147:8080/BeinSport2/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/beIN SPORTS XTRA.png" group-title="Sports",Bein Sport 3 HD
-http://99.27.51.147:8080/BeinSport3/index.m3u8
-
-
-#EXTINF:-1   tvg-logo="https://images.open-epg.com/x1590.png",Bein 1
-#https://love.bebin98399.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
-#https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Bein01.m3u8
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
-
-#EXTINF:-1,Bein 2
-#https://love.bebin98399.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
-https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Bein02.m3u8
-#EXTINF:-1,Bein 3
-#https://love.bebin98399.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
-https://github.com/s48139104-netizen/IPTV2/raw/refs/heads/main/Bein03.m3u8
-
-
-#EXTINF:-1 group-title="Sports",Tabii Spor 1 HD
-https://1nyaler.streamhostingcdn.top/stream/88/index.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports 1 HD (Turkiye)
-https://1nyaler.streamhostingcdn.top/stream/22/index.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports 2 HD (Turkiye)
-https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports 3 HD (Turkiye)
-https://1nyaler.streamhostingcdn.top/stream/18/.index.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports 1 HD (Fr)
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1,beIN Sports 2 HD (Fr)
-https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
-#EXTINF:-1 group-title="Sports",beIN Sports 3 HD (Fr)
-https://1nyaler.streamhostingcdn.top/stream/19/index.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-chno=""  group-title="Nature & Travel", Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
@@ -861,205 +603,6 @@ https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-chno="" group-title="Nature & Travel" tvg-logo="https://i.imgur.com/Vhv5gjN.png", Wild Earth (720)
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",Fusbal
-https://raw.githubusercontent.com/kusnadipepenk/campeign/refs/heads/master/fusbal.m3u8
-
-#EXTINF:-1 tvg-id="Canal1" tvg-name="Canal Deportivo 1" group-title="Sports",Canal Deportivo 1
-http://181.78.67.171:8000/play/a0wy/index.m3u8
-
-#EXTINF:-1 tvg-id="WinSports" tvg-name="Win Sports" group-title="Sports", Win Sports
-http://190.60.48.150:8000/play/WINSPORT/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal2" tvg-name="Canal Deportivo 2" group-title="Sports",Canal Deportivo 2
-http://190.60.54.158:8000/play/a0b0/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal3" tvg-name="Canal Deportivo 3" group-title="Sports" ,Canal Deportivo 3
-http://181.78.8.199:8000/play/a0cc/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal4" tvg-name="Canal Deportivo 4" group-title="Sports",Canal Deportivo 4
-http://181.119.83.235:8000/play/C052/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal5" tvg-name="Canal Deportivo 5" group-title="Sports",Canal Deportivo 5
-http://181.78.8.199:8000/play/a0b0/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal6" tvg-name="Canal Deportivo 6 (Proxy)" group-title="Sports",Canal Deportivo 6 (Proxy)
-https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
-
-#EXTINF:-1 tvg-id="CazeTV" tvg-name="CazéTV BR" group-title="Sports",CazéTV BR
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 group-title="Sports",Fast Sport TV
-https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",QAZSPORT HD
-http://62.32.84.50:18000/play/a06b/index.m3u8
-
-#EXTINF:-1 group-title="TV" ,1TV GE
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-
-##EXTINF:-1 group-title="Sports",2TV GE
-https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Sport 1
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",Sport 2
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",NileSport
-http://149.100.11.235:8080/NileSport/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports", Golf+
-http://tinyurl.com/TvZaTak0/GOLF+_HD/index.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
-
-#EXTINF:-1 group-title="Sports", Golf Channel
-http://8.243.126.131:8000/play/a0fi/index.m3u8
-
-#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Sports",Belarus 5 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",S SPORT 1
-http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19070/index.m3u8
-#EXTINF:-1 group-title="Sports",S SPORT 2
-http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19071/index.m3u8
-#EXTINF:-1 group-title="Sports",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="Sports" ,Fast Sport
-http://37.186.70.39:40/play/80/index.m3u8
-#EXTINF:-1 group-title="Sports",Match Football 1
-http://37.186.70.39:40/play/81/index.m3u8
-#EXTINF:-1 group-title="Sports" ,Match Football 2
-http://37.186.70.39:40/play/82/index.m3u8
-#EXTINF:-1 group-title="Sports" ,083 Match Planeta
-http://37.186.70.39:40/play/83/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/sport-png/tvp-sport-wikipedia-12.png"/https://www.freepnglogos.com/uploads/sport-png/tvp-sport-wikipedia-12.png,TVP Sport
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 group-title="Sports" ,ESPN 1 ESP (2)
-http://8.243.126.131:8000/play/a05q/index.m3u8
-#EXTINF:-1 group-title="Sports" ,ESPN 2 ESP (2)
-http://8.243.126.131:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="Sports" ,ESPN 3 ESP (2)
-http://8.243.126.131:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="Sports" ,ESPN Premium (2)
-http://8.243.126.131:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Sports" ,Direct TV Deporte (2)
-http://8.243.126.131:8000/play/a05a/index.m3u8
-
-#EXTINF:-1 group-title="Sports",JORDAN Sport
-http://93.184.10.248/JordanSport/index.m3u8
-
-#EXTINF:-1 group-title="Sports",Setenta Sport 1
-http://cdntv.online/low/9mlxywika2/1021.m3u8
-#EXTINF:-1 group-title="Sports",Setenta Sport 2
-http://cdntv.online/low/9mlxywika2/1022.m3u8
-
-#EXTINF:-1 group-title="Sports",K Sports
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
-
-#EXTINF:-1 group-title="Sports",K Sports 2
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
-
-#EXTINF:-1 group-title="Sports", Alkass 1
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-
-#EXTINF:-1 group-title="Sports", Alkass 2
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-
-#EXTINF:-1 group-title="Sports", Alkass 3
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-
-#EXTINF:-1 , Alkass 5
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-
-#EXTINF:-1 , Alkass 5
-https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-
-#EXTINF:-1 , Alkass 6
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
-
-#EXTINF:-1 , Alkass 7
-https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
-
-#EXTINF:-1 , Alkass Shoof
-https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
-
-#EXTINF:-1 , Alkass Shoof 2
-https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
-
-#EXTINF:-1 group-title="Sports",DAZN 1 HD
-https://1nyaler.streamhostingcdn.top/stream/5/index.m3u8
-#EXTINF:-1 group-title="Sports",DAZN 2 HD
-https://1nyaler.streamhostingcdn.top/stream/3/index.m3u8
-#EXTINF:-1 group-title="Sports",DAZN 3 HD
-https://1nyaler.streamhostingcdn.top/stream/9/index.m3u8
-#EXTINF:-1 group-title="Sports",Eleven Sports 1 HD
-https://1nyaler.streamhostingcdn.top/stream/43/index.m3u8
-#EXTINF:-1 group-title="Sports",Eleven Sports 2 HD
-https://1nyaler.streamhostingcdn.top/stream/44/index.m3u8
-#EXTINF:-1 group-title="Sports",Eleven Sports 3 HD
-https://1nyaler.streamhostingcdn.top/stream/45/index.m3u8
-
-#EXTINF:-1, TVP 1
-https://srv7.flussonic111.com/PL_TVP1_HD/index.m3u8
-#EXTINF:-1,HT Spor
-https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 group-title="Sports",TVR Sport
-https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN USA
-http://84.17.50.102/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN ESP
-http://179.60.51.134:8888/ESPN/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports"",ESPN2 ESP
-http://179.60.51.134:8888/ESPN2/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN3 ESP
-http://179.60.51.134:8888/ESPN3/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="Sports",ESPN4 ESP
-http://179.60.51.134:8888/ESPN4/index.m3u8
-
-#EXTINF:-1 ,Oman Sports
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
-#EXTINF:-1, ERT Sports 1 (1080p)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
-#EXTINF:-1,ERT Sports 2 (1080p)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
-
-#EXTINF:-1,Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1,Bahrain Sports 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
-
-#EXTINF:-1,CazéTV 1 
-http://201.151.118.136:1234/stream/mundial2026/cazetvop1/master.m3u8 
-#EXTINF:-1,CazéTV 2 
-http://201.151.118.136:1234/stream/mundial2026/cazetvop2/master.m3u8 
-
-#EXTINF:-1 group-title="Sports",Telemundo
-http://201.151.118.136:1234/stream/mundial2026/lateleenunmundoexterior/master.m3u8 
-#EXTINF:-1 group-title="Sports",Unite8 Sports 1 HD 
-https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
-#EXTINF:-1,Unite8 Sports 2 HD 
-https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
-#EXTINF:-1,MAX Sport 1 HD
-212.70.131.37:8000/play/a085
-#EXTINF:-1 group-title="Sports",MAX Sport 2 HD
-212.70.131.37:8000/play/a086
-#EXTINF:-1 group-title="Sports",MAX Sport 3 HD
-212.70.131.37:8000/play/a06h
-#EXTINF:-1 group-title="Sports",MAX Sport 4 HD
-212.70.131.37:8000/play/a07n
-#EXTINF:-1 group-title="Sports",Diema Sport HD
-212.70.131.37:8000/play/a06e
-#EXTINF:-1 group-title="Sports",Diema Sport 2 HD
-212.70.131.37:8000/play/a06p
-#EXTINF:-1 group-title="Sports",Diema Sport 3 HD
-212.70.131.37:8000/play/a06o
-#EXTINF:-1 group-title="Sports",MEGOGO Спорт
-http://5.188.159.128:8070/megogo_sport/index.m3u8 
-
-#EXTINF:-1 ,World Cup 2026
-http://46.101.169.21/ch299/index.m3u8
 
 #EXTINF:-1 tvg-chno="800" group-title="Radio", Motsweding FM
 https://25633.live.streamtheworld.com/MOTSWEDINGAAC_SC
@@ -1081,10 +624,8 @@ http://strm112.1.fm/deephouse_mobile_mp3
 http://radio.talksport.com/stream
 #EXTINF:-1 tvg-chno="810" tvg-logo="" group-title="Radio",Radio Relax FM Cafe
 http://edge02.cdn.bitflip.ee:8888/cafe
-
 #EXTINF:-1 tvg-chno="811" tvg-logo="" group-title="Radio",Radio Jazz FM (FR) - Afro Jazz
 http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3
-
 #EXTINF:-1 tvg-chno="812" tvg-logo="" group-title="Radio",Smooth Jazz CD101.9 New York
 http://hestia2.cdnstream.com/1277_192
 
