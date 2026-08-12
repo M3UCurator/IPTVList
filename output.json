@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T16:25:50Z"
+    "fetchedAt": "2026-08-12T17:29:42Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T16:25:53Z"
+    "fetchedAt": "2026-08-12T17:29:47Z"
   },
   {
     "name": "Newsroom Africa",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "i1AtJUtmwq8",
-    "url": "https://www.youtube.com/watch?v=i1AtJUtmwq8",
+    "videoId": "q8r4R45SYSY",
+    "url": "https://www.youtube.com/watch?v=q8r4R45SYSY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T16:25:57Z"
+    "fetchedAt": "2026-08-12T17:29:51Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T16:26:01Z"
+    "fetchedAt": "2026-08-12T17:29:54Z"
   },
   {
     "name": "CNN",
@@ -63,11 +63,11 @@
     "live": true,
     "videoId": "tmV4CKj8Nyo",
     "url": "https://www.youtube.com/watch?v=tmV4CKj8Nyo",
-    "title": "Live: 2026 Total Solar Eclipse Coverage",
-    "thumbnail": "https://i.ytimg.com/vi/tmV4CKj8Nyo/maxresdefault.jpg?v=6a7b8139",
-    "startedAt": "2026-08-12T17:30:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T16:26:05Z"
+    "fetchedAt": "2026-08-12T17:29:58Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "x85XYzRXCLE",
-    "url": "https://www.youtube.com/watch?v=x85XYzRXCLE",
+    "videoId": "R19RCvohO7c",
+    "url": "https://www.youtube.com/watch?v=R19RCvohO7c",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T16:26:09Z"
+    "fetchedAt": "2026-08-12T17:30:02Z"
   },
   {
     "name": "DW News",
@@ -91,11 +91,11 @@
     "live": true,
     "videoId": "04wti5_dhYM",
     "url": "https://www.youtube.com/watch?v=04wti5_dhYM",
-    "title": "LIVE: Watch rare total solar eclipse across Europe | DW News",
-    "thumbnail": "https://i.ytimg.com/vi/04wti5_dhYM/maxresdefault.jpg?v=6a7c9a50",
-    "startedAt": "2026-08-12T16:45:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T16:26:12Z"
+    "fetchedAt": "2026-08-12T17:30:06Z"
   },
   {
     "name": "Sky News",
@@ -109,7 +109,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T16:26:17Z"
+    "fetchedAt": "2026-08-12T17:30:09Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "trtYqePhQ90",
-    "url": "https://www.youtube.com/watch?v=trtYqePhQ90",
+    "videoId": "vcM2aHtgmjw",
+    "url": "https://www.youtube.com/watch?v=vcM2aHtgmjw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T16:26:20Z"
+    "fetchedAt": "2026-08-12T17:30:13Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T16:26:24Z"
+    "fetchedAt": "2026-08-12T17:30:17Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T16:26:28Z"
+    "fetchedAt": "2026-08-12T17:30:22Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "5_v-ZrIqFbo",
-    "url": "https://www.youtube.com/watch?v=5_v-ZrIqFbo",
+    "videoId": "qaC-4RJFly4",
+    "url": "https://www.youtube.com/watch?v=qaC-4RJFly4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T16:26:32Z"
+    "fetchedAt": "2026-08-12T17:30:25Z"
   }
 ]
