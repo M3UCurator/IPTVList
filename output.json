@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T08:47:50Z"
+    "fetchedAt": "2026-08-12T10:06:10Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T08:47:53Z"
+    "fetchedAt": "2026-08-12T10:06:13Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T08:47:57Z"
+    "fetchedAt": "2026-08-12T10:06:17Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T08:48:00Z"
+    "fetchedAt": "2026-08-12T10:06:20Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": "https://i.ytimg.com/vi/tmV4CKj8Nyo/maxresdefault.jpg?v=6a7b8139",
     "startedAt": "2026-08-12T17:30:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-12T08:48:04Z"
+    "fetchedAt": "2026-08-12T10:06:24Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "CGzXU9XXTQo",
-    "url": "https://www.youtube.com/watch?v=CGzXU9XXTQo",
+    "videoId": "sLEKXmobGH8",
+    "url": "https://www.youtube.com/watch?v=sLEKXmobGH8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T08:48:08Z"
+    "fetchedAt": "2026-08-12T10:06:28Z"
   },
   {
     "name": "DW News",
@@ -95,7 +95,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T08:48:12Z"
+    "fetchedAt": "2026-08-12T10:06:32Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "MvG_SZV-ZpI",
-    "url": "https://www.youtube.com/watch?v=MvG_SZV-ZpI",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "nbP2d5Gpo-s",
+    "url": "https://www.youtube.com/watch?v=nbP2d5Gpo-s",
+    "title": "Solar Eclipse 2026 | Special NASA coverage",
+    "thumbnail": "https://i.ytimg.com/vi/nbP2d5Gpo-s/maxresdefault.jpg?v=6a7b94af",
+    "startedAt": "2026-08-12T17:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-12T08:48:16Z"
+    "fetchedAt": "2026-08-12T10:06:35Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "trtYqePhQ90",
-    "url": "https://www.youtube.com/watch?v=trtYqePhQ90",
+    "videoId": "cKXi9rnDDJM",
+    "url": "https://www.youtube.com/watch?v=cKXi9rnDDJM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T08:48:20Z"
+    "fetchedAt": "2026-08-12T10:06:39Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T08:48:23Z"
+    "fetchedAt": "2026-08-12T10:06:42Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T08:48:27Z"
+    "fetchedAt": "2026-08-12T10:06:46Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-12T08:48:31Z"
+    "fetchedAt": "2026-08-12T10:06:49Z"
   }
 ]
