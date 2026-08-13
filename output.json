@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T17:04:51Z"
+    "fetchedAt": "2026-08-13T18:27:29Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T17:04:55Z"
+    "fetchedAt": "2026-08-13T18:27:32Z"
   },
   {
     "name": "Newsroom Africa",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "5nxwRkTok6Q",
-    "url": "https://www.youtube.com/watch?v=5nxwRkTok6Q",
+    "videoId": "EE1zTy5M2so",
+    "url": "https://www.youtube.com/watch?v=EE1zTy5M2so",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T17:04:59Z"
+    "fetchedAt": "2026-08-13T18:27:36Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "sOedx4v6sMU",
-    "url": "https://www.youtube.com/watch?v=sOedx4v6sMU",
+    "videoId": "qrvqagcjzXI",
+    "url": "https://www.youtube.com/watch?v=qrvqagcjzXI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T17:05:03Z"
+    "fetchedAt": "2026-08-13T18:27:40Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Gl6R0I7zE2Y",
-    "url": "https://www.youtube.com/watch?v=Gl6R0I7zE2Y",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "fgCF13RZoG4",
+    "url": "https://www.youtube.com/watch?v=fgCF13RZoG4",
+    "title": "Grieving a mother and a partner who died 10 days apart | All There Is Live",
+    "thumbnail": "https://i.ytimg.com/vi/fgCF13RZoG4/maxresdefault.jpg?v=6a7e0ab7",
+    "startedAt": "2026-08-14T01:15:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-13T17:05:07Z"
+    "fetchedAt": "2026-08-13T18:27:44Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "r3qVxLmtY3I",
-    "url": "https://www.youtube.com/watch?v=r3qVxLmtY3I",
+    "videoId": "ZHt1ExvAVB4",
+    "url": "https://www.youtube.com/watch?v=ZHt1ExvAVB4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T17:05:11Z"
+    "fetchedAt": "2026-08-13T18:27:47Z"
   },
   {
     "name": "DW News",
@@ -95,7 +95,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T17:05:15Z"
+    "fetchedAt": "2026-08-13T18:27:51Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "IugB1U35oII",
-    "url": "https://www.youtube.com/watch?v=IugB1U35oII",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "2GkDxgR59U4",
+    "url": "https://www.youtube.com/watch?v=2GkDxgR59U4",
+    "title": "The Wrap with Anna Botting | Thursday 13 August 2026",
+    "thumbnail": "https://i.ytimg.com/vi/2GkDxgR59U4/maxresdefault.jpg?v=6a7d7b89",
+    "startedAt": "2026-08-13T21:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-13T17:05:19Z"
+    "fetchedAt": "2026-08-13T18:27:55Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T17:05:23Z"
+    "fetchedAt": "2026-08-13T18:27:58Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T17:05:27Z"
+    "fetchedAt": "2026-08-13T18:28:02Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T17:05:31Z"
+    "fetchedAt": "2026-08-13T18:28:06Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Vt_dcjWcVeY",
-    "url": "https://www.youtube.com/watch?v=Vt_dcjWcVeY",
+    "videoId": "S8UA49nlQ2I",
+    "url": "https://www.youtube.com/watch?v=S8UA49nlQ2I",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T17:05:35Z"
+    "fetchedAt": "2026-08-13T18:28:10Z"
   }
 ]
