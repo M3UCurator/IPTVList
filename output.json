@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T21:45:47Z"
+    "fetchedAt": "2026-08-13T22:41:49Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T21:45:50Z"
+    "fetchedAt": "2026-08-13T22:41:52Z"
   },
   {
     "name": "Newsroom Africa",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "5nxwRkTok6Q",
-    "url": "https://www.youtube.com/watch?v=5nxwRkTok6Q",
+    "videoId": "6P7bOasZG58",
+    "url": "https://www.youtube.com/watch?v=6P7bOasZG58",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T21:45:54Z"
+    "fetchedAt": "2026-08-13T22:41:56Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T21:45:58Z"
+    "fetchedAt": "2026-08-13T22:42:00Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "fgCF13RZoG4",
-    "url": "https://www.youtube.com/watch?v=fgCF13RZoG4",
-    "title": "Grieving a mother and a partner who died 10 days apart | All There Is Live",
-    "thumbnail": "https://i.ytimg.com/vi/fgCF13RZoG4/maxresdefault.jpg?v=6a7e0ab7",
-    "startedAt": "2026-08-14T01:15:00+00:00",
+    "videoId": "jAvT3VP0kSk",
+    "url": "https://www.youtube.com/watch?v=jAvT3VP0kSk",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T21:46:02Z"
+    "fetchedAt": "2026-08-13T22:42:04Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T21:46:06Z"
+    "fetchedAt": "2026-08-13T22:42:08Z"
   },
   {
     "name": "DW News",
@@ -95,7 +95,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T21:46:10Z"
+    "fetchedAt": "2026-08-13T22:42:12Z"
   },
   {
     "name": "Sky News",
@@ -109,7 +109,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T21:46:13Z"
+    "fetchedAt": "2026-08-13T22:42:15Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T21:46:17Z"
+    "fetchedAt": "2026-08-13T22:42:19Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "TexX_ZzH-_0",
-    "url": "https://www.youtube.com/watch?v=TexX_ZzH-_0",
+    "videoId": "sCY7TuErTbo",
+    "url": "https://www.youtube.com/watch?v=sCY7TuErTbo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T21:46:21Z"
+    "fetchedAt": "2026-08-13T22:42:23Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T21:46:25Z"
+    "fetchedAt": "2026-08-13T22:42:27Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "NNnZLWHRmd4",
-    "url": "https://www.youtube.com/watch?v=NNnZLWHRmd4",
+    "videoId": "UlD7JZbbhf0",
+    "url": "https://www.youtube.com/watch?v=UlD7JZbbhf0",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-13T21:46:28Z"
+    "fetchedAt": "2026-08-13T22:42:30Z"
   }
 ]
