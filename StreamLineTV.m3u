@@ -13,6 +13,8 @@ https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b2500
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="" channel id="" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="TV", SABC News (UHD)
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News (UHD)
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News (720)
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="ZATV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", Lehae (UHD)
