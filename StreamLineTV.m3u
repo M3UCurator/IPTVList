@@ -11,8 +11,6 @@ https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b2500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-chno="003" tvg-id="SABC.3.HD.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="ZATV", SABC 3 (720)
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" channel id="" tvg-logo="https://i.ibb.co/HBGGYMn/snews.jpg" group-title="TV", SABC News (UHD)
-https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News (UHD)
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News (720)
@@ -62,7 +60,7 @@ https://d25w9q07b2mtmw.cloudfront.net/live/master_3.m3u8,
 #EXTINF:-1 tvg-chno="019" tvg-id="SkyNews.uk" group-title="UKTV" tvg-logo="https://iptvboss.xyz/logos/UK/SkyNews.uk.png", Sky News (1080)
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/05_1080-30.m3u8
 
-#EXTINF:-1 tvg-chno="020" group-title="Sports" tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" , TNT Sports 1 (720)
+#EXTINF:-1 tvg-chno="020" group-title="UKTV" tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" , TNT Sports 1 (720)
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pXrTdWNG4s0INeKOsblzrA&e=2074182240&scheme=https
 
 #EXTINF:-1 tvg-chno="021" tvg-id="" group-title="UKTV" tvg-logo="", BBC Lifestyle
@@ -246,7 +244,7 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-chno="086" tvg-id="Crime360.us"tvg-name="" tvg-logo="https://i.imgur.com/IjtaG1m.png"  group-title="USTV", Crime 360
 https://94a3e237.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/2e47bce2-67ea-4697-84de-30ba5a25d3ff/2.m3u8
 
-#EXTINF:-1 tvg-chno="087" tvg-id=""tvg-name="" tvg-logo="g"  group-title="USTV", Bravo
+#EXTINF:-1 tvg-chno="087" tvg-id=""tvg-name="" tvg-logo=""  group-title="USTV", Bravo
 http://40.160.24.52/BRAVO/index.m3u8
 
 
@@ -256,8 +254,6 @@ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u
 #EXTINF:-1 tvg-chno="079" group-title="Sports" tvg-id="" tvg-name=""  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fubo-sports-network-us.png?raw=true",Fubo Sports Network (1080)
 https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="080" group-title="Sports" tvg-id="Willow.Cricket.HD.us2" tvg-name="" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png" ,Willow TV (720)
-https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-chno="081" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Sports", Bein Xtra (720)
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
@@ -543,8 +539,4 @@ http://edge02.cdn.bitflip.ee:8888/cafe
 http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3
 #EXTINF:-1 tvg-chno="812" tvg-logo="" group-title="Radio",Smooth Jazz CD101.9 New York
 http://hestia2.cdnstream.com/1277_192
-
-
-#EXTINF:-1 tvg-chno="999" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/M3UCurator/IPTVList/main/logo_.png" group-title="Digital TV", StreamLine TV
-https://github.com/M3UCurator/IPTVList/raw/refs/heads/main/intro.mp4
 
