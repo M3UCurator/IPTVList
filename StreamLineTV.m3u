@@ -72,11 +72,14 @@ http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/6564/index.m3u8
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="UKTV" tvg-logo="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png",TNT 4
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19054/index.m3u8
 
-#EXTINF:-1 tvg-chno="030" group-title="USTV" tvg-id="Game.Show.Network.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png", Game Show Network
-https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="021" tvg-id="" group-title="UKTV" tvg-logo="", BBC Lifestyle
-https://thinkkast.dpdns.org/tkk-ph/i7/bbc_lstylehd/bbc-lifestyle.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="UKTV", SS Football
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KD6YT2WWZRCKHB/9289/index.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="UKTV" tvg-id="BBC1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/500px-BBC_One_logo_2021.svg.png" ,🇬🇧 BBC One
 https://cdn.stmify.com/bbc/stream/BBC_ONE_WEST/hevc_iptv_mse_v0.mpd
@@ -88,6 +91,9 @@ https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 group-title="UKTV" tvg-id="BBCScotland.uk@UKHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png" ,🇬🇧 BBC Scotland
 https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-chno="030" group-title="USTV" tvg-id="Game.Show.Network.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png", Game Show Network
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="031" group-title="USTV"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true", NBC
 http://4.59.210.197:8815/udp/127.0.0.1:6009
@@ -492,12 +498,6 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/02.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="UKTV", SS Football
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KD6YT2WWZRCKHB/9289/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" tvg-chno="" group-title="UKTV", SS P. League
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CS7X8FQ83E4L82/9334/index.m3u8
 
 
 
