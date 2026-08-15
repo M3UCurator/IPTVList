@@ -285,7 +285,8 @@ https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRn
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
 
 #EXTINF:-1 tvg-chno="082" tvg-id="" group-title="Sports" tvg-logo="https://i.imgur.com/xA0l7DP.png", FOX Sports (720)
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
+#https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
+https://cdn.telecloud.tv/CH3223/index.m3u8
 
 #EXTINF:-1 tvg-chno="084" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports", FS1 (1080)
 http://41.223.30.230/FOXSPORTS1/index.m3u8
@@ -295,6 +296,15 @@ http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 group-title="USTV"  tvg-id="" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-chno="" tvg-shift="",  FS1
 http://41.223.30.230/FOXSPORTS1/index.m3u8
+
+#EXTINF:-1 group-title="USTV", ESPN HD
+https://cdn.telecloud.tv/CH3257/index.m3u8
+
+#EXTINF:-1 group-title="USTV", ESPN2 HD
+https://restream-live.realiptv.to/Marky0416/2c1744538b/2581
+
+#EXTINF:-1 group-title="USTV", CBS Sports Network
+https://restream-live.realiptv.to/Marky0416/2c1744538b/3712
 
 #EXTINF:-1 group-title="USTV", FOX 13 Salt Lake City UT
 https://i1.ut770.freelocaltv.org/hls/kstu-13_hls/kstu-13_master.m3u8
