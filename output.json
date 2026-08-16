@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "pwLpjG0bPF8",
-    "url": "https://www.youtube.com/watch?v=pwLpjG0bPF8",
+    "videoId": "mVKVLY64ldA",
+    "url": "https://www.youtube.com/watch?v=mVKVLY64ldA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-16T04:36:10Z"
+    "fetchedAt": "2026-08-16T05:28:18Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-16T04:36:14Z"
+    "fetchedAt": "2026-08-16T05:28:22Z"
   },
   {
     "name": "Newsroom Africa",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "5nxwRkTok6Q",
-    "url": "https://www.youtube.com/watch?v=5nxwRkTok6Q",
+    "videoId": "i1AtJUtmwq8",
+    "url": "https://www.youtube.com/watch?v=i1AtJUtmwq8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-16T04:36:17Z"
+    "fetchedAt": "2026-08-16T05:28:25Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-16T04:36:21Z"
+    "fetchedAt": "2026-08-16T05:28:29Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-16T04:36:25Z"
+    "fetchedAt": "2026-08-16T05:28:33Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-16T04:36:28Z"
+    "fetchedAt": "2026-08-16T05:28:36Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "T42cyhF2dbQ",
-    "url": "https://www.youtube.com/watch?v=T42cyhF2dbQ",
+    "videoId": "tQ2QdtRHbHI",
+    "url": "https://www.youtube.com/watch?v=tQ2QdtRHbHI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-16T04:36:31Z"
+    "fetchedAt": "2026-08-16T05:28:40Z"
   },
   {
     "name": "Sky News",
@@ -105,11 +105,11 @@
     "live": true,
     "videoId": "LEudXKt7d5w",
     "url": "https://www.youtube.com/watch?v=LEudXKt7d5w",
-    "title": "Mornings | Sunday 16 August 2026",
-    "thumbnail": "https://i.ytimg.com/vi/LEudXKt7d5w/maxresdefault.jpg?v=6a801bd1",
-    "startedAt": "2026-08-16T05:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-16T04:36:35Z"
+    "fetchedAt": "2026-08-16T05:28:44Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-16T04:36:38Z"
+    "fetchedAt": "2026-08-16T05:28:47Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-16T04:36:42Z"
+    "fetchedAt": "2026-08-16T05:28:51Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-16T04:36:45Z"
+    "fetchedAt": "2026-08-16T05:28:54Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ODuCLG__fhI",
-    "url": "https://www.youtube.com/watch?v=ODuCLG__fhI",
+    "videoId": "UiqWTzvNrGg",
+    "url": "https://www.youtube.com/watch?v=UiqWTzvNrGg",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-16T04:36:49Z"
+    "fetchedAt": "2026-08-16T05:28:58Z"
   }
 ]
