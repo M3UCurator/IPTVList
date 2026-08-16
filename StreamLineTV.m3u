@@ -548,4 +548,9 @@ http://edge02.cdn.bitflip.ee:8888/cafe
 http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3
 #EXTINF:-1 tvg-chno="812" tvg-logo="" group-title="Radio",Smooth Jazz CD101.9 New York
 http://hestia2.cdnstream.com/1277_192
-
+#EXTINF:-1, Dazn 1
+https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
+#EXTINF:-1, Dazn 2
+https://7nyaler.streamhostingcdn.top/stream/3/index.m3u8
+#EXTINF:-1, Dazn 3
+https://1nyaler.streamhostingcdn.top/stream/9/index.m3u8
