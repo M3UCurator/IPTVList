@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-18T08:37:30Z"
+    "fetchedAt": "2026-08-18T09:34:06Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-18T08:37:33Z"
+    "fetchedAt": "2026-08-18T09:34:09Z"
   },
   {
     "name": "Newsroom Africa",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "oo9eq0UoaDw",
-    "url": "https://www.youtube.com/watch?v=oo9eq0UoaDw",
+    "videoId": "MDPIMSbS1Zs",
+    "url": "https://www.youtube.com/watch?v=MDPIMSbS1Zs",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-18T08:37:37Z"
+    "fetchedAt": "2026-08-18T09:34:13Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-18T08:37:40Z"
+    "fetchedAt": "2026-08-18T09:34:16Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-18T08:37:44Z"
+    "fetchedAt": "2026-08-18T09:34:20Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-18T08:37:47Z"
+    "fetchedAt": "2026-08-18T09:34:23Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "j4tu2Pnk6og",
-    "url": "https://www.youtube.com/watch?v=j4tu2Pnk6og",
+    "videoId": "J6j6MOJ-Ufk",
+    "url": "https://www.youtube.com/watch?v=J6j6MOJ-Ufk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-18T08:37:51Z"
+    "fetchedAt": "2026-08-18T09:34:27Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "szJvkpYt4vg",
-    "url": "https://www.youtube.com/watch?v=szJvkpYt4vg",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "hT2uznDztg0",
+    "url": "https://www.youtube.com/watch?v=hT2uznDztg0",
+    "title": "Tupac murder trial | Day two live from Las Vegas court",
+    "thumbnail": "https://i.ytimg.com/vi/hT2uznDztg0/maxresdefault.jpg?v=6a841f1e",
+    "startedAt": "2026-08-18T16:30:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-18T08:37:54Z"
+    "fetchedAt": "2026-08-18T09:34:30Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-18T08:37:58Z"
+    "fetchedAt": "2026-08-18T09:34:34Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "iOwJ1rCTjlk",
-    "url": "https://www.youtube.com/watch?v=iOwJ1rCTjlk",
+    "videoId": "2cOAWaMPSmY",
+    "url": "https://www.youtube.com/watch?v=2cOAWaMPSmY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-18T08:38:01Z"
+    "fetchedAt": "2026-08-18T09:34:38Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-18T08:38:05Z"
+    "fetchedAt": "2026-08-18T09:34:41Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "_fJRz45WSXg",
-    "url": "https://www.youtube.com/watch?v=_fJRz45WSXg",
+    "videoId": "xSiJjk67EcA",
+    "url": "https://www.youtube.com/watch?v=xSiJjk67EcA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-18T08:38:09Z"
+    "fetchedAt": "2026-08-18T09:34:45Z"
   }
 ]
