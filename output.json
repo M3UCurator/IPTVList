@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "mVKVLY64ldA",
-    "url": "https://www.youtube.com/watch?v=mVKVLY64ldA",
+    "videoId": "1xNarRaL3OE",
+    "url": "https://www.youtube.com/watch?v=1xNarRaL3OE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-19T02:39:25Z"
+    "fetchedAt": "2026-08-19T03:46:39Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-19T02:39:28Z"
+    "fetchedAt": "2026-08-19T03:46:42Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-19T02:39:32Z"
+    "fetchedAt": "2026-08-19T03:46:46Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-19T02:39:36Z"
+    "fetchedAt": "2026-08-19T03:46:50Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "LAxAONQcE7I",
-    "url": "https://www.youtube.com/watch?v=LAxAONQcE7I",
-    "title": "Tariff reality check: what you need to know",
-    "thumbnail": "https://i.ytimg.com/vi/LAxAONQcE7I/maxresdefault.jpg?v=6a848110",
-    "startedAt": "2026-08-19T14:00:00+00:00",
+    "videoId": "FG5pkuzKcyw",
+    "url": "https://www.youtube.com/watch?v=FG5pkuzKcyw",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-19T02:39:39Z"
+    "fetchedAt": "2026-08-19T03:46:54Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "kiu5eLuVxTY",
-    "url": "https://www.youtube.com/watch?v=kiu5eLuVxTY",
+    "videoId": "YwVZltaMJPA",
+    "url": "https://www.youtube.com/watch?v=YwVZltaMJPA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-19T02:39:43Z"
+    "fetchedAt": "2026-08-19T03:46:58Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "UfTc7HsWta0",
-    "url": "https://www.youtube.com/watch?v=UfTc7HsWta0",
+    "videoId": "YnMsFFnpKoQ",
+    "url": "https://www.youtube.com/watch?v=YnMsFFnpKoQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-19T02:39:47Z"
+    "fetchedAt": "2026-08-19T03:47:02Z"
   },
   {
     "name": "Sky News",
@@ -109,7 +109,7 @@
     "thumbnail": "https://i.ytimg.com/vi/7tOgLc_7AdI/maxresdefault.jpg?v=6a846a2b",
     "startedAt": "2026-08-19T05:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-19T02:39:50Z"
+    "fetchedAt": "2026-08-19T03:47:06Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-19T02:39:54Z"
+    "fetchedAt": "2026-08-19T03:47:09Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-19T02:39:57Z"
+    "fetchedAt": "2026-08-19T03:47:13Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-19T02:40:01Z"
+    "fetchedAt": "2026-08-19T03:47:17Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "CW2gFPYBpII",
-    "url": "https://www.youtube.com/watch?v=CW2gFPYBpII",
+    "videoId": "wJTzKQvIih4",
+    "url": "https://www.youtube.com/watch?v=wJTzKQvIih4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-19T02:40:05Z"
+    "fetchedAt": "2026-08-19T03:47:21Z"
   }
 ]
