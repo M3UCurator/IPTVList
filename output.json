@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-20T04:36:57Z"
+    "fetchedAt": "2026-08-20T05:31:14Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "z7q1jTq55Jo",
-    "url": "https://www.youtube.com/watch?v=z7q1jTq55Jo",
+    "videoId": "wcFjo3bUbt8",
+    "url": "https://www.youtube.com/watch?v=wcFjo3bUbt8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-20T04:37:01Z"
+    "fetchedAt": "2026-08-20T05:31:18Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-20T04:37:04Z"
+    "fetchedAt": "2026-08-20T05:31:22Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "41M4w_NO3LY",
-    "url": "https://www.youtube.com/watch?v=41M4w_NO3LY",
+    "videoId": "9gTFrOgxrFE",
+    "url": "https://www.youtube.com/watch?v=9gTFrOgxrFE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-20T04:37:08Z"
+    "fetchedAt": "2026-08-20T05:31:25Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-20T04:37:12Z"
+    "fetchedAt": "2026-08-20T05:31:29Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "udtH9xcedT0",
-    "url": "https://www.youtube.com/watch?v=udtH9xcedT0",
+    "videoId": "I_GFUT-l-rc",
+    "url": "https://www.youtube.com/watch?v=I_GFUT-l-rc",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-20T04:37:16Z"
+    "fetchedAt": "2026-08-20T05:31:33Z"
   },
   {
     "name": "DW News",
@@ -95,7 +95,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-20T04:37:19Z"
+    "fetchedAt": "2026-08-20T05:31:36Z"
   },
   {
     "name": "Sky News",
@@ -105,11 +105,11 @@
     "live": true,
     "videoId": "nNICMnR0qUU",
     "url": "https://www.youtube.com/watch?v=nNICMnR0qUU",
-    "title": "Harry and Meghan to move back to UK this month | Mornings",
-    "thumbnail": "https://i.ytimg.com/vi/nNICMnR0qUU/maxresdefault.jpg?v=6a8680b4",
-    "startedAt": "2026-08-20T05:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-20T04:37:24Z"
+    "fetchedAt": "2026-08-20T05:31:40Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-20T04:37:28Z"
+    "fetchedAt": "2026-08-20T05:31:44Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "iiVnePth1G0",
-    "url": "https://www.youtube.com/watch?v=iiVnePth1G0",
+    "videoId": "XLawncfQPjU",
+    "url": "https://www.youtube.com/watch?v=XLawncfQPjU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-20T04:37:31Z"
+    "fetchedAt": "2026-08-20T05:31:48Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-20T04:37:35Z"
+    "fetchedAt": "2026-08-20T05:31:52Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-20T04:37:39Z"
+    "fetchedAt": "2026-08-20T05:31:56Z"
   }
 ]
