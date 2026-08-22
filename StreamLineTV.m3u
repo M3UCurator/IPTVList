@@ -119,8 +119,10 @@ http://xown.site/token/stream.php?id=1104678&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwG
 #EXTINF:-1 tvg-chno="036" tvg-id="BET.HD.us2" group-title="USTV" ,CW
 http://40.160.24.52/CW/index.m3u8
 
-#EXTINF:-1 tvg-chno="037" group-title="USTV" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA Network
+#EXTINF:-1 tvg-chno="037" group-title="USTV" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA Network [1]
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31124/index.m3u8
+#EXTINF:-1 tvg-chno="" group-title="USTV" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA Network [2]
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="038" group-title="USTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" , BounceXL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
@@ -291,6 +293,9 @@ https://cdn.telecloud.tv/CH3223/index.m3u8
 #EXTINF:-1 tvg-chno="084" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports", FS1 (1080)
 http://41.223.30.230/FOXSPORTS1/index.m3u8
 
+#EXTINF:-1 group-title="USTV", Fox Sports 1 
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
 #EXTINF:-1 group-title="USTV" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-chno="" tvg-shift="", FOX
 http://84.17.50.102/fox/index.m3u8
 
@@ -303,7 +308,7 @@ https://cdn.telecloud.tv/CH3257/index.m3u8
 #EXTINF:-1 group-title="USTV", ESPN2 HD
 https://restream-live.realiptv.to/Marky0416/2c1744538b/2581
 
-#EXTINF:-1 group-title="USTV", CBS Sports Network
+#EXTINF:-1 group-title="USTV" tvg-logo="https://i.imgur.com/q8BENJg.png" , CBS Sports Network
 https://restream-live.realiptv.to/Marky0416/2c1744538b/3712
 
 #EXTINF:-1 group-title="USTV", FOX 13 Salt Lake City UT
@@ -453,7 +458,8 @@ https://dq2a9ghraf7sw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports 
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="038" tvg-id=""  group-title="Sports"  tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png" , RallyTV
