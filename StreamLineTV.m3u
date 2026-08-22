@@ -293,7 +293,8 @@ https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRn
 
 
 #EXTINF:-1 tvg-chno="081" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Sports", Bein Xtra (720)
-https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
+#https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-chno="082" tvg-id="" group-title="Sports" tvg-logo="https://i.imgur.com/xA0l7DP.png", FOX Sports (720)
 #https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
