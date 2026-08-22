@@ -77,7 +77,14 @@ http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19054/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="UKTV", SS Football
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KD6YT2WWZRCKHB/9289/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" group-title="UKTV" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Football.png?raw=true",SS Football UK
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2188
+#EXTINF:-1 tvg-id="" group-title="UKTV" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Premier%20League.png?raw=true",SS PL UK 
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2182
+#EXTINF:-1 tvg-id="" ggroup-title="UKTV" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Darts%20HD.png?raw=true",SS F1 UK
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1527633&extension=ts
+#EXTINF:-1 tvg-id="" group-title="UKTV" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Main%20Event.png?raw=true",SS Main Event UK 
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
 
 
 
