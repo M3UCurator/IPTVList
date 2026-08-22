@@ -86,6 +86,8 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1527633&exten
 #EXTINF:-1 tvg-id="" group-title="UKTV" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Main%20Event.png?raw=true",SS Main Event UK 
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="UKTV",SS Main Event HD 
+https://xemzi.short.gy/2000001
 
 
 #EXTINF:-1 group-title="UKTV" tvg-id="BBC1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/500px-BBC_One_logo_2021.svg.png" ,🇬🇧 BBC One
@@ -317,7 +319,10 @@ https://restream-live.realiptv.to/Marky0416/2c1744538b/2581
 
 #EXTINF:-1 group-title="USTV" tvg-logo="https://i.imgur.com/q8BENJg.png" , CBS Sports Network
 https://restream-live.realiptv.to/Marky0416/2c1744538b/3712
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bhxPddO.png" group-title="Sports",Hub Sports 1 
+https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV
+https://cdn1.ayitistream.com/NBATV/index.m3u8
 #EXTINF:-1 group-title="USTV", FOX 13 Salt Lake City UT
 https://i1.ut770.freelocaltv.org/hls/kstu-13_hls/kstu-13_master.m3u8
 
