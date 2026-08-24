@@ -1,7 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="SABC Digital News" group-title="News",SABC Digital News
-https://www.youtube.com/watch?v=fCgFqsU79_A
+https://www.youtube.com/watch?v=FtWvvi1Ktsc
+
+#EXTINF:-1 tvg-name="Newslive SA" group-title="News",Newslive SA
+https://www.youtube.com/watch?v=ZWb9jKWQFpo
 
 #EXTINF:-1 tvg-name="Newsroom Africa" group-title="News",Newsroom Africa
 https://www.youtube.com/watch?v=fCgFqsU79_A
@@ -22,10 +25,10 @@ https://www.youtube.com/watch?v=cV6uyuTWMaA
 https://www.youtube.com/watch?v=mOKQb-lzBXg
 
 #EXTINF:-1 tvg-name="France 24 English" group-title="News",France 24 English
-https://www.youtube.com/watch?v=bEMDSEuPOv0
+https://www.youtube.com/watch?v=vgKpHOS4PnI
 
 #EXTINF:-1 tvg-name="Reuters" group-title="News",Reuters
-https://www.youtube.com/watch?v=HIj8wU_rGIU
+https://www.youtube.com/watch?v=kh-IIOUhPkc
 
 #EXTINF:-1 tvg-name="The New York Times" group-title="News",The New York Times
 https://www.youtube.com/watch?v=GPPNy_Zz4KU
