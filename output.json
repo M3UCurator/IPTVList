@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-25T13:50:55Z"
+    "fetchedAt": "2026-08-25T14:45:17Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-25T13:50:59Z"
+    "fetchedAt": "2026-08-25T14:45:21Z"
   },
   {
     "name": "Newsroom Africa",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "EE1zTy5M2so",
-    "url": "https://www.youtube.com/watch?v=EE1zTy5M2so",
+    "videoId": "oo9eq0UoaDw",
+    "url": "https://www.youtube.com/watch?v=oo9eq0UoaDw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-25T13:51:02Z"
+    "fetchedAt": "2026-08-25T14:45:25Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-25T13:51:06Z"
+    "fetchedAt": "2026-08-25T14:45:29Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-25T13:51:10Z"
+    "fetchedAt": "2026-08-25T14:45:33Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-25T13:51:14Z"
+    "fetchedAt": "2026-08-25T14:45:37Z"
   },
   {
     "name": "DW News",
@@ -95,7 +95,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-25T13:51:17Z"
+    "fetchedAt": "2026-08-25T14:45:42Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "HK01cP9LmG4",
-    "url": "https://www.youtube.com/watch?v=HK01cP9LmG4",
-    "title": "Michael Clarke live Q&A | Wednesday 26 August 2026",
-    "thumbnail": "https://i.ytimg.com/vi/HK01cP9LmG4/maxresdefault.jpg?v=6a8d96fc",
-    "startedAt": "2026-08-26T13:00:00+00:00",
+    "videoId": "h6Z8aIW92Vg",
+    "url": "https://www.youtube.com/watch?v=h6Z8aIW92Vg",
+    "title": "Canada makes announcement on measures to hit back at Donald Trump tariffs",
+    "thumbnail": "https://i.ytimg.com/vi/h6Z8aIW92Vg/maxresdefault.jpg?v=6a8da8b2",
+    "startedAt": "2026-08-25T15:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-25T13:51:21Z"
+    "fetchedAt": "2026-08-25T14:45:46Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-25T13:51:25Z"
+    "fetchedAt": "2026-08-25T14:45:50Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "aT4H8LVpPuQ",
-    "url": "https://www.youtube.com/watch?v=aT4H8LVpPuQ",
+    "videoId": "nYHfahBEDTM",
+    "url": "https://www.youtube.com/watch?v=nYHfahBEDTM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-25T13:51:29Z"
+    "fetchedAt": "2026-08-25T14:45:54Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-25T13:51:33Z"
+    "fetchedAt": "2026-08-25T14:45:58Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "cTLQytwj1PY",
-    "url": "https://www.youtube.com/watch?v=cTLQytwj1PY",
+    "videoId": "JgcJm7lcX5o",
+    "url": "https://www.youtube.com/watch?v=JgcJm7lcX5o",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-25T13:51:36Z"
+    "fetchedAt": "2026-08-25T14:46:02Z"
   }
 ]
