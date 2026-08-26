@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "mVKVLY64ldA",
-    "url": "https://www.youtube.com/watch?v=mVKVLY64ldA",
+    "videoId": "SHm91eQixkE",
+    "url": "https://www.youtube.com/watch?v=SHm91eQixkE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-26T16:00:01Z"
+    "fetchedAt": "2026-08-26T16:54:28Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-26T16:00:05Z"
+    "fetchedAt": "2026-08-26T16:54:32Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-26T16:00:09Z"
+    "fetchedAt": "2026-08-26T16:54:35Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-26T16:00:13Z"
+    "fetchedAt": "2026-08-26T16:54:39Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-26T16:00:17Z"
+    "fetchedAt": "2026-08-26T16:54:43Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-26T16:00:21Z"
+    "fetchedAt": "2026-08-26T16:54:47Z"
   },
   {
     "name": "DW News",
@@ -95,7 +95,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-26T16:00:25Z"
+    "fetchedAt": "2026-08-26T16:54:51Z"
   },
   {
     "name": "Sky News",
@@ -107,9 +107,9 @@
     "url": "https://www.youtube.com/watch?v=rPM5lIbnJpk",
     "title": "Day eight | Tupac murder trial live from Las Vegas court",
     "thumbnail": "https://i.ytimg.com/vi/rPM5lIbnJpk/maxresdefault.jpg?v=6a8e0b0e",
-    "startedAt": null,
+    "startedAt": "2026-08-26T20:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-26T16:00:29Z"
+    "fetchedAt": "2026-08-26T16:54:55Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "bdpDkklcPxo",
-    "url": "https://www.youtube.com/watch?v=bdpDkklcPxo",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "qtkMgfR8oFY",
+    "url": "https://www.youtube.com/watch?v=qtkMgfR8oFY",
+    "title": "Deborah Lukumuena, une actrice engagée au jury d’Angoulême • FRANCE 24",
+    "thumbnail": "https://i.ytimg.com/vi/qtkMgfR8oFY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVChNMA8=&rs=AOn4CLDGhX0XGhmu6SrPRm2pdKpFmjuj6Q",
+    "startedAt": "2026-08-27T11:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-08-26T16:00:33Z"
+    "fetchedAt": "2026-08-26T16:54:59Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "mO-daqt2vD0",
-    "url": "https://www.youtube.com/watch?v=mO-daqt2vD0",
+    "videoId": "dT9r3dEUwYY",
+    "url": "https://www.youtube.com/watch?v=dT9r3dEUwYY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-26T16:00:37Z"
+    "fetchedAt": "2026-08-26T16:55:02Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-26T16:00:41Z"
+    "fetchedAt": "2026-08-26T16:55:06Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "r9xpTLDf14A",
-    "url": "https://www.youtube.com/watch?v=r9xpTLDf14A",
+    "videoId": "RkQ45JinSlU",
+    "url": "https://www.youtube.com/watch?v=RkQ45JinSlU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-08-26T16:00:45Z"
+    "fetchedAt": "2026-08-26T16:55:10Z"
   }
 ]
