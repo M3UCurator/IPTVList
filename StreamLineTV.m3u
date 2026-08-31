@@ -25,5 +25,129 @@ https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b200000
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 
 
+#EXTINF:-1, Trace Africa English
+https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
+
+#EXTINF:-1, Trace Africa FR
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+
+
+#EXTINF:-1, Trace Urban Int
+https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
+
+
+#EXTINF:-1, Trace Urban Southern Africa
+https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+
+
+#EXTINF:-1 , NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
+
+#EXTINF:-1 , NBC Universal
+http://187.102.210.46/universo/index.m3u8
+
+#EXTINF:-1 ,  MSG Sportszone
+https://wurlrainbowmedia.global.transmit.live/hls/68c4987e18e2a74e37774fb6/v1/amc_msgsportszone_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 , Tennis Channel
+https://jmp2.uk/stvp-ATBA2200008XN
+
+#EXTINF:-1 , Sportdigital
+https://jmp2.uk/stvp-ATAJ0500433A
+
+8#EXTINF:-1 , L`Equipe
+https://jmp2.uk/stvp-FR200016Y5
+
+
+#EXTINF:-1 , Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:-1 , ESPNU
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
+#EXTINF:-1 , beinextra
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 , Fubo Sports
+https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 , World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 , FS2
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
+
+
+#EXTINF:-1 , N Sports
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+
+
+#EXTINF:-1 ,PGA Tour
+https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+
+
+#EXTINF:-1 ,sky news
+https://xemzi.short.gy/1000018
+
+
+#EXTINF:-1 ,sky f1
+https://xemzi.short.gy/2000005
+
+
+#EXTINF:-1 ,SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+
+
+#EXTINF:-1 , ESPN
+https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102528&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d701f3665e12964090ddd656a9a89c29
+
+#EXTINF:-1 , ESPN [2]
+https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102653&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=fbc560646ea38d9fce118fcd264926c5
+
+#EXTINF:-1 ,Bein Sports
+https://tvsen6.aynaott.com/beinsports/index.m3u8?e=1784102515&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=67d5960a5b93b5cfcf562312b4627330
+
+
+#EXTINF:-1 , USA Network
+https://tvsen6.aynaott.com/usa/index.m3u8?e=1784102617&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3859c38f5a35c0c3d95b5244f5e393d4
+
 #EXTINF:-1 , NBATV
 https://cdn1.ayitistream.com/NBATV/index.m3u8
+
+#EXTINF:-1 , T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 , A Sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9
+
+#EXTINF:-1 , A Sports [2]
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102655&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=833b5dd42540ad3eaf690e4b371d5fec
+
+#EXTINF:-1 , Willow Sports
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+
+#EXTINF:-1 , Sportivnyy (1080p)
+https://live-3.otcnet.ru/sportivny/index.m3u8
+
+#EXTINF:-1 , AYM Sports
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:-1 , TRT Spor
+https://corestream.siteyaptim.live/trt-spor/index.m3u8
+
+#EXTINF:-1 , A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 , HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+
+#EXTINF:-1 , S Sport 1
+https://corestream.siteyaptim.live/s-sport/index.m3u8
+
+#EXTINF:-1 , S Sport 2
+https://corestream.siteyaptim.live/s-sport2/index.m3u8
+
+#EXTINF:-1 , Ekol Sports
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
