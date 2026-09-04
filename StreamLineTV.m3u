@@ -24,17 +24,14 @@ https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b200000
 #EXTINF:-1 tvg-chno="007" tvg-id="24.7.Dummy.us" group-title="ZATV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" , Mindset Learn (576)
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 
-
 #EXTINF:-1, Trace Africa English
 https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
 
 #EXTINF:-1, Trace Africa FR
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 
-
 #EXTINF:-1, Trace Urban Int
 https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
-
 
 #EXTINF:-1, Trace Urban Southern Africa
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
@@ -56,8 +53,23 @@ https://jmp2.uk/stvp-ATBA2200008XN
 #EXTINF:-1 , Sportdigital
 https://jmp2.uk/stvp-ATAJ0500433A
 
-8#EXTINF:-1 , L`Equipe
+#EXTINF:-1 , L`Equipe
 https://jmp2.uk/stvp-FR200016Y5
+
+#EXTINF:-1 , NBA TV
+https://cdn1.ayitistream.com/NBATV/index.m3u8
+
+#EXTINF:-1 , PRIME
+https://mn-nl.mncdn.com/primetv/live/chunklist.m3u8
+
+#EXTINF:-1 ,Willow 540p
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+
+#EXTINF:-1 , Willow
+https://tjktv-live.tjk.org/tjktv_720p.m3u8
+
+#EXTINF:-1 , CBS
+http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 
 
 #EXTINF:-1 , Golf Channel
