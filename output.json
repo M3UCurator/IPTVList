@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-04T16:45:58Z"
+    "fetchedAt": "2026-09-04T19:19:20Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-04T16:46:02Z"
+    "fetchedAt": "2026-09-04T19:19:24Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-04T16:46:05Z"
+    "fetchedAt": "2026-09-04T19:19:27Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-04T16:46:10Z"
+    "fetchedAt": "2026-09-04T19:19:31Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-04T16:46:14Z"
+    "fetchedAt": "2026-09-04T19:19:35Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "R7vG1XQK4Hw",
-    "url": "https://www.youtube.com/watch?v=R7vG1XQK4Hw",
+    "videoId": "PUOKAD1Xt3I",
+    "url": "https://www.youtube.com/watch?v=PUOKAD1Xt3I",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-04T16:46:18Z"
+    "fetchedAt": "2026-09-04T19:19:39Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "od3y8JcIEA0",
-    "url": "https://www.youtube.com/watch?v=od3y8JcIEA0",
+    "videoId": "mMh4xCMEWMI",
+    "url": "https://www.youtube.com/watch?v=mMh4xCMEWMI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-04T16:46:22Z"
+    "fetchedAt": "2026-09-04T19:19:43Z"
   },
   {
     "name": "Sky News",
@@ -109,7 +109,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-04T16:46:26Z"
+    "fetchedAt": "2026-09-04T19:19:47Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "YyT5SB1PoAk",
-    "url": "https://www.youtube.com/watch?v=YyT5SB1PoAk",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "NPJm-uE00_c",
+    "url": "https://www.youtube.com/watch?v=NPJm-uE00_c",
+    "title": "Corinne Lepage, une vie consacrée à la défense de l’environnement • FRANCE 24",
+    "thumbnail": "https://i.ytimg.com/vi/NPJm-uE00_c/hqdefault.jpg",
+    "startedAt": "2026-09-05T10:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-09-04T16:46:30Z"
+    "fetchedAt": "2026-09-04T19:19:51Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-04T16:46:33Z"
+    "fetchedAt": "2026-09-04T19:19:55Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "CthRldjf3n8",
-    "url": "https://www.youtube.com/watch?v=CthRldjf3n8",
+    "videoId": "QX2fq6RsibQ",
+    "url": "https://www.youtube.com/watch?v=QX2fq6RsibQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-04T16:46:37Z"
+    "fetchedAt": "2026-09-04T19:19:59Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "rj_25GbRjho",
-    "url": "https://www.youtube.com/watch?v=rj_25GbRjho",
+    "videoId": "kJHKASsza2E",
+    "url": "https://www.youtube.com/watch?v=kJHKASsza2E",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-04T16:46:41Z"
+    "fetchedAt": "2026-09-04T19:20:03Z"
   }
 ]
