@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-10T10:48:01Z"
+    "fetchedAt": "2026-09-10T14:53:29Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-10T10:48:04Z"
+    "fetchedAt": "2026-09-10T14:53:33Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-10T10:48:08Z"
+    "fetchedAt": "2026-09-10T14:53:36Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "uorO4kbkCtk",
-    "url": "https://www.youtube.com/watch?v=uorO4kbkCtk",
+    "videoId": "HGRNZwbzktQ",
+    "url": "https://www.youtube.com/watch?v=HGRNZwbzktQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-10T10:48:11Z"
+    "fetchedAt": "2026-09-10T14:53:39Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "i30jVPqQeOM",
-    "url": "https://www.youtube.com/watch?v=i30jVPqQeOM",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "wcZKQ2owjDA",
+    "url": "https://www.youtube.com/watch?v=wcZKQ2owjDA",
+    "title": "Live: SpaceX launches secret mission for US Space Force",
+    "thumbnail": "https://i.ytimg.com/vi/wcZKQ2owjDA/maxresdefault.jpg?v=6aa2b45d",
+    "startedAt": "2026-09-10T15:30:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-09-10T10:48:15Z"
+    "fetchedAt": "2026-09-10T14:53:43Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "_Q41vVWRRhY",
-    "url": "https://www.youtube.com/watch?v=_Q41vVWRRhY",
+    "videoId": "07FuXHqg098",
+    "url": "https://www.youtube.com/watch?v=07FuXHqg098",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-10T10:48:18Z"
+    "fetchedAt": "2026-09-10T14:53:47Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "U0TEWTJy0O0",
-    "url": "https://www.youtube.com/watch?v=U0TEWTJy0O0",
+    "videoId": "a3NUYQabGrM",
+    "url": "https://www.youtube.com/watch?v=a3NUYQabGrM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-10T10:48:22Z"
+    "fetchedAt": "2026-09-10T14:53:51Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "VtyvfRcqIyQ",
-    "url": "https://www.youtube.com/watch?v=VtyvfRcqIyQ",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "ppo40-VN0pI",
+    "url": "https://www.youtube.com/watch?v=ppo40-VN0pI",
+    "title": "Morning with Ridge and Frost | Friday 11 September",
+    "thumbnail": "https://i.ytimg.com/vi/ppo40-VN0pI/hqdefault.jpg?v=6aa2bcf6",
+    "startedAt": "2026-09-11T05:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-09-10T10:48:25Z"
+    "fetchedAt": "2026-09-10T14:53:55Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "RxF_f_Etg0c",
-    "url": "https://www.youtube.com/watch?v=RxF_f_Etg0c",
+    "videoId": "koo4375Cqpw",
+    "url": "https://www.youtube.com/watch?v=koo4375Cqpw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-10T10:48:29Z"
+    "fetchedAt": "2026-09-10T14:53:58Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "CxThIpAm6RM",
-    "url": "https://www.youtube.com/watch?v=CxThIpAm6RM",
-    "title": null,
-    "thumbnail": null,
+    "videoId": "jp2Y4KYP6lA",
+    "url": "https://www.youtube.com/watch?v=jp2Y4KYP6lA",
+    "title": "LIVE: UK defense minister Streeting speaks on Russia and Ukraine",
+    "thumbnail": "https://i.ytimg.com/vi/jp2Y4KYP6lA/maxresdefault.jpg",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-10T10:48:33Z"
+    "fetchedAt": "2026-09-10T14:54:02Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-10T10:48:36Z"
+    "fetchedAt": "2026-09-10T14:54:06Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ZdUl_72aPhQ",
-    "url": "https://www.youtube.com/watch?v=ZdUl_72aPhQ",
+    "videoId": "wNaca8llujQ",
+    "url": "https://www.youtube.com/watch?v=wNaca8llujQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-10T10:48:40Z"
+    "fetchedAt": "2026-09-10T14:54:09Z"
   }
 ]
