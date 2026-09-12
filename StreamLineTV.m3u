@@ -386,6 +386,18 @@ https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Tous",NBCU Telemundo West (1080p)
 https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="010" tvg-id="" tvg-name="" tvg-logo="" group-title="TV" tvg-logo="https://i.imgur.com/ACEbGD5.png", Localish (720)
+https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index_1.m3u8
+#EXTINF:-1 tvg-chno="011" group-title="TV" tvg-id="" tvg-name="" tvg-logo="",CW Forever (720)
+https://d1sknsnbkyvie.cloudfront.net/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-chno="012" group-title="TV" tvg-id="" tvg-name="" tvg-logo="",CW Gold(720)
+https://d1d726ny1vain2.cloudfront.net/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-chno="013" group-title="TV" tvg-id="" tvg-name="" tvg-logo="", Britbox Mystries (720)
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-chno="014" group-title="TV" tvg-id="" tvg-name="" tvg-logo="", Reelz Famous & Infamous
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-chno="015" tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="TV", NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
 
 #EXTINF:-1 tvg-chno="039" tvg-id="BET.HD.us2" group-title="USTV" , BET (720p)
 http://40.160.24.52/BET_EAST/index.m3u8
@@ -442,6 +454,39 @@ https://amg00488-foxdigital-fox11losangeleskttv-vizious-a7b8z.amagi.tv/ts-us-w2-
 
 #EXTINF:-1 tvg-chno="073" group-title="USTV" tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png", Fox 4
 https://amg00488-foxdigital-fox4dallaskdfw-vizious-g5zvc.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-fox4dallaskdfw-vizious/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725bdb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a8af1c56953145f596439c811fbe80d55e83458222a3099c93a68ace41858ec07ea906b76c5b0b752e9dd52acbfbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2989a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbba920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3815bf75a8370845dfa86e69e0dcd67348e2e4754d85baf79ae0/75/1920x1080_5701132/index.m3u8
+
+
+#EXTINF:-1 tvg-id="WTXFTV291.us@HD" tvg-logo="https://i.imgur.com/fRjmk5r.png" ,WTXF-DT1 (720p)
+https://amg00488-foxdigital-fox29philadelphiawtx-vizious-x0v1b.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-fox29philadelphiawtx-vizious/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725bdb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a8af1c56953145f59642cf8049bd85dd5b8345807ff1099c93a68ace188582c57ea102b6360d08742bca847c96fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2989a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbba920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3913bbc629844d4bbf7ffac854529311e1b2a2dda63e5dfef5af88/113/1280x720_3000140/index.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="", FOX LA2
+https://amg00488-foxdigital-fox11losangeleskttv-vizious-a7b8z.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-fox11losangeleskttv-vizious/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725bdb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a8af1c56953145f596419ad21cb38885598345807ff1099c93a68ace1985d0917eab02e630595a732d9cd82e95fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2989a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbba920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3811ba75a8085551dfa8e730e1552c4776dd2774b77244c4c2c8/30/1280x720_3000140/index.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="", Fox 4
+https://amg00488-foxdigital-fox4dallaskdfw-vizious-g5zvc.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-fox4dallaskdfw-vizious/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725bdb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a8af1c56953145f596439c811fbe80d55e83458222a3099c93a68ace41858ec07ea906b76c5b0b752e9dd52acbfbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2989a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbba920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3815bf75a8370845dfa86e69e0dcd67348e2e4754d85baf79ae0/75/1920x1080_5701132/index.m3u8
+
+#EXTINF:-1 tvg-chno="019" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true",NBC (720)
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
+
+#EXTINF:-1 tvg-chno="020" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://iptvboss.xyz/logos/USA/CBSNews.us.png",CBS News (720)
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_23.m3u8
+
+#EXTINF:-1 tvg-chno="021" group-title="TV" tvg-id="" tvg-name="",Curiosity Now (720)
+https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f596419bd749b3d5870e83458677f4099c93a68ace198a8fc77ea802b5670c5e2779cd847896fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3810bd75a8311465dfa8ae1e07dd94a0203b334df770fcee5f05/27/1280x720_3329040/index.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="",FOX (720)
+https://amg00488-foxdigital-wfld-lgus-easfb.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wfld-lgus/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f59611cb864defd3d75a83458723a2099c93a68ace41d1d3c37ea151e0660d087525c9d47bc3fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3817b975a8486272dfa89a9ea4725d708d22c033a965018fc73f/53/1280x720_3000140/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="022" group-title="TV" tvg-id="" tvg-name="",FOX 13 (720)
+https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index_1.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="",FOX 7 (720)
+https://amg00488-foxdigital-ktbc-lgus-zwsvj.amagi.tv/ts-us-w2-n1/playlist/amg00488-foxdigital-ktbc-lgus/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f596109cdc15eed3d75c83458723a3099c93a68ace198680967ea955e7665c0a727998d220c0fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3913b8c1298461789c7ffafcc320feb5426b4b73dbbd9737778122/124/1280x720_3000140/index.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",FOX 11 (720)
+https://amg00488-foxdigital-fox11losangeleskttv-vizious-a7b8z.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-fox11losangeleskttv-vizious/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f59647ced51fbbd3d65883458674f9099c93a68ace41d086c47eaa06b56c595e712ac98620c5fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3913becd29843d4d887ffab7dc7e8bb481b5748a875b5248be229d/148/1280x720_3000140/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="073 tvg-id="KSAZTV101.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fts-phoenix-a.svg/960px-Fts-phoenix-a.svg.png" group-title="USTV", KSAZ-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
@@ -517,3 +562,89 @@ http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562252
 #EXTINF:-1 tvg-chno="" group-title="Sports" ,SS F1
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4180
 
+#EXTINF:-1 tvg-chno="035" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Sports", Bein Xtra (720)
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
+#EXTINF:-1 tvg-chno="035" tvg-id="" group-title="Sports" tvg-logo="https://i.imgur.com/xA0l7DP.png", FOX Sports (720)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8   
+#EXTINF:-1 tvg-chno="" group-title="Sports",Canal +
+http://151.80.18.177:86/Canal+_sport_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="" group-title="Sports",Arenasport 1 SK
+http://88.212.15.50/live/test_arenasport/playlist.m3u8 
+#EXTINF:-1 tvg-chno="" group-title="Sports",Arenasport 2 SK
+http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8 
+#EXTINF:-1 tvg-chno="" group-title="Sports",Sport1 SK
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8 
+#EXTINF:-1 tvg-chno="" group-title="Sports",Sport2 SK
+http://88.212.15.50/live/test_sport_2/playlist.m3u8 
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://wordpress.tvtelo.cz/wp-content/uploads/2023/09/ct-sport.png" group-title="Sport", CT Sport
+http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://wordpress.tvtelo.cz/wp-content/uploads/2023/09/ct-sport.png" group-title="Sport", CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", CT SPORT HD
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",RTVS :SPORT
+http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="051"  tvg-id="ABCAustralia.au" tvg-name="ABC Australia" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="News", ABC Australia News (720)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+
+#EXTINF:-1 tvg-chno="052" tvg-id="SkyNews.uk" group-title="News" tvg-logo="https://iptvboss.xyz/logos/UK/SkyNews.uk.png", Sky News (720)
+https://d25w9q07b2mtmw.cloudfront.net/live/master_3.m3u8
+http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8 
+
+#EXTINF:-1 group-title="Sport",Eurosport 1
+http://87.246.54.249:8080/Eurosport/index.m3u8
+#EXTINF:-1 group-title="Sport",Eurosport 2
+http://185.102.171.218/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="Sport", EPL Live
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-id="KHLPrime.ru@SD" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="Sports" tvg-id="KHLPrime.ru@SD" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="Sports" ,KHL Prime (1080p)
+http://stream.mcquack.net/178/index.m3u8
+
+EXTINF:-1 tvg-id="DiviSport.ua@SD" tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" group-title="Sports" tvg-id="DiviSport.ua@SD" tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" group-title="Sports" ,DiviSport (1080p)
+http://stream.mcquack.net/457/index.m3u8
+
+#EXTINF:-1 group-title="Sport", Aspor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 tvg-id="KTVSport.kw" tvg-logo="https://seeklogo.com/images/K/ktv-logo-703754480A-seeklogo.com.png" group-title="Sport",KTV Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-logo="https://www.arabtimesonline.com/uploads/imported_images/2023/06/ktv-sports.jpg group-title="Sport", KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport",Max Sport 1
+http://169.150.255.53/MaxSport1HR/index.m3u8
+#EXTINF:-1 group-title="Sport",Max sport 2
+http://169.150.255.53/MaxSport2HR/index.m3u8
+#EXTINF:-1 group-title="Sport",SETENTA 1
+http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS1HD.m3u8
+#EXTINF:-1 group-title="Sport",SETENTA 2
+http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS2HD.m3u8
+CBC Sports
+https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
+
+#EXTINF:-1 group-title="Sport", Sports TV
+https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
+
+#EXTINF:-1 group-title="Sport", Exxen 1
+https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
+
+
+#EXTINF:-1 group-title="Sport", Exxen 2
+https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
+
+#EXTINF:-1 group-title="Sport",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="", BBC Series
+https://jmp2.uk/stvp-AT2100004P1
+#EXTINF:-1 group-title="", BBC Series [2]
+https://jmp2.uk/stvp-CH2100003MU
+
+
+#EXTINF:-1 group-title="Sport",Bein Sports
+https://tvsen6.aynaott.com/beinsports/index.m3u8?e=1784102515&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=67d5960a5b93b5cfcf562312b4627330
