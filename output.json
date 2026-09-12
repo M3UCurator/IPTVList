@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-12T08:25:42Z"
+    "fetchedAt": "2026-09-12T12:18:20Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-12T08:25:46Z"
+    "fetchedAt": "2026-09-12T12:18:23Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-12T08:25:49Z"
+    "fetchedAt": "2026-09-12T12:18:27Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "YmbHsinUM3M",
-    "url": "https://www.youtube.com/watch?v=YmbHsinUM3M",
+    "videoId": "IvpH8pjCRFY",
+    "url": "https://www.youtube.com/watch?v=IvpH8pjCRFY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-12T08:25:53Z"
+    "fetchedAt": "2026-09-12T12:18:30Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-12T08:25:58Z"
+    "fetchedAt": "2026-09-12T12:18:34Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ohhATfhA_iE",
-    "url": "https://www.youtube.com/watch?v=ohhATfhA_iE",
+    "videoId": "GmLhZStedCA",
+    "url": "https://www.youtube.com/watch?v=GmLhZStedCA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-12T08:26:01Z"
+    "fetchedAt": "2026-09-12T12:18:37Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "QBYS9YerWn4",
-    "url": "https://www.youtube.com/watch?v=QBYS9YerWn4",
+    "videoId": "v-k3hTqsSTc",
+    "url": "https://www.youtube.com/watch?v=v-k3hTqsSTc",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-12T08:26:05Z"
+    "fetchedAt": "2026-09-12T12:18:41Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "PVzkOQ5NfRg",
-    "url": "https://www.youtube.com/watch?v=PVzkOQ5NfRg",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "dJ-8VvLBNXo",
+    "url": "https://www.youtube.com/watch?v=dJ-8VvLBNXo",
+    "title": "Sunday Morning | 13 September 2026",
+    "thumbnail": "https://i.ytimg.com/vi/dJ-8VvLBNXo/maxresdefault.jpg?v=6aa3c612",
+    "startedAt": "2026-09-13T07:30:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-09-12T08:26:08Z"
+    "fetchedAt": "2026-09-12T12:18:45Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Wlj0Ca_78Hk",
-    "url": "https://www.youtube.com/watch?v=Wlj0Ca_78Hk",
-    "title": "Ghada Hatem-Gantzer, gynécologue : \"La violence est dans tous les milieux\" • FRANCE 24",
-    "thumbnail": "https://i.ytimg.com/vi/Wlj0Ca_78Hk/maxresdefault.jpg",
-    "startedAt": "2026-09-12T10:00:00+00:00",
+    "videoId": "c5JejLOjuAY",
+    "url": "https://www.youtube.com/watch?v=c5JejLOjuAY",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-12T08:26:12Z"
+    "fetchedAt": "2026-09-12T12:18:48Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-12T08:26:16Z"
+    "fetchedAt": "2026-09-12T12:18:52Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-12T08:26:19Z"
+    "fetchedAt": "2026-09-12T12:18:55Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "6vPZ7W85HfA",
-    "url": "https://www.youtube.com/watch?v=6vPZ7W85HfA",
+    "videoId": "LRlYZBKepyM",
+    "url": "https://www.youtube.com/watch?v=LRlYZBKepyM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-09-12T08:26:23Z"
+    "fetchedAt": "2026-09-12T12:18:59Z"
   }
 ]
