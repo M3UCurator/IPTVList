@@ -505,6 +505,9 @@ http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562255
 #EXTINF:-1 tvg-chno="049" group-title="Sports" ,Supersport 5
 http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562254
 
+#EXTINF:-1 tvg-chno="038" tvg-id="" group-title="Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true",BEIN USA (720)
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
 #EXTINF:-1 tvg-chno="049" group-title="Sports" ,Supersport 6
 http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562253
 
