@@ -610,11 +610,6 @@ http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 group-title="Sport", Aspor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
-#EXTINF:-1 tvg-id="KTVSport.kw" tvg-logo="https://seeklogo.com/images/K/ktv-logo-703754480A-seeklogo.com.png" group-title="Sport",KTV Sport
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-logo="https://www.arabtimesonline.com/uploads/imported_images/2023/06/ktv-sports.jpg group-title="Sport", KTV Sport Plus
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sport",Max Sport 1
 http://169.150.255.53/MaxSport1HR/index.m3u8
@@ -624,6 +619,11 @@ http://169.150.255.53/MaxSport2HR/index.m3u8
 http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS1HD.m3u8
 #EXTINF:-1 group-title="Sport",SETENTA 2
 http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS2HD.m3u8
+
+#EXTINF:-1 group-title="Sports",Setenta Sport 1
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+#EXTINF:-1 group-title="Sports",Setenta Sport 2
+http://cdntv.online/low/9mlxywika2/1022.m3u8
 CBC Sports
 https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 
@@ -633,9 +633,18 @@ https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 #EXTINF:-1 group-title="Sport", Exxen 1
 https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
 
-
 #EXTINF:-1 group-title="Sport", Exxen 2
 https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein1.png",beIN 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein2.png",beIN 2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein3.png",beIN 3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN 4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+
 
 #EXTINF:-1 group-title="Sport",AS3 Sport TV (1080p)
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
@@ -648,3 +657,68 @@ https://jmp2.uk/stvp-CH2100003MU
 
 #EXTINF:-1 group-title="Sport",Bein Sports
 https://tvsen6.aynaott.com/beinsports/index.m3u8?e=1784102515&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=67d5960a5b93b5cfcf562312b4627330
+
+#EXTINF:-1 tvg-chno="030" group-title="USTV" tvg-id="Game.Show.Network.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png", Game Show Network
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="031" group-title="USTV"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true", NBC
+http://4.59.210.197:8815/udp/127.0.0.1:6009
+
+#EXTINF:-1 tvg-chno="032" tvg-id="ABC.us.East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="USTV" , ABC (720p)
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-chno="034" group-title="USTV"  tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" , CBS2
+https://cdn.telecloud.tv/CH3247/index.m3u8
+#EXTINF:-1 group-title="Sports",Fast Sport TV
+https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",QAZSPORT HD
+http://62.32.84.50:18000/play/a06b/index.m3u8
+
+#EXTINF:-1 group-title="Sports",JORDAN Sport
+http://93.184.10.248/JordanSport/index.m3u8
+#EXTINF:-1,Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1,Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 ,Oman Sports
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="Sports",K Sports
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="Sports",K Sports 2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
+
+#EXTINF:-1 tvg-id="CazeTV" tvg-name="CazéTV BR" group-title="Sports",CazéTV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 group-title="Sports", Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass 5
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass 7
+https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass Shoof
+https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass Shoof 2
+https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
+
+
+EXTINF:-1 group-title="Sports" ,1TV GE
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+
+##EXTINF:-1 group-title="Sports",2TV GE
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sport 1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Sport 2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
