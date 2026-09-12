@@ -624,25 +624,25 @@ http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS2HD.m3u8
 http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:-1 group-title="Sports",Setenta Sport 2
 http://cdntv.online/low/9mlxywika2/1022.m3u8
-CBC Sports
+#EXTINF:-1 group-title="Sports", CBC Sports
 https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 
-#EXTINF:-1 group-title="Sport", Sports TV
+#EXTINF:-1 group-title="Sports", Sports TV
 https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 
-#EXTINF:-1 group-title="Sport", Exxen 1
+#EXTINF:-1 group-title="Sports", Exxen 1
 https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
 
-#EXTINF:-1 group-title="Sport", Exxen 2
+#EXTINF:-1 group-title="Sports", Exxen 2
 https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein1.png",beIN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein1.png" group-title="Sports",beIN 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein2.png",beIN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein2.png" group-title="Sports",beIN 2
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein3.png",beIN 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein3.png" group-title="Sports",beIN 3
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN 4
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="Sports",beIN 4
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 
 
@@ -711,10 +711,10 @@ https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 
 
-EXTINF:-1 group-title="Sports" ,1TV GE
+#EXTINF:-1 group-title="Sports" ,1TV GE
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 
-##EXTINF:-1 group-title="Sports",2TV GE
+#EXTINF:-1 group-title="Sports",2TV GE
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sport 1
