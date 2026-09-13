@@ -1,27 +1,27 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://www.open-epg.com/generate/JVDwzRJDcu.xml.gz, https://i.mjh.nz/PlutoTV/all.xml, https://i.mjh.nz/SamsungTVPlus/all.xml" refresh="3600"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/134.0.0.0 
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1 (UHD).s
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1 🇿🇦 (UHD).s
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1 (720).s
+#EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1 🇿🇦 (720).s
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="ZATV", SABC 2 (720).s
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="ZATV", SABC 2 🇿🇦 (720).s
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="002" tvg-id="SABC.2.HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="ZATV", SABC 2 (HD).s
+#EXTINF:-1 tvg-chno="002" tvg-id="SABC.2.HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="ZATV", SABC 2 🇿🇦 (HD).s
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b2500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-chno="003" tvg-id="SABC.3.HD.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="ZATV", SABC 3 (720).s
+#EXTINF:-1 tvg-chno="003" tvg-id="SABC.3.HD.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="ZATV", SABC 3 🇿🇦 (720).s
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News (UHD).s
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News 🇿🇦 (UHD).s
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News (720).s
+#EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC News 🇿🇦 (720).s
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="ZATV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", Lehae (UHD).s
+#EXTINF:-1 tvg-chno="" tvg-id="" group-title="ZATV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", Lehae 🇿🇦 (UHD).s
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-chno="005" tvg-id="SABC.Lehae.za" group-title="ZATV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", Lehae (720).s
+#EXTINF:-1 tvg-chno="005" tvg-id="SABC.Lehae.za" group-title="ZATV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", Lehae 🇿🇦 (720).s
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="006" tvg-id="SABC.Education.za" group-title="ZATV" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/SABC-Education-Logo-Vector.svg-.png" , SABC Education (720).s
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="007" tvg-id="24.7.Dummy.us" group-title="ZATV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" , Mindset Learn (576).s
+#EXTINF:-1 tvg-chno="007" tvg-id="24.7.Dummy.us" group-title="ZATV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" , Mindset Learn 🇿🇦 (576).s
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 #EXTINF:-1 tvg-id="SkyNews.ie@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="News" tvg-id="SkyNews.ie@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="UKTV" ,Sky News HD (1080p)
 https://xemzi.short.gy/1000018
@@ -662,6 +662,8 @@ https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 #EXTINF:-1 group-title="Sports",QAZSPORT HD
 http://62.32.84.50:18000/play/a06b/index.m3u8
+#EXTINF:-1 group-title="Sports",Матч ТВ 🇷🇺 HD
+http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 group-title="Sports",Fast Sport TV
 https://a3285273028-s80718.cdn.ngenix.net/hls/CH_FAST_SPORTSHD/video_1920x1080_avc1/playlist.m3u8
 EXTINF:-1 tvg-id="DiviSport.ua@SD" tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" group-title="Sports" tvg-id="DiviSport.ua@SD" tvg-logo="https://i.logos-download.com/114030/29915-s5120-904df224e4c030fefcc45adda448b6e8.png/DiviSport_Logo_2023-s5120.png" group-title="Sports" ,DiviSport (1080p)
@@ -690,3 +692,6 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 
 #EXTINF:-1 group-title="Sports",TUDN
 http://200.115.96.61:9090/play/a07u/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Start Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
