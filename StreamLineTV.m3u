@@ -67,6 +67,26 @@ https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1 group-title="Music", Trace Urban Southern Africa.s
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+#EXTINF:-1 group-title="Music", Miami Beach TV
+https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
+#EXTINF:-1 group-title="Music", Miami TV Music
+https://59ec5453559f0.streamlock.net/miamitvmusic/smil:22596/playlist.m3u8
+#EXTINF:-1 group-title="Music", Stingray Music:Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music", Stingray Music:Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music", Stingray Music:The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music", Stingray  Holidayscapes
+https://plextv.ott-channels.stingray.com/holidayscapes/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1 group-title="Music", Stingray  Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music", InterTv
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB3200007AK" tvg-name="XITE 90s Throwback" tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png group-title="Music", XITE 90's Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:-1 tvg-logo="https://barazaradio.com/wp-content/uploads/2022/12/logo-300x300.png" group-title="Music", Baraza Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sports", Cricbuzz
@@ -117,12 +137,10 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102528&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d701f3665e12964090ddd656a9a89c29
 #EXTINF:-1 group-title="Sports", ESPN [2]
 https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102653&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=fbc560646ea38d9fce118fcd264926c5
-#EXTINF:-1 group-title="Sports",Bein Sports.s
-https://tvsen6.aynaott.com/beinsports/index.m3u8?e=1784102515&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=67d5960a5b93b5cfcf562312b4627330
+
 #EXTINF:-1 group-title="Sports",SS F1
 https://xemzi.short.gy/2000005
-#EXTINF:-1 group-title="Sports", BeinExtra
-https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports", Fubo Sports
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Sports", World of Freesports (1080p)
@@ -155,9 +173,12 @@ http://vpjertrcww.top:8080/VIP01784172579281697/4867f9719436/373
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/9416579a-7851-4e11-9930-3916076984c2/0.m3u8
 #EXTINF:-1  tvg-name="Bein Sports Xtra" tvg-id="413152" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="Sports" tvg-name="Bein Sports Xtra" tvg-id="413152" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="Sports" ,Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports", BeinExtra
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Bein Sports Extra 2" tvg-name="Bein Sports Extra 2" group-title="Sports" ,Bein Sports Extra 2
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
+#EXTINF:-1 group-title="Sports",Bein Sports.s
+https://tvsen6.aynaott.com/beinsports/index.m3u8?e=1784102515&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=67d5960a5b93b5cfcf562312b4627330
 
 
 #EXTINF:-1 group-title="Sports", Tennis Channel
@@ -173,13 +194,17 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us@SD" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports" tvg-id="FTFSports.us@SD" tvg-logo="https://i.imgur.com/yvUjOI3.png" group-title="Sports" ,FTF Sports (720p)
 https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",FTF Sports
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="Sport",ESPN
+https://xemzi.short.gy/40000011
 
 #EXTINF:-1 group-title="Sports" tvg-id="",EchoSports (720p)
 https://a-cdn.klowdtv.com/live2/echosports_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Sport",Bein Sports
-https://tvsen6.aynaott.com/beinsports/index.m3u8?e=1784102515&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=67d5960a5b93b5cfcf562312b4627330
+
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaRn8jrZJuviL_R18LlX2vVcmugS_nud-tCOHGsa7zzLrrgrAujcovmmI&s=10",CBS Sports
 http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/79740
@@ -516,6 +541,9 @@ https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
 #EXTINF:-1 tvg-chno="035" tvg-id="" group-title="Sports" tvg-logo="https://i.imgur.com/xA0l7DP.png", FOX Sports (720)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8   
 
+#EXTINF:-1 group-title="Sport",SportyTV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
 #EXTINF:-1 tvg-chno="" group-title="Sports",Arenasport 1 SK
 http://88.212.15.50/live/test_arenasport/playlist.m3u8 
 
@@ -580,6 +608,8 @@ http://dmi3y-tv6.ru/hls/CH_SETANTA_SPORTS2HD.m3u8
 http://cdntv.online/low/9mlxywika2/1021.m3u8
 #EXTINF:-1 group-title="Sports",Setenta Sport 2
 http://cdntv.online/low/9mlxywika2/1022.m3u8
+
+
 #EXTINF:-1 group-title="Sports", CBC Sports
 https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 #EXTINF:-1 group-title="Sports", Sports TV
@@ -640,5 +670,21 @@ https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CazeTV" tvg-name="CazéTV BR" group-title="Sports",CazéTV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 group-title="Sport",AS3 Sport TV (1080p)
+#EXTINF:-1 group-title="Sports",AS3 Sport TV (1080p)
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/2da4d863-f8f8-4f04-863c-8a15447b2b41/talkSPORT.png" group-title="Sports",TalkSport
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-logo="https://logowik.com/content/uploads/images/more-than-sports-tv-hd-20213132.logowik.com.webp" group-title="Sports",More Than Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="GolClassics.es" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/03/gol_classics_logo.jpg" group-title="Sports",Gol Classics
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+#EXTINF:-1 group-title="Sports", Goal Zone
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
+
+#EXTINF:-1 group-title="Sports", Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+
+#EXTINF:-1 group-title="Sports",TUDN
+http://200.115.96.61:9090/play/a07u/index.m3u8
