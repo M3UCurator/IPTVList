@@ -24,6 +24,11 @@ https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b200000
 #EXTINF:-1 tvg-chno="007" tvg-id="24.7.Dummy.us" group-title="ZATV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" , Mindset Learn 🇿🇦 (576).s
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 
+#EXTINF:-1 tvg-chno="" tvg-id="SkyNews.uk" group-title="News" tvg-logo="https://iptvboss.xyz/logos/UK/SkyNews.uk.png", Sky News (720)
+https://d25w9q07b2mtmw.cloudfront.net/live/master_3.m3u8
+#EXTINF:-1 tvg-chno=""  tvg-id="ABCAustralia.au" tvg-name="ABC Australia" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="News", ABC Australia News (720)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+
 #EXTINF:-1 group-title="Kids", TVOKids
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 
@@ -45,11 +50,43 @@ https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
 #EXTINF:-1 group-title="Kids", Kids Flix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
+#EXTINF:-1 tvg-chno="" group-title="Sports",Arenasport 1 SK
+http://88.212.15.50/live/test_arenasport/playlist.m3u8 
+
+#EXTINF:-1 tvg-chno="" group-title="Sports",Arenasport 2 SK
+http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8 
+
+#EXTINF:-1 tvg-chno="" group-title="Sports",Sport1 SK
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8 
+
+#EXTINF:-1 tvg-chno="" group-title="Sports",Sport2 SK
+http://88.212.15.50/live/test_sport_2/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://wordpress.tvtelo.cz/wp-content/uploads/2023/09/ct-sport.png" group-title="Sports", CT Sport
+http://88.212.7.11/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://wordpress.tvtelo.cz/wp-content/uploads/2023/09/ct-sport.png" group-title="Sports", CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Sports", Sport 1 hun
 http://88.212.15.19/live/sport1_hun/index.m3u8
 
 #EXTINF:-1 group-title="Sports", Sport 2 hun
 http://88.212.15.19/live/sport2_hun/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Sport 1 cz
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Sport 2 cz
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", CT SPORT HD
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",RTVS :SPORT
+http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Sports", Sport 1 Baltic
@@ -133,8 +170,20 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1 group-title="Sports", PK Sports
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports", SportDigital Scoore
+https://jmp2.uk/stvp-ATBD26000124P
+
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Sports", Bein Xtra (720)
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports Extra 2" group-title="Sports" ,Bein Sports Extra 2
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
 #EXTINF:-1 group-title="Sports", Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports", NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 group-title="Sports", Setanta Sports 1 Eurasia
 http://stream.mcquack.net/234/index.m3u8
@@ -142,18 +191,47 @@ http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 group-title="Sports", Setanta Sports 2 Eurasia
 http://stream.mcquack.net/235/index.m3u8
 
+#EXTINF:-1 group-title="Sports", Tennis Channel
+https://jmp2.uk/stvp-ATBA2200008XN
+
+#EXTINF:-1 group-title="Sports", Tennis+
+https://jmp2.uk/stvp-FR1300004LY  
+
+#EXTINF:-1 group-title="Sports", SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+#EXTINF:-1 group-title="Sports", Sportdigital
+https://jmp2.uk/stvp-ATAJ0500433A
+
+#EXTINF:-1 group-title="Sports", L`Equipe
+https://jmp2.uk/stvp-FR200016Y5
+
+#EXTINF:-1 group-title="Sports", NBA TV
+https://cdn1.ayitistream.com/NBATV/index.m3u8
 
 #EXTINF:-1 group-title="Sports", Setanta Sports 1 RU
 https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 group-title="Sports",Setenta Sport 1 (Alt)
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+
+#EXTINF:-1 group-title="Sports",Setenta Sport 2 (Alt)
+http://cdntv.online/low/9mlxywika2/1022.m3u8
+
 #EXTINF:-1 group-title="Sports", Divi Sport
 http://stream.mcquack.net/457/index.m3u8
 
-#EXTINF:-1 group-title="Sports", Go 3
+#EXTINF:-1 group-title="Sports", Go3
 http://stream.mcquack.net/416/index.m3u8
 
 #EXTINF:-1 group-title="Sports", M4 Sport
-http://88.212.15.19/live/uatlmvixrr/index.m3u8"
+http://88.212.15.19/live/uatlmvixrr/index.m3u8
+
+#EXTINF:-1 group-title="Sports" ,1TV GE
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+
+#EXTINF:-1 group-title="Sports",2TV GE
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports", SportItalia
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
@@ -161,11 +239,26 @@ https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 #EXTINF:-1 group-title="Sports", SportItalia (Alt)
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
+#EXTINF:-1 group-title="Sports", Aspor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 group-title="Sports", TRT Spor
+https://corestream.siteyaptim.live/trt-spor/index.m3u8
+
+#EXTINF:-1group-title="Sports" , A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 group-title="Sports", HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
 #EXTINF:-1 group-title="Sports", QAZ Sport
 http://stream.mcquack.net/72/index.m3u8
 
 #EXTINF:-1 group-title="Sports", QAZ Sport (Alt)
 https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 group-title="Sports",Матч ТВ 🇷🇺 HD
+http://tv.tuva.ru/machtv/index.m3u8
 
 #EXTINF:-1 group-title="Sports", FTF Sports
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
@@ -183,10 +276,18 @@ https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
 #EXTINF:-1 group-title="Sports", Qatar TV 2 (Alt)
 https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
 
-
-
 #EXTINF:-1 group-title="Sports", Jordan Sport
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+
+
+#EXTINF:-1 group-title="Sports",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Oman Sports
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
 
 #EXTINF:-1 group-title="Sports", KTV Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
@@ -195,8 +296,33 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 
+#EXTINF:-1 group-title="Sports", Alkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass 5
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass 7
+https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass Shoof
+https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
+#EXTINF:-1 group-title="Sports", Alkass Shoof 2
+https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
+
 #EXTINF:-1 group-title="Sports", AYM Sports
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+
+#EXTINF:-1 group-title="Sports", AYM Sports (Alt)
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 group-title="Sports",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Sports", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
@@ -223,6 +349,15 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
 
 #EXTINF:-1 group-title="TV", A&E
 http://23.239.31.26:8989/aande/index.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="ABC.us.East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="TV" , ABC (720p)
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true", NBC
+http://4.59.210.197:8815/udp/127.0.0.1:6009
+
+#EXTINF:-1 group-title="TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" ,  CBS TV
+http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
 #EXTINF:-1 group-title="TV", MeTV
 http://4.30.180.36:8420/metv/index.m3u8?token=test
@@ -295,9 +430,9 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 group-title="TV", FS1Salzburg
 https://stream.fs1.tv/hls/webstream.m3u8
 
-
-#EXTINF:-1 group-title="TV", Game Show Network East
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="Game.Show.Network.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png", Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
 
 #EXTINF:-1 group-title="TV", GeTv BR
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
@@ -311,8 +446,15 @@ http://41.205.93.154/HALLMARK/index.m3u8
 #EXTINF:-1 group-title="TV", Hallmark (Alt)
 http://4.30.180.36:8420/hallmark/index.m3u8?token=test
 
-#EXTINF:-1 group-title="TV", Localish
-https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/ACEbGD5.png", Localish (720)
+https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index_1.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="", Britbox Mystries (720)
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist_1280x720.m3u8
+
+
+#EXTINF:-1 tvg-chno="" tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="TV", NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
 
 #EXTINF:-1 group-title="TV", Just For Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-dk.samsung.wurl.tv/playlist.m3u8
@@ -320,11 +462,46 @@ https://distributionsjustepourrire-justforlaughsgags-1-dk.samsung.wurl.tv/playli
 #EXTINF:-1 group-title="TV", Law & Crime
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="" group-title="TV"  tvg-id="" tvg-name="", ABC 2020 (720)
+https://d4bq78o8d5tf5.cloudfront.net/ABC_2020_4.m3u8
+
 #EXTINF:-1 group-title="TV", Los Angeles TV Radio
 https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 
 #EXTINF:-1 group-title="TV", Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="USTV" ,AMG
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+
+#EXTINF:-1 group-title="Music", Trace Africa English.s
+https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
+#EXTINF:-1 group-title="Music", Trace Africa FR.s
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+#EXTINF:-1 group-title="Music", Trace Urban Int.s
+https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
+#EXTINF:-1 group-title="Music", Trace Urban Southern Africa.s
+https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+#EXTINF:-1 group-title="Music", Miami Beach TV
+https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
+#EXTINF:-1 group-title="Music", Miami TV Music
+https://59ec5453559f0.streamlock.net/miamitvmusic/smil:22596/playlist.m3u8
+#EXTINF:-1 group-title="Music", Stingray Music:Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music", Stingray Music:Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music", Stingray Music:The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music", Stingray  Holidayscapes
+https://plextv.ott-channels.stingray.com/holidayscapes/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1 group-title="Music", Stingray  Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music", InterTv
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB3200007AK" tvg-name="XITE 90s Throwback" tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png group-title="Music", XITE 90's Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:-1 tvg-logo="https://barazaradio.com/wp-content/uploads/2022/12/logo-300x300.png" group-title="Music", Baraza Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 
 
 
