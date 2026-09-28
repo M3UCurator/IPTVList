@@ -44,12 +44,26 @@ http://stream.mcquack.net/393/index.m3u8
 #EXTINF:-1 group-title="Sports", Sport 4
 http://stream.mcquack.net/394/index.m3u8
 
+#EXTINF:-1 group-title="Sports", DAZN 1 FR
+https://sportsbite.org/247/dazn1fr
 
 #EXTINF:-1 group-title="Sports", Sport 5
 http://stream.mcquack.net/212/index.m3u8
 
 #EXTINF:-1 group-title="Sports", FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports", SS Premier League
+https://sportsbite.org/247/skysportspremierleague
+
+#EXTINF:-1 group-title="Sports", Premier Sports 1 UK
+https://sportsbite.org/247/premiersports1
+
+#EXTINF:-1 group-title="Sports", Premier Sports 1 IE
+https://sportsbite.org/t247/premier-sports-1-ie
+
+#EXTINF:-1 group-title="Sports", CBS Sports Network
+https://sportsbite.org/247/cbssportsnetwork
 
 #EXTINF:-1 group-title="Sports", FOX Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
@@ -61,6 +75,9 @@ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports", ESPN US
+https://sportsbite.org/247/espn
+
+#EXTINF:-1 group-title="Sports", ESPN U US
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 
 #EXTINF:-1 group-title="Sports", ESPN BR
@@ -69,11 +86,20 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 group-title="Sports", ESPN 4  BR
 http://181.78.197.59:8000/play/a081/index.m3u8
 
+#EXTINF:-1 group-title="Sports", ESPN Deportes
+https://sportsbite.org/247/espndeportes
+
+#EXTINF:-1 group-title="Sports", Bein US
+https://sportsbite.org/247/beinsportsus
+
 #EXTINF:-1 group-title="Sports", FS1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 #EXTINF:-1 group-title="Sports", FOX Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 group-title="Sports", TUDN
+https://sportsbite.org/t247/tudn
 
 #EXTINF:-1 group-title="Sports", M Sports
 https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
