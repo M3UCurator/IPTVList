@@ -149,7 +149,11 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Sports", AYM Sports
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
+#EXTINF:-1 group-title="Sports", T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
+#EXTINF:-1 group-title="Sports", A Sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Sports", KzoomTV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
@@ -272,4 +276,10 @@ https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 
 #EXTINF:-1 group-title="TV", Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+
+
+
+
+
 
