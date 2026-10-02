@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-02T02:27:45Z"
+    "fetchedAt": "2026-10-02T08:53:17Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-02T02:27:48Z"
+    "fetchedAt": "2026-10-02T08:53:20Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-02T02:27:52Z"
+    "fetchedAt": "2026-10-02T08:53:24Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "9VTuKGI54vQ",
-    "url": "https://www.youtube.com/watch?v=9VTuKGI54vQ",
+    "videoId": "vhTS47X01F8",
+    "url": "https://www.youtube.com/watch?v=vhTS47X01F8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-02T02:27:56Z"
+    "fetchedAt": "2026-10-02T08:53:27Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-02T02:27:59Z"
+    "fetchedAt": "2026-10-02T08:53:30Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ecosCI14cVc",
-    "url": "https://www.youtube.com/watch?v=ecosCI14cVc",
+    "videoId": "iamDj28hWDI",
+    "url": "https://www.youtube.com/watch?v=iamDj28hWDI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-02T02:28:03Z"
+    "fetchedAt": "2026-10-02T08:53:34Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "5HNDVJSpNSE",
-    "url": "https://www.youtube.com/watch?v=5HNDVJSpNSE",
+    "videoId": "uWt5Aa29Gxs",
+    "url": "https://www.youtube.com/watch?v=uWt5Aa29Gxs",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-02T02:28:07Z"
+    "fetchedAt": "2026-10-02T08:53:37Z"
   },
   {
     "name": "Sky News",
@@ -105,11 +105,11 @@
     "live": true,
     "videoId": "BHWbW3OQKhM",
     "url": "https://www.youtube.com/watch?v=BHWbW3OQKhM",
-    "title": "Mornings with Jones and Melbourne | Friday 2 October 2026",
-    "thumbnail": "https://i.ytimg.com/vi/BHWbW3OQKhM/maxresdefault.jpg?v=6abe00f9",
-    "startedAt": "2026-10-02T05:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-02T02:28:11Z"
+    "fetchedAt": "2026-10-02T08:53:41Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": "https://i.ytimg.com/vi/npp6KIqzcRk/maxresdefault.jpg",
     "startedAt": "2026-10-03T10:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-02T02:28:15Z"
+    "fetchedAt": "2026-10-02T08:53:44Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "w_KqkNY7rAo",
-    "url": "https://www.youtube.com/watch?v=w_KqkNY7rAo",
-    "title": "LIVE: Trump tours, delivers remarks at truck manufacturer in Texas",
-    "thumbnail": "https://i.ytimg.com/vi/w_KqkNY7rAo/maxresdefault.jpg",
+    "videoId": "rxUKk2KOIuY",
+    "url": "https://www.youtube.com/watch?v=rxUKk2KOIuY",
+    "title": null,
+    "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-02T02:28:19Z"
+    "fetchedAt": "2026-10-02T08:53:48Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-02T02:28:23Z"
+    "fetchedAt": "2026-10-02T08:53:51Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-02T02:28:26Z"
+    "fetchedAt": "2026-10-02T08:53:55Z"
   }
 ]
