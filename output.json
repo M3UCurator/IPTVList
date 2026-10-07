@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-07T18:33:16Z"
+    "fetchedAt": "2026-10-07T23:28:31Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-07T18:33:20Z"
+    "fetchedAt": "2026-10-07T23:28:35Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-07T18:33:23Z"
+    "fetchedAt": "2026-10-07T23:28:38Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "vRlOwAVG5vY",
-    "url": "https://www.youtube.com/watch?v=vRlOwAVG5vY",
+    "videoId": "ibIQsUlBszs",
+    "url": "https://www.youtube.com/watch?v=ibIQsUlBszs",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-07T18:33:27Z"
+    "fetchedAt": "2026-10-07T23:28:42Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ewKZNrvEfiA",
-    "url": "https://www.youtube.com/watch?v=ewKZNrvEfiA",
-    "title": "Global Perspectives in Bangkok: Experts discuss today’s biggest stories",
-    "thumbnail": "https://i.ytimg.com/vi/ewKZNrvEfiA/maxresdefault.jpg?v=6ac5834f",
-    "startedAt": "2026-10-14T02:00:00+00:00",
+    "videoId": "_kUvSCc1CXM",
+    "url": "https://www.youtube.com/watch?v=_kUvSCc1CXM",
+    "title": "Live: USS Abraham Lincoln returns to homeport",
+    "thumbnail": "https://i.ytimg.com/vi/_kUvSCc1CXM/maxresdefault.jpg?v=6ac69b7f",
+    "startedAt": "2026-10-08T19:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-07T18:33:31Z"
+    "fetchedAt": "2026-10-07T23:28:46Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Zm9Q5hMnXLY",
-    "url": "https://www.youtube.com/watch?v=Zm9Q5hMnXLY",
+    "videoId": "c5il_Wp0SS0",
+    "url": "https://www.youtube.com/watch?v=c5il_Wp0SS0",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-07T18:33:34Z"
+    "fetchedAt": "2026-10-07T23:28:50Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "wfbcEKMqxog",
-    "url": "https://www.youtube.com/watch?v=wfbcEKMqxog",
+    "videoId": "AitoOjjes8E",
+    "url": "https://www.youtube.com/watch?v=AitoOjjes8E",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-07T18:33:38Z"
+    "fetchedAt": "2026-10-07T23:28:54Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Oxq42tnidYY",
-    "url": "https://www.youtube.com/watch?v=Oxq42tnidYY",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "BpOT6LiEQoA",
+    "url": "https://www.youtube.com/watch?v=BpOT6LiEQoA",
+    "title": "Mornings with Ridge and Frost | Thursday 8 October 2026",
+    "thumbnail": "https://i.ytimg.com/vi/BpOT6LiEQoA/maxresdefault.jpg?v=6ac5e7f0",
+    "startedAt": "2026-10-08T07:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-07T18:33:42Z"
+    "fetchedAt": "2026-10-07T23:28:58Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "TDv9P93-gdA",
-    "url": "https://www.youtube.com/watch?v=TDv9P93-gdA",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "91dAZrJQ388",
+    "url": "https://www.youtube.com/watch?v=91dAZrJQ388",
+    "title": "Affaire Epstein : tout comprendre du scandale qui a ébranlé l'élite mondiale • FRANCE 24",
+    "thumbnail": "https://i.ytimg.com/vi/91dAZrJQ388/maxresdefault.jpg",
+    "startedAt": "2026-10-09T16:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-07T18:33:45Z"
+    "fetchedAt": "2026-10-07T23:29:02Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "NGlHmSu5we8",
-    "url": "https://www.youtube.com/watch?v=NGlHmSu5we8",
+    "videoId": "mdg7LlMvTvE",
+    "url": "https://www.youtube.com/watch?v=mdg7LlMvTvE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-07T18:33:51Z"
+    "fetchedAt": "2026-10-07T23:29:06Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-07T18:33:55Z"
+    "fetchedAt": "2026-10-07T23:29:09Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "W4r4e9DpBAw",
-    "url": "https://www.youtube.com/watch?v=W4r4e9DpBAw",
+    "videoId": "Gq_8zPSwNNA",
+    "url": "https://www.youtube.com/watch?v=Gq_8zPSwNNA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-07T18:33:58Z"
+    "fetchedAt": "2026-10-07T23:29:13Z"
   }
 ]
