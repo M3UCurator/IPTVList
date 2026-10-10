@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-10T01:32:39Z"
+    "fetchedAt": "2026-10-10T08:10:23Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-10T01:32:42Z"
+    "fetchedAt": "2026-10-10T08:10:27Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-10T01:32:46Z"
+    "fetchedAt": "2026-10-10T08:10:30Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": "https://i.ytimg.com/vi/zzdQU1JVpIQ/maxresdefault.jpg?v=6ac8b166",
     "startedAt": "2026-10-12T18:30:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-10T01:32:50Z"
+    "fetchedAt": "2026-10-10T08:10:34Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "HSLlnZ6DIBY",
-    "url": "https://www.youtube.com/watch?v=HSLlnZ6DIBY",
+    "videoId": "g6n1lGRbbdY",
+    "url": "https://www.youtube.com/watch?v=g6n1lGRbbdY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-10T01:32:54Z"
+    "fetchedAt": "2026-10-10T08:10:37Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ARtPy6Eo1oI",
-    "url": "https://www.youtube.com/watch?v=ARtPy6Eo1oI",
+    "videoId": "1GBSl00e_sM",
+    "url": "https://www.youtube.com/watch?v=1GBSl00e_sM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-10T01:32:57Z"
+    "fetchedAt": "2026-10-10T08:10:41Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "dsjoyx-LMC4",
-    "url": "https://www.youtube.com/watch?v=dsjoyx-LMC4",
+    "videoId": "bgAAemIMHtk",
+    "url": "https://www.youtube.com/watch?v=bgAAemIMHtk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-10T01:33:01Z"
+    "fetchedAt": "2026-10-10T08:10:44Z"
   },
   {
     "name": "Sky News",
@@ -105,11 +105,11 @@
     "live": true,
     "videoId": "ggDnLyfRXJA",
     "url": "https://www.youtube.com/watch?v=ggDnLyfRXJA",
-    "title": "Mornings | Saturday 10 October 2026",
-    "thumbnail": "https://i.ytimg.com/vi/ggDnLyfRXJA/maxresdefault.jpg?v=6ac8ee66",
-    "startedAt": "2026-10-10T05:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-10T01:33:05Z"
+    "fetchedAt": "2026-10-10T08:10:48Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-10T01:33:09Z"
+    "fetchedAt": "2026-10-10T08:10:51Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "zI9iO9hkwWE",
-    "url": "https://www.youtube.com/watch?v=zI9iO9hkwWE",
-    "title": null,
-    "thumbnail": null,
+    "videoId": "2cSSYvcr86Y",
+    "url": "https://www.youtube.com/watch?v=2cSSYvcr86Y",
+    "title": "LIVE: Florida's Miramar Beach as Hurricane Isaias bears down on US Gulf",
+    "thumbnail": "https://i.ytimg.com/vi/2cSSYvcr86Y/maxresdefault.jpg",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-10T01:33:13Z"
+    "fetchedAt": "2026-10-10T08:10:55Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-10T01:33:16Z"
+    "fetchedAt": "2026-10-10T08:10:58Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "y0329XL6Fto",
-    "url": "https://www.youtube.com/watch?v=y0329XL6Fto",
+    "videoId": "GigDVJA8X24",
+    "url": "https://www.youtube.com/watch?v=GigDVJA8X24",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-10T01:33:20Z"
+    "fetchedAt": "2026-10-10T08:11:02Z"
   }
 ]
