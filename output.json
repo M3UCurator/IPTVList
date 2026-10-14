@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-14T11:21:04Z"
+    "fetchedAt": "2026-10-14T15:55:12Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "qjmW6YuxROY",
-    "url": "https://www.youtube.com/watch?v=qjmW6YuxROY",
+    "videoId": "33zZZYzvWjE",
+    "url": "https://www.youtube.com/watch?v=33zZZYzvWjE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-14T11:21:08Z"
+    "fetchedAt": "2026-10-14T15:55:16Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-14T11:21:11Z"
+    "fetchedAt": "2026-10-14T15:55:19Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "R_bxw93c_JY",
-    "url": "https://www.youtube.com/watch?v=R_bxw93c_JY",
+    "videoId": "hroCXsjkZrQ",
+    "url": "https://www.youtube.com/watch?v=hroCXsjkZrQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-14T11:21:15Z"
+    "fetchedAt": "2026-10-14T15:55:23Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ewKZNrvEfiA",
-    "url": "https://www.youtube.com/watch?v=ewKZNrvEfiA",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "PKXt7FkEGHc",
+    "url": "https://www.youtube.com/watch?v=PKXt7FkEGHc",
+    "title": "Live: Trump campaigns at Arizona rally ahead of midterms",
+    "thumbnail": "https://i.ytimg.com/vi/PKXt7FkEGHc/maxresdefault.jpg?v=6acf7f2f",
+    "startedAt": "2026-10-14T20:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-14T11:21:19Z"
+    "fetchedAt": "2026-10-14T15:55:27Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "jdNjIkmzZ5c",
-    "url": "https://www.youtube.com/watch?v=jdNjIkmzZ5c",
+    "videoId": "LavVKr1Ryms",
+    "url": "https://www.youtube.com/watch?v=LavVKr1Ryms",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-14T11:21:23Z"
+    "fetchedAt": "2026-10-14T15:55:31Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "uVFMyM9tQqM",
-    "url": "https://www.youtube.com/watch?v=uVFMyM9tQqM",
+    "videoId": "e4vObGUEMb0",
+    "url": "https://www.youtube.com/watch?v=e4vObGUEMb0",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-14T11:21:27Z"
+    "fetchedAt": "2026-10-14T15:55:34Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "0NLPXUeR0Ow",
-    "url": "https://www.youtube.com/watch?v=0NLPXUeR0Ow",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "0Eqw1WgxpY4",
+    "url": "https://www.youtube.com/watch?v=0Eqw1WgxpY4",
+    "title": "Zelenskyy won't leave UK 'empty handed', says Burnham | The Cathy Newman Show",
+    "thumbnail": "https://i.ytimg.com/vi/0Eqw1WgxpY4/maxresdefault.jpg?v=6acf6dbf",
+    "startedAt": "2026-10-14T18:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-14T11:21:30Z"
+    "fetchedAt": "2026-10-14T15:55:38Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "B2VMZadUtUg",
-    "url": "https://www.youtube.com/watch?v=B2VMZadUtUg",
+    "videoId": "sW9uJBKVAL0",
+    "url": "https://www.youtube.com/watch?v=sW9uJBKVAL0",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-14T11:21:34Z"
+    "fetchedAt": "2026-10-14T15:55:42Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-14T11:21:38Z"
+    "fetchedAt": "2026-10-14T15:55:46Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ccHpnft82w4",
-    "url": "https://www.youtube.com/watch?v=ccHpnft82w4",
+    "videoId": "zJl9fJjT1XA",
+    "url": "https://www.youtube.com/watch?v=zJl9fJjT1XA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-14T11:21:42Z"
+    "fetchedAt": "2026-10-14T15:55:50Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Os34fxGjxgc",
-    "url": "https://www.youtube.com/watch?v=Os34fxGjxgc",
+    "videoId": "1MeZiZP4qHY",
+    "url": "https://www.youtube.com/watch?v=1MeZiZP4qHY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-14T11:21:46Z"
+    "fetchedAt": "2026-10-14T15:55:54Z"
   }
 ]
