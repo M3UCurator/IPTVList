@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-15T12:46:25Z"
+    "fetchedAt": "2026-10-15T17:38:27Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-15T12:46:28Z"
+    "fetchedAt": "2026-10-15T17:38:30Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-15T12:46:32Z"
+    "fetchedAt": "2026-10-15T17:38:34Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "AwzoGbE00wo",
-    "url": "https://www.youtube.com/watch?v=AwzoGbE00wo",
+    "videoId": "STTZeLFnMsk",
+    "url": "https://www.youtube.com/watch?v=STTZeLFnMsk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-15T12:46:35Z"
+    "fetchedAt": "2026-10-15T17:38:37Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Xjg-n7fBvVg",
-    "url": "https://www.youtube.com/watch?v=Xjg-n7fBvVg",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "dxvkQOBZkNs",
+    "url": "https://www.youtube.com/watch?v=dxvkQOBZkNs",
+    "title": "Live: Talarico stumps in Texas 19 days before Senate election",
+    "thumbnail": "https://i.ytimg.com/vi/dxvkQOBZkNs/maxresdefault.jpg?v=6ad0e75e",
+    "startedAt": "2026-10-16T00:15:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-15T12:46:39Z"
+    "fetchedAt": "2026-10-15T17:38:42Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "gCNeDWCI0vo",
-    "url": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
+    "videoId": "Edmuxny2i2M",
+    "url": "https://www.youtube.com/watch?v=Edmuxny2i2M",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-15T12:46:43Z"
+    "fetchedAt": "2026-10-15T17:38:46Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "k7etj9ocVE0",
-    "url": "https://www.youtube.com/watch?v=k7etj9ocVE0",
+    "videoId": "ObgeW-DEyqA",
+    "url": "https://www.youtube.com/watch?v=ObgeW-DEyqA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-15T12:46:46Z"
+    "fetchedAt": "2026-10-15T17:38:49Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "DERWtAlU-Bg",
-    "url": "https://www.youtube.com/watch?v=DERWtAlU-Bg",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "e44oJtarOcE",
+    "url": "https://www.youtube.com/watch?v=e44oJtarOcE",
+    "title": "An ultimatum for the Green Party | The Cathy Newman Show",
+    "thumbnail": "https://i.ytimg.com/vi/e44oJtarOcE/maxresdefault.jpg?v=6ad10d40",
+    "startedAt": "2026-10-15T18:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-15T12:46:50Z"
+    "fetchedAt": "2026-10-15T17:38:53Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "cU0XhVfdIcQ",
-    "url": "https://www.youtube.com/watch?v=cU0XhVfdIcQ",
+    "videoId": "iDO1DLAfR2g",
+    "url": "https://www.youtube.com/watch?v=iDO1DLAfR2g",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-15T12:46:54Z"
+    "fetchedAt": "2026-10-15T17:38:57Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "UH4D9_byzVI",
-    "url": "https://www.youtube.com/watch?v=UH4D9_byzVI",
+    "videoId": "EUqByCDqtSE",
+    "url": "https://www.youtube.com/watch?v=EUqByCDqtSE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-15T12:46:57Z"
+    "fetchedAt": "2026-10-15T17:39:01Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-15T12:47:01Z"
+    "fetchedAt": "2026-10-15T17:39:05Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "AJ5lTnNf-IY",
-    "url": "https://www.youtube.com/watch?v=AJ5lTnNf-IY",
+    "videoId": "OGTSN1ygxXo",
+    "url": "https://www.youtube.com/watch?v=OGTSN1ygxXo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-15T12:47:05Z"
+    "fetchedAt": "2026-10-15T17:39:09Z"
   }
 ]
