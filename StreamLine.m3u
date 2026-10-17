@@ -52,6 +52,29 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 
+#EXTINF:-1 tvg-chno="" group-title="UKTV" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true", BBC 1
+http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="" group-title="UKTV" tvg-id="BBC.Two.HD.uk" tvg-name="BBC 2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true", BBC 2
+http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19177/index.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="UKTV" tvg-id="BBC.Three.HD.uk" tvg-name="BBC 3" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true", BBC 3
+http://41.205.77.102/BBC-THREE/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid=""  tvg-id="ITV1.HD.uk"  tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-1-uk.png?raw=true" group-title="UKTV", ITV
+http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19185/index.m3u8
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="ITV2.HD.uk" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true" group-title="UKTV"",ITV 2
+http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="UKTV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true",ITV 3
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
+http://81.137.213.119:4201/bysid/8294
+
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="UKTV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true",ITV 4
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1118
 #EXTINF:-1 group-title="TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" ,  CBS TV
 http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
@@ -59,19 +82,29 @@ http://4.30.180.36:8420/cbs/index.m3u8?token=test
 http://4.30.180.36:8420/usa/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true",  NBCᴴᴰ (720)
-https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
+#https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
+http://4.30.180.36:8420/nbc/index.m3u8?token=test
+
+#EXTINF:-1 group-title="TV", CBS TV
+http://4.30.180.36:8420/cbs/index.m3u8?token=test
+
+#EXTINF:-1 group-title="TV", CBS TV [2]
+https://cdn.telecloud.tv/CH3247/index.m3u8
+
 
 #EXTINF:-1 vg-chno="" group-title="TV" tvg-id="", FOX LA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="News",FOX 5ᴴᴰ  
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="News", FOX 5ᴴᴰ  
 https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="TV", Wild Earth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="", Curiosity Nowᴴᴰ (720)
+#EXTINF:-1 tvg-chno=""  tvg-id="CuriosityNOW.de@EN" tvg-logo="https://i.imgur.com/gJ9eMaG.png" group-title="TV" tvg-id="" tvg-name="", Curiosity Now (720)
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f596419bd749b3d5870e83458677f4099c93a68ace198a8fc77ea802b5670c5e2779cd847896fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3810bd75a8311465dfa8ae1e07dd94a0203b334df770fcee5f05/27/1280x720_3329040/index.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="" tvg-id="EbonyTVbyLionsgate.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="TV", Ebony TV by Lionsgateᴴᴰ (1080p)
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8 
@@ -100,6 +133,9 @@ https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
 #EXTINF:-1 tvg-id="SparkTV.uk@SD" tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="TV",Spark TV (1080p)
 https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" , BounceXL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+
 #EXTINF:-1 group-title="TV", Hallmark 
 http://4.30.180.36:8420/hallmark/index.m3u8?token=test
 
@@ -108,9 +144,6 @@ https://d4bq78o8d5tf5.cloudfront.net/ABC_2020_4.m3u8
 
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/court-tv-logo.png" group-title="TV", Court TV (1080)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-
-#EXTINF:-1 tvg-chno=""  tvg-id="CuriosityNOW.de@EN" tvg-logo="https://i.imgur.com/gJ9eMaG.png" group-title="TV" tvg-id="" tvg-name="", Curiosity Now (720)
-https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f596419bd749b3d5870e83458677f4099c93a68ace198a8fc77ea802b5670c5e2779cd847896fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3810bd75a8311465dfa8ae1e07dd94a0203b334df770fcee5f05/27/1280x720_3329040/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV", Knowledge Network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
@@ -121,8 +154,11 @@ https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="Getfactual.us@UK" tvg-logo="https://i.imgur.com/4oVcjLd.png" group-title="TV", Get Factual
 https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title="TV", Law & Crime
-https://cdn.lawandcrime.net/rewind/720.m3u8
+#EXTINF:-1 tvg-chno="" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/LawCrime.us.png" group-title="TV",Law & crime
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="086" tvg-id="Crime360.us"tvg-name="" tvg-logo="https://i.imgur.com/IjtaG1m.png"  group-title="TV", Crime 360
+https://94a3e237.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/2e47bce2-67ea-4697-84de-30ba5a25d3ff/2.m3u8
 
 #EXTINF:-1 tvg-chno="" vg-id="AutenticTravel.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png"group-title="TV", Adventure Travel
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
