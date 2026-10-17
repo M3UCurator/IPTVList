@@ -195,6 +195,9 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Fast - Sports", FOX Sports (720)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
 
+#EXTINF:-1 group-title="Sports",Bein Sports.s
+https://tvsen6.aynaott.com/beinsports/index.m3u8?e=1784102515&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=67d5960a5b93b5cfcf562312b4627330
+
 #EXTINF:-1 tvg-chno="" tvg-id="Sportitalia.it@SD" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sports" group-title="Fast - Sports", SportItalia
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 
@@ -225,6 +228,9 @@ https://jmp2.uk/stvp-ATBA2200008XN
 
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Fast - Sports",Tennis Channel +2 (720p)
 https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="" group-title="Fast - Sports", Tennis+
+https://jmp2.uk/stvp-FR1300004LY
 
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" group-title="Fast - Sports",Tennis Channel 2 (1080p)
 https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
@@ -260,6 +266,14 @@ http://103.185.24.134:3001/SonyTenSports1/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 2 (576p)
 http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="Sport",ESPN
+https://xemzi.short.gy/40000011
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="Sports", ESPN
+https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102528&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d701f3665e12964090ddd656a9a89c29
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="Sports", ESPN [Alt]
+https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102653&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=fbc560646ea38d9fce118fcd264926c5
 
 #EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2 (United States) HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
@@ -272,6 +286,8 @@ https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MSports.pk@SD" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Sports", M Sports
 https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="Sports", KTV Sport Sports
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b2500000_t64NzIwcA==.m3u8
