@@ -349,6 +349,42 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
 #EXTINF:-1 group-title="Sports", HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-chno="" group-title="Sports" ,Supersport 2
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562257
+
+#EXTINF:-1 tvg-chno=""  group-title="Sports" ,Supersport 2
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562257
+
+#EXTINF:-1 tvg-chno=""  group-title="Sports" ,Supersport 3
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562256
+
+#EXTINF:-1 tvg-chno=""  group-title="Sports" ,Supersport 4
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562255
+
+
+#EXTINF:-1 tvg-chno=""  group-title="Sports" ,Supersport 5
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562254
+
+#EXTINF:-1 tvg-chno="" " group-title="Sports" ,Supersport 6
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562253
+
+#EXTINF:-1 tvg-chno=""  group-title="Sports" ,Supersport 7
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562252
+
+#EXTINF:-1 tvg-chno="" " group-title="Sports" ,Supersport 3
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562256
+
+#EXTINF:-1 tvg-chno=""  group-title="Sports" ,Supersport 4
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562255
+
+#EXTINF:-1 tvg-chno=""  group-title="Sports" ,Supersport 5
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562254
+
+#EXTINF:-1 tvg-chno=""  group-title="Sports" ,Supersport 6
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562253
+
+#EXTINF:-1 tvg-chno=""  group-title="Sports" ,Supersport 7
+http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562252
 
 #EXTINF:-1 group-title="Sports", 2TV GE
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
