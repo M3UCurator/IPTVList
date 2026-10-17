@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="SABC Digital News" group-title="News",SABC Digital News
-https://www.youtube.com/watch?v=xffQ9yslNgY
+https://www.youtube.com/watch?v=W6e4oPC_tW4
 
 #EXTINF:-1 tvg-name="Newslive SA" group-title="News",Newslive SA
 https://www.youtube.com/watch?v=iEOumij6cJM
@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=iEOumij6cJM
 https://www.youtube.com/watch?v=Lzy69gIwPVs
 
 #EXTINF:-1 tvg-name="BBC News" group-title="News",BBC News
-https://www.youtube.com/watch?v=CugtQaWd2fI
+https://www.youtube.com/watch?v=-kygPiNSEpg
 
 #EXTINF:-1 tvg-name="CNN" group-title="News",CNN
 https://www.youtube.com/watch?v=GotlA1KKWoo
@@ -19,13 +19,13 @@ https://www.youtube.com/watch?v=GotlA1KKWoo
 https://www.youtube.com/watch?v=uYYEdysCejw
 
 #EXTINF:-1 tvg-name="DW News" group-title="News",DW News
-https://www.youtube.com/watch?v=-kygPiNSEpg
+https://www.youtube.com/watch?v=yWxnCT5_-Zk
 
 #EXTINF:-1 tvg-name="Sky News" group-title="News",Sky News
-https://www.youtube.com/watch?v=gsxBgwFMybU
+https://www.youtube.com/watch?v=nYHP-TSPjYY
 
 #EXTINF:-1 tvg-name="France 24 English" group-title="News",France 24 English
-https://www.youtube.com/watch?v=gsxBgwFMybU
+https://www.youtube.com/watch?v=_QXAoDC2CXY
 
 #EXTINF:-1 tvg-name="Reuters" group-title="News",Reuters
 https://www.youtube.com/watch?v=cN7UiZxjTdY
@@ -34,4 +34,4 @@ https://www.youtube.com/watch?v=cN7UiZxjTdY
 https://www.youtube.com/watch?v=GPPNy_Zz4KU
 
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher" group-title="News",Al Jazeera Mubasher
-https://www.youtube.com/watch?v=gsxBgwFMybU
+https://www.youtube.com/watch?v=xJV0SpGwvhA
