@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-17T23:48:10Z"
+    "fetchedAt": "2026-10-18T03:24:51Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-17T23:48:14Z"
+    "fetchedAt": "2026-10-18T03:24:55Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-17T23:48:17Z"
+    "fetchedAt": "2026-10-18T03:24:58Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-17T23:48:21Z"
+    "fetchedAt": "2026-10-18T03:25:02Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-17T23:48:25Z"
+    "fetchedAt": "2026-10-18T03:25:06Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "PUYQNJeI064",
-    "url": "https://www.youtube.com/watch?v=PUYQNJeI064",
+    "videoId": "E-SouBo-Uck",
+    "url": "https://www.youtube.com/watch?v=E-SouBo-Uck",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-17T23:48:29Z"
+    "fetchedAt": "2026-10-18T03:25:10Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "q7sNhOrxfYY",
-    "url": "https://www.youtube.com/watch?v=q7sNhOrxfYY",
+    "videoId": "TWhSCLfS3z8",
+    "url": "https://www.youtube.com/watch?v=TWhSCLfS3z8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-17T23:48:33Z"
+    "fetchedAt": "2026-10-18T03:25:14Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "sjyBhg80_dI",
-    "url": "https://www.youtube.com/watch?v=sjyBhg80_dI",
-    "title": "The Wrap with Gillian Joseph | Sunday 18 October 2026",
-    "thumbnail": "https://i.ytimg.com/vi/sjyBhg80_dI/maxresdefault.jpg?v=6ad3a5be",
-    "startedAt": "2026-10-18T21:00:00+00:00",
+    "videoId": "un_Odvrj_kM",
+    "url": "https://www.youtube.com/watch?v=un_Odvrj_kM",
+    "title": "Mornings with Ridge & Frost | Monday 19 October 2026",
+    "thumbnail": "https://i.ytimg.com/vi/un_Odvrj_kM/maxresdefault.jpg?v=6ad3a358",
+    "startedAt": "2026-10-19T05:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-17T23:48:36Z"
+    "fetchedAt": "2026-10-18T03:25:18Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-17T23:48:40Z"
+    "fetchedAt": "2026-10-18T03:25:21Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-17T23:48:44Z"
+    "fetchedAt": "2026-10-18T03:25:25Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-17T23:48:48Z"
+    "fetchedAt": "2026-10-18T03:25:29Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "gQEKPIiIT-4",
-    "url": "https://www.youtube.com/watch?v=gQEKPIiIT-4",
+    "videoId": "LTHOr03sIkQ",
+    "url": "https://www.youtube.com/watch?v=LTHOr03sIkQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-17T23:48:52Z"
+    "fetchedAt": "2026-10-18T03:25:33Z"
   }
 ]
