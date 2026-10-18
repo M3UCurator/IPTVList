@@ -92,7 +92,7 @@ http://4.30.180.36:8420/cbs/index.m3u8?token=test
 https://cdn.telecloud.tv/CH3247/index.m3u8
 
 
-#EXTINF:-1 vg-chno="" group-title="TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png", FOX LA 🇺🇸
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png", FOX LA 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png", FOX 5 🇺🇸  
@@ -106,6 +106,7 @@ https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.t
 
 #EXTINF:-1 tvg-chno="" tvg-id="EbonyTVbyLionsgate.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="TV", Ebony TV by Lionsgateᴴᴰ (1080p)
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8 
+
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="", 12WWBT 
 https://dai.google.com/linear/hls/pa/event/oQDBWiEBRLqnp2wfr21_SQ/stream/f9e5fd6a-f051-4ec1-b178-add54fa884fa:BRU/master.m3u8
 
@@ -118,10 +119,10 @@ https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist_1280x720.m
 #EXTINF:-1 tvg-chno="" tvg-id="BritBoxMysteries.us@SD" tvg-name="BritBox Mysteries (1080p)" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="TV",BritBox Mysteries (720)
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist_1280x720.m3u8
 
-#EXTINF:-1 tvg-chno="011" group-title="TV" tvg-id="" tvg-name="" tvg-logo="",CW Forever 🇺🇸 (720)
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="",CW Forever 🇺🇸 (720)
 https://d1sknsnbkyvie.cloudfront.net/playlist_1280x720.m3u8
 
-#EXTINF:-1 tvg-chno="012" group-title="TV" tvg-id="" tvg-name="" tvg-logo="",CW Gold  (720)
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="",CW Gold  (720)
 https://d1d726ny1vain2.cloudfront.net/playlist_1280x720.m3u
 
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV" tvg-logo="https://i.imgur.com/ACEbGD5.png", Localishᴴᴰ (720)
@@ -223,13 +224,13 @@ https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="Music", Trace Urban Southern Africa.s
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title="" tvg-id="" tvg-name="" group-title="Music",Trace Vanilla HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" group-title="Music",Trace Vanilla HD
 https://channels.trace.plus/Traceprod/VANILLA.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title=" tvg-id="" tvg-name=""  group-title="Music",Trace Caribbean HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=""  group-title="Music",Trace Caribbean HD
 https://channels.trace.plus/Traceprod/CARIBBEAN.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title="" tvg-id="" tvg-name="" group-title="Music",Trace Latina HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" group-title="Music",Trace Latina HD
 https://channels.trace.plus/Traceprod/LATINA.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name=""  group-title="Music",Trace Brazil HD
@@ -237,10 +238,10 @@ https://channels.trace.plus/Traceprod/BRAZIL/.m3u8
 
 
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Fast - Sports", Bein Xtra (720)
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Fast - Sports", Bein Sport Xtra (720)
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-xtra-en-espanol-main-copy.png?WORLDTV6",BEIN SPORT EXTRA Ñ 🇪🇸 (720)
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-xtra-en-espanol-main-copy.png?WORLDTV6" group-title="Fast - Sports", Bein Sport Xtra Ñ 🇪🇸 (720)
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="Fast - Sports", NBC Sports 🇺🇸
