@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "BY0EuVV688E",
-    "url": "https://www.youtube.com/watch?v=BY0EuVV688E",
+    "videoId": "8XEEvtqOo9E",
+    "url": "https://www.youtube.com/watch?v=8XEEvtqOo9E",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T16:49:29Z"
+    "fetchedAt": "2026-10-19T21:21:34Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "33zZZYzvWjE",
-    "url": "https://www.youtube.com/watch?v=33zZZYzvWjE",
+    "videoId": "qjmW6YuxROY",
+    "url": "https://www.youtube.com/watch?v=qjmW6YuxROY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T16:49:33Z"
+    "fetchedAt": "2026-10-19T21:21:38Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T16:49:36Z"
+    "fetchedAt": "2026-10-19T21:21:41Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "NuwpBOB4R0Y",
-    "url": "https://www.youtube.com/watch?v=NuwpBOB4R0Y",
+    "videoId": "DUY1CTr_KC4",
+    "url": "https://www.youtube.com/watch?v=DUY1CTr_KC4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T16:49:40Z"
+    "fetchedAt": "2026-10-19T21:21:45Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "cbi-38gnGjU",
-    "url": "https://www.youtube.com/watch?v=cbi-38gnGjU",
-    "title": "Pete Buttigieg will rally for Democrats in Henrico, VA",
-    "thumbnail": "https://i.ytimg.com/vi/cbi-38gnGjU/maxresdefault.jpg?v=6ad63115",
-    "startedAt": "2026-10-19T17:00:00+00:00",
+    "videoId": "ZOoeZvMRfys",
+    "url": "https://www.youtube.com/watch?v=ZOoeZvMRfys",
+    "title": "Trump hits campaign trail in Kansas for Roger Marshall",
+    "thumbnail": "https://i.ytimg.com/vi/ZOoeZvMRfys/maxresdefault.jpg?v=6ad6347b",
+    "startedAt": "2026-10-19T23:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-19T16:49:44Z"
+    "fetchedAt": "2026-10-19T21:21:49Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "8WneanYkx-A",
-    "url": "https://www.youtube.com/watch?v=8WneanYkx-A",
+    "videoId": "hZc5JoVcD6A",
+    "url": "https://www.youtube.com/watch?v=hZc5JoVcD6A",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T16:49:47Z"
+    "fetchedAt": "2026-10-19T21:21:53Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "CEvUySWgXMA",
-    "url": "https://www.youtube.com/watch?v=CEvUySWgXMA",
+    "videoId": "wiB63_gJNGo",
+    "url": "https://www.youtube.com/watch?v=wiB63_gJNGo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T16:49:51Z"
+    "fetchedAt": "2026-10-19T21:21:57Z"
   },
   {
     "name": "Sky News",
@@ -105,11 +105,11 @@
     "live": true,
     "videoId": "SDHJMmCp4mc",
     "url": "https://www.youtube.com/watch?v=SDHJMmCp4mc",
-    "title": "The Wrap | Monday 19 October",
-    "thumbnail": "https://i.ytimg.com/vi/SDHJMmCp4mc/maxresdefault.jpg?v=6ad63fed",
-    "startedAt": "2026-10-19T21:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T16:49:55Z"
+    "fetchedAt": "2026-10-19T21:22:01Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T16:49:59Z"
+    "fetchedAt": "2026-10-19T21:22:05Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T16:50:03Z"
+    "fetchedAt": "2026-10-19T21:22:09Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "H7_KofwTsXw",
-    "url": "https://www.youtube.com/watch?v=H7_KofwTsXw",
+    "videoId": "IGodo0M9QPU",
+    "url": "https://www.youtube.com/watch?v=IGodo0M9QPU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T16:50:07Z"
+    "fetchedAt": "2026-10-19T21:22:13Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "8iiq11pnp9w",
-    "url": "https://www.youtube.com/watch?v=8iiq11pnp9w",
+    "videoId": "NNnZLWHRmd4",
+    "url": "https://www.youtube.com/watch?v=NNnZLWHRmd4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T16:50:11Z"
+    "fetchedAt": "2026-10-19T21:22:17Z"
   }
 ]
