@@ -70,7 +70,7 @@ http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="UKTV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true",ITV 3
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
+#http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
 http://81.137.213.119:4201/bysid/8294
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="UKTV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true",ITV 4
