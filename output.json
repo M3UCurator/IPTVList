@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T21:21:34Z"
+    "fetchedAt": "2026-10-20T00:31:20Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "qjmW6YuxROY",
-    "url": "https://www.youtube.com/watch?v=qjmW6YuxROY",
+    "videoId": "33zZZYzvWjE",
+    "url": "https://www.youtube.com/watch?v=33zZZYzvWjE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T21:21:38Z"
+    "fetchedAt": "2026-10-20T00:31:24Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T21:21:41Z"
+    "fetchedAt": "2026-10-20T00:31:28Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "DUY1CTr_KC4",
-    "url": "https://www.youtube.com/watch?v=DUY1CTr_KC4",
+    "videoId": "yLOtOLD5lMM",
+    "url": "https://www.youtube.com/watch?v=yLOtOLD5lMM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T21:21:45Z"
+    "fetchedAt": "2026-10-20T00:31:32Z"
   },
   {
     "name": "CNN",
@@ -63,11 +63,11 @@
     "live": true,
     "videoId": "ZOoeZvMRfys",
     "url": "https://www.youtube.com/watch?v=ZOoeZvMRfys",
-    "title": "Trump hits campaign trail in Kansas for Roger Marshall",
-    "thumbnail": "https://i.ytimg.com/vi/ZOoeZvMRfys/maxresdefault.jpg?v=6ad6347b",
-    "startedAt": "2026-10-19T23:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T21:21:49Z"
+    "fetchedAt": "2026-10-20T00:31:36Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "hZc5JoVcD6A",
-    "url": "https://www.youtube.com/watch?v=hZc5JoVcD6A",
+    "videoId": "1kHRY2ba7jc",
+    "url": "https://www.youtube.com/watch?v=1kHRY2ba7jc",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T21:21:53Z"
+    "fetchedAt": "2026-10-20T00:31:40Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "wiB63_gJNGo",
-    "url": "https://www.youtube.com/watch?v=wiB63_gJNGo",
+    "videoId": "x5zD_Vr6Qhk",
+    "url": "https://www.youtube.com/watch?v=x5zD_Vr6Qhk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T21:21:57Z"
+    "fetchedAt": "2026-10-20T00:31:44Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "SDHJMmCp4mc",
-    "url": "https://www.youtube.com/watch?v=SDHJMmCp4mc",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "fGRldHurmgg",
+    "url": "https://www.youtube.com/watch?v=fGRldHurmgg",
+    "title": "Mornings with Frost | Tuesday 20 October",
+    "thumbnail": "https://i.ytimg.com/vi/fGRldHurmgg/maxresdefault.jpg?v=6ad683f9",
+    "startedAt": "2026-10-20T05:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-19T21:22:01Z"
+    "fetchedAt": "2026-10-20T00:31:48Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "AMSzckaKlG8",
-    "url": "https://www.youtube.com/watch?v=AMSzckaKlG8",
+    "videoId": "OsfWvA9UmPc",
+    "url": "https://www.youtube.com/watch?v=OsfWvA9UmPc",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T21:22:05Z"
+    "fetchedAt": "2026-10-20T00:31:52Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T21:22:09Z"
+    "fetchedAt": "2026-10-20T00:31:57Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T21:22:13Z"
+    "fetchedAt": "2026-10-20T00:32:00Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "NNnZLWHRmd4",
-    "url": "https://www.youtube.com/watch?v=NNnZLWHRmd4",
+    "videoId": "Bqvm0UZ4c7w",
+    "url": "https://www.youtube.com/watch?v=Bqvm0UZ4c7w",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-19T21:22:17Z"
+    "fetchedAt": "2026-10-20T00:32:04Z"
   }
 ]
