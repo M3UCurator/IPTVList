@@ -347,13 +347,17 @@ https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-id="MSports.pk@SD" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Sports", M Sports
 https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="MUTV.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports",MUTV (720p)
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
-
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="Sports", KTV Sport Sports
+#EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="Sports", KTV Sport Sports
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b2500000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="Sports", KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max 
+http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
 #EXTINF:-1 group-title="Sports", Jordan Sport
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
@@ -410,8 +414,11 @@ http://stream.mcquack.net/394/index.m3u8
 #EXTINF:-1 tvg-chno=""  tvg-id"" group-title="Sports" , A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
-#EXTINF:-1 tvg-chno=""  tvg-id""  tvg-name="HT Spor" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="Sports", HT Spor
+#EXTINF:-1 tvg-chno=" tvg-id="HTSporTV.tr@SD" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="Sports", HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+#EXTINF:-1 tvg-id="GolfChannel.cz@SD" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Sports",Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="Sports" ,Supersport 2
 http://line01.serveuser.com:80/QIWQ3GPOEZ/GCOULCY30Q/1562257
