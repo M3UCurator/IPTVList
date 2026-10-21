@@ -29,18 +29,36 @@ REQUEST_HEADERS = {
 
 
 def fetch_xml_bytes(url: str) -> bytes:
-    """Download and decode a remote .xml or .xml.gz file."""
-    request = Request(url, headers=REQUEST_HEADERS)
-    with urlopen(request, timeout=60) as response:
-        payload = response.read()
+    """Download and decode a remote .xml or .xml.gz file.
 
-    if url.lower().endswith(".gz"):
+    If an HTTPS source is unavailable, fall back to the equivalent HTTP URL.
+    """
+    candidates = [url]
+    if url.startswith("https://"):
+        candidates.append("http://" + url[len("https://") :])
+
+    last_error: Exception | None = None
+    for candidate in candidates:
         try:
-            return gzip.decompress(payload)
-        except OSError:
-            return payload
+            request = Request(candidate, headers=REQUEST_HEADERS)
+            with urlopen(request, timeout=60) as response:
+                payload = response.read()
+        except (HTTPError, URLError, TimeoutError, OSError) as exc:
+            last_error = exc
+            print(f"Attempt failed for {candidate}: {exc}", file=sys.stderr)
+            continue
 
-    return payload
+        if candidate.lower().endswith(".gz"):
+            try:
+                return gzip.decompress(payload)
+            except OSError:
+                return payload
+
+        return payload
+
+    if last_error is not None:
+        raise last_error
+    raise RuntimeError(f"No candidates available for {url}")
 
 
 def merge_xmltv(files: Iterable[str]) -> bytes:
