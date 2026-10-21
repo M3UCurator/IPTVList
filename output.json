@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-21T06:22:42Z"
+    "fetchedAt": "2026-10-21T17:32:34Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-21T06:22:46Z"
+    "fetchedAt": "2026-10-21T17:32:37Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-21T06:22:49Z"
+    "fetchedAt": "2026-10-21T17:32:41Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "aASPsH8uEwA",
-    "url": "https://www.youtube.com/watch?v=aASPsH8uEwA",
+    "videoId": "xuDSuF5cBo8",
+    "url": "https://www.youtube.com/watch?v=xuDSuF5cBo8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-21T06:22:53Z"
+    "fetchedAt": "2026-10-21T17:32:45Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "V9O3uvdn2nk",
-    "url": "https://www.youtube.com/watch?v=V9O3uvdn2nk",
-    "title": "Live: CNN Health Innovation Summit",
-    "thumbnail": "https://i.ytimg.com/vi/V9O3uvdn2nk/maxresdefault.jpg?v=6ad7c38f",
-    "startedAt": "2026-10-21T12:30:00+00:00",
+    "videoId": "QUherFXq_bE",
+    "url": "https://www.youtube.com/watch?v=QUherFXq_bE",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-21T06:22:57Z"
+    "fetchedAt": "2026-10-21T17:32:49Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "JJanrpggMOw",
-    "url": "https://www.youtube.com/watch?v=JJanrpggMOw",
+    "videoId": "oA-hLanCd7I",
+    "url": "https://www.youtube.com/watch?v=oA-hLanCd7I",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-21T06:23:00Z"
+    "fetchedAt": "2026-10-21T17:32:53Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "JTxT6DSpHxc",
-    "url": "https://www.youtube.com/watch?v=JTxT6DSpHxc",
+    "videoId": "C6iXeFHqRHg",
+    "url": "https://www.youtube.com/watch?v=C6iXeFHqRHg",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-21T06:23:04Z"
+    "fetchedAt": "2026-10-21T17:32:57Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "kGBJ0dxB7nI",
-    "url": "https://www.youtube.com/watch?v=kGBJ0dxB7nI",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "YSJTsLtAT-0",
+    "url": "https://www.youtube.com/watch?v=YSJTsLtAT-0",
+    "title": "The Cathy Newman Show | Wednesday 21 October 2026",
+    "thumbnail": "https://i.ytimg.com/vi/YSJTsLtAT-0/maxresdefault.jpg?v=6ad8574d",
+    "startedAt": "2026-10-21T18:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-21T06:23:08Z"
+    "fetchedAt": "2026-10-21T17:33:00Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "thQzOWaJu7A",
-    "url": "https://www.youtube.com/watch?v=thQzOWaJu7A",
+    "videoId": "7NIvMM4GaSA",
+    "url": "https://www.youtube.com/watch?v=7NIvMM4GaSA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-21T06:23:11Z"
+    "fetchedAt": "2026-10-21T17:33:04Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "DZ4kGCM85DU",
-    "url": "https://www.youtube.com/watch?v=DZ4kGCM85DU",
-    "title": null,
-    "thumbnail": null,
+    "videoId": "9vDPEl8zgWk",
+    "url": "https://www.youtube.com/watch?v=9vDPEl8zgWk",
+    "title": "LIVE: UK Prime Minister Burnham holds PMQs",
+    "thumbnail": "https://i.ytimg.com/vi/9vDPEl8zgWk/maxresdefault.jpg",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-21T06:23:15Z"
+    "fetchedAt": "2026-10-21T17:33:07Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-21T06:23:18Z"
+    "fetchedAt": "2026-10-21T17:33:11Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-21T06:23:22Z"
+    "fetchedAt": "2026-10-21T17:33:15Z"
   }
 ]
