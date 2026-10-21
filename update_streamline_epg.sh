@@ -1,7 +1,18 @@
 #!/usr/bin/env bash
-set -e
+set -euo pipefail
 
 python3 generate_streamline_epg.py
-git add StreamLine_epg.xml.gz
-git commit -m "Add consolidated StreamLine EPG"
-git push origin main
+
+git add --all --force "StreamLine_epg.xml.gz"
+
+if git diff --cached --quiet; then
+  echo "No StreamLine EPG changes to commit."
+  exit 0
+fi
+
+git config user.name "github-actions[bot]"
+git config user.email "github-actions[bot]@users.noreply.github.com"
+
+DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+git commit -m "chore: update StreamLine EPG ($DATE)"
+git push origin HEAD:${GITHUB_REF_NAME:-main}
