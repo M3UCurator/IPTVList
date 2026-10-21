@@ -1,0 +1,87 @@
+#!/usr/bin/env python3
+"""Consolidate multiple XMLTV EPG sources into a single StreamLine EPG archive."""
+
+from __future__ import annotations
+
+import gzip
+from pathlib import Path
+from typing import Iterable
+from urllib.request import urlopen
+from xml.etree import ElementTree as ET
+
+SOURCES = [
+    "https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
+]
+
+OUTPUT_PATH = Path("StreamLine_epg.xml.gz")
+
+
+def fetch_xml_bytes(url: str) -> bytes:
+    """Download and decode a remote .xml or .xml.gz file."""
+    with urlopen(url, timeout=60) as response:
+        payload = response.read()
+
+    if url.lower().endswith(".gz"):
+        try:
+            return gzip.decompress(payload)
+        except OSError:
+            return payload
+
+    return payload
+
+
+def merge_xmltv(files: Iterable[str]) -> bytes:
+    """Merge multiple XMLTV sources into one root <tv> element."""
+    merged_root = ET.Element(
+        "tv",
+        {
+            "generator-info-name": "StreamLine EPG Consolidator",
+            "generator-info-url": "https://github.com/M3UCurator/IPTVList",
+            "source-url": ", ".join(files),
+        },
+    )
+
+    program_keys = set()
+    channel_keys = set()
+
+    for url in files:
+        raw = fetch_xml_bytes(url)
+        try:
+            doc = ET.fromstring(raw)
+        except ET.ParseError:
+            continue
+
+        for channel in doc.findall("./channel"):
+            cid = (channel.get("id") or "").strip()
+            if not cid or cid in channel_keys:
+                continue
+            channel_keys.add(cid)
+            merged_root.append(channel)
+
+        for programme in doc.findall("./programme"):
+            channel = programme.get("channel", "")
+            start = programme.get("start", "")
+            stop = programme.get("stop", "")
+            title = (programme.findtext("title") or "").strip()
+            key = (channel, start, stop, title)
+            if key in program_keys:
+                continue
+            program_keys.add(key)
+            merged_root.append(programme)
+
+    return b"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" + ET.tostring(merged_root, encoding="utf-8")
+
+
+def main() -> None:
+    xml_bytes = merge_xmltv(SOURCES)
+    OUTPUT_PATH.write_bytes(gzip.compress(xml_bytes, compresslevel=9))
+    print(f"Wrote {OUTPUT_PATH} ({OUTPUT_PATH.stat().st_size} bytes)")
+
+
+if __name__ == "__main__":
+    main()
