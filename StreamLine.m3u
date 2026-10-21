@@ -507,3 +507,204 @@ http://190.83.2.182:8090/ESPN3/index.m3u8
 http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:0 type="stream"  group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png", ESPN Deportes HD (720p)
 http://168.228.44.241:9998/play/a0dz/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 Sports" tvg-id="UniMas.us@Central" tvg-logo="https://i.imgur.com/XptfcMe.png",UniMas Central
+http://190.197.41.183/Unimas/mono.m3u8
+
+#EXTINF:-1 group-title="🇺🇸 Sports" tvg-id="UniMas.us@WAMIDT" tvg-logo="https://i.imgur.com/XptfcMe.png",UniMas WAMI-DT
+http://190.197.41.183/Unimas/index.m3u8
+
+EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 1 FHD ◉
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17281
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 2 FHD ◉
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/980406
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 3 FHD ◉
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/980407
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="5.6s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 4 FHD ◉
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/311556
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 5 FHD ◉
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/311558
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 1 HD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/348297
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS 2 HD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/348298
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS 2 HD²
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17280
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS 3 HD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17279
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 5 HD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/311557
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 1 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955971
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 2 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955970
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 3 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955969
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 4 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955968
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 5 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955967
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 6 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955966
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 7 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955965
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 8 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955963
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.4s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 9 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1297854
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 10 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955962
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 11 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955961
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.8s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 12 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955960
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 13 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955959
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 14 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955958
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 15 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955957
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 16 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955956
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 17 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955955
+
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - TNT SPORTS | EVENT 18 HD :
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/955954
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/FORMULA/ff1.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",##### F1 - SKY SPORTS F1 #####
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/1311457
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/FORMULA/ff1.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",F1 - SKY SPORTS F1 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17289
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ FHD ◉
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/973137
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ HD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/973139
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 1 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974989
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 3 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974991
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 4 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974992
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 5 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974993
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.5s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 6 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974994
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 7 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974995
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 8 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974996
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 9 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974997
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 10 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974998
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="5.3s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 11 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/974999
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.8s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 12 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975000
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 13 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975001
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 14 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975002
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 15 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975003
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="4.4s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 17 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975005
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 19 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975007
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 22 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975010
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.5s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 23 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975011
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 24 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975012
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 27 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975015
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.8s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 28 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975016
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="3.5s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 29 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975017
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 30 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975018
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 31 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975019
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 32 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975020
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.4s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 33 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975021
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 34 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975022
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.5s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 35 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975023
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="TẠM ĐƯỢC" gau-open="4.2s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 36 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975024
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.3s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 37 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975025
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 38 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975026
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.1s" gau-resolution="1280x720" gau-bitrate="Không rõ",UK - SKY SPORTS+ 39 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975027
+
+#EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 40 FHD
+http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975028
