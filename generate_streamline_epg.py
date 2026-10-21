@@ -4,9 +4,11 @@
 from __future__ import annotations
 
 import gzip
+import sys
 from pathlib import Path
 from typing import Iterable
-from urllib.request import urlopen
+from urllib.error import HTTPError, URLError
+from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
 
 SOURCES = [
@@ -19,11 +21,17 @@ SOURCES = [
 ]
 
 OUTPUT_PATH = Path("StreamLine_epg.xml.gz")
+REQUEST_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "Accept": "application/xml, application/gzip, */*;q=0.8",
+    "Accept-Encoding": "gzip, deflate",
+}
 
 
 def fetch_xml_bytes(url: str) -> bytes:
     """Download and decode a remote .xml or .xml.gz file."""
-    with urlopen(url, timeout=60) as response:
+    request = Request(url, headers=REQUEST_HEADERS)
+    with urlopen(request, timeout=60) as response:
         payload = response.read()
 
     if url.lower().endswith(".gz"):
@@ -50,10 +58,16 @@ def merge_xmltv(files: Iterable[str]) -> bytes:
     channel_keys = set()
 
     for url in files:
-        raw = fetch_xml_bytes(url)
+        try:
+            raw = fetch_xml_bytes(url)
+        except (HTTPError, URLError, TimeoutError, OSError) as exc:
+            print(f"Skipping {url}: {exc}", file=sys.stderr)
+            continue
+
         try:
             doc = ET.fromstring(raw)
-        except ET.ParseError:
+        except ET.ParseError as exc:
+            print(f"Skipping {url}: invalid XML ({exc})", file=sys.stderr)
             continue
 
         for channel in doc.findall("./channel"):
@@ -73,6 +87,9 @@ def merge_xmltv(files: Iterable[str]) -> bytes:
                 continue
             program_keys.add(key)
             merged_root.append(programme)
+
+    if len(merged_root) == 0:
+        raise RuntimeError("No valid XMLTV data could be loaded from any source.")
 
     return b"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" + ET.tostring(merged_root, encoding="utf-8")
 
