@@ -1,87 +1,53 @@
-#!/usr/bin/env python3
-"""
-Consolidate multiple XMLTV EPG sources into a single StreamLine EPG archive.
-"""
+name: Generate StreamLine EPG
 
-from __future__ import annotations
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
 
-import gzip
-from pathlib import Path
-from typing import Iterable
-from urllib.request import urlopen
-from xml.etree import ElementTree as ET
+permissions:
+  contents: write
 
-SOURCES = [
-    "https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
-]
+jobs:
+  generate-streamline-epg:
+    runs-on: ubuntu-latest
 
-OUTPUT_PATH = Path("StreamLine_epg.xml.gz")
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-def fetch_xml_bytes(url: str) -> bytes:
-    with urlopen(url, timeout=60) as response:
-        payload = response.read()
+      - name: Generate StreamLine EPG
+        run: |
+          python3 generate_streamline_epg.py
 
-    if url.lower().endswith(".gz"):
-        try:
-            return gzip.decompress(payload)
-        except OSError:
-            return payload
+      - name: Validate output file
+        run: |
+          ls -lh StreamLine_epg.xml.gz
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('StreamLine_epg.xml.gz')
+          if not p.exists() or p.stat().st_size == 0:
+              raise SystemExit('StreamLine_epg.xml.gz is missing or empty')
+          print(f'Generated file size: {p.stat().st_size} bytes')
+          PY
 
-    return payload
+      - name: Commit and push generated EPG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          git add --all --force "StreamLine_epg.xml.gz"
 
-def merge_xmltv(files: Iterable[str]) -> bytes:
-    merged_root = ET.Element(
-        "tv",
-        {
-            "generator-info-name": "StreamLine EPG Consolidator",
-            "generator-info-url": "https://github.com/M3UCurator/IPTVList",
-            "source-url": ", ".join(files),
-        },
-    )
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
-    program_keys = set()
-    channel_keys = set()
-
-    for url in files:
-        raw = fetch_xml_bytes(url)
-        try:
-            doc = ET.fromstring(raw)
-        except ET.ParseError:
-            continue
-
-        for channel in doc.findall("./channel"):
-            cid = (channel.get("id") or "").strip()
-            if not cid or cid in channel_keys:
-                continue
-            channel_keys.add(cid)
-            merged_root.append(channel)
-
-        for programme in doc.findall("./programme"):
-            channel = programme.get("channel", "")
-            start = programme.get("start", "")
-            stop = programme.get("stop", "")
-            title = (programme.findtext("title") or "").strip()
-            key = (channel, start, stop, title)
-            if key in program_keys:
-                continue
-            program_keys.add(key)
-            merged_root.append(programme)
-
-    return b'<?xml version="1.0" encoding="UTF-8"?>\n' + ET.tostring(merged_root, encoding="utf-8")
-
-
-def main() -> None:
-    xml_bytes = merge_xmltv(SOURCES)
-    OUTPUT_PATH.write_bytes(gzip.compress(xml_bytes, compresslevel=9))
-    print(f"Wrote {OUTPUT_PATH} ({OUTPUT_PATH.stat().st_size} bytes)")
-
-
-if __name__ == "__main__":
-    main()
+          DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          git commit -m "chore: update StreamLine EPG ($DATE)"
+          git push origin HEAD:${GITHUB_REF_NAME}
