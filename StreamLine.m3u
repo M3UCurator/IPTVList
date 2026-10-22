@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/US_lite.xml.gz, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/UK_lite.xml.gz, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/Sports_guide.xml.gz" 
+#EXTM3U x-tvg-url="https://github.com/M3UCurator/IPTVList/raw/refs/heads/main/StreamLine_epg.xml.gz" 
 
 
 #EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1ᴴᴰ 🇿🇦 (720).s
