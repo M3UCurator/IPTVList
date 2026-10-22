@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T19:47:04Z"
+    "fetchedAt": "2026-10-22T22:59:56Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T19:47:07Z"
+    "fetchedAt": "2026-10-22T22:59:59Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T19:47:11Z"
+    "fetchedAt": "2026-10-22T23:00:03Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "zHzEshHcjLk",
-    "url": "https://www.youtube.com/watch?v=zHzEshHcjLk",
+    "videoId": "LNZU5jqkZbI",
+    "url": "https://www.youtube.com/watch?v=LNZU5jqkZbI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T19:47:15Z"
+    "fetchedAt": "2026-10-22T23:00:07Z"
   },
   {
     "name": "CNN",
@@ -65,9 +65,9 @@
     "url": "https://www.youtube.com/watch?v=o_PJ61ycYfM",
     "title": "Live: Trump to rally for Rep. Ashley Hinson in Iowa Senate race",
     "thumbnail": "https://i.ytimg.com/vi/o_PJ61ycYfM/maxresdefault.jpg?v=6ada591e",
-    "startedAt": "2026-10-22T23:00:00+00:00",
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T19:47:19Z"
+    "fetchedAt": "2026-10-22T23:00:11Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "35I4wyFqVTQ",
-    "url": "https://www.youtube.com/watch?v=35I4wyFqVTQ",
+    "videoId": "mDXzZV742_8",
+    "url": "https://www.youtube.com/watch?v=mDXzZV742_8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T19:47:23Z"
+    "fetchedAt": "2026-10-22T23:00:15Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "iPWJzxRt_Rs",
-    "url": "https://www.youtube.com/watch?v=iPWJzxRt_Rs",
+    "videoId": "fkbbUDbtJdo",
+    "url": "https://www.youtube.com/watch?v=fkbbUDbtJdo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T19:47:26Z"
+    "fetchedAt": "2026-10-22T23:00:19Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "vdJBtNri9l8",
-    "url": "https://www.youtube.com/watch?v=vdJBtNri9l8",
+    "videoId": "rFVCBfTIOUk",
+    "url": "https://www.youtube.com/watch?v=rFVCBfTIOUk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T19:47:30Z"
+    "fetchedAt": "2026-10-22T23:00:23Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": "https://i.ytimg.com/vi/r5Cf_u7AasY/maxresdefault.jpg",
     "startedAt": "2026-10-24T10:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-22T19:47:34Z"
+    "fetchedAt": "2026-10-22T23:00:27Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "H0rBz46HFDY",
-    "url": "https://www.youtube.com/watch?v=H0rBz46HFDY",
+    "videoId": "w9ptCInYpoo",
+    "url": "https://www.youtube.com/watch?v=w9ptCInYpoo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T19:47:38Z"
+    "fetchedAt": "2026-10-22T23:00:31Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "FsqKRuQjhtM",
-    "url": "https://www.youtube.com/watch?v=FsqKRuQjhtM",
+    "videoId": "EjBEkpJjmL4",
+    "url": "https://www.youtube.com/watch?v=EjBEkpJjmL4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T19:47:42Z"
+    "fetchedAt": "2026-10-22T23:00:35Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T19:47:45Z"
+    "fetchedAt": "2026-10-22T23:00:39Z"
   }
 ]
