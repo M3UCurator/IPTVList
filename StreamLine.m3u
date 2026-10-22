@@ -708,3 +708,72 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975027
 
 #EXTINF:-1 group-title="EU | UK | SKY SPORTS+" tvg-logo="https://go4.pw/UK/skyspns.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.2s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - SKY SPORTS+ 40 FHD
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975028
+
+#EXTINF:-1 group-title="Sports" , Setanta Sports 1 
+http://stream.mcquack.net/234/index.m3u8
+
+EXTINF:-1 group-title="Sports", Setanta Sports 2 
+http://stream.mcquack.net/235/index.m3u8
+
+#EXTINF:0 type="stream" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png", ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:0 type="stream" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png", ESPN 3 (1080p)
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:0 type="stream"  group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png", ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:0 type="stream"  group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png", ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/ca/TSN4.ca.png" group-title="Sports",TSN4 [FHD]
+http://109.104.153.220:80/TSN-4/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-name="Fox Sports 1" group-title="Sports" ,Fox Sports 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="Arena4.hu" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/hu/Arena4.hu.png" group-title="Sports",Arena4
+http://88.212.15.17/live/arena4/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN.us.png" group-title="Sports",ESPN [HD]
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN2.us.png" group-title="Sports",ESPN 2 [HD]
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-name="ESPN 2 HD" group-title="Sports" ,ESPN 2 HD
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Colombia" tvg-name="ESPN 2 Latin America Colombia" group-title="Sports" ,ESPN 2 Latin America Colombia
+http://190.61.47.54:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us@HD" tvg-name="ESPN HD" group-title="Sports",ESPN HD
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" tvg-name="ESPN Latin America Colombia" group-title="Sports" ,ESPN Latin America Colombia
+http://190.61.47.54:8000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN2LatinAmerica.us.png" group-title="Sports",ESPN 2 Latin America [HD]
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN3LatinAmerica.us.png" group-title="Sports",ESPN 3 Latin America [HD]
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN4LatinAmerica.us.png" group-title="Sports",ESPN 4 Latin America [HD]
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN5LatinAmerica.us.png" group-title="Sports",ESPN 5 Latin America [HD]
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN6LatinAmerica.us.png" group-title="Sports",ESPN 6 Latin America [HD]
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPN7LatinAmerica.us.png" group-title="Sports",ESPN 7 Latin America [HD]
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/ESPNLatinAmerica.us.png" group-title="Sports",ESPN Latin America [HD]
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2SK.sk" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Canal+ Sport 2 SK [FHD]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport3SK.sk" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Canal+ Sport 3 SK [FHD]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport4SK.sk" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Canal+ Sport 4 SK [FHD]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport5SK.sk" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Canal+ Sport 5 SK [FHD]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport6SK.sk" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Canal+ Sport 6 SK [FHD]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport7SK.sk" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Canal+ Sport 7 SK [FHD]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSport8SK.sk" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Canal+ Sport 8 SK [FHD]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-id="CanalPlusSportSK.sk" tvg-logo="https://raw.githubusercontent.com/iptv-org/api/master/data/categories/no-logo.png" group-title="Sports",Canal+ Sport SK [FHD]
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+
+
