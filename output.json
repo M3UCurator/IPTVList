@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-23T16:47:50Z"
+    "fetchedAt": "2026-10-23T20:13:26Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-23T16:47:53Z"
+    "fetchedAt": "2026-10-23T20:13:30Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-23T16:47:57Z"
+    "fetchedAt": "2026-10-23T20:13:34Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "qTXVwV6Gq-4",
-    "url": "https://www.youtube.com/watch?v=qTXVwV6Gq-4",
+    "videoId": "oaa4lp0iQrM",
+    "url": "https://www.youtube.com/watch?v=oaa4lp0iQrM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-23T16:48:00Z"
+    "fetchedAt": "2026-10-23T20:13:38Z"
   },
   {
     "name": "CNN",
@@ -63,11 +63,11 @@
     "live": true,
     "videoId": "037woJlfULQ",
     "url": "https://www.youtube.com/watch?v=037woJlfULQ",
-    "title": "Live: Trump to hold midterm rally in Fort Myers, FL for Rep. Byron Donalds",
-    "thumbnail": "https://i.ytimg.com/vi/037woJlfULQ/maxresdefault.jpg?v=6adb829e",
-    "startedAt": "2026-10-23T18:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-23T16:48:04Z"
+    "fetchedAt": "2026-10-23T20:13:42Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "INHhBpavSv0",
-    "url": "https://www.youtube.com/watch?v=INHhBpavSv0",
+    "videoId": "gLJVURhDcAQ",
+    "url": "https://www.youtube.com/watch?v=gLJVURhDcAQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-23T16:48:08Z"
+    "fetchedAt": "2026-10-23T20:13:46Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "92BM5e8I9hA",
-    "url": "https://www.youtube.com/watch?v=92BM5e8I9hA",
+    "videoId": "7BaKymT51AE",
+    "url": "https://www.youtube.com/watch?v=7BaKymT51AE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-23T16:48:12Z"
+    "fetchedAt": "2026-10-23T20:13:50Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "U2VRZiPmM8g",
-    "url": "https://www.youtube.com/watch?v=U2VRZiPmM8g",
+    "videoId": "9H2pBlCO_MI",
+    "url": "https://www.youtube.com/watch?v=9H2pBlCO_MI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-23T16:48:15Z"
+    "fetchedAt": "2026-10-23T20:13:54Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "khCRx9Uo4mY",
-    "url": "https://www.youtube.com/watch?v=khCRx9Uo4mY",
+    "videoId": "BEkawaKMHrM",
+    "url": "https://www.youtube.com/watch?v=BEkawaKMHrM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-23T16:48:19Z"
+    "fetchedAt": "2026-10-23T20:13:58Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "bGDkowZVpmE",
-    "url": "https://www.youtube.com/watch?v=bGDkowZVpmE",
+    "videoId": "dMJluXDsKu4",
+    "url": "https://www.youtube.com/watch?v=dMJluXDsKu4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-23T16:48:23Z"
+    "fetchedAt": "2026-10-23T20:14:01Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-23T16:48:27Z"
+    "fetchedAt": "2026-10-23T20:14:05Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-23T16:48:30Z"
+    "fetchedAt": "2026-10-23T20:14:09Z"
   }
 ]
