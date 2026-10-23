@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T22:59:56Z"
+    "fetchedAt": "2026-10-23T01:24:34Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T22:59:59Z"
+    "fetchedAt": "2026-10-23T01:24:38Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T23:00:03Z"
+    "fetchedAt": "2026-10-23T01:24:42Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "LNZU5jqkZbI",
-    "url": "https://www.youtube.com/watch?v=LNZU5jqkZbI",
+    "videoId": "_pW4vIdJsU0",
+    "url": "https://www.youtube.com/watch?v=_pW4vIdJsU0",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T23:00:07Z"
+    "fetchedAt": "2026-10-23T01:24:46Z"
   },
   {
     "name": "CNN",
@@ -63,11 +63,11 @@
     "live": true,
     "videoId": "o_PJ61ycYfM",
     "url": "https://www.youtube.com/watch?v=o_PJ61ycYfM",
-    "title": "Live: Trump to rally for Rep. Ashley Hinson in Iowa Senate race",
-    "thumbnail": "https://i.ytimg.com/vi/o_PJ61ycYfM/maxresdefault.jpg?v=6ada591e",
+    "title": null,
+    "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T23:00:11Z"
+    "fetchedAt": "2026-10-23T01:24:50Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "mDXzZV742_8",
-    "url": "https://www.youtube.com/watch?v=mDXzZV742_8",
+    "videoId": "MgnGGpjA7DY",
+    "url": "https://www.youtube.com/watch?v=MgnGGpjA7DY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T23:00:15Z"
+    "fetchedAt": "2026-10-23T01:24:54Z"
   },
   {
     "name": "DW News",
@@ -95,7 +95,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T23:00:19Z"
+    "fetchedAt": "2026-10-23T01:24:58Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "rFVCBfTIOUk",
-    "url": "https://www.youtube.com/watch?v=rFVCBfTIOUk",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "wfAYEzu1-ns",
+    "url": "https://www.youtube.com/watch?v=wfAYEzu1-ns",
+    "title": "Mornings | Friday 23 October 2026",
+    "thumbnail": "https://i.ytimg.com/vi/wfAYEzu1-ns/maxresdefault.jpg?v=6ad9c2ca",
+    "startedAt": "2026-10-23T05:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-22T23:00:23Z"
+    "fetchedAt": "2026-10-23T01:25:01Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": "https://i.ytimg.com/vi/r5Cf_u7AasY/maxresdefault.jpg",
     "startedAt": "2026-10-24T10:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-22T23:00:27Z"
+    "fetchedAt": "2026-10-23T01:25:05Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "w9ptCInYpoo",
-    "url": "https://www.youtube.com/watch?v=w9ptCInYpoo",
+    "videoId": "lqD3eSaVr0s",
+    "url": "https://www.youtube.com/watch?v=lqD3eSaVr0s",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T23:00:31Z"
+    "fetchedAt": "2026-10-23T01:25:09Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T23:00:35Z"
+    "fetchedAt": "2026-10-23T01:25:13Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-22T23:00:39Z"
+    "fetchedAt": "2026-10-23T01:25:17Z"
   }
 ]
