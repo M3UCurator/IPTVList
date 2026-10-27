@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "8XEEvtqOo9E",
-    "url": "https://www.youtube.com/watch?v=8XEEvtqOo9E",
+    "videoId": "htBnD0OwEPQ",
+    "url": "https://www.youtube.com/watch?v=htBnD0OwEPQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-27T19:51:54Z"
+    "fetchedAt": "2026-10-27T23:33:58Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "33zZZYzvWjE",
-    "url": "https://www.youtube.com/watch?v=33zZZYzvWjE",
+    "videoId": "owEDw2qO18Q",
+    "url": "https://www.youtube.com/watch?v=owEDw2qO18Q",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-27T19:51:58Z"
+    "fetchedAt": "2026-10-27T23:34:02Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-27T19:52:01Z"
+    "fetchedAt": "2026-10-27T23:34:06Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "lTOzNAj9fJU",
-    "url": "https://www.youtube.com/watch?v=lTOzNAj9fJU",
+    "videoId": "qLXSvxal-m4",
+    "url": "https://www.youtube.com/watch?v=qLXSvxal-m4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-27T19:52:05Z"
+    "fetchedAt": "2026-10-27T23:34:10Z"
   },
   {
     "name": "CNN",
@@ -63,11 +63,11 @@
     "live": true,
     "videoId": "08EAaKvF678",
     "url": "https://www.youtube.com/watch?v=08EAaKvF678",
-    "title": "Live: With a week to go, Trump campaigns in Texas",
-    "thumbnail": "https://i.ytimg.com/vi/08EAaKvF678/maxresdefault.jpg?v=6ae0a256",
-    "startedAt": "2026-10-27T23:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-27T19:52:09Z"
+    "fetchedAt": "2026-10-27T23:34:14Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "WujcVk7uowA",
-    "url": "https://www.youtube.com/watch?v=WujcVk7uowA",
+    "videoId": "ML9WMf-vGhs",
+    "url": "https://www.youtube.com/watch?v=ML9WMf-vGhs",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-27T19:52:12Z"
+    "fetchedAt": "2026-10-27T23:34:18Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "IPYX01axbD0",
-    "url": "https://www.youtube.com/watch?v=IPYX01axbD0",
-    "title": "Live Netanyahu vs Eisenkot: What do the exit polls tell us? | DW News",
-    "thumbnail": "https://i.ytimg.com/vi/IPYX01axbD0/maxresdefault.jpg?v=6ae0fe10",
+    "videoId": "x0WYm_QnLBw",
+    "url": "https://www.youtube.com/watch?v=x0WYm_QnLBw",
+    "title": null,
+    "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-27T19:52:16Z"
+    "fetchedAt": "2026-10-27T23:34:22Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "KijKHLoBw7I",
-    "url": "https://www.youtube.com/watch?v=KijKHLoBw7I",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "PKnWzu5u6iA",
+    "url": "https://www.youtube.com/watch?v=PKnWzu5u6iA",
+    "title": "Mornings with Frost | Wednesday 28 October",
+    "thumbnail": "https://i.ytimg.com/vi/PKnWzu5u6iA/maxresdefault.jpg?v=6ae0fa71",
+    "startedAt": "2026-10-28T06:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-27T19:52:20Z"
+    "fetchedAt": "2026-10-27T23:34:25Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "yOaaOt7b4Gc",
-    "url": "https://www.youtube.com/watch?v=yOaaOt7b4Gc",
+    "videoId": "6Iwv2iJLjHI",
+    "url": "https://www.youtube.com/watch?v=6Iwv2iJLjHI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-27T19:52:23Z"
+    "fetchedAt": "2026-10-27T23:34:30Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "_DasV415cps",
-    "url": "https://www.youtube.com/watch?v=_DasV415cps",
+    "videoId": "t0-d_p9chDg",
+    "url": "https://www.youtube.com/watch?v=t0-d_p9chDg",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-27T19:52:27Z"
+    "fetchedAt": "2026-10-27T23:34:33Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-27T19:52:31Z"
+    "fetchedAt": "2026-10-27T23:34:38Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-27T19:52:34Z"
+    "fetchedAt": "2026-10-27T23:34:41Z"
   }
 ]
