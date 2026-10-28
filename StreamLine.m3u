@@ -3,9 +3,9 @@
 
 #EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZATV", SABC 1ᴴᴰ 🇿🇦 (720).s
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="ZATV", SABC 2ᴴᴰ 🇿🇦 (720).s
+#EXTINF:-1 tvg-chno="002" tvg-id="" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="ZATV", SABC 2ᴴᴰ 🇿🇦 (720).s
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="002" tvg-id="SABC.3.HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="ZATV", SABC 3 🇿🇦 (HD).s
+#EXTINF:-1 tvg-chno="003" tvg-id="SABC.3.HD.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="ZATV", SABC 3 🇿🇦 (HD).s
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZATV", SABC Newsᴴᴰ 🇿🇦 (720).s
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
