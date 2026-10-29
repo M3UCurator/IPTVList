@@ -13,7 +13,7 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="006" tvg-id="SABC.Education.za" group-title="ZATV" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/SABC-Education-Logo-Vector.svg-.png" , SABC Educationᴴᴰ (720).s
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="007" tvg-id="24.7.Dummy.us" group-title="ZATV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" , Mindset Learn 🇿🇦 (576).s
+#EXTINF:-1 tvg-chno="007" tvg-id="Mindset.za" group-title="ZATV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" , Mindset Learn 🇿🇦 (576).s
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 
 
@@ -71,16 +71,17 @@ http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19185/index.m3u8
 http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="UKTV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true",ITV 3
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="ITV3.HD.uk" group-title="UKTV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true",ITV 3
 #http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
 http://81.137.213.119:4201/bysid/8294
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="" group-title="UKTV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true",ITV 4
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="ITV4.HD.uk" group-title="UKTV" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true",ITV 4
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1118
+
 #EXTINF:-1 group-title="TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" ,  CBS TV
 http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
-#EXTINF:-1 tvg-chno="" tvg-id="USANetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"  group-title="TV", USA Network
+#EXTINF:-1 tvg-chno="" tvg-id="USA.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"  group-title="TV", USA Network
 http://4.30.180.36:8420/usa/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true",  NBCᴴᴰ (720)
