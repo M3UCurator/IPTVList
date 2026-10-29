@@ -505,13 +505,13 @@ http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-name="AS3 Sport TV (1080p)" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="Sports",AS3 Sport TV (1080p)
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 
-#EXTINF:0 type="stream" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png", ESPN (1080p)
+#EXTINF:-1  group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png", ESPN (1080p)
 http://186.148.163.17:8000/play/a0ay/index.m3u8
-#EXTINF:0 type="stream" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png", ESPN 3 (1080p)
+#EXTINF:-1 group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png", ESPN 3 (1080p)
 http://190.83.2.182:8090/ESPN3/index.m3u8
-#EXTINF:0 type="stream"  group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png", ESPN 4 (1080p)
+#EXTINF:-1 group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png", ESPN 4 (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:0 type="stream"  group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png", ESPN Deportes HD (720p)
+#EXTINF:-1 group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png", ESPN Deportes HD (720p)
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 #EXTINF:-1 group-title="🇺🇸 Sports" tvg-id="UniMas.us@Central" tvg-logo="https://i.imgur.com/XptfcMe.png",UniMas Central
@@ -520,7 +520,7 @@ http://190.197.41.183/Unimas/mono.m3u8
 #EXTINF:-1 group-title="🇺🇸 Sports" tvg-id="UniMas.us@WAMIDT" tvg-logo="https://i.imgur.com/XptfcMe.png",UniMas WAMI-DT
 http://190.197.41.183/Unimas/index.m3u8
 
-EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 1 FHD ◉
+#EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 1 FHD ◉
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17281
 
 #EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="2.0s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 2 FHD ◉
@@ -718,7 +718,7 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/975028
 #EXTINF:-1 group-title="Sports" , Setanta Sports 1 
 http://stream.mcquack.net/234/index.m3u8
 
-EXTINF:-1 group-title="Sports", Setanta Sports 2 
+#EXTINF:-1 group-title="Sports", Setanta Sports 2 
 http://stream.mcquack.net/235/index.m3u8
 
 #EXTINF:0 type="stream" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png", ESPN (1080p)
