@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-30T22:48:45Z"
+    "fetchedAt": "2026-10-31T02:03:40Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-30T22:48:49Z"
+    "fetchedAt": "2026-10-31T02:03:43Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-30T22:48:52Z"
+    "fetchedAt": "2026-10-31T02:03:47Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "RF7cpzzjsNM",
-    "url": "https://www.youtube.com/watch?v=RF7cpzzjsNM",
+    "videoId": "lOnYUMxff6g",
+    "url": "https://www.youtube.com/watch?v=lOnYUMxff6g",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-30T22:48:57Z"
+    "fetchedAt": "2026-10-31T02:03:50Z"
   },
   {
     "name": "CNN",
@@ -63,11 +63,11 @@
     "live": true,
     "videoId": "4TgKwV9GsEQ",
     "url": "https://www.youtube.com/watch?v=4TgKwV9GsEQ",
-    "title": "Live: With four days to go, Trump campaigns in FL for Republican candidates",
-    "thumbnail": "https://i.ytimg.com/vi/4TgKwV9GsEQ/maxresdefault.jpg?v=6ae4b12c",
-    "startedAt": "2026-10-30T23:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-30T22:49:01Z"
+    "fetchedAt": "2026-10-31T02:03:54Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-30T22:49:05Z"
+    "fetchedAt": "2026-10-31T02:03:58Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "cBuERnj-Blw",
-    "url": "https://www.youtube.com/watch?v=cBuERnj-Blw",
+    "videoId": "KN9sCUXYDAM",
+    "url": "https://www.youtube.com/watch?v=KN9sCUXYDAM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-30T22:49:09Z"
+    "fetchedAt": "2026-10-31T02:04:02Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "MvG8xLpfgtU",
-    "url": "https://www.youtube.com/watch?v=MvG8xLpfgtU",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "HKwyLEEtduk",
+    "url": "https://www.youtube.com/watch?v=HKwyLEEtduk",
+    "title": "Mornings with Jones | Saturday 31 October",
+    "thumbnail": "https://i.ytimg.com/vi/HKwyLEEtduk/maxresdefault.jpg?v=6ae48495",
+    "startedAt": "2026-10-31T06:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-10-30T22:49:13Z"
+    "fetchedAt": "2026-10-31T02:04:06Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "pBffF-TruRM",
-    "url": "https://www.youtube.com/watch?v=pBffF-TruRM",
+    "videoId": "-tG2SfuufBA",
+    "url": "https://www.youtube.com/watch?v=-tG2SfuufBA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-30T22:49:16Z"
+    "fetchedAt": "2026-10-31T02:04:10Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "kg8uHMH2uUM",
-    "url": "https://www.youtube.com/watch?v=kg8uHMH2uUM",
+    "videoId": "4v8Ekt_MxPo",
+    "url": "https://www.youtube.com/watch?v=4v8Ekt_MxPo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-30T22:49:20Z"
+    "fetchedAt": "2026-10-31T02:04:14Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-30T22:49:24Z"
+    "fetchedAt": "2026-10-31T02:04:18Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-10-30T22:49:27Z"
+    "fetchedAt": "2026-10-31T02:04:21Z"
   }
 ]
