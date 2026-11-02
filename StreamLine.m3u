@@ -91,6 +91,9 @@ http://4.30.180.36:8420/cbs/index.m3u8?token=test
 #EXTINF:-1 tvg-chno="" tvg-id="USA.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"  group-title="US", USA Network 🇺🇸
 http://4.30.180.36:8420/usa/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="" tvg-name="USA Network" tvg-logo="https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6" group-title="US"  tvg-logo="https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6", USA Network 🇺🇸
+https://tvsen6.aynaott.com/usa/index.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" group-title="US",  NBC 🇺🇸
 #https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
 http://4.30.180.36:8420/nbc/index.m3u8?token=test
@@ -518,6 +521,142 @@ http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png", ESPN Deportes HD (720p)
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports News FHD 50fps
+http://lordstreams.live:80/live/9857855271/8369553594/276912.ts
+
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports News HD
+http://lordstreams.live:80/live/9857855271/8369553594/276911.ts
+
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports News SD
+http://lordstreams.live:80/live/9857855271/8369553594/276910.ts
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Main Event FHD 50fps
+http://lordstreams.live:80/live/9857855271/8369553594/276918.ts
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Main Event HD
+http://lordstreams.live:80/live/9857855271/8369553594/276917.ts
+
+
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest?cb=20200924152526" group-title="UK | SPORTS",UK: Sky Sports Football FHD 50fps
+http://lordstreams.live:80/live/9857855271/8369553594/276924.ts
+
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest?cb=20200924152526" group-title="UK | SPORTS",UK: Sky Sports Football HD
+http://lordstreams.live:80/live/9857855271/8369553594/276923.ts
+
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Football SD
+http://lordstreams.live:80/live/9857855271/8369553594/276922.ts
+
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UK: Sky Sports Premier League FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Sky_Sports_Premier_League.svg/revision/latest?cb=20170717173017" group-title="UK | SPORTS",UK: Sky Sports Premier League FHD 50fps
+http://lordstreams.live:80/live/9857855271/8369553594/276906.ts
+
+#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Premier League HD
+http://lordstreams.live:80/live/9857855271/8369553594/276905.ts
+
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports F1 FHD 50fps
+http://lordstreams.live:80/live/9857855271/8369553594/746777.ts
+
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports F1 HD
+http://lordstreams.live:80/live/9857855271/8369553594/746774.ts
+
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports F1 SD
+http://lordstreams.live:80/live/9857855271/8369553594/746773.ts
+
+
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Cricket FHD 50fps
+http://lordstreams.live:80/live/9857855271/8369553594/276930.ts
+
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Cricket HD
+http://lordstreams.live:80/live/9857855271/8369553594/276929.ts
+
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Cricket SD
+http://lordstreams.live:80/live/9857855271/8369553594/276928.ts
+
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Golf FHD 50fps
+http://lordstreams.live:80/live/9857855271/8369553594/276921.ts
+
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Golf HD
+http://lordstreams.live:80/live/9857855271/8369553594/276920.ts
+
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Golf SD
+http://lordstreams.live:80/live/9857855271/8369553594/276919.ts
+
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Mix FHD 50fps
+http://lordstreams.live:80/live/9857855271/8369553594/276915.ts
+
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Mix HD
+http://lordstreams.live:80/live/9857855271/8369553594/276914.ts
+
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Mix SD
+http://lordstreams.live:80/live/9857855271/8369553594/276913.ts
+
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sports Action FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Action FHD 50fps
+http://lordstreams.live:80/live/9857855271/8369553594/276909.ts
+
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sports Action HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Action HD
+http://lordstreams.live:80/live/9857855271/8369553594/276908.ts
+
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sports Action SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Action SD
+http://lordstreams.live:80/live/9857855271/8369553594/276907.ts
+
+#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="UK: Sky Sports + FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports + FHD 50fps
+http://lordstreams.live:80/live/9857855271/8369553594/276933.ts
+
+
+#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="UK: Sky Sports + HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports + HD
+http://lordstreams.live:80/live/9857855271/8369553594/276932.ts
+
+#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="UK: Sky Sports + SD" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png" group-title="UK | SPORTS",UK: Sky Sports + SD
+http://lordstreams.live:80/live/9857855271/8369553594/276931.ts
+
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="UK: Sky Sports Tennis FHD 50fps" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Tennis FHD 50fps
+http://lordstreams.live:80/live/9857855271/8369553594/318045.ts
+
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="UK: Sky Sports Tennis HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Tennis HD
+http://lordstreams.live:80/live/9857855271/8369553594/318044.ts
+
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="UK: Sky Sports Tennis SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Sky_Sports_2025.svg/revision/latest/scale-to-width-down/78?cb=20250729202917" group-title="UK | SPORTS",UK: Sky Sports Tennis SD
+http://lordstreams.live:80/live/9857855271/8369553594/318043.ts
+
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 FHD 50FPS
+http://lordstreams.live:80/live/9857855271/8369553594/276802.ts
+
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="UK: TNT Sports 1 HD" tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="UK | SPORTS",UK: TNT Sports 1 HD
+http://lordstreams.live:80/live/9857855271/8369553594/856217.ts
+
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="UK: TNT Sport 1 SD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 1 SD
+http://lordstreams.live:80/live/9857855271/8369553594/276899.ts
+
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="UK: TNT Sport 2 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 2 FHD 50FPS
+http://lordstreams.live:80/live/9857855271/8369553594/276801.ts
+
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="UK: TNT Sport 2 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 2 FHD 50FPS
+http://lordstreams.live:80/live/9857855271/8369553594/276801.ts
+
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="UK: TNT Sport 3 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 3 FHD 50FPS
+http://lordstreams.live:80/live/9857855271/8369553594/276800.ts
+
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="UK: TNT Sport 3 HD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 3 HD
+http://lordstreams.live:80/live/9857855271/8369553594/276895.ts
+
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="UK: TNT Sport 3 SD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 3 SD
+http://lordstreams.live:80/live/9857855271/8369553594/276894.ts
+
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="UK: TNT Sport 4 FHD 50FPS" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 4 FHD 50FPS
+http://lordstreams.live:80/live/9857855271/8369553594/276799.ts
+
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="UK: TNT Sport 4 HD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 4 HD
+http://lordstreams.live:80/live/9857855271/8369553594/276892.ts
+
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="UK: TNT Sport 4 SD" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 4 SD
+http://lordstreams.live:80/live/9857855271/8369553594/276891.ts
+
+#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="UK: TNT Sport 5" tvg-logo="https://i.eurosport.com/2023/02/21/3562375-72556668-2560-1440.png" group-title="UK | SPORTS",UK: TNT Sport 5
+http://lordstreams.live:80/live/9857855271/8369553594/276890.ts
+
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MUTV_logo.png/revision/latest?cb=20170927164546" group-title="UK | SPORTS",UK: MUTV HD
+http://lordstreams.live:80/live/9857855271/8369553594/276872.ts
+
+
 
 #EXTINF:-1 group-title="EU | UK | TNT SPORTS" tvg-logo="https://go4.pw/UK/tntsports.png" tvg-expire="04/04/2027" gau-status="MƯỢT" gau-open="1.9s" gau-resolution="1920x1080" gau-bitrate="Không rõ",UK - TNT SPORTS 1 FHD ◉
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/17281
@@ -562,6 +701,11 @@ http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/973137
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/973139
 
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN PPV HD" tvg-logo="https://logo.m3uassets.com/daznppv.png" group-title="UK | SPORTS",UK: DAZN PPV HD
+http://lordstreams.live:80/live/9857855271/8369553594/856210.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: DAZN PPV SD" tvg-logo="https://logo.m3uassets.com/daznppv.png" group-title="UK | SPORTS",UK: DAZN PPV SD
+http://lordstreams.live:80/live/9857855271/8369553594/856209.ts
 
 #EXTINF:-1 group-title="Sports" , Setanta Sports 1 
 http://stream.mcquack.net/234/index.m3u8
