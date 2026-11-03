@@ -37,7 +37,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-id="" tvg-language="English" tvg-logo="https://i.imgur.com/QY4B8Hg.png" group-title="News", RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title="News" tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRT_World.svg",TRT Worldᴴᴰ
+#EXTINF:-1 tvg-chno="" group-title="News" tvg-id="TRTWorld.tr" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/turkey/trt-world-hd-tr.png?raw=true",TRT Worldᴴᴰ
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png", DW
@@ -46,7 +46,7 @@ https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="News", Euronewsᴴᴰ
 https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="France24.fr@English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News", France24
+#EXTINF:-1 tvg-chno="" tvg-id="France24.fr@English" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/france/france-24-fr.png?raw=true" group-title="News", France24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera English 
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
