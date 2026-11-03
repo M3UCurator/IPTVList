@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "8XEEvtqOo9E",
-    "url": "https://www.youtube.com/watch?v=8XEEvtqOo9E",
+    "videoId": "ogBeTY13bIA",
+    "url": "https://www.youtube.com/watch?v=ogBeTY13bIA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-02T22:25:32Z"
+    "fetchedAt": "2026-11-03T03:37:30Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-02T22:25:35Z"
+    "fetchedAt": "2026-11-03T03:37:34Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-02T22:25:39Z"
+    "fetchedAt": "2026-11-03T03:37:38Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "h1rYHE3vS4g",
-    "url": "https://www.youtube.com/watch?v=h1rYHE3vS4g",
+    "videoId": "JAfSyPh4AW4",
+    "url": "https://www.youtube.com/watch?v=JAfSyPh4AW4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-02T22:25:43Z"
+    "fetchedAt": "2026-11-03T03:37:41Z"
   },
   {
     "name": "CNN",
@@ -63,11 +63,11 @@
     "live": true,
     "videoId": "XMonsb21rMQ",
     "url": "https://www.youtube.com/watch?v=XMonsb21rMQ",
-    "title": "Live: Talarico's final rally before midterm election day",
-    "thumbnail": "https://i.ytimg.com/vi/XMonsb21rMQ/maxresdefault.jpg?v=6ae8a6de",
-    "startedAt": "2026-11-03T01:00:00+00:00",
-    "viewers": null,
-    "fetchedAt": "2026-11-02T22:25:46Z"
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
+    "viewers": 151,
+    "fetchedAt": "2026-11-03T03:37:45Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "zIWXaGgZW34",
-    "url": "https://www.youtube.com/watch?v=zIWXaGgZW34",
+    "videoId": "gCNeDWCI0vo",
+    "url": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-02T22:25:50Z"
+    "fetchedAt": "2026-11-03T03:37:49Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ToLA6bjteBw",
-    "url": "https://www.youtube.com/watch?v=ToLA6bjteBw",
+    "videoId": "_bEbsHcbkd8",
+    "url": "https://www.youtube.com/watch?v=_bEbsHcbkd8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-02T22:25:54Z"
+    "fetchedAt": "2026-11-03T03:37:53Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "HyROtQySlLM",
-    "url": "https://www.youtube.com/watch?v=HyROtQySlLM",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "xiTP8JMNsxI",
+    "url": "https://www.youtube.com/watch?v=xiTP8JMNsxI",
+    "title": "Mornings with Ridge and Frost | Tuesday 3 November 2026",
+    "thumbnail": "https://i.ytimg.com/vi/xiTP8JMNsxI/maxresdefault.jpg?v=6ae8c9cb",
+    "startedAt": "2026-11-03T06:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-02T22:25:58Z"
+    "fetchedAt": "2026-11-03T03:37:57Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "uaFu4JbcmyI",
-    "url": "https://www.youtube.com/watch?v=uaFu4JbcmyI",
+    "videoId": "iQu6xoeOdm8",
+    "url": "https://www.youtube.com/watch?v=iQu6xoeOdm8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-02T22:26:02Z"
+    "fetchedAt": "2026-11-03T03:38:01Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ic93q3fN7ik",
-    "url": "https://www.youtube.com/watch?v=ic93q3fN7ik",
-    "title": null,
-    "thumbnail": null,
+    "videoId": "XB19P1nUlfI",
+    "url": "https://www.youtube.com/watch?v=XB19P1nUlfI",
+    "title": "LIVE: Senator Jon Ossoff, Georgia Democrats campaign ahead of midterms",
+    "thumbnail": "https://i.ytimg.com/vi/XB19P1nUlfI/maxresdefault.jpg",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-02T22:26:06Z"
+    "fetchedAt": "2026-11-03T03:38:04Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-02T22:26:10Z"
+    "fetchedAt": "2026-11-03T03:38:08Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-02T22:26:14Z"
+    "fetchedAt": "2026-11-03T03:38:12Z"
   }
 ]
