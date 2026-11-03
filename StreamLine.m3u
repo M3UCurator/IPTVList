@@ -86,10 +86,10 @@ http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1118
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="US" , CBS TV 🇺🇸
 http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
-#EXTINF:-1 tvg-chno="" tvg-id="USA.Network.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"  group-title="US", USA Network 🇺🇸
+#EXTINF:-1 tvg-chno="" tvg-id="USA.Network.HD.us2" tvg-logo="https://i.imgur.com/a7ZwpAe.png"  group-title="US", USA Network 🇺🇸
 http://4.30.180.36:8420/usa/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="" tvg-name="USA Network" tvg-logo="https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6" group-title="US"  tvg-logo="https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6", USA Network 🇺🇸
+#EXTINF:-1 tvg-id="" tvg-name="USA Network" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="US"  , USA Network 🇺🇸
 https://tvsen6.aynaott.com/usa/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" group-title="US",  NBC 🇺🇸
@@ -315,7 +315,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 
 
-#EXTINF:-1  tvg-chno=""  tvg-id="SkySp.PL.HD.uk" tvg-logo="http://epg.pw/media/images/epg/2024/06/08/20240608031258827840_98.png" group-title="Sports", SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1  tvg-chno=""  tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png"  group-title="Sports", SKY SPORTS PREMIER LEAGUE
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=ZnYpgcBhGzCP5L-g20_r5Q&e=2070148393&scheme=https
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", Star Sports 1
