@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ogBeTY13bIA",
-    "url": "https://www.youtube.com/watch?v=ogBeTY13bIA",
+    "videoId": "NLytYOa3sRQ",
+    "url": "https://www.youtube.com/watch?v=NLytYOa3sRQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-03T03:37:30Z"
+    "fetchedAt": "2026-11-03T11:40:23Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "33zZZYzvWjE",
-    "url": "https://www.youtube.com/watch?v=33zZZYzvWjE",
+    "videoId": "vHST5iX6a_o",
+    "url": "https://www.youtube.com/watch?v=vHST5iX6a_o",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-03T03:37:34Z"
+    "fetchedAt": "2026-11-03T11:40:27Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-03T03:37:38Z"
+    "fetchedAt": "2026-11-03T11:40:30Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "JAfSyPh4AW4",
-    "url": "https://www.youtube.com/watch?v=JAfSyPh4AW4",
+    "videoId": "SaIv-cpDRpA",
+    "url": "https://www.youtube.com/watch?v=SaIv-cpDRpA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-03T03:37:41Z"
+    "fetchedAt": "2026-11-03T11:40:34Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "XMonsb21rMQ",
-    "url": "https://www.youtube.com/watch?v=XMonsb21rMQ",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
-    "viewers": 151,
-    "fetchedAt": "2026-11-03T03:37:45Z"
+    "videoId": "P0XeDwPCJs0",
+    "url": "https://www.youtube.com/watch?v=P0XeDwPCJs0",
+    "title": "Live: Midterm candidate HQ feeds & speeches as election results come in",
+    "thumbnail": "https://i.ytimg.com/vi/P0XeDwPCJs0/maxresdefault.jpg?v=6ae95905",
+    "startedAt": "2026-11-04T00:00:00+00:00",
+    "viewers": null,
+    "fetchedAt": "2026-11-03T11:40:38Z"
   },
   {
     "name": "Al Jazeera English",
@@ -80,8 +80,8 @@
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": null,
-    "fetchedAt": "2026-11-03T03:37:49Z"
+    "viewers": 10956,
+    "fetchedAt": "2026-11-03T11:40:41Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "_bEbsHcbkd8",
-    "url": "https://www.youtube.com/watch?v=_bEbsHcbkd8",
+    "videoId": "G85gh5wHzuA",
+    "url": "https://www.youtube.com/watch?v=G85gh5wHzuA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-03T03:37:53Z"
+    "fetchedAt": "2026-11-03T11:40:45Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "xiTP8JMNsxI",
-    "url": "https://www.youtube.com/watch?v=xiTP8JMNsxI",
-    "title": "Mornings with Ridge and Frost | Tuesday 3 November 2026",
-    "thumbnail": "https://i.ytimg.com/vi/xiTP8JMNsxI/maxresdefault.jpg?v=6ae8c9cb",
-    "startedAt": "2026-11-03T06:00:00+00:00",
+    "videoId": "aPxWXFjcYXg",
+    "url": "https://www.youtube.com/watch?v=aPxWXFjcYXg",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-03T03:37:57Z"
+    "fetchedAt": "2026-11-03T11:40:49Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "iQu6xoeOdm8",
-    "url": "https://www.youtube.com/watch?v=iQu6xoeOdm8",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "29Cwj-e8pks",
+    "url": "https://www.youtube.com/watch?v=29Cwj-e8pks",
+    "title": "🔴EN DIRECT - Midterms 2026 : les Américains aux urnes pour décider de l'avenir de Donald Trump",
+    "thumbnail": "https://i.ytimg.com/vi/29Cwj-e8pks/maxresdefault.jpg?v=6ae9c514",
+    "startedAt": "2026-11-03T23:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-03T03:38:01Z"
+    "fetchedAt": "2026-11-03T11:40:53Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "XB19P1nUlfI",
-    "url": "https://www.youtube.com/watch?v=XB19P1nUlfI",
-    "title": "LIVE: Senator Jon Ossoff, Georgia Democrats campaign ahead of midterms",
-    "thumbnail": "https://i.ytimg.com/vi/XB19P1nUlfI/maxresdefault.jpg",
+    "videoId": "LokrBxbKST8",
+    "url": "https://www.youtube.com/watch?v=LokrBxbKST8",
+    "title": null,
+    "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-03T03:38:04Z"
+    "fetchedAt": "2026-11-03T11:40:56Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-03T03:38:08Z"
+    "fetchedAt": "2026-11-03T11:41:00Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-03T03:38:12Z"
+    "fetchedAt": "2026-11-03T11:41:04Z"
   }
 ]
