@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-04T06:52:33Z"
+    "fetchedAt": "2026-11-04T15:10:41Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "33zZZYzvWjE",
-    "url": "https://www.youtube.com/watch?v=33zZZYzvWjE",
+    "videoId": "CsZ_5mhynbY",
+    "url": "https://www.youtube.com/watch?v=CsZ_5mhynbY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-04T06:52:37Z"
+    "fetchedAt": "2026-11-04T15:10:45Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-04T06:52:40Z"
+    "fetchedAt": "2026-11-04T15:10:48Z"
   },
   {
     "name": "BBC News",
@@ -52,8 +52,8 @@
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": null,
-    "fetchedAt": "2026-11-04T06:52:44Z"
+    "viewers": 4860,
+    "fetchedAt": "2026-11-04T15:10:52Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "jj_FxRM-8iA",
-    "url": "https://www.youtube.com/watch?v=jj_FxRM-8iA",
+    "videoId": "Rv_JpwwtEjg",
+    "url": "https://www.youtube.com/watch?v=Rv_JpwwtEjg",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-04T06:52:49Z"
+    "fetchedAt": "2026-11-04T15:10:56Z"
   },
   {
     "name": "Al Jazeera English",
@@ -80,8 +80,8 @@
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": null,
-    "fetchedAt": "2026-11-04T06:52:52Z"
+    "viewers": 12546,
+    "fetchedAt": "2026-11-04T15:11:01Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "1hoaSIpKOfU",
-    "url": "https://www.youtube.com/watch?v=1hoaSIpKOfU",
-    "title": "Live: Democrats shock Republicans in nationwide election sweep | DW News",
-    "thumbnail": "https://i.ytimg.com/vi/1hoaSIpKOfU/maxresdefault.jpg?v=6aead211",
-    "startedAt": "2026-11-04T07:00:00+00:00",
+    "videoId": "bzru_xBjZ3I",
+    "url": "https://www.youtube.com/watch?v=bzru_xBjZ3I",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-04T06:52:56Z"
+    "fetchedAt": "2026-11-04T15:11:05Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "WUTDiO_fXdE",
-    "url": "https://www.youtube.com/watch?v=WUTDiO_fXdE",
+    "videoId": "SbcKMHAMGwg",
+    "url": "https://www.youtube.com/watch?v=SbcKMHAMGwg",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 3679,
-    "fetchedAt": "2026-11-04T06:53:00Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-04T15:11:09Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "HvZt-nh9sGg",
-    "url": "https://www.youtube.com/watch?v=HvZt-nh9sGg",
+    "videoId": "z6M702RoxkI",
+    "url": "https://www.youtube.com/watch?v=z6M702RoxkI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 1465,
-    "fetchedAt": "2026-11-04T06:53:04Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-04T15:11:13Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "kPheGIFg0mA",
-    "url": "https://www.youtube.com/watch?v=kPheGIFg0mA",
+    "videoId": "dHkuksurAZk",
+    "url": "https://www.youtube.com/watch?v=dHkuksurAZk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 1353,
-    "fetchedAt": "2026-11-04T06:53:08Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-04T15:11:17Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "QvEuMFq8-JA",
-    "url": "https://www.youtube.com/watch?v=QvEuMFq8-JA",
+    "videoId": "Zdm1DoIV7SI",
+    "url": "https://www.youtube.com/watch?v=Zdm1DoIV7SI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-04T06:53:11Z"
+    "fetchedAt": "2026-11-04T15:11:21Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Bqvm0UZ4c7w",
-    "url": "https://www.youtube.com/watch?v=Bqvm0UZ4c7w",
+    "videoId": "XwNN7-8hsZM",
+    "url": "https://www.youtube.com/watch?v=XwNN7-8hsZM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-04T06:53:15Z"
+    "fetchedAt": "2026-11-04T15:11:24Z"
   }
 ]
