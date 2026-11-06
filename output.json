@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T03:33:05Z"
+    "fetchedAt": "2026-11-06T11:52:16Z"
   },
   {
     "name": "Newslive SA",
@@ -24,8 +24,8 @@
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 642,
-    "fetchedAt": "2026-11-06T03:33:09Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-06T11:52:20Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T03:33:13Z"
+    "fetchedAt": "2026-11-06T11:52:23Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "p0_FCP21-mg",
-    "url": "https://www.youtube.com/watch?v=p0_FCP21-mg",
+    "videoId": "BuZFQyDaLZw",
+    "url": "https://www.youtube.com/watch?v=BuZFQyDaLZw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T03:33:16Z"
+    "fetchedAt": "2026-11-06T11:52:27Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T03:33:20Z"
+    "fetchedAt": "2026-11-06T11:52:30Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "gCNeDWCI0vo",
-    "url": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
+    "videoId": "W9cR6ylNl6w",
+    "url": "https://www.youtube.com/watch?v=W9cR6ylNl6w",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T03:33:24Z"
+    "fetchedAt": "2026-11-06T11:52:34Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "7UHX25BCJKk",
-    "url": "https://www.youtube.com/watch?v=7UHX25BCJKk",
+    "videoId": "YWLO8Y7rupY",
+    "url": "https://www.youtube.com/watch?v=YWLO8Y7rupY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T03:33:27Z"
+    "fetchedAt": "2026-11-06T11:52:38Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Ber_fjQ3u7I",
-    "url": "https://www.youtube.com/watch?v=Ber_fjQ3u7I",
+    "videoId": "VqBd0AUhv8k",
+    "url": "https://www.youtube.com/watch?v=VqBd0AUhv8k",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T03:33:31Z"
+    "fetchedAt": "2026-11-06T11:52:41Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "0XXU57yhFTA",
-    "url": "https://www.youtube.com/watch?v=0XXU57yhFTA",
+    "videoId": "E9cJSxLmnPk",
+    "url": "https://www.youtube.com/watch?v=E9cJSxLmnPk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T03:33:35Z"
+    "fetchedAt": "2026-11-06T11:52:45Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "U5VPmMCzS6c",
-    "url": "https://www.youtube.com/watch?v=U5VPmMCzS6c",
+    "videoId": "aY4HPPIAfNk",
+    "url": "https://www.youtube.com/watch?v=aY4HPPIAfNk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": null,
-    "fetchedAt": "2026-11-06T03:33:38Z"
+    "viewers": 15,
+    "fetchedAt": "2026-11-06T11:52:48Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T03:33:42Z"
+    "fetchedAt": "2026-11-06T11:52:52Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ZdUl_72aPhQ",
-    "url": "https://www.youtube.com/watch?v=ZdUl_72aPhQ",
+    "videoId": "Bqvm0UZ4c7w",
+    "url": "https://www.youtube.com/watch?v=Bqvm0UZ4c7w",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T03:33:46Z"
+    "fetchedAt": "2026-11-06T11:52:55Z"
   }
 ]
