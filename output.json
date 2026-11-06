@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T18:58:27Z"
+    "fetchedAt": "2026-11-06T23:41:59Z"
   },
   {
     "name": "Newslive SA",
@@ -24,8 +24,8 @@
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 1041,
-    "fetchedAt": "2026-11-06T18:58:31Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-06T23:42:03Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T18:58:35Z"
+    "fetchedAt": "2026-11-06T23:42:07Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "jpn4XJEC64Q",
-    "url": "https://www.youtube.com/watch?v=jpn4XJEC64Q",
+    "videoId": "lWR-DSZppLI",
+    "url": "https://www.youtube.com/watch?v=lWR-DSZppLI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T18:58:39Z"
+    "fetchedAt": "2026-11-06T23:42:11Z"
   },
   {
     "name": "CNN",
@@ -63,11 +63,11 @@
     "live": true,
     "videoId": "ZqXem3GwnUU",
     "url": "https://www.youtube.com/watch?v=ZqXem3GwnUU",
-    "title": "Live: President Trump speaks at the Kennedy Space Center",
-    "thumbnail": "https://i.ytimg.com/vi/ZqXem3GwnUU/maxresdefault.jpg?v=6aee1424",
-    "startedAt": "2026-11-06T23:00:00+00:00",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T18:58:42Z"
+    "fetchedAt": "2026-11-06T23:42:15Z"
   },
   {
     "name": "Al Jazeera English",
@@ -80,8 +80,8 @@
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": null,
-    "fetchedAt": "2026-11-06T18:58:46Z"
+    "viewers": 5215,
+    "fetchedAt": "2026-11-06T23:42:19Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "9YILVgyJhPU",
-    "url": "https://www.youtube.com/watch?v=9YILVgyJhPU",
+    "videoId": "gd7sLVaDpCk",
+    "url": "https://www.youtube.com/watch?v=gd7sLVaDpCk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T18:58:50Z"
+    "fetchedAt": "2026-11-06T23:42:23Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "acWUVnnpoeg",
-    "url": "https://www.youtube.com/watch?v=acWUVnnpoeg",
-    "title": "King Charles leads Remembrance Sunday service | Full Sky News coverage",
-    "thumbnail": "https://i.ytimg.com/vi/acWUVnnpoeg/maxresdefault.jpg?v=6aee06a0",
-    "startedAt": "2026-11-08T10:00:00+00:00",
+    "videoId": "rQeLyrWiFKc",
+    "url": "https://www.youtube.com/watch?v=rQeLyrWiFKc",
+    "title": "Mornings with Ridge and Frost | Monday 9 November 2026",
+    "thumbnail": "https://i.ytimg.com/vi/rQeLyrWiFKc/maxresdefault.jpg?v=6aee4355",
+    "startedAt": "2026-11-09T06:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-06T18:58:53Z"
+    "fetchedAt": "2026-11-06T23:42:28Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": "https://i.ytimg.com/vi/1BtBMn5ZTic/maxresdefault.jpg",
     "startedAt": "2026-11-07T11:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-06T18:58:57Z"
+    "fetchedAt": "2026-11-06T23:42:32Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "s4H6Zx2pdCg",
-    "url": "https://www.youtube.com/watch?v=s4H6Zx2pdCg",
+    "videoId": "G6kRCAPyxTE",
+    "url": "https://www.youtube.com/watch?v=G6kRCAPyxTE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T18:59:01Z"
+    "fetchedAt": "2026-11-06T23:42:36Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "VV8HRwVnfGQ",
-    "url": "https://www.youtube.com/watch?v=VV8HRwVnfGQ",
+    "videoId": "Zdm1DoIV7SI",
+    "url": "https://www.youtube.com/watch?v=Zdm1DoIV7SI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T18:59:05Z"
+    "fetchedAt": "2026-11-06T23:42:40Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "4_xNLuWIYpo",
-    "url": "https://www.youtube.com/watch?v=4_xNLuWIYpo",
+    "videoId": "Bqvm0UZ4c7w",
+    "url": "https://www.youtube.com/watch?v=Bqvm0UZ4c7w",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-06T18:59:08Z"
+    "fetchedAt": "2026-11-06T23:42:44Z"
   }
 ]
