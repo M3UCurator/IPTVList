@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-07T21:31:07Z"
+    "fetchedAt": "2026-11-08T01:08:10Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "eewcwbn9Sig",
-    "url": "https://www.youtube.com/watch?v=eewcwbn9Sig",
+    "videoId": "xtyy7IiAoCI",
+    "url": "https://www.youtube.com/watch?v=xtyy7IiAoCI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-07T21:31:11Z"
+    "fetchedAt": "2026-11-08T01:08:15Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-07T21:31:15Z"
+    "fetchedAt": "2026-11-08T01:08:18Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "VxRukuIEB5I",
-    "url": "https://www.youtube.com/watch?v=VxRukuIEB5I",
+    "videoId": "GSm7SzmHtSk",
+    "url": "https://www.youtube.com/watch?v=GSm7SzmHtSk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-07T21:31:20Z"
+    "fetchedAt": "2026-11-08T01:08:22Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "3zc7ck9Uh38",
-    "url": "https://www.youtube.com/watch?v=3zc7ck9Uh38",
+    "videoId": "HMNrBWKy2kQ",
+    "url": "https://www.youtube.com/watch?v=HMNrBWKy2kQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-07T21:31:24Z"
+    "fetchedAt": "2026-11-08T01:08:26Z"
   },
   {
     "name": "Al Jazeera English",
@@ -81,7 +81,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-07T21:31:29Z"
+    "fetchedAt": "2026-11-08T01:08:30Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "MI5BMsOQLMw",
-    "url": "https://www.youtube.com/watch?v=MI5BMsOQLMw",
+    "videoId": "74FLXA4Kb08",
+    "url": "https://www.youtube.com/watch?v=74FLXA4Kb08",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-07T21:31:33Z"
+    "fetchedAt": "2026-11-08T01:08:34Z"
   },
   {
     "name": "Sky News",
@@ -107,9 +107,9 @@
     "url": "https://www.youtube.com/watch?v=MfqRNbjDQbk",
     "title": "The Wrap | Saturday 7 November 2026",
     "thumbnail": "https://i.ytimg.com/vi/MfqRNbjDQbk/maxresdefault.jpg?v=6aee4038",
-    "startedAt": "2026-11-07T22:00:00+00:00",
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-07T21:31:38Z"
+    "fetchedAt": "2026-11-08T01:08:38Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "0X782fivU_s",
-    "url": "https://www.youtube.com/watch?v=0X782fivU_s",
+    "videoId": "kAKC_R1_qt8",
+    "url": "https://www.youtube.com/watch?v=kAKC_R1_qt8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-07T21:31:42Z"
+    "fetchedAt": "2026-11-08T01:08:42Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-07T21:31:46Z"
+    "fetchedAt": "2026-11-08T01:08:46Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-07T21:31:51Z"
+    "fetchedAt": "2026-11-08T01:08:51Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -164,7 +164,7 @@
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 201,
-    "fetchedAt": "2026-11-07T21:31:54Z"
+    "viewers": 129,
+    "fetchedAt": "2026-11-08T01:08:54Z"
   }
 ]
