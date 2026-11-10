@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "7VXhNmTUZIc",
-    "url": "https://www.youtube.com/watch?v=7VXhNmTUZIc",
+    "videoId": "ZFAmUBW-rKs",
+    "url": "https://www.youtube.com/watch?v=ZFAmUBW-rKs",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-10T12:12:41Z"
+    "fetchedAt": "2026-11-10T19:55:06Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "PSzHYnchz4k",
-    "url": "https://www.youtube.com/watch?v=PSzHYnchz4k",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
-    "viewers": 12363,
-    "fetchedAt": "2026-11-10T12:12:44Z"
+    "videoId": "BHyE3xpL34k",
+    "url": "https://www.youtube.com/watch?v=BHyE3xpL34k",
+    "title": "Madlanga Commission of Inquiry | 11 November 2026",
+    "thumbnail": "https://i.ytimg.com/vi/BHyE3xpL34k/maxresdefault.jpg?v=6af37679",
+    "startedAt": "2026-11-11T07:30:00+00:00",
+    "viewers": null,
+    "fetchedAt": "2026-11-10T19:55:10Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-10T12:12:48Z"
+    "fetchedAt": "2026-11-10T19:55:13Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "I89V17wJ3L8",
-    "url": "https://www.youtube.com/watch?v=I89V17wJ3L8",
+    "videoId": "casficn0w2k",
+    "url": "https://www.youtube.com/watch?v=casficn0w2k",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-10T12:12:52Z"
+    "fetchedAt": "2026-11-10T19:55:17Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "x7p2JYOPFn4",
-    "url": "https://www.youtube.com/watch?v=x7p2JYOPFn4",
-    "title": "Live: Pete Hegseth holds briefing as impeachment drumbeat continues",
-    "thumbnail": "https://i.ytimg.com/vi/x7p2JYOPFn4/maxresdefault.jpg?v=6af30312",
-    "startedAt": "2026-11-10T13:00:00+00:00",
+    "videoId": "xFc5NjpGVmE",
+    "url": "https://www.youtube.com/watch?v=xFc5NjpGVmE",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-10T12:12:56Z"
+    "fetchedAt": "2026-11-10T19:55:22Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "gUNLwykcZkY",
-    "url": "https://www.youtube.com/watch?v=gUNLwykcZkY",
+    "videoId": "pvaxqFvPxxI",
+    "url": "https://www.youtube.com/watch?v=pvaxqFvPxxI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-10T12:13:00Z"
+    "fetchedAt": "2026-11-10T19:55:26Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "9C_P10rublk",
-    "url": "https://www.youtube.com/watch?v=9C_P10rublk",
+    "videoId": "YLsdcIOGzhY",
+    "url": "https://www.youtube.com/watch?v=YLsdcIOGzhY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-10T12:13:03Z"
+    "fetchedAt": "2026-11-10T19:55:30Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "1jZqnj9U3eI",
-    "url": "https://www.youtube.com/watch?v=1jZqnj9U3eI",
+    "videoId": "9UwfKUGeALM",
+    "url": "https://www.youtube.com/watch?v=9UwfKUGeALM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": null,
-    "fetchedAt": "2026-11-10T12:13:07Z"
+    "viewers": 210,
+    "fetchedAt": "2026-11-10T19:55:33Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "d1D3kum0Ldw",
-    "url": "https://www.youtube.com/watch?v=d1D3kum0Ldw",
+    "videoId": "St1f0KTjNXs",
+    "url": "https://www.youtube.com/watch?v=St1f0KTjNXs",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-10T12:13:10Z"
+    "fetchedAt": "2026-11-10T19:55:37Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "_bF47UB-dww",
-    "url": "https://www.youtube.com/watch?v=_bF47UB-dww",
+    "videoId": "v1CuU7S6ILQ",
+    "url": "https://www.youtube.com/watch?v=v1CuU7S6ILQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 19,
-    "fetchedAt": "2026-11-10T12:13:14Z"
+    "viewers": 102,
+    "fetchedAt": "2026-11-10T19:55:42Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "xqrtCCuTuNU",
-    "url": "https://www.youtube.com/watch?v=xqrtCCuTuNU",
+    "videoId": "Ja-dswx7SXE",
+    "url": "https://www.youtube.com/watch?v=Ja-dswx7SXE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-10T12:13:18Z"
+    "fetchedAt": "2026-11-10T19:55:46Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-10T12:13:22Z"
+    "fetchedAt": "2026-11-10T19:55:50Z"
   }
 ]
