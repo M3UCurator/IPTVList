@@ -243,10 +243,10 @@ https://channels.trace.plus/Traceprod/CARIBBEAN.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722923469cnrsK9Xfs6-632x395-E67w4Tmm.png" ,Trace Latina 
 https://channels.trace.plus/Traceprod/LATINA.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/TRACE-BRASIL_2023.png/revision/latest?cb=20260206195333" group-title="Music",Trace Brazil 
+#EXTINF:-1 tvg-chno=""  tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/TRACE-BRASIL_2023.png/revision/latest?cb=20260206195333" group-title="Music",Trace Brazil 
 https://channels.trace.plus/Traceprod/BRAZIL/.m3u8
 
-#EXTINF:-1  tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="Music"",Trace Gospel Southern Africa
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="Music", Trace Gospel Southern Africa
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 
 
