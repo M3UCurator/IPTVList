@@ -219,13 +219,13 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 
 
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="Music", Trace Africa English
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music", Trace Africa English
 https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="Music", Trace Africa FR
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/kPUkoS7.png" group-title="Music", Trace Africa FR
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="Music" tvg-id="TraceNaija.fr" tvg-logo="https://i.imgur.com/Rguekcp.png", Trace Naija
+#EXTINF:-1 tvg-chno="" tvg-id=""  tvg-id="TraceNaija.fr" tvg-logo="https://i.imgur.com/Rguekcp.png" group-title="Music", Trace Naija
 https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="Music" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722922378ywfWVlIzIn-632x395-EUqDU4hV.png", Trace Urban International
@@ -234,10 +234,10 @@ https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="Music", Trace Urban Southern Africa
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" group-title="Music",Trace Vanilla 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ngF58fe.png" group-title="Music",Trace Vanilla 
 https://channels.trace.plus/Traceprod/VANILLA.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=""  group-title="Music",Trace Caribbean 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=""  tvg-logo="https://i.imgur.com/ZHD7Vxy.png" group-title="Music",Trace Caribbean 
 https://channels.trace.plus/Traceprod/CARIBBEAN.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722923469cnrsK9Xfs6-632x395-E67w4Tmm.png" ,Trace Latina 
@@ -245,7 +245,6 @@ https://channels.trace.plus/Traceprod/LATINA.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name=""  group-title="Music",Trace Brazil 
 https://channels.trace.plus/Traceprod/BRAZIL/.m3u8
-
 
 
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Fast - Sports", Bein Sport Xtra 
