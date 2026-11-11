@@ -219,7 +219,7 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music", Trace Africa English
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/kPUkoS7.png" group-title="Music", Trace Africa English
 https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://i.imgur.com/kPUkoS7.png" group-title="Music", Trace Africa FR
@@ -228,10 +228,10 @@ https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id=""  tvg-id="TraceNaija.fr" tvg-logo="https://i.imgur.com/Rguekcp.png" group-title="Music", Trace Naija
 https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="Music" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722922378ywfWVlIzIn-632x395-EUqDU4hV.png", Trace Urban International
+#EXTINF:-1 tvg-chno="" tvg-id="" group-title="Music" tvg-logo="https://i.imgur.com/DLIbUMx.png" , Trace Urban International
 https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" group-title="Music", Trace Urban Southern Africa
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722922378ywfWVlIzIn-632x395-EUqDU4hV.png" group-title="Music", Trace Urban Southern Africa
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ngF58fe.png" group-title="Music",Trace Vanilla 
