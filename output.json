@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-11T00:26:28Z"
+    "fetchedAt": "2026-11-11T06:57:45Z"
   },
   {
     "name": "Newslive SA",
@@ -21,11 +21,11 @@
     "live": true,
     "videoId": "BHyE3xpL34k",
     "url": "https://www.youtube.com/watch?v=BHyE3xpL34k",
-    "title": "Madlanga Commission of Inquiry | 11 November 2026",
-    "thumbnail": "https://i.ytimg.com/vi/BHyE3xpL34k/maxresdefault.jpg?v=6af37679",
-    "startedAt": "2026-11-11T07:30:00+00:00",
-    "viewers": null,
-    "fetchedAt": "2026-11-11T00:26:32Z"
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
+    "viewers": 639,
+    "fetchedAt": "2026-11-11T06:57:48Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-11T00:26:35Z"
+    "fetchedAt": "2026-11-11T06:57:51Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "5lPAcrY3-Sc",
-    "url": "https://www.youtube.com/watch?v=5lPAcrY3-Sc",
+    "videoId": "jGKBA6xaflE",
+    "url": "https://www.youtube.com/watch?v=jGKBA6xaflE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-11T00:26:39Z"
+    "fetchedAt": "2026-11-11T06:57:55Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "u0Me-F3sAH8",
-    "url": "https://www.youtube.com/watch?v=u0Me-F3sAH8",
+    "videoId": "iojl8JasE_M",
+    "url": "https://www.youtube.com/watch?v=iojl8JasE_M",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-11T00:26:43Z"
+    "fetchedAt": "2026-11-11T06:57:59Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ucDXVtaQYws",
-    "url": "https://www.youtube.com/watch?v=ucDXVtaQYws",
+    "videoId": "gCNeDWCI0vo",
+    "url": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": null,
-    "fetchedAt": "2026-11-11T00:26:47Z"
+    "viewers": 7984,
+    "fetchedAt": "2026-11-11T06:58:02Z"
   },
   {
     "name": "DW News",
@@ -95,7 +95,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-11T00:26:51Z"
+    "fetchedAt": "2026-11-11T06:58:06Z"
   },
   {
     "name": "Sky News",
@@ -105,11 +105,11 @@
     "live": true,
     "videoId": "6FudD6eo3FM",
     "url": "https://www.youtube.com/watch?v=6FudD6eo3FM",
-    "title": "Mornings with Ridge and Frost | Wednesday 11 November",
-    "thumbnail": "https://i.ytimg.com/vi/6FudD6eo3FM/maxresdefault.jpg?v=6af33489",
-    "startedAt": "2026-11-11T06:00:00+00:00",
-    "viewers": null,
-    "fetchedAt": "2026-11-11T00:26:54Z"
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
+    "viewers": 349,
+    "fetchedAt": "2026-11-11T06:58:09Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "2l4_EOyTV_8",
-    "url": "https://www.youtube.com/watch?v=2l4_EOyTV_8",
+    "videoId": "-3fElcCAOgQ",
+    "url": "https://www.youtube.com/watch?v=-3fElcCAOgQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-11T00:26:58Z"
+    "fetchedAt": "2026-11-11T06:58:13Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "1WynM757810",
-    "url": "https://www.youtube.com/watch?v=1WynM757810",
-    "title": "LIVE: House clerk reads impeachment charges against Hegseth",
-    "thumbnail": "https://i.ytimg.com/vi/1WynM757810/maxresdefault.jpg",
+    "videoId": "jaJeMLRoOWo",
+    "url": "https://www.youtube.com/watch?v=jaJeMLRoOWo",
+    "title": "LIVE: Pope Leo's Argentina visit continues",
+    "thumbnail": "https://i.ytimg.com/vi/jaJeMLRoOWo/maxresdefault.jpg",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-11T00:27:02Z"
+    "fetchedAt": "2026-11-11T06:58:17Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-11T00:27:06Z"
+    "fetchedAt": "2026-11-11T06:58:21Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "4FcmcV1NDyQ",
-    "url": "https://www.youtube.com/watch?v=4FcmcV1NDyQ",
+    "videoId": "DjDlSPz_-ZY",
+    "url": "https://www.youtube.com/watch?v=DjDlSPz_-ZY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-11T00:27:10Z"
+    "fetchedAt": "2026-11-11T06:58:24Z"
   }
 ]
