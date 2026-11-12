@@ -309,16 +309,23 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-chno="" tvg-id=""  group-title="Fast - Sports", FTF Sports
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" tvg-country="us" tvg-language="en" group-title="Sports",beIN Sports USA (576p)
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" tvg-country="us" tvg-language="en" group-title="Sports",beIN Sports USA (576p)
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 
 #EXTINF:-1  tvg-chno=""  tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png"  group-title="Sports", SKY SPORTS PREMIER LEAGUE
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=ZnYpgcBhGzCP5L-g20_r5Q&e=2070148393&scheme=https
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Star Sports 1
+#EXTINF:-1 tvg-id="custom.bein.sports.1" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bein_sports_1.svg" group-title="Sports",beIN Sports 1
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="490e6a84-17e2-42bb-8725-66af0c067239" tvg-logo="/static/logos/bein_sports_2_1794140158.png" group-title="Sports",beIN Sports 2
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bein_sports_3.png" group-title="Sports",beIN Sports 3
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/89342.ts
+
+#EXTINF:-1 tvg-logo="" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Sports", Star Sports 1
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports 2
+#EXTINF:-1 tvg-logo="" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="Sports",Star Sports 2
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
 
 #EXTINF:-1 tvg-name="AU: Fox Sports 501" tvg-logo="https://i.postimg.cc/q72PSbWm/20260601-214906.png" group-title="Sports",Fox Sports 501
@@ -352,6 +359,9 @@ http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="" tvg-name="" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png",Willow TV
 https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/live_a_sports.webp" group-title="Sports",A Sports
+https://playztv-apps.pages.dev/a-sports/index.m3u8
 
 #EXTINF:-1 group-title="Sports", Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
@@ -423,8 +433,17 @@ http://stream.mcquack.net/393/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports", Sport 4
 http://stream.mcquack.net/394/index.m3u8
 
-#EXTINF:-1 tvg-chno=""  tvg-id"" group-title="Sports" , A Spor
+#EXTINF:-1 tvg-chno=""  tvg-id"" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fb_a_spor.png, A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 tvg-id="WillowTV.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/willow_by_cricbuzz.png" group-title="Sports",Willow Cricbuzz
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-id="custom.tapmad" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tapmad.svg" group-title="Sports",TAPMAD
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TSPORTS.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/t_sports_hd.svg" group-title="Sports",T Sports HD
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 
 #EXTINF:-1 tvg-chno=" tvg-id="HTSporTV.tr@SD" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="Sports", HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
