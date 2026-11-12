@@ -99,10 +99,10 @@ http://4.30.180.36:8420/nbc/index.m3u8?token=test
 #EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png", CBS 🇺🇸
 http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png", FOX LA 🇺🇸
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX LA 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png", FOX 5 🇺🇸  
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX 5 🇺🇸  
 https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
 
 
