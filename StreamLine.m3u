@@ -252,7 +252,7 @@ https://tvsen6.aynaott.com/beinsports/index.m3u8?e=1784102515&u=ee5437a7-c16b-47
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-espanol-us.png?raw=true" group-title="Fast - Sports", Bein Sport Xtra Ñ 🇪🇸 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="Fast - Sports", NBC Sports 🇺🇸
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/NBC_Sports_2023.svg" group-title="Fast - Sports", NBC Sports 🇺🇸
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Fast - Sports", FOX Sports 🇺🇸 
@@ -344,17 +344,31 @@ http://103.185.24.134:3001/SonyTenSports1/index.m3u8
 http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN 1
+#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg" group-title="Sports",TSN 1
 https://tvsen7.aynaott.com/tsn1/index.m3u8
-#EXTINF:-1 tvg-id="TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png" group-title="Sports",TSN 2
+#EXTINF:-1 tvg-id="TSN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/TSN2_2014.svg" group-title="Sports",TSN 2
 https://tvsen7.aynaott.com/tsn2/index.m3u8
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sports",TSN 3
+#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg group-title="Sports",TSN 3
 https://tvsen7.aynaott.com/tsn3/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="TSN 4" tvg-id="470915" tvg-country="CA" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN 4
+#EXTINF:-1 tvg-chno="" tvg-name="TSN 4" tvg-country="CA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg" group-title="Sports",TSN 4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TSN5_HD.svg",TSN 5 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Sports_Cricket_2020_DOG.png/revision/latest?cb=20210407130931",SKYSPORTS CRICKET
+http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", group-title="Sports",SKYSPORTS PREMIER LEAGUE
+http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 #EXTINF:-1 tvg-country="RO" tvg-name="Voyo Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="Sports",Voyo Sport 1
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt1.png",TNT SPORTS 1
+http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt2.png" group-title="Sports" , TNT SPORTS 2
+http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt3.png",TNT SPORTS 3
+http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png",TNT SPORTS 4
+http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="Sports",ESPN
 https://xemzi.short.gy/40000011
@@ -392,6 +406,7 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max 
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
+
 #EXTINF:-1 group-title="Sports", Jordan Sport
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 
@@ -401,7 +416,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fb_oman_sports_tv.png"  group-title="Sports",Oman Sports sd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fb_oman_sports_tv.png"  group-title="Sports",Oman Sports 
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
 #EXTINF:-1 group-title="Sports",Sky Sports+
 http://zazaint.com:80/MAGU52TLAM/SAAk0NZH71/973139
@@ -423,16 +438,16 @@ http://88.212.7.11/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="Sports",ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title="Sports",Arenasport 1 SK
+#EXTINF:-1 tvg-chno="" group-title="Sports",Arenasport 1 🇸🇰
 http://88.212.15.50/live/test_arenasport/playlist.m3u8 
 
-#EXTINF:-1 tvg-chno="" group-title="Sports",Arenasport 2 SK
+#EXTINF:-1 tvg-chno="" group-title="Sports",Arenasport 2 🇸🇰
 http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8 
 
-#EXTINF:-1 tvg-chno="" group-title="Sports",Sport1 SK
+#EXTINF:-1 tvg-chno="" group-title="Sports",Sport1 🇸🇰
 http://88.212.15.50/live/test_sport1_25p/playlist.m3u8 
 
-#EXTINF:-1 tvg-chno="" group-title="Sports",Sport2 SK
+#EXTINF:-1 tvg-chno="" group-title="Sports",Sport2 🇸🇰
 http://88.212.15.50/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport 1" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="Sports",Sport 1
