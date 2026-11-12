@@ -13,9 +13,9 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 #EXTINF:-1 tvg-chno="006" tvg-id="SABC.Lehae.za" group-title="ZA" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/194/665ed53749.jpg", Lehae 🇿🇦
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="007" tvg-id="SABC.Education.za" group-title="ZA" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/SABC-Education-Logo-Vector.svg-.png" , SABC Education 🇿🇦
+#EXTINF:-1 tvg-chno="007" tvg-id="SABC.Education.za" group-title="ZA" tvg-logo="https://images.seeklogo.com/logo-png/12/1/sabc-education-logo-png_seeklogo-121217.png" , SABC Education 🇿🇦
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-chno="008" group-title="TV", Wild Earth
+#EXTINF:-1 tvg-chno="008" tvg-id="WildEarth.za" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="TV" , Wild Earth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="BBCNews.uk" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="UK" , BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
