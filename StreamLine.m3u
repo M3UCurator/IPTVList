@@ -96,7 +96,7 @@ https://tvsen6.aynaott.com/usa/index.m3u8
 #https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
 http://4.30.180.36:8420/nbc/index.m3u8?token=test
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png", CBS 🇺🇸
+#EXTINF:-1 group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS 🇺🇸
 http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX LA 🇺🇸
