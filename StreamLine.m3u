@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz" 
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml,,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz" 
 
 
 #EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZA", SABC 1 🇿🇦
@@ -17,8 +17,11 @@ https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/chunklist_b16
 https://sabctretaed.cdn.mangomolo.com/edu/smil:edu.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="008" tvg-id="WildEarth.za" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="TV" , Wild Earth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-id="BBCNews.uk" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="UK" , BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="" tvg-id="Sky.News.HD.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-news-icon-uk.png" group-title="TV",Sky News
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/843b9d8c-6622-4872-a404-87fbbf02c829/4.m3u8
 
 
 
@@ -42,6 +45,9 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Deutsche-Welle.png", DW
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="CBC.News.Network.HD.ca2" tvg-name="CBC News Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124721_dark_360w_270h.png" group-title="News",CBC News Network
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/26da6e5f-0320-440e-b8b0-c5bf0ac95941/4.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="News", Euronewsᴴᴰ
 https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
@@ -84,10 +90,13 @@ http://81.137.213.119:4201/bysid/8294
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1118
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="US" , CBS TV 🇺🇸
-http://4.30.180.36:8420/cbs/index.m3u8?token=test
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/0x8kufu0m609fs0hv3gqj/master.m3u8
+#http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="" tvg-id="USA.Network.HD.us2" tvg-logo="https://i.imgur.com/a7ZwpAe.png"  group-title="US", USA Network 🇺🇸
-http://4.30.180.36:8420/usa/index.m3u8?token=test
+#http://4.30.180.36:8420/usa/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="USA Network" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="US"  , USA Network 🇺🇸
 https://tvsen6.aynaott.com/usa/index.m3u8
@@ -96,7 +105,7 @@ https://tvsen6.aynaott.com/usa/index.m3u8
 #https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
 http://4.30.180.36:8420/nbc/index.m3u8?token=test
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS 🇺🇸
+#EXTINF:-1 group-title="TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png", CBS 🇺🇸
 http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX LA 🇺🇸
@@ -128,7 +137,7 @@ https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
 #EXTINF:-1 tvg-id="SparkTV.uk@SD" tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="TV",Spark TV 🇺🇸 
 https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" , BounceXL 🇺🇸 
+#EXTINF:-1 tvg-chno=""   tvg-id="plex.tv.Bounce.XL.plex" group-title="TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" , BounceXL 🇺🇸 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="TV",TV One Stars & Stories 🇺🇸 
@@ -265,6 +274,8 @@ https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music",Stingray Hip Hop R&B 
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
+#EXTINF:-1 tvg-chno="152" tvg-id="STV.HD.uk" tvg-name="STV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21830_dark_360w_270h.png" group-title="TV",STV
+http://176.65.153.4:4007/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Fast - Sports", Bein Sport Xtra 
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
@@ -272,14 +283,47 @@ https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Fast - Sports",Bein Sports Extra 🇺🇸
 https://tvsen6.aynaott.com/beinsports/index.m3u8?e=1784102515&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=67d5960a5b93b5cfcf562312b4627330
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-espanol-us.png?raw=true" group-title="Fast - Sports", Bein Sport Xtra Ñ 🇪🇸 
+#EXTINF:-1 tvg-chno="" tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-espanol-us.png?raw=true" group-title="Fast - Sports", Bein Sport Xtra Ñ 🇪🇸 
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Fast - Sports",CBS Sports Network
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/1ht5wwv045ffdr1yt1h5m/master.m3u8
+
+#EXTINF:-1 tvg-chno="104" tvg-id="WNBC-DT.us_locals1" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="TV",NBC
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/108kde90atgxpe1b70g4o/master.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsNews.au" group-title="Sports" tvg-country="AU",Fox Sports News 
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/NBC_Sports_2023.svg" group-title="Fast - Sports", NBC Sports 🇺🇸
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="TV",NBC Sports Bay Area
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/1l1gsxk1pvtxv00kuywhx/master.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="NBC.Sports.Boston.HD.us2" tvg-name="NBC Sports Boston" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png" group-title="TV",NBC Sports Boston
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/0fpm15a0k4ux2g1tx7fhe/master.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="NBC.Sports.California.SAT.us2" tvg-name="NBC Sports California" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png" group-title="TV",NBC Sports California
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/0iexaqu0xs8ukv01awmpa/master.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="TV",NBC Sports Philadelphia
+http://85.237.89.160:9590/usa-s/NBC-HD/index.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="TV",Paramount+ with Showtime
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/1az2pv01wqk8zi11yns1c/master.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Fast - Sports", FOX Sports 🇺🇸 
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
@@ -343,11 +387,12 @@ https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" tvg-country="us" tvg-language="en" group-title="Sports",beIN Sports USA (576p)
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" tvg-country="us" tvg-language="en" group-title="Sports",beIN Sports USA (576p)
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 
 #EXTINF:-1  tvg-chno=""  tvg-id="SkySp.PL.HD.uk" tvg-logo="https://images.open-epg.com/x467.png"  group-title="Sports", SKY SPORTS PREMIER LEAGUE
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=ZnYpgcBhGzCP5L-g20_r5Q&e=2070148393&scheme=https
+#https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=ZnYpgcBhGzCP5L-g20_r5Q&e=2070148393&scheme=https
+http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8
 
 #EXTINF:-1 tvg-id="custom.bein.sports.1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",beIN Sports 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8
@@ -377,14 +422,20 @@ http://103.185.24.134:3001/SonyTenSports1/index.m3u8
 http://103.151.60.162:2122/play/a01b/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg" group-title="Sports",TSN 1
+#EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png" group-title="Sports",TSN 1
 https://tvsen7.aynaott.com/tsn1/index.m3u8
-#EXTINF:-1 tvg-id="TSN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/TSN2_2014.svg" group-title="Sports",TSN 2
+#EXTINF:-1 tvg-id="TSN.2.ca2"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" group-title="Sports",TSN 2
 https://tvsen7.aynaott.com/tsn2/index.m3u8
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg group-title="Sports",TSN 3
+#EXTINF:-1 tvg-id="TSN.3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="Sports",TSN 3
 https://tvsen7.aynaott.com/tsn3/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="TSN 4" tvg-country="CA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg" group-title="Sports",TSN 4
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TSN5_HD.svg",TSN 5 
+#EXTINF:-1 tvg-chno="" tvg-id="TSN.4.ca2" tvg-name="TSN 4" tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="Sports",TSN 4
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/0db5oui05zn8xx16swui5/master.m3u8
+#EXTINF:-1 g tvg-id="TSN.5.ca2" roup-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png",TSN 5
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cache0.wonvt.st/live/0in1i4q11fbx250cx88k4/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Sports_Cricket_2020_DOG.png/revision/latest?cb=20210407130931",SKYSPORTS CRICKET
 http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
