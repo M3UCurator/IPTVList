@@ -83,7 +83,7 @@ http://81.137.213.119:4201/bysid/8294
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="ITV4.HD.uk" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" group-title="UK",ITV 4
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1118
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="US" , CBS TV 🇺🇸
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="US" , CBS TV 🇺🇸
 http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="" tvg-id="USA.Network.HD.us2" tvg-logo="https://i.imgur.com/a7ZwpAe.png"  group-title="US", USA Network 🇺🇸
@@ -253,7 +253,7 @@ https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Fast - Sports", Bein Sport Xtra 
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-xtra-en-espanol-main-copy.png?WORLDTV6" group-title="Fast - Sports", Bein Sport Xtra Ñ 🇪🇸 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-espanol-us.png?raw=true" group-title="Fast - Sports", Bein Sport Xtra Ñ 🇪🇸 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="Fast - Sports", NBC Sports 🇺🇸
