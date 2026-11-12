@@ -105,7 +105,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangelesktt
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" group-title="News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX 5 🇺🇸  
 https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
 
-
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" group-title="News" tvg-country="CA",CBC News 
+https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 EXTINF:-1 tvg-chno="" tvg-id="EbonyTVbyLionsgate.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="TV", Ebony TV by Lionsgate 🇺🇸 
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8 
 
@@ -113,10 +114,10 @@ https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playl
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist_1280x720.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="",CW Forever 🇺🇸
-https://d1sknsnbkyvie.cloudfront.net/playlist_1280x720.m3u8
+https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="",CW Gold 🇺🇸 
-https://d1d726ny1vain2.cloudfront.net/playlist_1280x720.m3u8
+https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="TV" tvg-logo="https://i.imgur.com/ACEbGD5.png", Localish 🇺🇸 
 https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index_1.m3u8
@@ -157,6 +158,15 @@ https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="https://raw.githubusercontent.com/AeonCoreX-Lab/streamx-iptv-data/main/logos/us/LawCrime.us.png" group-title="TV", Law & crime 🇺🇸 
 https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="TV",Crime & Justice 
+https://d1vsdt3c2xcxl2.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TV",ABC 20/20 
+https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TV",NBC 4 Albuquerque NM (KOB) [1080p]
+https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="086" tvg-id="Crime360.us"tvg-name="" tvg-logo="https://i.imgur.com/IjtaG1m.png"  group-title="TV", Crime 360 🇺🇸 
 https://94a3e237.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/2e47bce2-67ea-4697-84de-30ba5a25d3ff/2.m3u8
 
@@ -171,6 +181,15 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="TV", PBS Create 🇺🇸
 https://create.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.us" group-title="General" tvg-country="US",Fox 25 Boston (WFXT-TV) 
+https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+
+#EXTINF:-1 tvg-id="AfroLandTV.us" group-title="Entertainment" tvg-country="US",AfroLandTV [US] 
+https://alt-al.otteravision.com/alt/al/al.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TV,Come Dine With Me 
+https://amg00654-itv-amg00654c2-samsung-au-925.playouts.now.amagi.tv/itv-cdwmug/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png", Telemundo 🇺🇸 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -243,20 +262,28 @@ https://channels.trace.plus/Traceprod/BRAZIL/.m3u8
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" group-title="Music",Stingray Hip Hop R&B 
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
+
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Fast - Sports", Bein Sport Xtra 
-https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-us.png?raw=true" group-title="Fast - Sports",Bein Sports Extra 🇺🇸
 https://tvsen6.aynaott.com/beinsports/index.m3u8?e=1784102515&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=67d5960a5b93b5cfcf562312b4627330
 
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-xtra-espanol-us.png?raw=true" group-title="Fast - Sports", Bein Sport Xtra Ñ 🇪🇸 
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsNews.au" group-title="Sports" tvg-country="AU",Fox Sports News 
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/NBC_Sports_2023.svg" group-title="Fast - Sports", NBC Sports 🇺🇸
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Fast - Sports", FOX Sports 🇺🇸 
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="" tvg-name=""  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fubo-sports-network-us.png?raw=true",Fubo Sports Network 🇺🇸
 https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
 
@@ -284,6 +311,7 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="geFast.br@SD" tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="Fast - Sports", GeTv 
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 
+
 #EXTINF:-1 tvg-chno="" tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Fast - Sports", TYC Sports Fan
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
@@ -309,6 +337,11 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 
 #EXTINF:-1 tvg-chno="" tvg-id=""  group-title="Fast - Sports", FTF Sports
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
+
+
+#EXTINF:-1 tvg-id="CazeTV.br" group-title="Sports" tvg-country="BR",CazeTV  
+http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" tvg-country="us" tvg-language="en" group-title="Sports",beIN Sports USA (576p)
 https://tvsen6.aynaott.com/beinsports/index.m3u8
@@ -398,7 +431,7 @@ https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
 #EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="Sports", KTV Sport Sports
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b2500000_t64NzIwcA==.m3u8
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="Sports", KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
@@ -428,7 +461,17 @@ http://57.128.210.196:8080/195/index.m3u8
 http://57.128.210.196:8080/192/index.m3u8
 
 #EXTINF:-1 tvg-id="Belarus5.by@SD" tvg-name="Belarus-5 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="Sports",Belarus-5 (1080p)
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Go3Sport1.ee" tvg-name="Go3 Sport 1" group-title="Sports" tvg-logo="https://i.imgur.com/0eZa0qh.png",Go3 Sport 1
+http://stream.mcquack.net/416/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Go3Sport1.ee" tvg-name="Go3 Sport 1" group-title="Sports" tvg-logo="https://i.imgur.com/0eZa0qh.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Go3 Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 tvg-id="Go3Sport4.ee" tvg-name="Go3 Sport 4" group-title="Sports",Go3 Sport 4
+
+
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="Sports",TVRI Sport (720p)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
@@ -464,9 +507,19 @@ http://stream.mcquack.net/393/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-logo="https://i.imgur.com/xW6oGIx.png" group-title="Sports", Sport 4
 http://stream.mcquack.net/394/index.m3u8
+#EXTINF:-1 tvg-id="Sport5.ua" tvg-name="Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Sport5UA.jpg" group-title="Sports",Sport 5
+http://195.64.140.147:10098/98
+
+#EXTINF:-1 tvg-id="Sport1Baltic.ua" tvg-name="Sport 1 Baltic" group-title="Sports" tvg-logo="https://i.imgur.com/aBY7QK4.png",Sport 1 Baltic
+http://s01.wsbof.com/sport1-baltic/mpegts?token=3d60c49c
+#EXTINF:-1 tvg-id="Sport2Baltic.ua" tvg-name="Sport 2 Baltic" group-title="Sports",Sport 2 Baltic
+http://s05.wsbof.com/sport2-baltic/mpegts?token=a0ac444f
+#EXTINF:-1 tvg-id="Sport2Baltic.ua" tvg-name="Sport 2 Baltic" group-title="Sports",Sport 2 Baltic
+http://s05.wsbof.com/sport2-baltic/mpegts?token=bdfe3137
 
 #EXTINF:-1 tvg-chno=""  tvg-id"" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fb_a_spor.png, A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
 
 #EXTINF:-1 tvg-id="WillowTV.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/willow_by_cricbuzz.png" group-title="Sports",Willow Cricbuzz
 https://tvsen5.aynaott.com/willowhd/index.m3u8
