@@ -106,21 +106,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangelesktt
 https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
 
 
-
-#EXTINF:-1 tvg-chno=""  tvg-id="CuriosityNOW.de@EN" tvg-logo="https://i.imgur.com/gJ9eMaG.png" group-title="TV" tvg-id="" tvg-name="", Curiosity Now
-https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f596419bd749b3d5870e83458677f4099c93a68ace198a8fc77ea802b5670c5e2779cd847896fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3810bd75a8311465dfa8ae1e07dd94a0203b334df770fcee5f05/27/1280x720_3329040/index.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="EbonyTVbyLionsgate.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="TV", Ebony TV by Lionsgate 🇺🇸 
+EXTINF:-1 tvg-chno="" tvg-id="EbonyTVbyLionsgate.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="TV", Ebony TV by Lionsgate 🇺🇸 
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8 
-
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="", 12WWBT 🇺🇸 
-https://dai.google.com/linear/hls/pa/event/oQDBWiEBRLqnp2wfr21_SQ/stream/f9e5fd6a-f051-4ec1-b178-add54fa884fa:BRU/master.m3u8
-
-#EXTINF:-1 tvg-chno="" group-title="TV",TV One Stars & Stories 🇺🇸 
-https://dbrb49pjoymg4.cloudfront.net/10001/99951379/hls/playlist.m3u8?ads.xumo_channelId=99951379&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=TVOneStarsandStories&ads.csid=xumo_[PLATFORM]_TVOneStarsandStories_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4176&ads.xumo_contentName=TVOneStarsandStories&ads.xumo_providerId=4176&ads.xumo_providerName=TVOneStarsandStories&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951379&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-
-#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="", Reelz Famous & Infamous 🇺🇸 
-https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="BritBoxMysteries.us@SD" tvg-name="BritBox Mysteries (1080p)" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="TV",BritBox Mysteries 🇺🇸 
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist_1280x720.m3u8
@@ -142,6 +129,12 @@ https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" , BounceXL 🇺🇸 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="TV",TV One Stars & Stories 🇺🇸 
+https://dbrb49pjoymg4.cloudfront.net/10001/99951379/hls/playlist.m3u8?ads.xumo_channelId=99951379&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=TVOneStarsandStories&ads.csid=xumo_[PLATFORM]_TVOneStarsandStories_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4176&ads.xumo_contentName=TVOneStarsandStories&ads.xumo_providerId=4176&ads.xumo_providerName=TVOneStarsandStories&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951379&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-chno="" group-title="TV" tvg-id="" tvg-name="" tvg-logo="", Reelz Famous & Infamous 🇺🇸 
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1 group-title="TV", Hallmark  🇺🇸 
 http://4.30.180.36:8420/hallmark/index.m3u8?token=test
