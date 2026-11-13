@@ -1,13 +1,25 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 
+#EXTINF:-1 , CW KCRA-TV 
+https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
+
 #EXTINF:-1 , W14DK-D 14.1 
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
+
+#EXTINF:-1 , CW WXII-TV
+https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
 
 #EXTINF:-1 , WGN-DT1 
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 
-#EXTINF:-1 , WWON-TV Channel 48
+#EXTINF:-1 , WWON-TV 
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
+
+#EXTINF:-1 , CW WMPT 
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+#EXTINF:-1 , TVO Kids
+https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 
 #EXTINF:-1 , Cartoonito
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
@@ -36,8 +48,42 @@ https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 , A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
+#EXTINF:-1 , NBA
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+
 #EXTINF:-1 ,    HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 
 #EXTINF:-1 ,    Curiosity Now
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
+
+#EXTINF:-1 ,  Fox
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+
+#EXTINF:-1 ,  Fox
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+
+#EXTINF:-1 ,  UniMas
+http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
+
+#EXTINF:-1 ,  FS1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 ,  FTF Sports
+https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+
+#EXTINF:-1 ,  SportItalia
+https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+
+#EXTINF:-1 ,  Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 ,  Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+
+#EXTINF:-1 ,  Viju Sport
+http://31.148.5.241/Viasat_Sport/index.m3u8
+
+
+
+
