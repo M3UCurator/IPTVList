@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "hGOoMnrQ_Tk",
-    "url": "https://www.youtube.com/watch?v=hGOoMnrQ_Tk",
+    "videoId": "kX9CzsIYVkY",
+    "url": "https://www.youtube.com/watch?v=kX9CzsIYVkY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-13T15:56:54Z"
+    "fetchedAt": "2026-11-13T21:51:15Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "wrckSVfZMFM",
-    "url": "https://www.youtube.com/watch?v=wrckSVfZMFM",
+    "videoId": "y_Xw97qsfcM",
+    "url": "https://www.youtube.com/watch?v=y_Xw97qsfcM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-13T15:56:58Z"
+    "fetchedAt": "2026-11-13T21:51:18Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-13T15:57:01Z"
+    "fetchedAt": "2026-11-13T21:51:22Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "106GOrVzYCo",
-    "url": "https://www.youtube.com/watch?v=106GOrVzYCo",
+    "videoId": "MWH295GmwpA",
+    "url": "https://www.youtube.com/watch?v=MWH295GmwpA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-13T15:57:05Z"
+    "fetchedAt": "2026-11-13T21:51:26Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "z4tokY0jbLM",
-    "url": "https://www.youtube.com/watch?v=z4tokY0jbLM",
-    "title": "Live: SpaceX attempts to land entire Starship intact for first time",
-    "thumbnail": "https://i.ytimg.com/vi/z4tokY0jbLM/maxresdefault.jpg?v=6af7137f",
-    "startedAt": "2026-11-13T22:45:00+00:00",
+    "videoId": "hn7sAsPA1qk",
+    "url": "https://www.youtube.com/watch?v=hn7sAsPA1qk",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-13T15:57:09Z"
+    "fetchedAt": "2026-11-13T21:51:31Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "kfofw7LeRfU",
-    "url": "https://www.youtube.com/watch?v=kfofw7LeRfU",
+    "videoId": "ic3fKpBz2rI",
+    "url": "https://www.youtube.com/watch?v=ic3fKpBz2rI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-13T15:57:13Z"
+    "fetchedAt": "2026-11-13T21:51:35Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "TtpB_C9Da4s",
-    "url": "https://www.youtube.com/watch?v=TtpB_C9Da4s",
+    "videoId": "7Zz1ZxI9ldY",
+    "url": "https://www.youtube.com/watch?v=7Zz1ZxI9ldY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-13T15:57:17Z"
+    "fetchedAt": "2026-11-13T21:51:38Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "CDqwfvr7eog",
-    "url": "https://www.youtube.com/watch?v=CDqwfvr7eog",
+    "videoId": "ms2im36eCbQ",
+    "url": "https://www.youtube.com/watch?v=ms2im36eCbQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": null,
-    "fetchedAt": "2026-11-13T15:57:21Z"
+    "viewers": 320,
+    "fetchedAt": "2026-11-13T21:51:43Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "kzNs77iAKeo",
-    "url": "https://www.youtube.com/watch?v=kzNs77iAKeo",
-    "title": "Victorin Lurel, sénateur PS de la Guadeloupe : \"L'oisiveté est la mère de tous les vices\"",
-    "thumbnail": "https://i.ytimg.com/vi/kzNs77iAKeo/maxresdefault.jpg",
-    "startedAt": "2026-11-14T11:00:00+00:00",
+    "videoId": "gDJpAVzaVxY",
+    "url": "https://www.youtube.com/watch?v=gDJpAVzaVxY",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-13T15:57:25Z"
+    "fetchedAt": "2026-11-13T21:51:47Z"
   },
   {
     "name": "Reuters",
@@ -136,8 +136,8 @@
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 30,
-    "fetchedAt": "2026-11-13T15:57:28Z"
+    "viewers": 21,
+    "fetchedAt": "2026-11-13T21:51:51Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "_GyVucbdf5w",
-    "url": "https://www.youtube.com/watch?v=_GyVucbdf5w",
+    "videoId": "QcrceG0BGIk",
+    "url": "https://www.youtube.com/watch?v=QcrceG0BGIk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-13T15:57:32Z"
+    "fetchedAt": "2026-11-13T21:51:55Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Bqvm0UZ4c7w",
-    "url": "https://www.youtube.com/watch?v=Bqvm0UZ4c7w",
+    "videoId": "N8xxOD0nT1Y",
+    "url": "https://www.youtube.com/watch?v=N8xxOD0nT1Y",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": null,
-    "fetchedAt": "2026-11-13T15:57:36Z"
+    "viewers": 234,
+    "fetchedAt": "2026-11-13T21:51:59Z"
   }
 ]
