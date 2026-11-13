@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-12T19:37:52Z"
+    "fetchedAt": "2026-11-13T00:55:10Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "cdpO_FpnUck",
-    "url": "https://www.youtube.com/watch?v=cdpO_FpnUck",
+    "videoId": "B4dsxHMAYCk",
+    "url": "https://www.youtube.com/watch?v=B4dsxHMAYCk",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-12T19:37:55Z"
+    "fetchedAt": "2026-11-13T00:55:14Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-12T19:37:59Z"
+    "fetchedAt": "2026-11-13T00:55:17Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Jrki8BD2TG0",
-    "url": "https://www.youtube.com/watch?v=Jrki8BD2TG0",
+    "videoId": "2OtnYo9yjBI",
+    "url": "https://www.youtube.com/watch?v=2OtnYo9yjBI",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-12T19:38:02Z"
+    "fetchedAt": "2026-11-13T00:55:22Z"
   },
   {
     "name": "CNN",
@@ -63,11 +63,11 @@
     "live": true,
     "videoId": "fiumeQkkwD0",
     "url": "https://www.youtube.com/watch?v=fiumeQkkwD0",
-    "title": "Live: 2028 Democratic hopefuls gather in Denver to plot party’s future",
-    "thumbnail": "https://i.ytimg.com/vi/fiumeQkkwD0/maxresdefault.jpg?v=6af5d3ee",
-    "startedAt": "2026-11-12T21:30:00+00:00",
-    "viewers": null,
-    "fetchedAt": "2026-11-12T19:38:06Z"
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
+    "viewers": 306,
+    "fetchedAt": "2026-11-13T00:55:26Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "gCNeDWCI0vo",
-    "url": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
+    "videoId": "FvC6UJfIDyU",
+    "url": "https://www.youtube.com/watch?v=FvC6UJfIDyU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 6912,
-    "fetchedAt": "2026-11-12T19:38:09Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-13T00:55:30Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "no2Eefpa23U",
-    "url": "https://www.youtube.com/watch?v=no2Eefpa23U",
+    "videoId": "nFiG-LHKW2Q",
+    "url": "https://www.youtube.com/watch?v=nFiG-LHKW2Q",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-12T19:38:13Z"
+    "fetchedAt": "2026-11-13T00:55:33Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "f2C1Z3tBHUw",
-    "url": "https://www.youtube.com/watch?v=f2C1Z3tBHUw",
-    "title": "The World with Yalda Hakim | Thursday 12 November 2026",
-    "thumbnail": "https://i.ytimg.com/vi/f2C1Z3tBHUw/maxresdefault.jpg?v=6af5a130",
-    "startedAt": "2026-11-12T21:00:00+00:00",
+    "videoId": "xMboXwD4MJs",
+    "url": "https://www.youtube.com/watch?v=xMboXwD4MJs",
+    "title": "Mornings with Ridge and Frost | Friday 13 November 2026",
+    "thumbnail": "https://i.ytimg.com/vi/xMboXwD4MJs/maxresdefault.jpg?v=6af5a03a",
+    "startedAt": "2026-11-13T06:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-12T19:38:16Z"
+    "fetchedAt": "2026-11-13T00:55:37Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": "https://i.ytimg.com/vi/kzNs77iAKeo/maxresdefault.jpg",
     "startedAt": "2026-11-14T11:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-12T19:38:20Z"
+    "fetchedAt": "2026-11-13T00:55:42Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "wExPE_wI1WQ",
-    "url": "https://www.youtube.com/watch?v=wExPE_wI1WQ",
+    "videoId": "8oqEmeFSy3w",
+    "url": "https://www.youtube.com/watch?v=8oqEmeFSy3w",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 153,
-    "fetchedAt": "2026-11-12T19:38:24Z"
+    "viewers": 10,
+    "fetchedAt": "2026-11-13T00:55:46Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-12T19:38:27Z"
+    "fetchedAt": "2026-11-13T00:55:50Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -164,7 +164,7 @@
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 195,
-    "fetchedAt": "2026-11-12T19:38:31Z"
+    "viewers": 84,
+    "fetchedAt": "2026-11-13T00:55:53Z"
   }
 ]
