@@ -9,6 +9,9 @@ http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:-1 , WWON-TV Channel 48
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
 
+#EXTINF:-1 , Cartoonito
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+
 #EXTINF:-1 , Nickelodeon
 http://193.33.39.108:9011/play/a017
 
@@ -21,6 +24,9 @@ http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 #EXTINF:-1 , Nicktoons 
 http://88.212.15.50/live/test_nicktoons/playlist.m3u8
 
+#EXTINF:-1 , Bein Extra USA 
+https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8
+
 #EXTINF:-1 , Cartoon Network
 http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8
 
@@ -32,3 +38,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
 #EXTINF:-1 ,    HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+#EXTINF:-1 ,    Curiosity Now
+https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
