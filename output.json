@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-14T15:37:13Z"
+    "fetchedAt": "2026-11-14T20:28:08Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-14T15:37:17Z"
+    "fetchedAt": "2026-11-14T20:28:12Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-14T15:37:20Z"
+    "fetchedAt": "2026-11-14T20:28:15Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "9zlFdAhHajg",
-    "url": "https://www.youtube.com/watch?v=9zlFdAhHajg",
+    "videoId": "2tng58e3b2E",
+    "url": "https://www.youtube.com/watch?v=2tng58e3b2E",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-14T15:37:24Z"
+    "fetchedAt": "2026-11-14T20:28:19Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "XerfexLNnkA",
-    "url": "https://www.youtube.com/watch?v=XerfexLNnkA",
+    "videoId": "U5KKq3rNE68",
+    "url": "https://www.youtube.com/watch?v=U5KKq3rNE68",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-14T15:37:28Z"
+    "fetchedAt": "2026-11-14T20:28:23Z"
   },
   {
     "name": "Al Jazeera English",
@@ -80,8 +80,8 @@
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 9150,
-    "fetchedAt": "2026-11-14T15:37:32Z"
+    "viewers": 5457,
+    "fetchedAt": "2026-11-14T20:28:27Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "joLrC6VlWYA",
-    "url": "https://www.youtube.com/watch?v=joLrC6VlWYA",
+    "videoId": "ahZGPzW46dw",
+    "url": "https://www.youtube.com/watch?v=ahZGPzW46dw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-14T15:37:36Z"
+    "fetchedAt": "2026-11-14T20:28:31Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "YsBXc1jqg2E",
-    "url": "https://www.youtube.com/watch?v=YsBXc1jqg2E",
+    "videoId": "Jrgk_ng35Uw",
+    "url": "https://www.youtube.com/watch?v=Jrgk_ng35Uw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 208,
-    "fetchedAt": "2026-11-14T15:37:39Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-14T20:28:34Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "xSVwwOO1WSM",
-    "url": "https://www.youtube.com/watch?v=xSVwwOO1WSM",
+    "videoId": "eYlOXk9xfb0",
+    "url": "https://www.youtube.com/watch?v=eYlOXk9xfb0",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-14T15:37:43Z"
+    "fetchedAt": "2026-11-14T20:28:38Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "KjHMx-Rmmg8",
-    "url": "https://www.youtube.com/watch?v=KjHMx-Rmmg8",
-    "title": "LIVE: Flight activity over US after FAA issues ground stop",
-    "thumbnail": "https://i.ytimg.com/vi/KjHMx-Rmmg8/maxresdefault.jpg",
+    "videoId": "zxAqUfaGPOA",
+    "url": "https://www.youtube.com/watch?v=zxAqUfaGPOA",
+    "title": null,
+    "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-14T15:37:47Z"
+    "fetchedAt": "2026-11-14T20:28:43Z"
   },
   {
     "name": "The New York Times",
@@ -145,13 +145,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "QcrceG0BGIk",
-    "url": "https://www.youtube.com/watch?v=QcrceG0BGIk",
+    "videoId": "Ja-dswx7SXE",
+    "url": "https://www.youtube.com/watch?v=Ja-dswx7SXE",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-14T15:37:51Z"
+    "fetchedAt": "2026-11-14T20:28:47Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-14T15:37:54Z"
+    "fetchedAt": "2026-11-14T20:28:50Z"
   }
 ]
