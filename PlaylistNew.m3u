@@ -24,8 +24,6 @@ https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciO
 #EXTINF:-1 , Cartoonito
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 
-#EXTINF:-1 , Nickelodeon
-http://193.33.39.108:9011/play/a017
 
 #EXTINF:-1 , Disney XD 
 http://89.187.179.148:826/1368/gXwiagaXda/1672
@@ -38,9 +36,6 @@ http://88.212.15.50/live/test_nicktoons/playlist.m3u8
 
 #EXTINF:-1 , Bein Extra USA 
 https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1 , Cartoon Network
-http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8
 
 #EXTINF:-1 , L'Equipe
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
