@@ -1,0 +1,55 @@
+name: Generate StreamLine EPG Lookup
+
+on:
+  schedule:
+    - cron: '30 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-epg-lookup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate Lookup.txt and EPG.xml.gz
+        run: python3 generate_epg_lookup.py
+
+      - name: Validate generated files
+        run: |
+          python3 - <<'PY'
+          import gzip
+          from pathlib import Path
+          from xml.etree import ElementTree as ET
+
+          lookup = Path("Lookup.txt")
+          guide = Path("EPG.xml.gz")
+          ids = [line.strip() for line in lookup.read_text(encoding="utf-8").splitlines() if line.strip()]
+          if not ids or len(ids) != len(set(ids)):
+              raise SystemExit("Lookup.txt is empty or contains duplicate IDs")
+          with gzip.open(guide, "rb") as source:
+              root = ET.parse(source).getroot()
+          if root.tag != "tv" or not root.findall("programme"):
+              raise SystemExit("EPG.xml.gz is not a valid XMLTV guide with programmes")
+          print(f"Validated {len(ids)} IDs and {len(root.findall('programme'))} programmes")
+          PY
+
+      - name: Commit and push generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add --force Lookup.txt EPG.xml.gz
+          if git diff --cached --quiet; then
+            echo "No EPG lookup changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update StreamLine EPG lookup"
+          git push origin HEAD:${GITHUB_REF_NAME}
