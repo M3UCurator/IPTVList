@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml,,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz" 
-
+#EXTM3U x-tvg-url="https://github.com/M3UCurator/IPTVList/raw/refs/heads/main/StreamLine_epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz,https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml,,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz" 
+  
 
 #EXTINF:-1 tvg-chno="001" tvg-id="SABC.1.HD.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="ZA", SABC 1 🇿🇦
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
@@ -69,28 +69,43 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="UK", BBC 1
-http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
+#http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
+http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276754
 
 #EXTINF:-1 tvg-chno="" tvg-id="BBC.Two.HD.uk" tvg-name="BBC 2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="UK", BBC 2
-http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19177/index.m3u8
+#http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19177/index.m3u8
+http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276750
 
 #EXTINF:-1 tvg-chno="" tvg-id="BBC.Three.HD.uk" tvg-name="BBC 3" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" group-title="UK", BBC 3
-http://41.205.77.102/BBC-THREE/index.m3u8
+#http://41.205.77.102/BBC-THREE/index.m3u8
+http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276749
 
 #EXTINF:-1 tvg-chno="" cuid=""  tvg-id="ITV1.HD.uk"  tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-1-uk.png?raw=true" group-title="UK", ITV
 #http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19185/index.m3u8
-http://176.65.153.4:4007/play/a073/index.m3u8
+#http://176.65.153.4:4007/play/a073/index.m3u8
+http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276746
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="ITV2.HD.uk" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true" group-title="UK",ITV 2
-http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
-
+#http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
+http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276734
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="ITV3.HD.uk" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true" group-title="UK",ITV 3
 #http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
-http://81.137.213.119:4201/bysid/8294
+#http://81.137.213.119:4201/bysid/8294
+http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276730
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="ITV4.HD.uk" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" group-title="UK",ITV 4
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1118
+#http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/1118
+http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276726
+
+#EXTINF:-1 tvg-chno="" cuid=", Channel 4
+http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276742
+
+#EXTINF:-1 tvg-chno="" cuid=", Channel 5
+http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276738
+
+#EXTINF:-1 tvg-chno="" cuid=", E4
+http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276663
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="US" , CBS TV 🇺🇸
 #EXTVLCOPT:http-referrer=https://tvnow.st/
@@ -448,6 +463,11 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-chno="" group-title="US" tvg-id="", YTA
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16767
 
+#EXTINF:-1 tvg-id="CBS.us@KCCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="General",CBS KCCI (720p)
+https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBC.us@KSHBTV" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="General",NBC KSHB-TV (720p)
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
 
 
 
