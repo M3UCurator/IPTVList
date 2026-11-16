@@ -400,10 +400,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=19260&deviceSn=32DA037ED9210&
 #EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png", TNT SPORTS 4
 http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 
-#EXTINF:-1 tvg-id="custom.bein.sports.1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",beIN Sports 1
+#EXTINF:-1 tvg-id="custom.bein.sports.1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports", beIN Sports 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-id="490e6a84-17e2-42bb-8725-66af0c067239" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports",beIN Sports 2
+#EXTINF:-1 tvg-id="490e6a84-17e2-42bb-8725-66af0c067239" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports", beIN Sports 2
 http://27.124.71.27/beIN_Sports_2/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="Sports",beIN Sports 3
@@ -415,14 +415,38 @@ https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102528&u=ee5437a7-c16b-4700-b31
 #EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="Sports", ESPN [Alt]
 https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102653&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=fbc560646ea38d9fce118fcd264926c5
 
-#EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2 (United States) HD (720p)
+#EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports", ESPN 2 (United States) HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="" tvg-name="" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png",Willow TV
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="" tvg-name="" tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png", Willow TV
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/live_a_sports.webp" group-title="Sports",A Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/live_a_sports.webp" group-title="Sports", A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="", A Sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8?e=1784102512&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=968935df4fd0678de5d7fe392c0610d9
+
+#EXTINF:-1 tvg-chno="" group-title="Kids" tvg-id="", Disney XD
+http://89.187.179.148:826/1368/gXwiagaXda/1672
+
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="", ESPN
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="", ESPN 2
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="", FS 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="", FS 2
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
+
+#EXTINF:-1 tvg-chno="" group-title="US" tvg-id="", Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+
+#EXTINF:-1 tvg-chno="" group-title="US" tvg-id="", YTA
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16767
 
 
 
