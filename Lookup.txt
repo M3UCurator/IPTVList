@@ -15,6 +15,7 @@ CBC.News.Network.HD.ca2
 CBS.News.National.Stream.us2
 CBS.Sports.Network.HD.us2
 CBS.Streaming.SD.East.feed.us2
+CBS.us@KCCI
 CNA.(HD).sg
 CNN.International.us2
 Court.TV.us2
@@ -49,6 +50,7 @@ NBC.Sports.Bay.Area.HD.us2
 NBC.Sports.Boston.HD.us2
 NBC.Sports.California.SAT.us2
 NBC.Sports.Philadelphia.HD.us2
+NBC.us@KSHBTV
 Nicktoons.us@CA
 Nicktoons.us@East
 Paramount+.with.Showtime.HD.us2
