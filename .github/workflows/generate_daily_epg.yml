@@ -1,0 +1,54 @@
+name: Generate Daily EPG
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-daily-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate DailyEPG.xml.gz
+        run: python3 generate_daily_epg.py
+
+      - name: Validate generated guide
+        run: |
+          python3 - <<'PY'
+          import gzip
+          from pathlib import Path
+          from xml.etree import ElementTree as ET
+
+          guide = Path("DailyEPG.xml.gz")
+          if not guide.is_file() or guide.stat().st_size == 0:
+              raise SystemExit("DailyEPG.xml.gz is missing or empty")
+          with gzip.open(guide, "rb") as source:
+              root = ET.parse(source).getroot()
+          if root.tag != "tv" or not root.findall("programme"):
+              raise SystemExit("DailyEPG.xml.gz is not a valid XMLTV guide with programmes")
+          print(f"Validated {len(root.findall('channel'))} channels and {len(root.findall('programme'))} programmes")
+          PY
+
+      - name: Commit and push generated guide
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add --force DailyEPG.xml.gz
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          git commit -m "chore: update Daily EPG ($DATE)"
+          git push origin HEAD:${GITHUB_REF_NAME}
