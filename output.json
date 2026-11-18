@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-17T18:25:05Z"
+    "fetchedAt": "2026-11-18T01:10:02Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "K5E-7Wc_FgM",
-    "url": "https://www.youtube.com/watch?v=K5E-7Wc_FgM",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "q56BiIFcUl4",
+    "url": "https://www.youtube.com/watch?v=q56BiIFcUl4",
+    "title": "Madlanga Commission of Inquiry | 18 November 2026",
+    "thumbnail": "https://i.ytimg.com/vi/q56BiIFcUl4/maxresdefault.jpg",
+    "startedAt": "2026-11-18T07:30:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-17T18:25:08Z"
+    "fetchedAt": "2026-11-18T01:10:06Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-17T18:25:12Z"
+    "fetchedAt": "2026-11-18T01:10:11Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "HcGYgOvLXV8",
-    "url": "https://www.youtube.com/watch?v=HcGYgOvLXV8",
+    "videoId": "BB0xFP4_nEs",
+    "url": "https://www.youtube.com/watch?v=BB0xFP4_nEs",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-17T18:25:15Z"
+    "fetchedAt": "2026-11-18T01:10:15Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": "https://i.ytimg.com/vi/O648wfe0sDA/maxresdefault.jpg?v=6afc794e",
     "startedAt": "2026-11-19T00:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-17T18:25:19Z"
+    "fetchedAt": "2026-11-18T01:10:20Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "YPcMTuHtdz4",
-    "url": "https://www.youtube.com/watch?v=YPcMTuHtdz4",
+    "videoId": "gCNeDWCI0vo",
+    "url": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": null,
-    "fetchedAt": "2026-11-17T18:25:23Z"
+    "viewers": 6241,
+    "fetchedAt": "2026-11-18T01:10:24Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "qw6Mg0w5PXY",
-    "url": "https://www.youtube.com/watch?v=qw6Mg0w5PXY",
+    "videoId": "qxbd9rY8Ay8",
+    "url": "https://www.youtube.com/watch?v=qxbd9rY8Ay8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-17T18:25:27Z"
+    "fetchedAt": "2026-11-18T01:10:29Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "7I-VVvsccpE",
-    "url": "https://www.youtube.com/watch?v=7I-VVvsccpE",
-    "title": "Milburn review into youth unemployment published | The UK Tonight with Sarah-Jane Mee",
-    "thumbnail": "https://i.ytimg.com/vi/7I-VVvsccpE/maxresdefault.jpg?v=6afc99f0",
-    "startedAt": "2026-11-17T20:00:00+00:00",
+    "videoId": "fKh3MjNXBFA",
+    "url": "https://www.youtube.com/watch?v=fKh3MjNXBFA",
+    "title": "Mornings with Ridge and Frost | Wednesday 18 November 2026",
+    "thumbnail": "https://i.ytimg.com/vi/fKh3MjNXBFA/maxresdefault.jpg?v=6afc5380",
+    "startedAt": "2026-11-18T06:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-17T18:25:30Z"
+    "fetchedAt": "2026-11-18T01:10:35Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "vCDP2RyKEA4",
-    "url": "https://www.youtube.com/watch?v=vCDP2RyKEA4",
+    "videoId": "SN9sj_jTyZc",
+    "url": "https://www.youtube.com/watch?v=SN9sj_jTyZc",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-17T18:25:34Z"
+    "fetchedAt": "2026-11-18T01:10:39Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "vng0nub-vKw",
-    "url": "https://www.youtube.com/watch?v=vng0nub-vKw",
-    "title": "LIVE: French labor unions call for another day of strikes",
-    "thumbnail": "https://i.ytimg.com/vi/vng0nub-vKw/maxresdefault.jpg",
+    "videoId": "rx19JJ_9QJI",
+    "url": "https://www.youtube.com/watch?v=rx19JJ_9QJI",
+    "title": null,
+    "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-17T18:25:38Z"
+    "fetchedAt": "2026-11-18T01:10:45Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-17T18:25:42Z"
+    "fetchedAt": "2026-11-18T01:10:50Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Bqvm0UZ4c7w",
-    "url": "https://www.youtube.com/watch?v=Bqvm0UZ4c7w",
+    "videoId": "4_xNLuWIYpo",
+    "url": "https://www.youtube.com/watch?v=4_xNLuWIYpo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-17T18:25:45Z"
+    "fetchedAt": "2026-11-18T01:10:55Z"
   }
 ]
