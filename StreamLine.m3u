@@ -478,3 +478,20 @@ https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=9901?vid=9901
 
 
+#EXTINF:0 tvg-chno="" group-title="Sports" tvg-id="",SKY Sports Premier HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/811.m3u8
+#EXTINF:0 tvg-chno="" group-title="Sports" tvg-id="",Sky Sports Bundesliga
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/1124.m3u8
+#EXTINF:0 tvg-chno="" group-title="Sports" tvg-id="",Sky Sports LaLiga
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/1079.m3u8
+
+
+#EXTINF:0 tvg-chno="" group-title="Sports" tvg-id="", beIN SPORTS 6
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/90.m3u8
+#EXTINF:0 tvg-chno="" group-title="Sports" tvg-id="", beIN SPORTS 6
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/91.m3u8
