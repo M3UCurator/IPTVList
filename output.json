@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "mTpr0ZhRrsg",
-    "url": "https://www.youtube.com/watch?v=mTpr0ZhRrsg",
+    "videoId": "NLytYOa3sRQ",
+    "url": "https://www.youtube.com/watch?v=NLytYOa3sRQ",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-19T16:42:36Z"
+    "fetchedAt": "2026-11-19T23:25:30Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "IYbpoLwB2xM",
-    "url": "https://www.youtube.com/watch?v=IYbpoLwB2xM",
+    "videoId": "50V4Mc_iQ5k",
+    "url": "https://www.youtube.com/watch?v=50V4Mc_iQ5k",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-19T16:42:40Z"
+    "fetchedAt": "2026-11-19T23:25:34Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-19T16:42:44Z"
+    "fetchedAt": "2026-11-19T23:25:37Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "avOcx9LXJNs",
-    "url": "https://www.youtube.com/watch?v=avOcx9LXJNs",
+    "videoId": "4QJG9NZKoqU",
+    "url": "https://www.youtube.com/watch?v=4QJG9NZKoqU",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-19T16:42:48Z"
+    "fetchedAt": "2026-11-19T23:25:41Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "MGZPIGffCxU",
-    "url": "https://www.youtube.com/watch?v=MGZPIGffCxU",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "PPsiaVZgkYo",
+    "url": "https://www.youtube.com/watch?v=PPsiaVZgkYo",
+    "title": "Live: Trump holds news conference after Asia trip with Xi, Putin",
+    "thumbnail": "https://i.ytimg.com/vi/PPsiaVZgkYo/maxresdefault.jpg?v=6aff4b43",
+    "startedAt": "2026-11-20T17:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-19T16:42:51Z"
+    "fetchedAt": "2026-11-19T23:25:45Z"
   },
   {
     "name": "Al Jazeera English",
@@ -80,8 +80,8 @@
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 9561,
-    "fetchedAt": "2026-11-19T16:42:55Z"
+    "viewers": 6405,
+    "fetchedAt": "2026-11-19T23:25:49Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "gMA1AKfbhIo",
-    "url": "https://www.youtube.com/watch?v=gMA1AKfbhIo",
+    "videoId": "gRxYaCGSsX8",
+    "url": "https://www.youtube.com/watch?v=gRxYaCGSsX8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 161,
-    "fetchedAt": "2026-11-19T16:42:59Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-19T23:25:53Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "ImRe79kSPZs",
-    "url": "https://www.youtube.com/watch?v=ImRe79kSPZs",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
-    "viewers": 1037,
-    "fetchedAt": "2026-11-19T16:43:03Z"
+    "videoId": "mT_oMyFx0f0",
+    "url": "https://www.youtube.com/watch?v=mT_oMyFx0f0",
+    "title": "Mornings with Jones and Melbourne | Friday 20 November 2026",
+    "thumbnail": "https://i.ytimg.com/vi/mT_oMyFx0f0/maxresdefault.jpg?v=6aff789e",
+    "startedAt": "2026-11-20T06:00:00+00:00",
+    "viewers": null,
+    "fetchedAt": "2026-11-19T23:25:57Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Omow2ku26BI",
-    "url": "https://www.youtube.com/watch?v=Omow2ku26BI",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "JHRxBUwaBeY",
+    "url": "https://www.youtube.com/watch?v=JHRxBUwaBeY",
+    "title": "Comprendre la relation franco-allemande, avec Hélène Miard-Delacroix • FRANCE 24",
+    "thumbnail": "https://i.ytimg.com/vi/JHRxBUwaBeY/hqdefault.jpg",
+    "startedAt": "2026-11-21T11:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-19T16:43:06Z"
+    "fetchedAt": "2026-11-19T23:26:00Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "SPIe2nv1GQM",
-    "url": "https://www.youtube.com/watch?v=SPIe2nv1GQM",
+    "videoId": "iN-ItrNtiEA",
+    "url": "https://www.youtube.com/watch?v=iN-ItrNtiEA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 39,
-    "fetchedAt": "2026-11-19T16:43:10Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-19T23:26:04Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-19T16:43:14Z"
+    "fetchedAt": "2026-11-19T23:26:08Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-19T16:43:18Z"
+    "fetchedAt": "2026-11-19T23:26:12Z"
   }
 ]
