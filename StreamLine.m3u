@@ -495,3 +495,44 @@ https://m3u.tvcluboficial.com/free/oct/oct/90.m3u8
 #EXTINF:0 tvg-chno="" group-title="Sports" tvg-id="", beIN SPORTS 6
 #EXTVLCOPT:network-caching=1000
 https://m3u.tvcluboficial.com/free/oct/oct/91.m3u8
+
+
+
+EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn2.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/11418.png" tvg-rec="0",DAZN 3 HD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/11419.png" tvg-rec="0",DAZN 4 HD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn4.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn5.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_(Oct_2024).png/revision/latest/scale-to-width-down/250?cb=20241121183458",Astro Football
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/astro1.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro Grandstard
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/astro2.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Astro_Premier_%282D%29.png/revision/latest?cb=20240923165535",Astro Premier Leagua
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/astro3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Astro_Premier_%282D%29.png/revision/latest?cb=20240923165535",Astro Premier Leagua HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/astro4.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Astro_Premier_%282D%29.png/revision/latest?cb=20240923165535",Astro Premier Leagua HD 2
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/astro5.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports 1 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="2890" tvg-logo="http://epg.one/img/2890.png" tvg-rec="3",TNT Sports 2 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 3 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 4 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3664" tvg-logo="http://epg.one/img2/3635.png" tvg-rec="0",TSN 2 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn2.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3663" tvg-logo="http://epg.one/img2/3664.png" tvg-rec="0",TSN 3 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3664" tvg-logo="http://epg.one/img2/3588.png" tvg-rec="0",TSN 4 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn4.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3664" tvg-logo="http://epg.one/img2/88030.png" tvg-rec="0",TSN 5 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn5.m3u8
+#EXTINF:0 group-title="USA TV" tvg-id="2342" tvg-logo="http://epg.one/img/2342.png" tvg-rec="0",USA US
+http://88b9da48.kazmazpaz.ru/iptv/H9QPUTMHUAMY5Y/31124/index.m3u8
