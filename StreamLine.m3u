@@ -147,7 +147,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangelesktt
 https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
 
 
-EXTINF:-1 tvg-chno="" tvg-id="plex.tv.Ebony.TV.by.Lionsgate.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="TV", Ebony TV by Lionsgate 🇺🇸 
+#EXTINF:-1 tvg-chno="" tvg-id="plex.tv.Ebony.TV.by.Lionsgate.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png" group-title="TV", Ebony TV by Lionsgate 🇺🇸 
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8 
 
 #EXTINF:-1 tvg-chno="" tvg-id="plex.tv.BritBox.Mysteries.plex" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="TV",BritBox Mysteries 🇺🇸 
