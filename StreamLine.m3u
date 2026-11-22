@@ -134,7 +134,8 @@ http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id=""  USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="US"  , USA Network 🇺🇸
 #https://tvsen6.aynaott.com/usa/index.m3u8
-http://4.30.180.36:8420/usa/index.m3u8?token=test
+#http://4.30.180.36:8420/usa/index.m3u8?token=test
+https://tvsen6.aynaott.com/usa/index.m3u8?e=1779178091&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a
 
 #EXTINF:-1 tvg-chno="" tvg-id="NBC.East.Stream.us2" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" group-title="US",  NBC 🇺🇸
 #https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
@@ -224,6 +225,8 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="TV", PBS Create 🇺🇸
 https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 group-title="TV", HBO 2 🇺🇸
+https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="WNBC-DT.us_locals1" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="TV",NBC
 #EXTVLCOPT:http-referrer=https://tvnow.st/
@@ -524,7 +527,12 @@ http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/willow_2.png" group-title="Sports",Willow 2
+#http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/23943.ts
+https://tvsen3.aynaott.com/Sports1/index.m3u8
 
+#EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/astro_cricbuzz.png" group-title="Sports",Astro Cricbuzz
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/2494.ts
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="Fast - Sports", FOX Sports 🇺🇸 
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
@@ -755,7 +763,8 @@ http://116.90.120.149:8000/play/a11x/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 2 HD" group-title="Sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg",Star Sports 2 HD
 http://116.90.120.149:8000/play/a120/index.m3u8
 
-
+#EXTINF:-1 tvg-id="TSPORTS.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/t_sports_hd.png" group-title="Sports",T Sports HD
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 
 #EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="Sports",Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
