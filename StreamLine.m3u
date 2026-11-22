@@ -419,6 +419,12 @@ https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-o
 #EXTINF:-1 tvg-id="Court TV" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="TV",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kids", Cartoon Network
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel HD" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",Disney Channel HD
+http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+
 #EXTINF:-1 tvg-id="NBC News NOW" tvg-name="NBC News NOW" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 
@@ -679,3 +685,10 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn5.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="http://epg.one/img/2342.png"" group-title="USA TV"", USA US
 #EXTVLCOPT:http-referrer=http://88b9da48.kazmazpaz.ru
 http://88b9da48.kazmazpaz.ru/iptv/H9QPUTMHUAMY5Y/1101/index.m3u8
+
+#EXTINF:-1 tvg-name="Setanta Sports+ Georgia" group-title="Sports" tvg-logo="https://i.imgur.com/ZtoZQUV.png",Setanta Sports+ Georgia
+http://85.117.61.84/setanta2/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 Eurasia" group-title="Sports" tvg-logo="https://i.imgur.com/zlJK7ca.png",Setanta Sports 1 Eurasia
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 Eurasia" group-title="Sports" tvg-logo="https://i.imgur.com/ouHunnK.png",Setanta Sports 2 Eurasia
+http://stream.mcquack.net/235/index.m3u8
