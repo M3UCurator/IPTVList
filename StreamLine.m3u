@@ -426,11 +426,11 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playli
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" tvg-country="us" tvg-language="en" group-title="Sports",beIN Sports USA (576p)
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 
-#EXTINF:-1 tvg-id="custom.bein.sports.1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports", beIN Sports 1
-http://27.124.71.27/beIN_Sports_1/index.m3u8
-
 #EXTINF:-1 tvg-id="beINSports1Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" group-title="Sports",beIN Sports 1 Turk (1080p)
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad
+
+#EXTINF:-1 tvg-id="custom.bein.sports.1" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports", beIN Sports 1
+http://27.124.71.27/beIN_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="490e6a84-17e2-42bb-8725-66af0c067239" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports", beIN Sports 2
 http://27.124.71.27/beIN_Sports_2/index.m3u8
@@ -445,8 +445,6 @@ https://m3u.tvcluboficial.com/free/oct/oct/90.m3u8
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="", beIN SPORTS 6
 #EXTVLCOPT:network-caching=1000
 https://m3u.tvcluboficial.com/free/oct/oct/91.m3u8
-
-
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA (1080p)
 
@@ -733,7 +731,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn5.m3u8
 #EXTINF:-1 tvg-id="Unite8Sports1.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp" group-title="Sports",Unite8 Sports 1 HD (1080p)
 http://116.90.120.149:8000/play/a125/index.m3u8
 
-#EXTINF:-1 tvg-id="tvg-id="Unite8Sports2.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp" group-title="Sports",Unite8 Sports 2 HD (1080p)
+#EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp" group-title="Sports", Unite8 Sports 2 HD (1080p)
 http://116.90.120.149:8000/play/a129/index.m3u8
 
 #EXTINF:-1 tvg-name="Setanta Sports+ Georgia" group-title="Sports" tvg-logo="https://i.imgur.com/ZtoZQUV.png",Setanta Sports+ Georgia
