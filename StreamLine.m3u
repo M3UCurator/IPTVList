@@ -133,8 +133,8 @@ http://4.30.180.36:8420/cbs/index.m3u8?token=test
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="US" , CBS TV 🇺🇸
 
 #EXTINF:-1 tvg-id=""  USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="US"  , USA Network 🇺🇸
-https://tvsen6.aynaott.com/usa/index.m3u8
-#http://4.30.180.36:8420/usa/index.m3u8?token=test
+#https://tvsen6.aynaott.com/usa/index.m3u8
+http://4.30.180.36:8420/usa/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="" tvg-id="NBC.East.Stream.us2" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" group-title="US",  NBC 🇺🇸
 #https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
