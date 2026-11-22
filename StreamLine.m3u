@@ -701,5 +701,6 @@ http://116.90.120.149:8000/play/a120/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7482/1782284567482-h.jpg",Star Sports 1 HD
 http://116.90.120.149:8000/play/a11x/index.m3u8
+
 #EXTINF:-1 tvg-name="Star Sports 2 HD" group-title="Sports" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7957/1783000567957-h.jpg",Star Sports 2 HD
 http://116.90.120.149:8000/play/a120/index.m3u8
