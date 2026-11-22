@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "W8Artblr9LA",
-    "url": "https://www.youtube.com/watch?v=W8Artblr9LA",
+    "videoId": "1pSb9o3ysP4",
+    "url": "https://www.youtube.com/watch?v=1pSb9o3ysP4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-21T22:50:50Z"
+    "fetchedAt": "2026-11-22T02:51:09Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "33zZZYzvWjE",
-    "url": "https://www.youtube.com/watch?v=33zZZYzvWjE",
+    "videoId": "Iw-osBhAWTM",
+    "url": "https://www.youtube.com/watch?v=Iw-osBhAWTM",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-21T22:50:53Z"
+    "fetchedAt": "2026-11-22T02:51:14Z"
   },
   {
     "name": "Newsroom Africa",
@@ -39,7 +39,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-21T22:50:57Z"
+    "fetchedAt": "2026-11-22T02:51:17Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-21T22:51:00Z"
+    "fetchedAt": "2026-11-22T02:51:21Z"
   },
   {
     "name": "CNN",
@@ -67,7 +67,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-21T22:51:04Z"
+    "fetchedAt": "2026-11-22T02:51:24Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "gCNeDWCI0vo",
-    "url": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
+    "videoId": "jsO-_qfbAEw",
+    "url": "https://www.youtube.com/watch?v=jsO-_qfbAEw",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 5985,
-    "fetchedAt": "2026-11-21T22:51:08Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-22T02:51:28Z"
   },
   {
     "name": "DW News",
@@ -95,7 +95,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-21T22:51:12Z"
+    "fetchedAt": "2026-11-22T02:51:32Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "LqUJYm-O8DQ",
-    "url": "https://www.youtube.com/watch?v=LqUJYm-O8DQ",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
-    "viewers": 265,
-    "fetchedAt": "2026-11-21T22:51:15Z"
+    "videoId": "CxfTpfhqRGs",
+    "url": "https://www.youtube.com/watch?v=CxfTpfhqRGs",
+    "title": "Sunday Morning with... Michael Gove | 22 November 2026",
+    "thumbnail": "https://i.ytimg.com/vi/CxfTpfhqRGs/maxresdefault.jpg?v=6b015721",
+    "startedAt": "2026-11-22T08:30:00+00:00",
+    "viewers": null,
+    "fetchedAt": "2026-11-22T02:51:36Z"
   },
   {
     "name": "France 24 English",
@@ -123,7 +123,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-21T22:51:19Z"
+    "fetchedAt": "2026-11-22T02:51:39Z"
   },
   {
     "name": "Reuters",
@@ -137,7 +137,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-21T22:51:23Z"
+    "fetchedAt": "2026-11-22T02:51:43Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-21T22:51:27Z"
+    "fetchedAt": "2026-11-22T02:51:47Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -159,12 +159,12 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "4FcmcV1NDyQ",
-    "url": "https://www.youtube.com/watch?v=4FcmcV1NDyQ",
+    "videoId": "4_xNLuWIYpo",
+    "url": "https://www.youtube.com/watch?v=4_xNLuWIYpo",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-21T22:51:30Z"
+    "fetchedAt": "2026-11-22T02:51:51Z"
   }
 ]
