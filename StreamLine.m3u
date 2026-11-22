@@ -157,6 +157,9 @@ https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="LOCALISH.EASTERN.us2" group-title="TV" tvg-logo="https://i.imgur.com/ACEbGD5.png", Localish 🇺🇸 
 https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index_1.m3u8
 
+#EXTINF:-1 roup-title="TV"  tvg-logo="https://i.imgur.com/KLfXnba.png",Comedy.TV (720p)
+https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-id="NBC.Comedy.Vault.us2" tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="TV", NBC Comedy Vault 🇺🇸 
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
 
@@ -328,6 +331,11 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Sports",ESPN 2 (United States) HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/HiBrysh.png",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
+
 #EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="Sports",Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport2SK.sk@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/CANAL%2B_SPORT_2.svg/revision/latest?cb=20241028202739" group-title="Sports",Canal+ Sport 2 SK
