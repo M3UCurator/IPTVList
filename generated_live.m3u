@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="SABC Digital News" group-title="News",SABC Digital News
-https://www.youtube.com/watch?v=Y1YGMo1jO4M
+https://www.youtube.com/watch?v=e2PdgMUo2OA
 
 #EXTINF:-1 tvg-name="Newslive SA" group-title="News",Newslive SA
-https://www.youtube.com/watch?v=6CMznT3D-R0
+https://www.youtube.com/watch?v=e2PdgMUo2OA
 
 #EXTINF:-1 tvg-name="Newsroom Africa" group-title="News",Newsroom Africa
 https://www.youtube.com/watch?v=PAcKsi_3M4I
 
 #EXTINF:-1 tvg-name="BBC News" group-title="News",BBC News
-https://www.youtube.com/watch?v=w_s5SQWkn-4
+https://www.youtube.com/watch?v=4Zls_tm9twQ
 
 #EXTINF:-1 tvg-name="CNN" group-title="News",CNN
 https://www.youtube.com/watch?v=GotlA1KKWoo
@@ -19,10 +19,10 @@ https://www.youtube.com/watch?v=GotlA1KKWoo
 https://www.youtube.com/watch?v=uYYEdysCejw
 
 #EXTINF:-1 tvg-name="DW News" group-title="News",DW News
-https://www.youtube.com/watch?v=w_s5SQWkn-4
+https://www.youtube.com/watch?v=7eu4CU3IxU4
 
 #EXTINF:-1 tvg-name="Sky News" group-title="News",Sky News
-https://www.youtube.com/watch?v=w_s5SQWkn-4
+https://www.youtube.com/watch?v=53SxFKpbKDE
 
 #EXTINF:-1 tvg-name="France 24 English" group-title="News",France 24 English
 https://www.youtube.com/watch?v=aBOIS6wuzpM
