@@ -11,7 +11,7 @@ https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-chno="004" tvg-id="SABC.News.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="ZA", SABC News 🇿🇦
-https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-chno="005" tvg-id="Mindset.za" group-title="ZATV" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" , Mindset Learn 🇿🇦
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
