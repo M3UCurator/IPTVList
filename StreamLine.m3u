@@ -98,9 +98,6 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:-1 tvg-chno=""   tvg-id="Euronews.uk"  tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="News", Euronewsᴴᴰ
 https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="CBC.News.Network.ca2" tvg-id="CBCNewsNetwork.ca" group-title="News" tvg-country="CA", CBC News 
-https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
-
 #EXTINF:-1 tvg-chno="" tvg-id="FRANCE.24.HD.uk" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/france/france-24-fr.png?raw=true" group-title="News", France24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 
@@ -135,7 +132,7 @@ http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276749
 #http://176.65.153.4:4007/play/a073/index.m3u8
 http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276746
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-id="ITV2.HD.uk" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true" group-title="UK",ITV 2 🇬🇧
+#EXTINF:-1 tvg-chno="" cuid="" tvg-id="ITV2.HD.uk" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-2-uk.png?raw=true" group-title="UK",ITV 2 🇬🇧
 #http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
 http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276734
 
@@ -149,16 +146,13 @@ http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276730
 http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276726
 
 
-
-
-
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="US" , CBS TV 🇺🇸
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cache0.wonvt.st/live/0x8kufu0m609fs0hv3gqj/master.m3u8
 #http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
-#EXTINF:-1 tvg-chno="" cuid="  group-title="TV", CBS NEWS NATIONAL (720P)
+#EXTINF:-1 tvg-chno="" cuid="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="TV", CBS NEWS NATIONAL (720P)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png", CBS 🇺🇸
@@ -188,10 +182,10 @@ https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playl
 #EXTINF:-1 tvg-chno="" tvg-id="plex.tv.BritBox.Mysteries.plex" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="TV",BritBox Mysteries 🇺🇸 
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist_1280x720.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="plex.tv.CW.Forever.plex" group-title="TV" tvg-id="" tvg-name="" tvg-logo="",CW Forever 🇺🇸
+#EXTINF:-1 tvg-chno="" tvg-id="plex.tv.CW.Forever.plex" tvg-id="" tvg-name="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20250923T020547SQUARE.png" group-title="TV",CW Forever 🇺🇸
 https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="plex.tv.CW.Gold.plex" group-title="TV" tvg-id="" tvg-name="" tvg-logo="",CW Gold 🇺🇸 
+#EXTINF:-1 tvg-chno="" tvg-id="plex.tv.CW.Gold.plex"  tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e03763f1-e83b-46f1-aaaa-8052d316bbc9/PLEX_CWGOLD_UPDATEDLOGO_RDX.png" group-title="TV",CW Gold 🇺🇸 
 https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="LOCALISH.EASTERN.us2" group-title="TV" tvg-logo="https://i.imgur.com/ACEbGD5.png", Localish 🇺🇸 
