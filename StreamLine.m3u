@@ -152,9 +152,6 @@ http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276726
 https://cache0.wonvt.st/live/0x8kufu0m609fs0hv3gqj/master.m3u8
 #http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
-#EXTINF:-1 tvg-chno="" cuid="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="TV", CBS NEWS NATIONAL (720P)
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png", CBS 🇺🇸
 http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
