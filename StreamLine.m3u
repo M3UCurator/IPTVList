@@ -77,7 +77,7 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 tvg-chno="" group-title="News" tvg-id="CNN.International.us2" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cnn_international.png",CNN 🇺🇸
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title="News"  tvg-id="Global.BC.ca2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/canada/global-ca.png?raw=true", Global News
+#EXTINF:-1 tvg-chno="" group-title="News"  tvg-id="Global.BC.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/global-hd-ca.png?raw=true", Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="CBS.News.National.Stream.us2" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cbs_news.png"  group-title="News", CBS News 🇺🇸
@@ -270,7 +270,7 @@ https://cache0.wonvt.st/live/108kde90atgxpe1b70g4o/master.m3u8
 #EXTINF:-1 tvg-id="Fox.us" group-title="US" tvg-country="US",Fox 25 Boston (WFXT-TV) 
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 
-#EXTINF:-1 tvg-id="AfroLandTV.us" group-title="TV" tvg-country="US", AfroLandTV 
+#EXTINF:-1 tvg-id="AfroLandTV.us" tvg-country="US" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="TV" , AfroLandTV 
 https://alt-al.otteravision.com/alt/al/al.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="TV", Come Dine With Me 
