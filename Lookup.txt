@@ -15,6 +15,7 @@ ABCNewsSydney.au
 AdventureEarth.de@SD
 AfroLandTV.us
 AlJazeera.English.net
+AutenticTravel.de@SD
 BBC.NEWS.HD.uk
 BBC.One.Lon.HD.uk
 BBC.Three.HD.uk
@@ -36,7 +37,6 @@ CanalPlusSport5SK.sk@SD
 CanalPlusSport6SK.sk@SD
 CanalPlusSport7SK.sk@SD
 CanalPlusSport8SK.sk@SD
-CBC.News.Network.ca2
 CBC.News.Network.HD.ca2
 CBS TV
 CBS.News.National.Stream.us2
@@ -50,9 +50,8 @@ Court TV
 Court.TV.us2
 Crime360.us
 custom.bein.sports.1
-DisneyChannel.us
-DisneyJunior.in@SD
-DisneyJunior.us
+Disney.Junior.HD.us2
+Disney.XD.us2
 DW.English.[EU].ua
 ESPN.us@HD
 ESPN2.us@HD
@@ -67,9 +66,7 @@ FTFSports.us@SD
 FuboSportsNetwork.us@HD
 FuboSportsNetwork.us@SD
 Game.Show.Network.HD.us2
-GarfieldandFriends.us@US
 geFast.br@SD
-GiggleMug.us@SD
 Global.BC.ca2
 GolazoNetwork.us@SD
 GolfChannel.cz@SD
@@ -79,15 +76,14 @@ ITV1.HD.uk
 ITV2.HD.uk
 ITV3.HD.uk
 ITV4.HD.uk
-KartoonChannel.us@SD
 Knowledge.Network.ca2
 KozoomTV.fr@SD
 L1.pe@SD
 L1Max.pe@SD
 LEquipe.fr@SD
 LOCALISH.EASTERN.us2
+Madlanga Commission
 Mindset.za
-MoonbugKids.uk
 NBC News NOW
 NBC.Comedy.Vault.us2
 NBC.East.Stream.us2
@@ -97,19 +93,18 @@ NBC.Sports.California.SAT.us2
 NBC.Sports.Philadelphia.HD.us2
 NBC.us@KSHBTV
 NBCSportsNOW.us@SD
-Nicktoons.us@CA
-Nicktoons.us@East
+Nickelodeon.HD.us2
 Paramount+.with.Showtime.HD.us2
-PBS Kids
+PBS.Kids.Stream.us2
 plex.tv.beIN.SPORTS.XTRA.plex
 plex.tv.Bounce.XL.plex
 plex.tv.BritBox.Mysteries.plex
 plex.tv.CW.Forever.plex
 plex.tv.CW.Gold.plex
+plex.tv.Ebony.TV.by.Lionsgate.plex
 plex.tv.Get.Factual.plex
 plex.tv.REELZ.Famous.&amp;.Infamous.plex
 plex.tv.Spark.TV.Light.&amp;.Love.plex
-Pop.uk@SD
 RedBullTV.at
 SABC.1.HD.za
 SABC.2.HD.za
@@ -117,23 +112,26 @@ SABC.3.HD.za
 SABC.Education.za
 SABC.Lehae.za
 SABC.News.za
+SABC.Sport.za
 Scripps News
 Sky.News.HD.uk
 SkySp.PL.HD.uk
 Sportitalia.it@SD
 SportPlusQazaqstan.kz@SD
+StarSports1.in@HD
+StarSports2.in@HD
 TennisChannel.us@Plus2
 TennisChannel.us@SD
-TheCyclingChannel.at@SD
 TNTSports1.uk@SD
 TNTSports2.uk@SD
 TNTSports3.uk@SD
 TNTSports4.uk@SD
 TRT.WORLD.HD.tr
-tvg-id=
+TSPORTS.bd
+TVO.ca2
 TyCSports.ar@SD
 Unite8Sports1.in
+Unite8Sports2.in
 WildEarth.za
 Wion.in
 WNBC-DT.us_locals1
-ZooMoo.sg@SD
