@@ -40,16 +40,18 @@ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-chno="012" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true" group-title="Kids" , Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
 
+#EXTINF:-1 tvg-chno="013" tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Kids",Nickelodeon East 🇺🇸
 
-
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Kids",Disney Junior 
-https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Disney Channel HD" group-title="Kids" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png",Disney Channel HD
+http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Kids",Disney Junior (India) (576p)
 http://103.151.60.162:2122/play/a016/index.m3u8?hls
 
-#EXTINF:-1 tvg-name="Disney Channel HD" group-title="Kids" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png",Disney Channel HD
-http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Kids",Disney Junior 
+https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png" group-title="Kids",Disney Channel (720p)
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
@@ -81,10 +83,6 @@ https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_10
 #EXTINF:-1 tvg-id="GarfieldandFriends.us@US" tvg-logo="https://i.imgur.com/evzfe9C.png" group-title="Kids", Garfield and Friends
 https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Nicktoons.us@CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Kids",Nicktoons (United States) CA
-https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 
 #EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/fg8c9WK.png" group-title="Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
@@ -302,10 +300,10 @@ https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cache0.wonvt.st/live/108kde90atgxpe1b70g4o/master.m3u8
 
-#EXTINF:-1 tvg-id="Fox.us" group-title="General" tvg-country="US",Fox 25 Boston (WFXT-TV) 
+#EXTINF:-1 tvg-id="Fox.us" group-title="US" tvg-country="US",Fox 25 Boston (WFXT-TV) 
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 
-#EXTINF:-1 tvg-id="AfroLandTV.us" group-title="Entertainment" tvg-country="US",AfroLandTV 
+#EXTINF:-1 tvg-id="AfroLandTV.us" group-title="TV" tvg-country="US", AfroLandTV 
 https://alt-al.otteravision.com/alt/al/al.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="TV", Come Dine With Me 
