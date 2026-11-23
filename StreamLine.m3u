@@ -31,10 +31,10 @@ https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 tvg-chno="009" tvg-id="Mindset.za" group-title="ZA" tvg-logo="https://iptvboss.xyz/logos/South_Africa/Mindset.za.png" , Mindset Learn 🇿🇦
 https://globecast.live/Mindset/tracks-v1a1/mono.ts.m3u8?token=odr9Nx6RlSVDy0
 
-#EXTINF:-1 tvg-chno="010" tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Kids",Nicktoons (720p)
+#EXTINF:-1 tvg-chno="010" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Kids",Nicktoons (720p)
 http://41.205.93.154/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-chno="011" tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kids", Cartoon Network
+#EXTINF:-1 tvg-chno="011" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kids", Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 
 #EXTINF:-1 tvg-chno="012" tvg-id="Disney.XD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-xd-us.png?raw=true" group-title="Kids" , Disney XD
@@ -42,10 +42,10 @@ http://89.187.179.148:826/1368/gXwiagaXda/1672
 
 #EXTINF:-1 tvg-chno="013" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Kids",Nickelodeon East 🇺🇸
 
-#EXTINF:-1 tvg-chno="014" tvg-name="Disney.Channel.HD.us2" group-title="Kids" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png",Disney Channel
+#EXTINF:-1 tvg-chno="014" tvg-name="" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png" group-title="Kids" ,Disney Channel
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 
-#EXTINF:-1 tvg-chno="014" tvg-id="Disney.Channel.us2" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-chno="014" tvg-id="" tvg-logo="https://www.pngall.com/wp-content/uploads/15/Disney-Channel-Logo-No-Background.png" group-title="Kids",Disney Channel
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="015" tvg-id="Disney.Junior.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/disney-jr-us.png?raw=true" group-title="Kids", Disney Junior 
