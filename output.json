@@ -11,7 +11,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-25T00:00:02Z"
+    "fetchedAt": "2026-11-25T08:15:00Z"
   },
   {
     "name": "Newslive SA",
@@ -25,7 +25,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-25T00:00:06Z"
+    "fetchedAt": "2026-11-25T08:15:03Z"
   },
   {
     "name": "Newsroom Africa",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "oo9eq0UoaDw",
-    "url": "https://www.youtube.com/watch?v=oo9eq0UoaDw",
+    "videoId": "w7VgCCKf6I8",
+    "url": "https://www.youtube.com/watch?v=w7VgCCKf6I8",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-25T00:00:09Z"
+    "fetchedAt": "2026-11-25T08:15:07Z"
   },
   {
     "name": "BBC News",
@@ -53,7 +53,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-25T00:00:13Z"
+    "fetchedAt": "2026-11-25T08:15:10Z"
   },
   {
     "name": "CNN",
@@ -61,13 +61,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "fH0ASK8Dpwo",
-    "url": "https://www.youtube.com/watch?v=fH0ASK8Dpwo",
+    "videoId": "Lc7PAAonqJc",
+    "url": "https://www.youtube.com/watch?v=Lc7PAAonqJc",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-25T00:00:17Z"
+    "fetchedAt": "2026-11-25T08:15:14Z"
   },
   {
     "name": "Al Jazeera English",
@@ -80,8 +80,8 @@
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 5602,
-    "fetchedAt": "2026-11-25T00:00:21Z"
+    "viewers": 9761,
+    "fetchedAt": "2026-11-25T08:15:18Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "LuKwFajn37U",
-    "url": "https://www.youtube.com/watch?v=LuKwFajn37U",
+    "videoId": "lkwHbi_9GOY",
+    "url": "https://www.youtube.com/watch?v=lkwHbi_9GOY",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 376,
-    "fetchedAt": "2026-11-25T00:00:26Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-25T08:15:22Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Yi3sPK3Ls54",
-    "url": "https://www.youtube.com/watch?v=Yi3sPK3Ls54",
-    "title": "PMQs in full | Andy Burnham faces questions from MPs in the Commons",
-    "thumbnail": "https://i.ytimg.com/vi/Yi3sPK3Ls54/maxresdefault.jpg?v=6b060f50",
-    "startedAt": "2026-11-25T12:00:00+00:00",
-    "viewers": null,
-    "fetchedAt": "2026-11-25T00:00:29Z"
+    "videoId": "OF9_Adiywro",
+    "url": "https://www.youtube.com/watch?v=OF9_Adiywro",
+    "title": null,
+    "thumbnail": null,
+    "startedAt": null,
+    "viewers": 540,
+    "fetchedAt": "2026-11-25T08:15:25Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "QZOcZ4tJueE",
-    "url": "https://www.youtube.com/watch?v=QZOcZ4tJueE",
+    "videoId": "13gzaJL8lsA",
+    "url": "https://www.youtube.com/watch?v=13gzaJL8lsA",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-25T00:00:33Z"
+    "fetchedAt": "2026-11-25T08:15:29Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "SAcxKwYof3E",
-    "url": "https://www.youtube.com/watch?v=SAcxKwYof3E",
+    "videoId": "8VIgtfrYZP4",
+    "url": "https://www.youtube.com/watch?v=8VIgtfrYZP4",
     "title": null,
     "thumbnail": null,
     "startedAt": null,
-    "viewers": 17,
-    "fetchedAt": "2026-11-25T00:00:37Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-25T08:15:33Z"
   },
   {
     "name": "The New York Times",
@@ -151,7 +151,7 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-25T00:00:41Z"
+    "fetchedAt": "2026-11-25T08:15:37Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -165,6 +165,6 @@
     "thumbnail": null,
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-25T00:00:45Z"
+    "fetchedAt": "2026-11-25T08:15:40Z"
   }
 ]
