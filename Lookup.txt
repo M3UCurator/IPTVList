@@ -44,7 +44,7 @@ CBS.Sports.Network.HD.us2
 CBS.Streaming.SD.East.feed.us2
 CBS.us@KCCI
 CBSSportsGolazoNetwork.us@SD
-CNA.(HD).sg
+CNA.sg
 CNN.International.us2
 Court TV
 Court.TV.us2
@@ -76,6 +76,7 @@ ITV1.HD.uk
 ITV2.HD.uk
 ITV3.HD.uk
 ITV4.HD.uk
+KHLPrime.ru
 Knowledge.Network.ca2
 KozoomTV.fr@SD
 L1.pe@SD
@@ -83,6 +84,7 @@ L1Max.pe@SD
 LEquipe.fr@SD
 LOCALISH.EASTERN.us2
 Madlanga Commission
+MatchPremier.ru@SD
 Mindset.za
 NBC News NOW
 NBC.Comedy.Vault.us2
@@ -93,6 +95,7 @@ NBC.Sports.California.SAT.us2
 NBC.Sports.Philadelphia.HD.us2
 NBC.us@KSHBTV
 NBCSportsNOW.us@SD
+NHKWorldJapan.jp
 Nickelodeon.HD.us2
 Paramount+.with.Showtime.HD.us2
 PBS.Kids.Stream.us2
