@@ -791,6 +791,6 @@ https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv2
 
 
 #EXTINF:0 tvg-id="Go3Sport1.lt" group-title="UDP Channels",Go3 Sport 1 
-udp://239.255.15.127:1234
+udp://@239.255.15.127:1234
 #EXTINF:0 tvg-id="Go3Sport2.lt" group-title="UDP Channels",Go3 sport 2
-udp://239.255.15.128:1234
+udp://@239.255.15.128:1234
