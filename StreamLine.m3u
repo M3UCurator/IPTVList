@@ -510,6 +510,18 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Sports_Cricket_2020_DOG.png/revision/latest?cb=20210407130931",SKYSPORTS CRICKET
 http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 
+#EXTINF:-1 group-title="Sports" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports 1 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="2890" tvg-logo="http://epg.one/img/2890.png" tvg-rec="3",TNT Sports 2 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 3 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 4 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
+
 #EXTINF:-1 tvg-chno="" group-title="Sports" tvg-id="",SKY Sports Premier HD
 #EXTVLCOPT:network-caching=1000
 http://m3u.tvcluboficial.com/free/oct/oct/811.m3u8
@@ -683,31 +695,6 @@ http://37.49.224.5/stream/3/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports4.uk@SD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="Sports",TNT Sports 4
 http://37.49.224.5/stream/4/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports 1 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="2890" tvg-logo="http://epg.one/img/2890.png" tvg-rec="3",TNT Sports 2 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 3 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 4 HD UK
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt1.png", TNT SPORTS 1
-http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
-
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt2.png" group-title="Sports" ,TNT SPORTS 2
-http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt3.png", TNT SPORTS 3
-http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png", TNT SPORTS 4
-http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
-
-
 #EXTINF:-1 group-title="Sports" tvg-id="3664" tvg-logo="http://epg.one/img2/3635.png" tvg-rec="0",TSN 2 HD CA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn2.m3u8
 
@@ -790,7 +777,3 @@ https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorprem
 https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv2
 
 
-#EXTINF:0 tvg-id="Go3Sport1.lt" group-title="UDP Channels",Go3 Sport 1 
-udp://@239.255.15.127:1234
-#EXTINF:0 tvg-id="Go3Sport2.lt" group-title="UDP Channels",Go3 sport 2
-udp://@239.255.15.128:1234
