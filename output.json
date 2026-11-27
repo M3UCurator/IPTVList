@@ -5,13 +5,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "mVKVLY64ldA",
-    "url": "https://www.youtube.com/watch?v=mVKVLY64ldA",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
+    "videoId": "1j0m2X28bGM",
+    "url": "https://www.youtube.com/watch?v=1j0m2X28bGM",
+    "title": "Madlanga Commission of Inquiry Day 194 | 13 November 2026",
+    "thumbnail": "https://i.ytimg.com/vi/1j0m2X28bGM/maxresdefault.jpg",
+    "startedAt": "2026-11-13T07:26:40+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-27T03:05:03Z"
+    "fetchedAt": "2026-11-27T12:57:07Z"
   },
   {
     "name": "Newslive SA",
@@ -19,13 +19,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "pjuQgL2G7IU",
-    "url": "https://www.youtube.com/watch?v=pjuQgL2G7IU",
+    "videoId": "FURDpz1RMo4",
+    "url": "https://www.youtube.com/watch?v=FURDpz1RMo4",
     "title": "Madlanga Commission of Inquiry | 27 November 2026",
-    "thumbnail": "https://i.ytimg.com/vi/pjuQgL2G7IU/maxresdefault.jpg?v=6b088e5e",
-    "startedAt": "2026-11-27T07:30:00+00:00",
-    "viewers": null,
-    "fetchedAt": "2026-11-27T03:05:07Z"
+    "thumbnail": "https://i.ytimg.com/vi/FURDpz1RMo4/maxresdefault.jpg?v=6b09392b",
+    "startedAt": "2026-11-27T08:03:04+00:00",
+    "viewers": 1874,
+    "fetchedAt": "2026-11-27T12:57:10Z"
   },
   {
     "name": "Newsroom Africa",
@@ -33,13 +33,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "CZbC-Se1-n8",
-    "url": "https://www.youtube.com/watch?v=CZbC-Se1-n8",
-    "title": null,
-    "thumbnail": null,
+    "videoId": "oo9eq0UoaDw",
+    "url": "https://www.youtube.com/watch?v=oo9eq0UoaDw",
+    "title": "@newzroomafrika405 ",
+    "thumbnail": "https://i.ytimg.com/vi/oo9eq0UoaDw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGEwgSyhlMA8=&rs=AOn4CLDKGApou9TU7qsdfHcnZwHJbjS2LA",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-27T03:05:11Z"
+    "fetchedAt": "2026-11-27T12:57:14Z"
   },
   {
     "name": "BBC News",
@@ -47,13 +47,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "G5usbfJZhG0",
-    "url": "https://www.youtube.com/watch?v=G5usbfJZhG0",
-    "title": null,
-    "thumbnail": null,
+    "videoId": "wctExblHCjY",
+    "url": "https://www.youtube.com/watch?v=wctExblHCjY",
+    "title": "I followed Putin to China for a historic summit | BBC News",
+    "thumbnail": "https://i.ytimg.com/vi/wctExblHCjY/maxresdefault.jpg",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-27T03:05:14Z"
+    "fetchedAt": "2026-11-27T12:57:17Z"
   },
   {
     "name": "CNN",
@@ -63,11 +63,11 @@
     "live": true,
     "videoId": "RVGiZBebhBs",
     "url": "https://www.youtube.com/watch?v=RVGiZBebhBs",
-    "title": null,
-    "thumbnail": null,
+    "title": "3 new House reps on Iran, Trump probes & what keeps them up",
+    "thumbnail": "https://i.ytimg.com/vi/RVGiZBebhBs/maxresdefault.jpg",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-27T03:05:18Z"
+    "fetchedAt": "2026-11-27T12:57:21Z"
   },
   {
     "name": "Al Jazeera English",
@@ -75,13 +75,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "gCNeDWCI0vo",
-    "url": "https://www.youtube.com/watch?v=gCNeDWCI0vo",
-    "title": null,
-    "thumbnail": null,
+    "videoId": "K8TqjqGxZY4",
+    "url": "https://www.youtube.com/watch?v=K8TqjqGxZY4",
+    "title": "Pakistan, Turkiye and Saudi Arabia Advance Defense Alliance Talks",
+    "thumbnail": "https://i.ytimg.com/vi/K8TqjqGxZY4/maxresdefault.jpg",
     "startedAt": null,
-    "viewers": 5808,
-    "fetchedAt": "2026-11-27T03:05:22Z"
+    "viewers": null,
+    "fetchedAt": "2026-11-27T12:57:25Z"
   },
   {
     "name": "DW News",
@@ -89,13 +89,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "n1hvZnFw7GA",
-    "url": "https://www.youtube.com/watch?v=n1hvZnFw7GA",
-    "title": null,
-    "thumbnail": null,
+    "videoId": "H7fAOCNmnFk",
+    "url": "https://www.youtube.com/watch?v=H7fAOCNmnFk",
+    "title": "Spain's housing crisis becomes main election issue | DW News",
+    "thumbnail": "https://i.ytimg.com/vi/H7fAOCNmnFk/maxresdefault.jpg",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-27T03:05:26Z"
+    "fetchedAt": "2026-11-27T12:57:28Z"
   },
   {
     "name": "Sky News",
@@ -103,13 +103,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "Ad_pjt3o7vk",
-    "url": "https://www.youtube.com/watch?v=Ad_pjt3o7vk",
-    "title": "Mornings with Jones and Melbourne | Friday 27 November 2026",
-    "thumbnail": "https://i.ytimg.com/vi/Ad_pjt3o7vk/maxresdefault.jpg?v=6b07e9c7",
-    "startedAt": "2026-11-27T06:00:00+00:00",
+    "videoId": "OIGrk9_J0so",
+    "url": "https://www.youtube.com/watch?v=OIGrk9_J0so",
+    "title": "The Wrap | Friday 27 November",
+    "thumbnail": "https://i.ytimg.com/vi/OIGrk9_J0so/maxresdefault.jpg?v=6b0934eb",
+    "startedAt": "2026-11-27T22:00:00+00:00",
     "viewers": null,
-    "fetchedAt": "2026-11-27T03:05:30Z"
+    "fetchedAt": "2026-11-27T12:57:32Z"
   },
   {
     "name": "France 24 English",
@@ -117,13 +117,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "K7EFlZb1EAs",
-    "url": "https://www.youtube.com/watch?v=K7EFlZb1EAs",
-    "title": "Charlie Hebdo, paix au Proche-Orient... Plantu revient sur ses plus célèbres dessins d'actualité",
-    "thumbnail": "https://i.ytimg.com/vi/K7EFlZb1EAs/maxresdefault.jpg",
-    "startedAt": "2026-11-28T11:00:00+00:00",
+    "videoId": "2zUDAe3Bke0",
+    "url": "https://www.youtube.com/watch?v=2zUDAe3Bke0",
+    "title": "Ukraine: Residents brace for another difficult winter • FRANCE 24 English",
+    "thumbnail": "https://i.ytimg.com/vi/2zUDAe3Bke0/maxresdefault.jpg",
+    "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-27T03:05:34Z"
+    "fetchedAt": "2026-11-27T12:57:35Z"
   },
   {
     "name": "Reuters",
@@ -131,13 +131,13 @@
     "source": "youtube",
     "source_id": null,
     "live": true,
-    "videoId": "LeZ-C1hYKCs",
-    "url": "https://www.youtube.com/watch?v=LeZ-C1hYKCs",
-    "title": null,
-    "thumbnail": null,
-    "startedAt": null,
-    "viewers": 105,
-    "fetchedAt": "2026-11-27T03:05:38Z"
+    "videoId": "rovl4zoFQ3E",
+    "url": "https://www.youtube.com/watch?v=rovl4zoFQ3E",
+    "title": "LIVE: Powerful storm hits US East Coast",
+    "thumbnail": "https://i.ytimg.com/vi/rovl4zoFQ3E/maxresdefault.jpg?v=6b09432a",
+    "startedAt": "2026-11-27T08:12:36+00:00",
+    "viewers": 25,
+    "fetchedAt": "2026-11-27T12:57:39Z"
   },
   {
     "name": "The New York Times",
@@ -147,11 +147,11 @@
     "live": true,
     "videoId": "W4q9KCe3zMM",
     "url": "https://www.youtube.com/watch?v=W4q9KCe3zMM",
-    "title": null,
-    "thumbnail": null,
+    "title": "A Palestinian American Critiques Our Headlines",
+    "thumbnail": "https://i.ytimg.com/vi/W4q9KCe3zMM/maxresdefault.jpg",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-27T03:05:42Z"
+    "fetchedAt": "2026-11-27T12:57:43Z"
   },
   {
     "name": "Al Jazeera Mubasher",
@@ -161,10 +161,10 @@
     "live": true,
     "videoId": "4FcmcV1NDyQ",
     "url": "https://www.youtube.com/watch?v=4FcmcV1NDyQ",
-    "title": null,
-    "thumbnail": null,
+    "title": "الجيش الأمريكي يعلن تأمين 400 سفينة في مضيق هرمز",
+    "thumbnail": "https://i.ytimg.com/vi/4FcmcV1NDyQ/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ad4EgAK4CIoCDAgAEAEYOiBRKHIwDw==&rs=AOn4CLB8V05rhrmg8OOU1EZqi3QFjmvjZA",
     "startedAt": null,
     "viewers": null,
-    "fetchedAt": "2026-11-27T03:05:45Z"
+    "fetchedAt": "2026-11-27T12:57:47Z"
   }
 ]
