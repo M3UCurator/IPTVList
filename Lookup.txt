@@ -47,6 +47,7 @@ CBS.us@KCCI
 CBSSportsGolazoNetwork.us@SD
 CNA.sg
 CNN.International.us2
+Comedy TV
 Court TV
 Court.TV.us2
 Crime360.us
@@ -120,6 +121,7 @@ SABC.Sport.za
 Scripps News
 Sky.News.HD.uk
 SkySp.PL.HD.uk
+Sony One Comedy HITS
 Sportitalia.it@SD
 SportPlusQazaqstan.kz@SD
 StarSports1.in@HD
