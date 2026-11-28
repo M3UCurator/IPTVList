@@ -71,13 +71,13 @@ https://dil9xdvretp0f.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="UK" , BBC News 🇬🇧
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="Sky.News.HD.uk" tvg-name="Sky News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-news-uk.png?raw=true" group-title="TV",Sky News 🇬🇧
+#EXTINF:-1 tvg-chno="" tvg-id="Sky.News.HD.uk" tvg-name="Sky News" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-news-uk.png?raw=true" group-title="TV", Sky News 🇬🇧
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/843b9d8c-6622-4872-a404-87fbbf02c829/4.m3u8
 
 #EXTINF:-1 tvg-chno=""  tvg-id="ABCNewsSydney.au" tvg-name="ABC Australia" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="News", ABC Australia News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title="News" tvg-id="CNN.International.us2" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cnn_international.png",CNN 🇺🇸
+#EXTINF:-1 tvg-chno="" group-title="News" tvg-id="CNN.International.us2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",CNN 🇺🇸
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
 #EXTINF:-1 tvg-chno="" group-title="News"  tvg-id="Global.BC.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/global-hd-ca.png?raw=true", Global News
@@ -163,6 +163,10 @@ http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
 #EXTINF:-1 tvg-chno="" cuid="" tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="US" , CBS TV 🇺🇸
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="US",Bravo (720p)
+http://41.205.93.154/BRAVO/index.m3u8
+
 #EXTINF:-1 tvg-id=""  USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="US"  , USA Network 🇺🇸
 #https://tvsen6.aynaott.com/usa/index.m3u8
 #http://4.30.180.36:8420/usa/index.m3u8?token=test
@@ -202,7 +206,7 @@ https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index
 #EXTINF:-1 roup-title="TV"  tvg-logo="https://i.imgur.com/KLfXnba.png",Comedy.TV (720p)
 https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="NBC.Comedy.Vault.us2" tvg-logo="https://i.imgur.com/PWnHe3b.png" group-title="TV", NBC Comedy Vault 🇺🇸 
+#EXTINF:-1 tvg-chno="" tvg-id="NBC.Comedy.Vault.us2" tvg-logo="https://i.imgur.com/nydZWwg.png" group-title="TV", NBC Comedy Vault 🇺🇸 
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.Spark.TV.Light.&amp;.Love.plex" tvg-logo="https://i.imgur.com/gDwP0b8.png" group-title="TV",Spark TV 🇺🇸 
@@ -256,7 +260,7 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb674
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="US",NBC KJRH-TV (1080p)
 https://amg01438-amg01438c8-vizio-us-10941.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="US",NBC 4 Albuquerque NM (KOB) 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="US",NBC 4 Albuquerque NM (KOB) 
 https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UDpDJ7v.png" group-title="TV",YTA TV (720p)
@@ -306,7 +310,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Scripps News" tvg-name="Scripps News" tvg-logo="https://i.imgur.com/W0Jvi5o.png" group-title="TV",Scripps News
 https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 tvg-id="Court TV" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="TV",Court TV
+#EXTINF:-1 tvg-id="Court TV" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png"  group-title="TV",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="http://epg.one/img/2342.png" group-title="US", USA US
