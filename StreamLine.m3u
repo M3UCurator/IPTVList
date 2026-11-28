@@ -343,18 +343,21 @@ http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="TV",Star Channel International (720p)
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gnkepQJ.png" group-title="TV",ALLBLK Gems (1080p)
+https://amc-allblk-gems-1-us.vizio.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11115_dark_360w_270h.png" group-title="TV",Paramount+ with Showtime
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cache0.wonvt.st/live/1az2pv01wqk8zi11yns1c/master.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="  group-title="TV", Channel 4
+#EXTINF:-1 tvg-chno="" tvg-id=""  group-title="TV", Channel 4
 http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276742
 
-#EXTINF:-1 tvg-chno="" cuid=" group-title="TV", Channel 5
+#EXTINF:-1 tvg-chno="" tvg-id=""   group-title="TV", Channel 5
 http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276738
 
-#EXTINF:-1 tvg-chno="" cuid=" group-title="TV", E4
+#EXTINF:-1 tvg-chno="" tvg-id=""   group-title="TV", E4
 http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276663
 
 
@@ -440,9 +443,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 
 #EXTINF:-1 tvg-id="BEKSports.us@West" tvg-logo="https://i.imgur.com/1l3t5jd.png" group-title="Fast - Sports",BEK Sports(720p)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Fast - Sports,beIN SPORTS XTRA (1080p)
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Fast - Sports, beIN SPORTS XTRA (1080p)
 
 #EXTINF:-1 tvg-id="FoxSportsNews.au" group-title="Sports" tvg-country="AU",Fox Sports News 
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
