@@ -193,7 +193,7 @@ https://d1sknsnbkyvie.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="plex.tv.CW.Gold.plex"  tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e03763f1-e83b-46f1-aaaa-8052d316bbc9/PLEX_CWGOLD_UPDATEDLOGO_RDX.png" group-title="TV",CW Gold 🇺🇸 
 https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="United StatesTV",Just for Laughs Gags (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="TV",Just for Laughs Gags (1080p)
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="LOCALISH.EASTERN.us2" group-title="TV" tvg-logo="https://i.imgur.com/ACEbGD5.png", Localish 🇺🇸 
@@ -313,7 +313,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 #EXTVLCOPT:http-referrer=http://88b9da48.kazmazpaz.ru
 http://88b9da48.kazmazpaz.ru/iptv/H9QPUTMHUAMY5Y/1101/index.m3u8
 
-#EXTINF:-1 tvg-chno="" group-title="US" tvg-id="", Hallmark Movies & More
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="US" , Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 
 #EXTINF:-1 tvg-id="CBS.us@KCCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="US",CBS KCCI (720p)
