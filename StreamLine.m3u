@@ -60,6 +60,9 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="CartoonCartoons.us@SD" tvg-logo="https://cartooncartoons.thatsoretro.com/logo" group-title="Kids",Cartoon Cartoons (720p)
 https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3
+
 
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="Kids",Zoo Moo
@@ -123,11 +126,13 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_ch
 
 #EXTINF:-1 tvg-chno="" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC 1" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="UK", BBC 1 🇬🇧
 #http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
-http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276754
+#http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276754
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="BBC.Two.HD.uk" tvg-name="BBC 2" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="UK", BBC 2 🇬🇧
 #http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19177/index.m3u8
-http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276750
+#http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276750
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id="BBC.Three.HD.uk" tvg-name="BBC 3" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" group-title="UK", BBC 3 🇬🇧
 #http://41.205.77.102/BBC-THREE/index.m3u8
@@ -356,6 +361,7 @@ http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276742
 
 #EXTINF:-1 tvg-chno="" tvg-id=""   group-title="TV", Channel 5
 http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276738
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-id=""   group-title="TV", E4
 http://alphaxpanel.com:80/hclenander@gmail.com/aha7rkNaPm/276663
@@ -825,26 +831,3 @@ https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorprem
 
 #EXTINF:-1 group-title="Sports" tvg-id="KHLPrime.ru",KHL Prime
 https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="" tvg-logo="http://only4.tv/ch/10503.png" group-title="Спорт" catchup="default" catchup-days="1" tvg-rec="1" catchup-source="http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/5307/da09e405996f4a00836ee480988125d27488a5884d9396832d84e308af2a65ba?sig=dd4ec2c13aa8a6cb6b3aedcfc20185d2610b14eba12c75d2d1f0c3f4a03d0e64&archive_start=${start}&archive_duration=${duration}",Go3 Sport 1 HD
-http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/5307/da09e405996f4a00836ee480988125d27488a5884d9396832d84e308af2a65ba?sig=dd4ec2c13aa8a6cb6b3aedcfc20185d2610b14eba12c75d2d1f0c3f4a03d0e64
-#EXTINF:-1 tvg-id="" tvg-logo="http://only4.tv/ch/10504.png" group-title="Спорт" catchup="default" catchup-days="1" tvg-rec="1" catchup-source="http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/5308/cbf739dd807abeccdab39c90d19f91cfdfb7600e67eb839664a55b986e857057?sig=8d6289b7de6f7d18a5d225f9ef5ef1364efe049949c10baf2145f51b34317d40&archive_start=${start}&archive_duration=${duration}",Go3 Sport 2 HD
-http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/5308/cbf739dd807abeccdab39c90d19f91cfdfb7600e67eb839664a55b986e857057?sig=8d6289b7de6f7d18a5d225f9ef5ef1364efe049949c10baf2145f51b34317d40
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://only4.tv/ch/10503.png" group-title="Lietuva / Latvija / Eesti",Go3 Sport 1 HD (LT)
-http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/6152/c8967394895814b3fed579ad15a9e50ec511f5589f334d8377e631086cac4d9a?sig=518acfb390ad194213c74d5c7cd161e5a3dbab684bb564fe77251163e0e00d69
-#EXTINF:-1 tvg-id="" tvg-logo="http://only4.tv/ch/10504.png" group-title="Lietuva / Latvija / Eesti",Go3 Sport 2 HD (LT)
-http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/6153/ff3990def53516857d276b7cd8d74cae40d4c4e33c402e572d61d2239bf1f26f?sig=b17ba71397030fdc9ca556db89a1702d53f2d301ea8f44f0afd5a40846caa55b
-#EXTINF:-1 tvg-id="" tvg-logo="http://only4.tv/ch/8181.png" group-title="Lietuva / Latvija / Eesti" catchup="default" catchup-days="1" tvg-rec="1" catchup-source="http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/6154/88ff9bd0cf23d69761d26719702c0ebaf85915647f342fcd05ea6e389b7bbfe8?sig=e245461052824640fdf33f91a2091dc859b66019bccb2877a3cc43f2e5077929&archive_start=${start}&archive_duration=${duration}",Go3 Sport 3 HD (LT)
-http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/6154/88ff9bd0cf23d69761d26719702c0ebaf85915647f342fcd05ea6e389b7bbfe8?sig=e245461052824640fdf33f91a2091dc859b66019bccb2877a3cc43f2e5077929
-#EXTINF:-1 tvg-id="" tvg-logo="http://only4.tv/ch/10505.png" group-title="Lietuva / Latvija / Eesti",Go3 Sport 4 HD (LT)
-http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/6155/5cfd50617efd7a7993f7d26ff43a2d186196904d6cb0712f787002185b3df99d?sig=e94d25e5574c5c178e77112ef211cdb5b99a57e10953f63dfda76f860d825005
-#EXTINF:-1 tvg-id="" tvg-logo="http://only4.tv/ch/11574.png" group-title="Спорт" catchup="default" catchup-days="1" tvg-rec="1" catchup-source="http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/5507/daea324865e56985e00ebffe57b7260330d390b38b8100fbb19f491467a7d2a1?sig=2f373de34d60cd30d1682a70cd26f19ac0d792a1c03e3222a4386c4ab2180c50&archive_start=${start}&archive_duration=${duration}",DAZN 2 PT
-http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/5507/daea324865e56985e00ebffe57b7260330d390b38b8100fbb19f491467a7d2a1?sig=2f373de34d60cd30d1682a70cd26f19ac0d792a1c03e3222a4386c4ab2180c50
-#EXTINF:-1 tvg-id="" tvg-logo="http://only4.tv/ch/7931.png" group-title="Спорт" catchup="default" catchup-days="1" tvg-rec="1" catchup-source="http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/5347/69bec5c21085246c5f1615686299ae6d46889b129403771996d16a5e95e18df4?sig=6811e3bbaad19e5e4871f2650eb41c92ee12a67adeb04cdb03e3f31cd0515560&archive_start=${start}&archive_duration=${duration}",CBS Sports Network HD
-http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/5347/69bec5c21085246c5f1615686299ae6d46889b129403771996d16a5e95e18df4?sig=6811e3bbaad19e5e4871f2650eb41c92ee12a67adeb04cdb03e3f31cd0515560
-
-
-
-
-#EXTINF:-1 , Live Sport 
-http://138.16.142.113:2095/stream/72397ec8b0ec802716da4859bf30df5b7384f1ca0f0967ff61bea3c7890dee17/5506/254dcce242491d3e2b8152c323d12d224fd1fd139a6a163d747be67a73c07b9d?sig=5acff0af27155c24fab9d289beaa4532aa6bda5cd673ad13f2219e9869d1e863
